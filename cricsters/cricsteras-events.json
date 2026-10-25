@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-26T00:49:29+05:30",
-  "generated_at_india": "26-10-2026 00:49:29 AM IST",
-  "total": 31,
+  "generated_at": "2026-10-26T00:53:43+05:30",
+  "generated_at_india": "26-10-2026 00:53:43 AM IST",
+  "total": 33,
   "events": [
     {
       "event_id": "6",
@@ -101,6 +101,22 @@
       "event_time_raw": 1792947600000,
       "category": "American football",
       "stream_count": 2
+    },
+    {
+      "event_id": "32",
+      "event_title": "NFL - Tennessee Titans vs Cleveland Browns",
+      "event_time": "25 Oct, 10:30 pm",
+      "event_time_raw": 1792947600000,
+      "category": "American football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "33",
+      "event_title": "NFL - Baltimore Ravens vs Cincinnati Bengals",
+      "event_time": "25 Oct, 10:30 pm",
+      "event_time_raw": 1792947600000,
+      "category": "American football",
+      "stream_count": 1
     },
     {
       "event_id": "19",

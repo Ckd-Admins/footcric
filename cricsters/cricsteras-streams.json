@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-26T00:49:29+05:30",
-  "generated_at_india": "26-10-2026 00:49:29 AM IST",
-  "total": 31,
-  "ok": 31,
+  "generated_at": "2026-10-26T00:53:43+05:30",
+  "generated_at_india": "26-10-2026 00:53:43 AM IST",
+  "total": 33,
+  "ok": 33,
   "failed": 0,
   "events": [
     {
@@ -384,6 +384,46 @@
           "drm": {
             "kid": "14eeabf30c14b7fbf3008c03099ce011",
             "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "32",
+      "event_title": "NFL - Tennessee Titans vs Cleveland Browns",
+      "event_time": "25 Oct, 10:30 pm",
+      "event_time_raw": 1792947600000,
+      "category": "American football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "index": 0,
+          "stream_code": "32.0",
+          "title": "NFL TV",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oxer6skmta/out/v1/37e5cd455ff243c58ba15fa0e32685d3/cenc.mpd",
+          "drm": {
+            "kid": "942bb0d6859eda3f9a625e46a2a23e60",
+            "key": "4a70385e9f8107c5fd18ed458aeacf06"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "33",
+      "event_title": "NFL - Baltimore Ravens vs Cincinnati Bengals",
+      "event_time": "25 Oct, 10:30 pm",
+      "event_time_raw": 1792947600000,
+      "category": "American football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "index": 0,
+          "stream_code": "33.0",
+          "title": "NFL TV - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/daayevrbks/out/v1/a505a2b7673a4cb9aa257fa1b1466793/cenc.mpd",
+          "drm": {
+            "kid": "d39b960664539469ba32c9d5dc844a61",
+            "key": "1d5177533377753d033789a82e3f8e67"
           }
         }
       ]
