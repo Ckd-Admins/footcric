@@ -1,0 +1,275 @@
+{
+  "success": true,
+  "author": "Shiva Chaudhary",
+  "timezone": "Asia/Kolkata",
+  "generated_at": "2026-10-25T20:32:08+05:30",
+  "generated_at_india": "25-10-2026 08:32:08 PM IST",
+  "total": 33,
+  "events": [
+    {
+      "event_id": "9",
+      "event_title": "Tour De France - Tour De France vs Tour De France",
+      "event_time": "22 Oct, 02:30 pm",
+      "event_time_raw": 1792659600000,
+      "category": "Cycling",
+      "stream_count": 4
+    },
+    {
+      "event_id": "17",
+      "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
+      "event_time": "22 Oct, 10:00 pm",
+      "event_time_raw": 1792686600000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "21",
+      "event_title": "MotoGP - MotoGP vs MotoGP",
+      "event_time": "25 Oct, 10:30 am",
+      "event_time_raw": 1792904400000,
+      "category": "Motorsport",
+      "stream_count": 5
+    },
+    {
+      "event_id": "2",
+      "event_title": "ODI Tri-series in Pakistan - Pakistan vs England",
+      "event_time": "25 Oct, 01:30 pm",
+      "event_time_raw": 1792915200000,
+      "category": "Cricket",
+      "stream_count": 1
+    },
+    {
+      "event_id": "3",
+      "event_title": "ICC Women's Championship - India Women vs Zimbabwe Women",
+      "event_time": "25 Oct, 02:00 pm",
+      "event_time_raw": 1792917000000,
+      "category": "Cricket",
+      "stream_count": 5
+    },
+    {
+      "event_id": "15",
+      "event_title": "OSAKA Open 2026 - WTA vs WTA",
+      "event_time": "25 Oct, 02:30 pm",
+      "event_time_raw": 1792918800000,
+      "category": "Tennis",
+      "stream_count": 3
+    },
+    {
+      "event_id": "13",
+      "event_title": "Almaty OPEN - ATP vs ATP",
+      "event_time": "25 Oct, 03:30 pm",
+      "event_time_raw": 1792922400000,
+      "category": "Tennis",
+      "stream_count": 1
+    },
+    {
+      "event_id": "11",
+      "event_title": "EUROPEAN Championship - Darts vs Darts",
+      "event_time": "25 Oct, 05:30 pm",
+      "event_time_raw": 1792929600000,
+      "category": "Darts",
+      "stream_count": 1
+    },
+    {
+      "event_id": "6",
+      "event_title": "Northern Ireland Open - SNOOKER vs SNOOKER",
+      "event_time": "25 Oct, 06:30 pm",
+      "event_time_raw": 1792933200000,
+      "category": "Snooker",
+      "stream_count": 4
+    },
+    {
+      "event_id": "18",
+      "event_title": "LaLiga - Athletic Club vs Getafe",
+      "event_time": "25 Oct, 06:30 pm",
+      "event_time_raw": 1792933200000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "28",
+      "event_title": "LaLiga 2 - CE Sabadell vs CD Tenerife",
+      "event_time": "25 Oct, 06:30 pm",
+      "event_time_raw": 1792933200000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "1",
+      "event_title": "Premier League - Liverpool FC vs Brighton & Hove Albion",
+      "event_time": "25 Oct, 07:30 pm",
+      "event_time_raw": 1792936800000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "22",
+      "event_title": "Premier League - Manchester United vs Bournemouth",
+      "event_time": "25 Oct, 07:30 pm",
+      "event_time_raw": 1792936800000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "23",
+      "event_title": "Premier League - Hull City vs Brentford",
+      "event_time": "25 Oct, 07:30 pm",
+      "event_time_raw": 1792936800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "24",
+      "event_title": "Premier League - Crystal Palace vs Newcastle United",
+      "event_time": "25 Oct, 07:30 pm",
+      "event_time_raw": 1792936800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "33",
+      "event_title": "Serie A - Atalanta vs Frosinone",
+      "event_time": "25 Oct, 07:30 pm",
+      "event_time_raw": 1792936800000,
+      "category": "Football",
+      "stream_count": 4
+    },
+    {
+      "event_id": "25",
+      "event_title": "LaLiga - Celta Vigo vs Real Betis",
+      "event_time": "25 Oct, 08:45 pm",
+      "event_time_raw": 1792941300000,
+      "category": "Football",
+      "stream_count": 3
+    },
+    {
+      "event_id": "27",
+      "event_title": "LaLiga 2 - Albacete Balompié vs CD Eldense",
+      "event_time": "25 Oct, 08:45 pm",
+      "event_time_raw": 1792941300000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "29",
+      "event_title": "LaLiga 2 - Cádiz vs AD Ceuta",
+      "event_time": "25 Oct, 08:45 pm",
+      "event_time_raw": 1792941300000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "31",
+      "event_title": "Serie A - Lecce vs Juventus",
+      "event_time": "25 Oct, 10:30 pm",
+      "event_time_raw": 1792947600000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "26",
+      "event_title": "LaLiga 2 - CD Castellón vs Sporting Gijón",
+      "event_time": "25 Oct, 11:00 pm",
+      "event_time_raw": 1792949400000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "30",
+      "event_title": "LaLiga - Real Sociedad vs Levante UD",
+      "event_time": "25 Oct, 11:00 pm",
+      "event_time_raw": 1792949400000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "32",
+      "event_title": "Serie A - Udinese vs AC Milan",
+      "event_time": "26 Oct, 01:15 am",
+      "event_time_raw": 1792957500000,
+      "category": "Football",
+      "stream_count": 4
+    },
+    {
+      "event_id": "4",
+      "event_title": "LaLiga - FC Barcelona vs Real Madrid",
+      "event_time": "26 Oct, 01:30 am",
+      "event_time_raw": 1792958400000,
+      "category": "Football",
+      "stream_count": 5
+    },
+    {
+      "event_id": "5",
+      "event_title": "T20 International - New Zealand vs India",
+      "event_time": "26 Oct, 12:30 pm",
+      "event_time_raw": 1792998000000,
+      "category": "Cricket",
+      "stream_count": 6
+    },
+    {
+      "event_id": "7",
+      "event_title": "Formula 1 - Formula 1 vs Formula 1",
+      "event_time": "26 Oct, 01:30 pm",
+      "event_time_raw": 1793001600000,
+      "category": "Motorsport",
+      "stream_count": 5
+    },
+    {
+      "event_id": "20",
+      "event_title": "T20 International - New Zealand vs India",
+      "event_time": "27 Oct, 12:30 pm",
+      "event_time_raw": 1793084400000,
+      "category": "Cricket",
+      "stream_count": 9
+    },
+    {
+      "event_id": "16",
+      "event_title": "ODI Tri-series in Pakistan - Pakistan vs Sri Lanka",
+      "event_time": "27 Oct, 01:30 pm",
+      "event_time_raw": 1793088000000,
+      "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": "19",
+      "event_title": "ICC World Test Championship - South Africa vs Australia",
+      "event_time": "27 Oct, 02:00 pm",
+      "event_time_raw": 1793089800000,
+      "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": "8",
+      "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
+      "event_time": "29 Oct, 05:30 am",
+      "event_time_raw": 1793232000000,
+      "category": "WWE",
+      "stream_count": 3
+    },
+    {
+      "event_id": "10",
+      "event_title": "ONE FRIDAY FIGHTS 176 - ONE vs ONE",
+      "event_time": "30 Oct, 07:00 pm",
+      "event_time_raw": 1793367000000,
+      "category": "Mixed Martial Arts",
+      "stream_count": 1
+    },
+    {
+      "event_id": "12",
+      "event_title": "MVPW 7 - MVPW vs MVPW",
+      "event_time": "09 Nov, 12:00 am",
+      "event_time_raw": 1794162600000,
+      "category": "Boxing",
+      "stream_count": 1
+    },
+    {
+      "event_id": "14",
+      "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
+      "event_time": "14 Nov, 07:30 pm",
+      "event_time_raw": 1794664800000,
+      "category": "Mixed Martial Arts",
+      "stream_count": 2
+    }
+  ],
+  "raw_data": ""
+}
