@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-25T22:57:45+05:30",
-  "generated_at_india": "25-10-2026 10:57:45 PM IST",
-  "total": 34,
+  "generated_at": "2026-10-25T23:49:18+05:30",
+  "generated_at_india": "25-10-2026 11:49:18 PM IST",
+  "total": 28,
   "events": [
     {
       "event_id": "6",
@@ -55,87 +55,23 @@
       "stream_count": 4
     },
     {
-      "event_id": "19",
-      "event_title": "Premier League - Manchester United vs Bournemouth",
-      "event_time": "25 Oct, 07:30 pm",
-      "event_time_raw": 1792936800000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "20",
-      "event_title": "Premier League - Hull City vs Brentford",
-      "event_time": "25 Oct, 07:30 pm",
-      "event_time_raw": 1792936800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "22",
-      "event_title": "Premier League - Crystal Palace vs Newcastle United",
-      "event_time": "25 Oct, 07:30 pm",
-      "event_time_raw": 1792936800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "30",
-      "event_title": "Serie A - Atalanta vs Frosinone",
-      "event_time": "25 Oct, 07:30 pm",
-      "event_time_raw": 1792936800000,
-      "category": "Football",
-      "stream_count": 4
-    },
-    {
-      "event_id": "31",
-      "event_title": "Serie A - Genoa vs Venezia",
-      "event_time": "25 Oct, 07:30 pm",
-      "event_time_raw": 1792936800000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "32",
-      "event_title": "Bundesliga - TSG Hoffenheim vs Bayer 04 Leverkusen",
-      "event_time": "25 Oct, 08:00 pm",
-      "event_time_raw": 1792938600000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "34",
-      "event_title": "Prem Rugby - Harlequin FC vs Saracens",
-      "event_time": "25 Oct, 08:30 pm",
-      "event_time_raw": 1792940400000,
-      "category": "Rugby",
-      "stream_count": 2
-    },
-    {
-      "event_id": "23",
-      "event_title": "LaLiga - Celta Vigo vs Real Betis",
-      "event_time": "25 Oct, 08:45 pm",
-      "event_time_raw": 1792941300000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
       "event_id": "25",
-      "event_title": "LaLiga 2 - Albacete Balompié vs CD Eldense",
-      "event_time": "25 Oct, 08:45 pm",
-      "event_time_raw": 1792941300000,
+      "event_title": "Ligue 1 - Olympique de Marseille vs Le Havre",
+      "event_time": "25 Oct, 09:45 pm",
+      "event_time_raw": 1792944900000,
       "category": "Football",
       "stream_count": 1
     },
     {
       "event_id": "26",
-      "event_title": "LaLiga 2 - Cádiz vs AD Ceuta",
-      "event_time": "25 Oct, 08:45 pm",
-      "event_time_raw": 1792941300000,
+      "event_title": "Ligue 1 - Stade Rennais vs RC Strasbourg",
+      "event_time": "25 Oct, 09:45 pm",
+      "event_time_raw": 1792944900000,
       "category": "Football",
       "stream_count": 1
     },
     {
-      "event_id": "21",
+      "event_id": "19",
       "event_title": "Premier League - Sunderland vs Leeds United",
       "event_time": "25 Oct, 10:00 pm",
       "event_time_raw": 1792945800000,
@@ -143,11 +79,19 @@
       "stream_count": 2
     },
     {
-      "event_id": "33",
+      "event_id": "24",
       "event_title": "Bundesliga - SC Freiburg vs FC Bayern München",
       "event_time": "25 Oct, 10:00 pm",
       "event_time_raw": 1792945800000,
       "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "28",
+      "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
+      "event_time": "25 Oct, 10:15 pm",
+      "event_time_raw": 1792946700000,
+      "category": "American football",
       "stream_count": 1
     },
     {
@@ -159,7 +103,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "28",
+      "event_id": "22",
       "event_title": "Serie A - Lecce vs Juventus",
       "event_time": "25 Oct, 10:30 pm",
       "event_time_raw": 1792947600000,
@@ -167,7 +111,7 @@
       "stream_count": 5
     },
     {
-      "event_id": "24",
+      "event_id": "20",
       "event_title": "LaLiga 2 - CD Castellón vs Sporting Gijón",
       "event_time": "25 Oct, 11:00 pm",
       "event_time_raw": 1792949400000,
@@ -175,7 +119,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "27",
+      "event_id": "21",
       "event_title": "LaLiga - Real Sociedad vs Levante UD",
       "event_time": "25 Oct, 11:00 pm",
       "event_time_raw": 1792949400000,
@@ -183,7 +127,15 @@
       "stream_count": 2
     },
     {
-      "event_id": "29",
+      "event_id": "27",
+      "event_title": "Liga Portugal Betclic - CD Nacional vs Sporting Braga",
+      "event_time": "25 Oct, 11:30 pm",
+      "event_time_raw": 1792951200000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "23",
       "event_title": "Serie A - Udinese vs AC Milan",
       "event_time": "26 Oct, 01:15 am",
       "event_time_raw": 1792957500000,
