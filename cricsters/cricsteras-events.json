@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-25T23:49:18+05:30",
-  "generated_at_india": "25-10-2026 11:49:18 PM IST",
-  "total": 28,
+  "generated_at": "2026-10-26T00:48:44+05:30",
+  "generated_at_india": "26-10-2026 00:48:44 AM IST",
+  "total": 31,
   "events": [
     {
       "event_id": "6",
@@ -55,39 +55,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "25",
-      "event_title": "Ligue 1 - Olympique de Marseille vs Le Havre",
-      "event_time": "25 Oct, 09:45 pm",
-      "event_time_raw": 1792944900000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "26",
-      "event_title": "Ligue 1 - Stade Rennais vs RC Strasbourg",
-      "event_time": "25 Oct, 09:45 pm",
-      "event_time_raw": 1792944900000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "19",
-      "event_title": "Premier League - Sunderland vs Leeds United",
-      "event_time": "25 Oct, 10:00 pm",
-      "event_time_raw": 1792945800000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
       "event_id": "24",
-      "event_title": "Bundesliga - SC Freiburg vs FC Bayern München",
-      "event_time": "25 Oct, 10:00 pm",
-      "event_time_raw": 1792945800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "28",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -103,15 +71,39 @@
       "stream_count": 1
     },
     {
-      "event_id": "22",
-      "event_title": "Serie A - Lecce vs Juventus",
+      "event_id": "25",
+      "event_title": "NFL - Atlanta Falcons vs San Francisco 49ers",
       "event_time": "25 Oct, 10:30 pm",
       "event_time_raw": 1792947600000,
-      "category": "Football",
-      "stream_count": 5
+      "category": "American football",
+      "stream_count": 1
     },
     {
-      "event_id": "20",
+      "event_id": "26",
+      "event_title": "NFL - Carolina Panthers vs Tampa Bay Buccaneers",
+      "event_time": "25 Oct, 10:30 pm",
+      "event_time_raw": 1792947600000,
+      "category": "American football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "27",
+      "event_title": "NFL - New York Jets vs Miami Dolphins",
+      "event_time": "25 Oct, 10:30 pm",
+      "event_time_raw": 1792947600000,
+      "category": "American football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "31",
+      "event_title": "NFL - Houston Texans vs New York Giants",
+      "event_time": "25 Oct, 10:30 pm",
+      "event_time_raw": 1792947600000,
+      "category": "American football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "19",
       "event_title": "LaLiga 2 - CD Castellón vs Sporting Gijón",
       "event_time": "25 Oct, 11:00 pm",
       "event_time_raw": 1792949400000,
@@ -119,7 +111,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "LaLiga - Real Sociedad vs Levante UD",
       "event_time": "25 Oct, 11:00 pm",
       "event_time_raw": 1792949400000,
@@ -127,7 +119,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "27",
+      "event_id": "23",
       "event_title": "Liga Portugal Betclic - CD Nacional vs Sporting Braga",
       "event_time": "25 Oct, 11:30 pm",
       "event_time_raw": 1792951200000,
@@ -135,7 +127,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "23",
+      "event_id": "21",
       "event_title": "Serie A - Udinese vs AC Milan",
       "event_time": "26 Oct, 01:15 am",
       "event_time_raw": 1792957500000,
@@ -156,7 +148,39 @@
       "event_time": "26 Oct, 01:30 am",
       "event_time_raw": 1792958400000,
       "category": "Motorsport",
-      "stream_count": 5
+      "stream_count": 6
+    },
+    {
+      "event_id": "29",
+      "event_title": "NFL - Las Vegas Raiders vs Los Angeles Rams",
+      "event_time": "26 Oct, 01:55 am",
+      "event_time_raw": 1792959900000,
+      "category": "American football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "30",
+      "event_title": "NFL - Detroit Lions vs Green Bay Packers",
+      "event_time": "26 Oct, 01:55 am",
+      "event_time_raw": 1792959900000,
+      "category": "American football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "22",
+      "event_title": "Liga Portugal Betclic - Sporting CP vs Académico Viseu FC",
+      "event_time": "26 Oct, 02:00 am",
+      "event_time_raw": 1792960200000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "28",
+      "event_title": "NFL - Seattle Seahawks vs Kansas City Chiefs",
+      "event_time": "26 Oct, 05:50 am",
+      "event_time_raw": 1792974000000,
+      "category": "American football",
+      "stream_count": 2
     },
     {
       "event_id": "2",
