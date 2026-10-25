@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-26T01:44:48+05:30",
-  "generated_at_india": "26-10-2026 01:44:48 AM IST",
+  "generated_at": "2026-10-26T02:47:49+05:30",
+  "generated_at_india": "26-10-2026 02:47:49 AM IST",
   "total": 33,
   "ok": 33,
   "failed": 0,
@@ -574,7 +574,7 @@
       "event_time": "26 Oct, 01:30 am",
       "event_time_raw": 1792958400000,
       "category": "Football",
-      "stream_count": 5,
+      "stream_count": 6,
       "streams": [
         {
           "index": 0,
@@ -609,6 +609,16 @@
         {
           "index": 3,
           "stream_code": "1.3",
+          "title": "BeIN SPORTS S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        },
+        {
+          "index": 4,
+          "stream_code": "1.4",
           "title": "D SPORTS ES - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
           "drm": {
@@ -617,9 +627,9 @@
           }
         },
         {
-          "index": 4,
-          "stream_code": "1.4",
-          "title": "CAZE TV BR - AQ",
+          "index": 5,
+          "stream_code": "1.5",
+          "title": "CAZE TV BR UHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
           "drm": {
             "kid": "34475edab991ad5e92548aebd710410a",
