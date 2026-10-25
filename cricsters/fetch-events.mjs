@@ -65,6 +65,23 @@ async function fetchJson(url) {
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// ---------- NEW: stream ko index + stream_code ke saath enrich karo ----------
+function enrichStreams(eventId, rawStreams) {
+  if (!Array.isArray(rawStreams)) return [];
+  return rawStreams.map((s, i) => ({
+    index: i,                                  
+    stream_code: `${eventId}.${i}`,            
+    title: s?.title ?? `Stream ${i + 1}`,
+    url: s?.url ?? "",
+    drm: s?.drm
+      ? {
+          kid: String(s.drm.kid || "").toLowerCase(),
+          key: String(s.drm.key || "").toLowerCase(),
+        }
+      : null,
+  }));
+}
+
 // ---------- Main ----------
 async function main() {
   console.log(`[1/2] GET ${API_URL}`);
@@ -80,6 +97,7 @@ async function main() {
     generated_at_india: formatIndiaDate(now),
   };
 
+  // ===== events.json (base list) =====
   const eventsJson = {
     ...commonMeta,
     total: base.total ?? baseEvents.length,
@@ -89,6 +107,7 @@ async function main() {
   await fs.writeFile(EVENTS_FILE, JSON.stringify(eventsJson, null, 2) + "\n");
   console.log(`[done] cricsteras-events.json → ${eventsJson.total} events`);
 
+  // ===== streams.json (per-event streams with index) =====
   console.log(`[2/2] Fetching streams for ${baseEvents.length} events...`);
   const streamEvents = [];
   let ok = 0;
@@ -98,7 +117,8 @@ async function main() {
     try {
       const detail = await fetchJson(`${API_URL}?play=${ev.event_id}`);
       const evDetail = detail.events?.[0] ?? {};
-      const streams = Array.isArray(evDetail.streams) ? evDetail.streams : [];
+      const rawStreams = Array.isArray(evDetail.streams) ? evDetail.streams : [];
+      const streams = enrichStreams(ev.event_id, rawStreams);
 
       streamEvents.push({
         event_id: ev.event_id,
@@ -110,7 +130,9 @@ async function main() {
         streams,
       });
       ok++;
-      console.log(`  ✓ ${ev.event_id} (${ev.category}) → ${streams.length} stream(s)`);
+      console.log(
+        `  ✓ ${ev.event_id} (${ev.category}) → ${streams.length} stream(s)`
+      );
     } catch (e) {
       failed++;
       console.warn(`  ✗ ${ev.event_id}: ${e.message}`);
