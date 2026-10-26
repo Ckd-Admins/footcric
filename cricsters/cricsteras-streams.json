@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-26T10:55:53+05:30",
-  "generated_at_india": "26-10-2026 10:55:53 AM IST",
-  "total": 19,
-  "ok": 19,
+  "generated_at": "2026-10-26T12:01:34+05:30",
+  "generated_at_india": "26-10-2026 00:01:34 PM IST",
+  "total": 18,
+  "ok": 18,
   "failed": 0,
   "events": [
     {
-      "event_id": "5",
+      "event_id": "4",
       "event_title": "Tour De France - Tour De France vs Tour De France",
       "event_time": "22 Oct, 02:30 pm",
       "event_time_raw": 1792659600000,
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "12",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "22 Oct, 10:00 pm",
       "event_time_raw": 1792686600000,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "25 Oct, 10:30 am",
       "event_time_raw": 1792904400000,
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "10",
       "event_title": "OSAKA Open 2026 - WTA vs WTA",
       "event_time": "25 Oct, 02:30 pm",
       "event_time_raw": 1792918800000,
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "8",
       "event_title": "Almaty OPEN - ATP vs ATP",
       "event_time": "25 Oct, 03:30 pm",
       "event_time_raw": 1792922400000,
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "1",
       "event_title": "Northern Ireland Open - SNOOKER vs SNOOKER",
       "event_time": "25 Oct, 06:30 pm",
       "event_time_raw": 1792933200000,
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "6",
       "event_title": "EUROPEAN Championship - Darts vs Darts",
       "event_time": "25 Oct, 10:30 pm",
       "event_time_raw": 1792947600000,
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "2",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "26 Oct, 01:30 am",
       "event_time_raw": 1792958400000,
@@ -342,71 +342,7 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "T20 International - New Zealand vs India",
-      "event_time": "26 Oct, 12:30 pm",
-      "event_time_raw": 1792998000000,
-      "category": "Cricket",
-      "stream_count": 6,
-      "streams": [
-        {
-          "code": "NEINPRIM",
-          "title": "PRIME VIDEO - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ma3cynyzgo/out/v1/f457058f2efb43bcb2e22045bf7470dc/cenc.mpd",
-          "drm": {
-            "kid": "cbfbd270193c2a674960b47427453daf",
-            "key": "41912c92e12ecab217442960ea673af1"
-          }
-        },
-        {
-          "code": "NEINWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
-          "drm": {
-            "kid": "c3125d35cc46b342a0534a9c5ddd6d31",
-            "key": "426221d3ffae19a037f5c755508dbf3c"
-          }
-        },
-        {
-          "code": "NEINTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "NEINSONY",
-          "title": "SONYLIV PPV EN - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ma3cynyzgo/out/v1/f457058f2efb43bcb2e22045bf7470dc/cenc.mpd",
-          "drm": {
-            "kid": "cbfbd270193c2a674960b47427453daf",
-            "key": "41912c92e12ecab217442960ea673af1"
-          }
-        },
-        {
-          "code": "NEINWILLWW",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mwlemlugiu/out/v1/83c2a248161d41f19b02d711b7cf55ec/cenc.mpd",
-          "drm": {
-            "kid": "2df0b8c56ff3758000c7b9bcc3f19cb7",
-            "key": "a49270ca98c9ae3a72a4d33352075dbf"
-          }
-        },
-        {
-          "code": "NEINSONY5P",
-          "title": "SONYLIV PPV HIN - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/otxvvjcsxz/out/v1/b0905b5731f249b1a5020054715fb462/cenc.mpd?",
-          "drm": {
-            "kid": "a9fb7988fa5687d620e07587aed50f4a",
-            "key": "ad2265ffa38ab51b0b4e1d14c9192ade"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "15",
+      "event_id": "14",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "27 Oct, 12:30 pm",
       "event_time_raw": 1793084400000,
@@ -414,7 +350,7 @@
       "stream_count": 9,
       "streams": [
         {
-          "code": "NEINPRIM2O",
+          "code": "NEINPRIM",
           "title": "PRIME VIDEO - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/di53wexuc7/out/v1/40b0a31c1c5b4f4aa41286cb1313cf87/cenc.mpd",
           "drm": {
@@ -423,7 +359,7 @@
           }
         },
         {
-          "code": "NEINWILL4S",
+          "code": "NEINWILL",
           "title": "WILLOW - AQ",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd",
           "drm": {
@@ -432,7 +368,7 @@
           }
         },
         {
-          "code": "NEINTNTS1F",
+          "code": "NEINTNTS",
           "title": "TNT SPORTS - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
           "drm": {
@@ -441,7 +377,7 @@
           }
         },
         {
-          "code": "NEINSONYL2",
+          "code": "NEINSONY",
           "title": "SONYLIV PPV EN - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/di53wexuc7/out/v1/40b0a31c1c5b4f4aa41286cb1313cf87/cenc.mpd",
           "drm": {
@@ -497,7 +433,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "11",
       "event_title": "ODI Tri-series in Pakistan - Pakistan vs Sri Lanka",
       "event_time": "27 Oct, 01:30 pm",
       "event_time_raw": 1793088000000,
@@ -534,7 +470,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "13",
       "event_title": "ICC World Test Championship - South Africa vs Australia",
       "event_time": "27 Oct, 02:00 pm",
       "event_time_raw": 1793089800000,
@@ -571,7 +507,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "ICC Women's Championship - India Women vs Zimbabwe Women",
       "event_time": "28 Oct, 02:00 pm",
       "event_time_raw": 1793176200000,
@@ -680,7 +616,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "3",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "29 Oct, 05:30 am",
       "event_time_raw": 1793232000000,
@@ -717,7 +653,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "15",
       "event_title": "ODI Tri-series in Pakistan - Sri Lanka vs England",
       "event_time": "29 Oct, 01:30 pm",
       "event_time_raw": 1793260800000,
@@ -736,7 +672,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "5",
       "event_title": "ONE FRIDAY FIGHTS 176 - ONE vs ONE",
       "event_time": "30 Oct, 07:00 pm",
       "event_time_raw": 1793367000000,
@@ -755,7 +691,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "7",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -774,7 +710,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "9",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
