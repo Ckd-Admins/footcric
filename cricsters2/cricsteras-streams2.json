@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T02:51:13+05:30",
-  "generated_at_india": "27-10-2026 02:51:13 AM IST",
+  "generated_at": "2026-10-27T03:51:24+05:30",
+  "generated_at_india": "27-10-2026 03:51:24 AM IST",
   "total": 22,
   "ok": 22,
   "failed": 0,
@@ -359,6 +359,25 @@
       ]
     },
     {
+      "event_id": 50027,
+      "event_title": "Golden State Valkyries vs Atlanta Dream",
+      "event_time": "2026-10-27 00:00",
+      "event_time_raw": "2026-10-27 00:00",
+      "category": "WNBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "GOATTSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50032,
       "event_title": "Tampa Bay Rays vs Milwaukee Brewers",
       "event_time": "2026-10-27 00:00",
@@ -651,34 +670,6 @@
           "drm": {
             "kid": "11223344556677889900112233445566",
             "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50093,
-      "event_title": "Paris Saint-Germain vs Olympique Lyon",
-      "event_time": "2026-10-26 19:30",
-      "event_time_raw": "2026-10-26 19:30",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "PAOLBEIN",
-          "title": "beIN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?aws_sessionId=c932d10f-7c9e-4119-858b-e0661b560c63",
-          "drm": {
-            "kid": "74cbe15488783fab07ff8c702fabafcd",
-            "key": "bb607803a49c2d6104f845e7886c971c"
-          }
-        },
-        {
-          "code": "PAOLCAZE",
-          "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
-          "drm": {
-            "kid": "ba6aca5a550163c38d06646bb50f04e7",
-            "key": "516c3b471fce48a5b7a2e5ee7dd505f2"
           }
         }
       ]
