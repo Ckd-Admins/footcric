@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-26T09:57:49+05:30",
-  "generated_at_india": "26-10-2026 09:57:49 AM IST",
-  "total": 26,
+  "generated_at": "2026-10-26T10:44:36+05:30",
+  "generated_at_india": "26-10-2026 10:44:36 AM IST",
+  "total": 19,
   "events": [
     {
       "event_id": "5",
@@ -55,7 +55,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -77,62 +77,6 @@
       "event_time_raw": 1792958400000,
       "category": "Motorsport",
       "stream_count": 6
-    },
-    {
-      "event_id": "21",
-      "event_title": "NFL - Las Vegas Raiders vs Los Angeles Rams",
-      "event_time": "26 Oct, 01:55 am",
-      "event_time_raw": 1792959900000,
-      "category": "American football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "22",
-      "event_title": "NFL - Detroit Lions vs Green Bay Packers",
-      "event_time": "26 Oct, 01:55 am",
-      "event_time_raw": 1792959900000,
-      "category": "American football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "18",
-      "event_title": "Liga Portugal Betclic - Sporting CP vs Académico Viseu FC",
-      "event_time": "26 Oct, 02:00 am",
-      "event_time_raw": 1792960200000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "24",
-      "event_title": "NHL - Dallas Stars vs New York Islanders",
-      "event_time": "26 Oct, 03:30 am",
-      "event_time_raw": 1792965600000,
-      "category": "Hockey",
-      "stream_count": 1
-    },
-    {
-      "event_id": "25",
-      "event_title": "NHL - Winnipeg Jets vs Montréal Canadiens",
-      "event_time": "26 Oct, 04:30 am",
-      "event_time_raw": 1792969200000,
-      "category": "Hockey",
-      "stream_count": 1
-    },
-    {
-      "event_id": "26",
-      "event_title": "NBA - Minnesota Timberwolves vs Toronto Raptors",
-      "event_time": "26 Oct, 04:30 am",
-      "event_time_raw": 1792969200000,
-      "category": "Basketball",
-      "stream_count": 1
-    },
-    {
-      "event_id": "20",
-      "event_title": "NFL - Seattle Seahawks vs Kansas City Chiefs",
-      "event_time": "26 Oct, 05:50 am",
-      "event_time_raw": 1792974000000,
-      "category": "American football",
-      "stream_count": 2
     },
     {
       "event_id": "1",
@@ -167,7 +111,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "23",
+      "event_id": "19",
       "event_title": "ICC Women's Championship - India Women vs Zimbabwe Women",
       "event_time": "28 Oct, 02:00 pm",
       "event_time_raw": 1793176200000,
