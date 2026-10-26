@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T01:02:17+05:30",
-  "generated_at_india": "27-10-2026 01:02:17 AM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-10-27T01:49:51+05:30",
+  "generated_at_india": "27-10-2026 01:49:51 AM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -661,15 +661,24 @@
       "event_time": "2026-10-26 19:30",
       "event_time_raw": "2026-10-26 19:30",
       "category": "Ligue 1 🇫🇷",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "PAOLBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?aws_sessionId=c932d10f-7c9e-4119-858b-e0661b560c63",
+          "drm": {
+            "kid": "74cbe15488783fab07ff8c702fabafcd",
+            "key": "bb607803a49c2d6104f845e7886c971c"
+          }
+        },
         {
           "code": "PAOLCAZE",
           "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
           "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
+            "kid": "ba6aca5a550163c38d06646bb50f04e7",
+            "key": "516c3b471fce48a5b7a2e5ee7dd505f2"
           }
         }
       ]
@@ -717,6 +726,25 @@
           "drm": {
             "kid": "7995c724a13748ed970840a8ab5bb9b3",
             "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50097,
+      "event_title": "Walsall vs Salford City",
+      "event_time": "2026-10-26 20:00",
+      "event_time_raw": "2026-10-26 20:00",
+      "category": "League Two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "WASAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xazbvx5xyr/out/v1/fbb0779481e64df7a133800386a6e4dc/cenc.mpd?aws_sessionId=42b5cc31-41f5-4567-8e5e-18691b890e86",
+          "drm": {
+            "kid": "ec5d69fb92b8e39704a6beb56a550dc1",
+            "key": "838b643b1e328e2170fbb51ff0ba34d8"
           }
         }
       ]
