@@ -1,0 +1,42 @@
+name: Cricsteras Fetcher2
+
+on:
+  schedule:
+    - cron: "0 * * * *"     # har 1 hour (UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cricsters-fetcher2
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch events + streams
+        run: node cricsters2/fetch-events2.mjs
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cricsters/cricsteras-events2.json cricsters/cricsteras-streams2.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update cricsters2 streams $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
