@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-26T21:27:21+05:30",
-  "generated_at_india": "26-10-2026 09:27:21 PM IST",
-  "total": 19,
+  "generated_at": "2026-10-26T22:12:36+05:30",
+  "generated_at_india": "26-10-2026 10:12:36 PM IST",
+  "total": 26,
   "events": [
     {
       "event_id": "4",
@@ -23,7 +23,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "25 Oct, 10:30 am",
       "event_time_raw": 1792904400000,
@@ -39,7 +39,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "17",
+      "event_id": "19",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -65,16 +65,64 @@
     {
       "event_id": "8",
       "event_title": "Vienna OPEN - ATP vs ATP",
-      "event_time": "26 Oct, 06:00 pm",
-      "event_time_raw": 1793017800000,
+      "event_time": "26 Oct, 10:00 pm",
+      "event_time_raw": 1793032200000,
       "category": "Tennis",
       "stream_count": 1
     },
     {
-      "event_id": "19",
+      "event_id": "13",
+      "event_title": "Ballon D'or Show - Ballon D'or Show vs Ballon D'or Show",
+      "event_time": "26 Oct, 11:30 pm",
+      "event_time_raw": 1793037600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "24",
       "event_title": "Liga Portugal Betclic - Santa Clara vs Benfica",
       "event_time": "27 Oct, 12:15 am",
       "event_time_raw": 1793040300000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "18",
+      "event_title": "Ligue 1 - Paris Saint-Germain vs Olympique Lyonnais",
+      "event_time": "27 Oct, 01:00 am",
+      "event_time_raw": 1793043000000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "25",
+      "event_title": "LaLiga 2 - FC Andorra vs Burgos Club de Fútbol",
+      "event_time": "27 Oct, 01:00 am",
+      "event_time_raw": 1793043000000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "23",
+      "event_title": "LaLiga - Sevilla vs Osasuna",
+      "event_time": "27 Oct, 01:30 am",
+      "event_time_raw": 1793044800000,
+      "category": "Football",
+      "stream_count": 3
+    },
+    {
+      "event_id": "21",
+      "event_title": "Campeonato Brasileiro Série A - Coritiba vs Grêmio",
+      "event_time": "27 Oct, 04:00 am",
+      "event_time_raw": 1793053800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "22",
+      "event_title": "Campeonato Brasileiro Série A - Flamengo vs Atlético Mineiro",
+      "event_time": "27 Oct, 04:30 am",
+      "event_time_raw": 1793055600000,
       "category": "Football",
       "stream_count": 2
     },
@@ -87,7 +135,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "14",
+      "event_id": "15",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "27 Oct, 12:30 pm",
       "event_time_raw": 1793084400000,
@@ -103,7 +151,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "13",
+      "event_id": "14",
       "event_title": "ICC World Test Championship - South Africa vs Australia",
       "event_time": "27 Oct, 02:00 pm",
       "event_time_raw": 1793089800000,
@@ -111,7 +159,15 @@
       "stream_count": 3
     },
     {
-      "event_id": "18",
+      "event_id": "26",
+      "event_title": "Serie A - Sassuolo vs Lazio",
+      "event_time": "27 Oct, 11:00 pm",
+      "event_time_raw": 1793122200000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "20",
       "event_title": "ICC Women's Championship - India Women vs Zimbabwe Women",
       "event_time": "28 Oct, 02:00 pm",
       "event_time_raw": 1793176200000,
@@ -127,7 +183,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "15",
+      "event_id": "16",
       "event_title": "ODI Tri-series in Pakistan - Sri Lanka vs England",
       "event_time": "29 Oct, 01:30 pm",
       "event_time_raw": 1793260800000,
