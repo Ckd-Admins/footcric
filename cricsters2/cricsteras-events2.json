@@ -1,0 +1,171 @@
+{
+  "success": true,
+  "author": "Shiva Chaudhary",
+  "timezone": "Asia/Kolkata",
+  "generated_at": "2026-10-26T19:56:36+05:30",
+  "generated_at_india": "26-10-2026 07:56:36 PM IST",
+  "total": 20,
+  "events": [
+    {
+      "event_id": 50002,
+      "event_title": "Formula 1 -  Mexico Grand Prix",
+      "event_time": "2026-10-30 18:30",
+      "event_time_raw": "2026-10-30 18:30",
+      "category": "F1",
+      "stream_count": 4
+    },
+    {
+      "event_id": 50003,
+      "event_title": "MotoGP - Grand Prix of Malaysia",
+      "event_time": "2026-10-30 02:45",
+      "event_time_raw": "2026-10-30 02:45",
+      "category": "MotoGP",
+      "stream_count": 4
+    },
+    {
+      "event_id": 50004,
+      "event_title": "UFC Fight Night: Moicano vs Nolan",
+      "event_time": "2026-10-31 21:00",
+      "event_time_raw": "2026-10-31 21:00",
+      "category": "UFC",
+      "stream_count": 5
+    },
+    {
+      "event_id": 50006,
+      "event_title": "AEW Dynamite",
+      "event_time": "2026-10-29 00:00",
+      "event_time_raw": "2026-10-29 00:00",
+      "category": "WWE",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50007,
+      "event_title": "Afghanistan vs Zimbabwe",
+      "event_time": "2026-10-27 14:30",
+      "event_time_raw": "2026-10-27 14:30",
+      "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50008,
+      "event_title": "New Zealand vs India",
+      "event_time": "2026-10-27 07:00",
+      "event_time_raw": "2026-10-27 07:00",
+      "category": "Cricket",
+      "stream_count": 8
+    },
+    {
+      "event_id": 50009,
+      "event_title": "ONE Friday Fights",
+      "event_time": "2026-10-30 12:30",
+      "event_time_raw": "2026-10-30 12:30",
+      "category": "Boxing",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50011,
+      "event_title": "🥊 WWE Friday Night SmackDown",
+      "event_time": "2026-10-31 00:00",
+      "event_time_raw": "2026-10-31 00:00",
+      "category": "WWE",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50032,
+      "event_title": "Tampa Bay Rays vs Milwaukee Brewers",
+      "event_time": "2026-10-27 00:00",
+      "event_time_raw": "2026-10-27 00:00",
+      "category": "MLB",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50062,
+      "event_title": "South Africa vs Australia",
+      "event_time": "2026-10-27 08:30",
+      "event_time_raw": "2026-10-27 08:30",
+      "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50069,
+      "event_title": "Philadelphia Eagles vs Dallas Cowboys",
+      "event_time": "2026-10-27 00:15",
+      "event_time_raw": "2026-10-27 00:15",
+      "category": "NFL",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50086,
+      "event_title": "Coritiba vs Grêmio",
+      "event_time": "2026-10-26 22:30",
+      "event_time_raw": "2026-10-26 22:30",
+      "category": "Brasileirão",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50087,
+      "event_title": "Flamengo vs Atlético Mineiro",
+      "event_time": "2026-10-26 23:00",
+      "event_time_raw": "2026-10-26 23:00",
+      "category": "Brasileirão",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50090,
+      "event_title": "AS Roma vs Cagliari",
+      "event_time": "2026-10-27 19:45",
+      "event_time_raw": "2026-10-27 19:45",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50091,
+      "event_title": "Sevilla vs Osasuna",
+      "event_time": "2026-10-26 20:00",
+      "event_time_raw": "2026-10-26 20:00",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 4
+    },
+    {
+      "event_id": 50092,
+      "event_title": "Sassuolo vs Lazio",
+      "event_time": "2026-10-27 17:30",
+      "event_time_raw": "2026-10-27 17:30",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 7
+    },
+    {
+      "event_id": 50093,
+      "event_title": "Paris Saint-Germain vs Olympique Lyon",
+      "event_time": "2026-10-26 19:30",
+      "event_time_raw": "2026-10-26 19:30",
+      "category": "Ligue 1 🇫🇷",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50094,
+      "event_title": "Santa Clara vs Benfica",
+      "event_time": "2026-10-26 18:45",
+      "event_time_raw": "2026-10-26 18:45",
+      "category": "Liga Portugal",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50095,
+      "event_title": "Galatasaray vs Fenerbahçe",
+      "event_time": "2026-10-26 18:30",
+      "event_time_raw": "2026-10-26 18:30",
+      "category": "Super Lig",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50104,
+      "event_title": "Mohun Bagan Super Giant vs Chennaiyin",
+      "event_time": "2026-10-26 14:00",
+      "event_time_raw": "2026-10-26 14:00",
+      "category": "ISL",
+      "stream_count": 1
+    }
+  ],
+  "raw_data": ""
+}
