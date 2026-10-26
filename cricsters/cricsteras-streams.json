@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-26T14:07:00+05:30",
-  "generated_at_india": "26-10-2026 02:07:00 PM IST",
-  "total": 18,
-  "ok": 18,
+  "generated_at": "2026-10-26T15:03:19+05:30",
+  "generated_at_india": "26-10-2026 03:03:19 PM IST",
+  "total": 19,
+  "ok": 19,
   "failed": 0,
   "events": [
     {
@@ -133,62 +133,6 @@
           "drm": {
             "kid": "7eea72d6075245a99ee3255603d58853",
             "key": "6848ef60575579bf4d415db1032153ed"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "10",
-      "event_title": "OSAKA Open 2026 - WTA vs WTA",
-      "event_time": "25 Oct, 02:30 pm",
-      "event_time_raw": 1792918800000,
-      "category": "Tennis",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "WTWTTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        },
-        {
-          "code": "WTWTSPOR",
-          "title": "SPORT 1 CZ - AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        },
-        {
-          "code": "WTWTSTAN",
-          "title": "STAN SPORTS - AQ (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/603191d7b22f4201a516671e155e7e19/index.mpd",
-          "drm": {
-            "kid": "11ab14ae42d3418790c292078f56dc30",
-            "key": "a0b2b1d1c1d3302d1c9eb6044b52dddf"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "8",
-      "event_title": "Almaty OPEN - ATP vs ATP",
-      "event_time": "25 Oct, 03:30 pm",
-      "event_time_raw": 1792922400000,
-      "category": "Tennis",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "ATATBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
           }
         }
       ]
@@ -337,6 +281,99 @@
           "drm": {
             "kid": "69021095220f3c0eae9bc24215fd692b",
             "key": "eb58cfe0458ed0b48f7351fa3393ad59"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "8",
+      "event_title": "Almaty OPEN - ATP vs ATP",
+      "event_time": "26 Oct, 06:00 pm",
+      "event_time_raw": 1793017800000,
+      "category": "Tennis",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ATATBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "19",
+      "event_title": "Liga Portugal Betclic - Santa Clara vs Benfica",
+      "event_time": "27 Oct, 12:15 am",
+      "event_time_raw": 1793040300000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "SABESPOR",
+          "title": "D Sports FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "drm": {
+            "kid": "f836853d8eac19446ed9535f5fc568b1",
+            "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+          }
+        },
+        {
+          "code": "SABESPORMC",
+          "title": "SportDigital Fussball",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm": {
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "10",
+      "event_title": "Tokyo Open 2026 - WTA vs WTA",
+      "event_time": "27 Oct, 07:00 am",
+      "event_time_raw": 1793064600000,
+      "category": "Tennis",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "WTWTBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "WTWTTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
+          }
+        },
+        {
+          "code": "WTWTSPOR",
+          "title": "SPORT 1 CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        },
+        {
+          "code": "WTWTSTAN",
+          "title": "STAN SPORTS - AQ (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/603191d7b22f4201a516671e155e7e19/index.mpd",
+          "drm": {
+            "kid": "11ab14ae42d3418790c292078f56dc30",
+            "key": "a0b2b1d1c1d3302d1c9eb6044b52dddf"
           }
         }
       ]

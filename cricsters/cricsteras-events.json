@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-26T14:07:00+05:30",
-  "generated_at_india": "26-10-2026 02:07:00 PM IST",
-  "total": 18,
+  "generated_at": "2026-10-26T15:03:19+05:30",
+  "generated_at_india": "26-10-2026 03:03:19 PM IST",
+  "total": 19,
   "events": [
     {
       "event_id": "4",
@@ -29,22 +29,6 @@
       "event_time_raw": 1792904400000,
       "category": "Motorsport",
       "stream_count": 5
-    },
-    {
-      "event_id": "10",
-      "event_title": "OSAKA Open 2026 - WTA vs WTA",
-      "event_time": "25 Oct, 02:30 pm",
-      "event_time_raw": 1792918800000,
-      "category": "Tennis",
-      "stream_count": 3
-    },
-    {
-      "event_id": "8",
-      "event_title": "Almaty OPEN - ATP vs ATP",
-      "event_time": "25 Oct, 03:30 pm",
-      "event_time_raw": 1792922400000,
-      "category": "Tennis",
-      "stream_count": 1
     },
     {
       "event_id": "1",
@@ -77,6 +61,30 @@
       "event_time_raw": 1792958400000,
       "category": "Motorsport",
       "stream_count": 6
+    },
+    {
+      "event_id": "8",
+      "event_title": "Almaty OPEN - ATP vs ATP",
+      "event_time": "26 Oct, 06:00 pm",
+      "event_time_raw": 1793017800000,
+      "category": "Tennis",
+      "stream_count": 1
+    },
+    {
+      "event_id": "19",
+      "event_title": "Liga Portugal Betclic - Santa Clara vs Benfica",
+      "event_time": "27 Oct, 12:15 am",
+      "event_time_raw": 1793040300000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "10",
+      "event_title": "Tokyo Open 2026 - WTA vs WTA",
+      "event_time": "27 Oct, 07:00 am",
+      "event_time_raw": 1793064600000,
+      "category": "Tennis",
+      "stream_count": 4
     },
     {
       "event_id": "14",
