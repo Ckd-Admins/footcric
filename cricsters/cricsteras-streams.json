@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-26T04:45:49+05:30",
-  "generated_at_india": "26-10-2026 04:45:49 AM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-10-26T05:57:47+05:30",
+  "generated_at_india": "26-10-2026 05:57:47 AM IST",
+  "total": 26,
+  "ok": 26,
   "failed": 0,
   "events": [
     {
@@ -429,6 +429,66 @@
       ]
     },
     {
+      "event_id": "24",
+      "event_title": "NHL - Dallas Stars vs New York Islanders",
+      "event_time": "26 Oct, 03:30 am",
+      "event_time_raw": 1792965600000,
+      "category": "Hockey",
+      "stream_count": 1,
+      "streams": [
+        {
+          "index": 0,
+          "stream_code": "24.0",
+          "title": "PREMIER SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "25",
+      "event_title": "NHL - Winnipeg Jets vs Montréal Canadiens",
+      "event_time": "26 Oct, 04:30 am",
+      "event_time_raw": 1792969200000,
+      "category": "Hockey",
+      "stream_count": 1,
+      "streams": [
+        {
+          "index": 0,
+          "stream_code": "25.0",
+          "title": "PREMIER SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm": {
+            "kid": "1444f4235529f183f0a5a486befe9cdb",
+            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "26",
+      "event_title": "NBA - Minnesota Timberwolves vs Toronto Raptors",
+      "event_time": "26 Oct, 04:30 am",
+      "event_time_raw": 1792969200000,
+      "category": "Basketball",
+      "stream_count": 1,
+      "streams": [
+        {
+          "index": 0,
+          "stream_code": "26.0",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "drm": {
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "20",
       "event_title": "NFL - Seattle Seahawks vs Kansas City Chiefs",
       "event_time": "26 Oct, 05:50 am",
@@ -720,7 +780,7 @@
           "index": 0,
           "stream_code": "23.0",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
           "drm": {
             "kid": "7aa827ea7809299f1459d4934d4d9953",
             "key": "f899257f571bd6a083d8a113edfc3a39"
@@ -740,7 +800,7 @@
           "index": 2,
           "stream_code": "23.2",
           "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
           "drm": {
             "kid": "7aa827ea7809299f1459d4934d4d9953",
             "key": "f899257f571bd6a083d8a113edfc3a39"
@@ -880,7 +940,7 @@
           "index": 0,
           "stream_code": "16.0",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/t0zydsmzll/out/v1/62025d771c7b4fe7a727ede5f3d6b8ec/cenc.mpd",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t0zydsmzll/out/v1/62025d771c7b4fe7a727ede5f3d6b8ec/cenc.mpd",
           "drm": {
             "kid": "53ac5670511d1300366b35b85eb6eadc",
             "key": "e255086091e4638f16985ca3ddd56e2b"

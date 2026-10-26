@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-26T04:45:49+05:30",
-  "generated_at_india": "26-10-2026 04:45:49 AM IST",
-  "total": 23,
+  "generated_at": "2026-10-26T05:57:47+05:30",
+  "generated_at_india": "26-10-2026 05:57:47 AM IST",
+  "total": 26,
   "events": [
     {
       "event_id": "5",
@@ -100,6 +100,30 @@
       "event_time": "26 Oct, 02:00 am",
       "event_time_raw": 1792960200000,
       "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "24",
+      "event_title": "NHL - Dallas Stars vs New York Islanders",
+      "event_time": "26 Oct, 03:30 am",
+      "event_time_raw": 1792965600000,
+      "category": "Hockey",
+      "stream_count": 1
+    },
+    {
+      "event_id": "25",
+      "event_title": "NHL - Winnipeg Jets vs Montréal Canadiens",
+      "event_time": "26 Oct, 04:30 am",
+      "event_time_raw": 1792969200000,
+      "category": "Hockey",
+      "stream_count": 1
+    },
+    {
+      "event_id": "26",
+      "event_title": "NBA - Minnesota Timberwolves vs Toronto Raptors",
+      "event_time": "26 Oct, 04:30 am",
+      "event_time_raw": 1792969200000,
+      "category": "Basketball",
       "stream_count": 1
     },
     {
