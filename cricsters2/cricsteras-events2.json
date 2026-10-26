@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-26T21:25:03+05:30",
-  "generated_at_india": "26-10-2026 09:25:03 PM IST",
-  "total": 20,
+  "generated_at": "2026-10-26T22:07:23+05:30",
+  "generated_at_india": "26-10-2026 10:07:23 PM IST",
+  "total": 22,
   "events": [
     {
       "event_id": 50002,
@@ -87,6 +87,14 @@
       "stream_count": 3
     },
     {
+      "event_id": 50063,
+      "event_title": "Ballon d'Or Show",
+      "event_time": "2026-10-26 18:00",
+      "event_time_raw": "2026-10-26 18:00",
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
       "event_id": 50069,
       "event_title": "Philadelphia Eagles vs Dallas Cowboys",
       "event_time": "2026-10-27 00:15",
@@ -159,11 +167,19 @@
       "stream_count": 1
     },
     {
-      "event_id": 50104,
-      "event_title": "Mohun Bagan Super Giant vs Chennaiyin",
-      "event_time": "2026-10-26 14:00",
-      "event_time_raw": "2026-10-26 14:00",
-      "category": "ISL",
+      "event_id": 50102,
+      "event_title": "Al-Ain vs Tractor FC",
+      "event_time": "2026-10-26 16:00",
+      "event_time_raw": "2026-10-26 16:00",
+      "category": "AFC Champions Elite",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50103,
+      "event_title": "Çaykur Rizespor vs Trabzonspor",
+      "event_time": "2026-10-26 16:00",
+      "event_time_raw": "2026-10-26 16:00",
+      "category": "Super Lig",
       "stream_count": 1
     }
   ],

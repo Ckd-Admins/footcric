@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-26T21:25:03+05:30",
-  "generated_at_india": "26-10-2026 09:25:03 PM IST",
-  "total": 20,
-  "ok": 20,
+  "generated_at": "2026-10-26T22:07:23+05:30",
+  "generated_at_india": "26-10-2026 10:07:23 PM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -424,6 +424,25 @@
       ]
     },
     {
+      "event_id": 50063,
+      "event_title": "Ballon d'Or Show",
+      "event_time": "2026-10-26 18:00",
+      "event_time_raw": "2026-10-26 18:00",
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BALLCBSN",
+          "title": "CBS NETWORK",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50069,
       "event_title": "Philadelphia Eagles vs Dallas Cowboys",
       "event_time": "2026-10-27 00:15",
@@ -703,20 +722,39 @@
       ]
     },
     {
-      "event_id": 50104,
-      "event_title": "Mohun Bagan Super Giant vs Chennaiyin",
-      "event_time": "2026-10-26 14:00",
-      "event_time_raw": "2026-10-26 14:00",
-      "category": "ISL",
+      "event_id": 50102,
+      "event_title": "Al-Ain vs Tractor FC",
+      "event_time": "2026-10-26 16:00",
+      "event_time_raw": "2026-10-26 16:00",
+      "category": "AFC Champions Elite",
       "stream_count": 1,
       "streams": [
         {
-          "code": "MOCHSONY",
-          "title": "SonyLiv - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pjl5sfdstk/out/v1/02ec949abe974874818496a14f5a0c2d/cenc.mpd",
+          "code": "ALTRFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "drm": {
-            "kid": "08027012b8503449b674c090b486a313",
-            "key": "e6109941ae6fcc32db5611870764fc59"
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50103,
+      "event_title": "Çaykur Rizespor vs Trabzonspor",
+      "event_time": "2026-10-26 16:00",
+      "event_time_raw": "2026-10-26 16:00",
+      "category": "Super Lig",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "AYTRBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?aws_sessionId=62b7648f-741e-46d4-9f04-7455051e764b",
+          "drm": {
+            "kid": "74cbe15488783fab07ff8c702fabafcd",
+            "key": "bb607803a49c2d6104f845e7886c971c"
           }
         }
       ]
