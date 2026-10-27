@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T00:04:09+05:30",
-  "generated_at_india": "28-10-2026 00:04:09 AM IST",
-  "total": 23,
+  "generated_at": "2026-10-28T01:05:23+05:30",
+  "generated_at_india": "28-10-2026 01:05:23 AM IST",
+  "total": 21,
   "events": [
     {
       "event_id": "4",
@@ -23,7 +23,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "15",
+      "event_id": "14",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "25 Oct, 10:30 am",
       "event_time_raw": 1792904400000,
@@ -39,7 +39,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "16",
+      "event_id": "15",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -63,7 +63,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "19",
+      "event_id": "17",
       "event_title": "Campeonato Brasileiro Série A - Coritiba vs Grêmio",
       "event_time": "27 Oct, 04:00 am",
       "event_time_raw": 1793053800000,
@@ -79,14 +79,6 @@
       "stream_count": 3
     },
     {
-      "event_id": "12",
-      "event_title": "ICC World Test Championship - South Africa vs Australia",
-      "event_time": "27 Oct, 02:00 pm",
-      "event_time_raw": 1793089800000,
-      "category": "Cricket",
-      "stream_count": 4
-    },
-    {
       "event_id": "8",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "27 Oct, 06:00 pm",
@@ -96,14 +88,6 @@
     },
     {
       "event_id": "18",
-      "event_title": "T20 International - Afghanistan vs Zimbabwe",
-      "event_time": "27 Oct, 08:00 pm",
-      "event_time_raw": 1793111400000,
-      "category": "Cricket",
-      "stream_count": 1
-    },
-    {
-      "event_id": "20",
       "event_title": "Serie A - Sassuolo vs Lazio",
       "event_time": "27 Oct, 11:00 pm",
       "event_time_raw": 1793122200000,
@@ -111,7 +95,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "21",
+      "event_id": "19",
       "event_title": "Serie A - AS Roma vs Cagliari",
       "event_time": "28 Oct, 01:15 am",
       "event_time_raw": 1793130300000,
@@ -119,7 +103,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "22",
+      "event_id": "20",
       "event_title": "DFB Pokal - Borussia Dortmund vs SV Werder Bremen",
       "event_time": "28 Oct, 01:15 am",
       "event_time_raw": 1793130300000,
@@ -127,7 +111,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "23",
+      "event_id": "21",
       "event_title": "EFL Cup - Fleetwood Town vs Arsenal",
       "event_time": "28 Oct, 01:30 am",
       "event_time_raw": 1793131200000,
@@ -135,7 +119,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "ICC Women's Championship - India Women vs Zimbabwe Women",
       "event_time": "28 Oct, 02:00 pm",
       "event_time_raw": 1793176200000,
@@ -151,7 +135,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "13",
+      "event_id": "12",
       "event_title": "ODI Tri-series in Pakistan - Sri Lanka vs England",
       "event_time": "29 Oct, 01:30 pm",
       "event_time_raw": 1793260800000,
@@ -159,7 +143,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "14",
+      "event_id": "13",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "30 Oct, 12:30 pm",
       "event_time_raw": 1793343600000,
