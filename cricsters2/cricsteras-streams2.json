@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T22:06:07+05:30",
-  "generated_at_india": "27-10-2026 10:06:07 PM IST",
-  "total": 17,
-  "ok": 17,
+  "generated_at": "2026-10-27T23:06:48+05:30",
+  "generated_at_india": "27-10-2026 11:06:48 PM IST",
+  "total": 18,
+  "ok": 18,
   "failed": 0,
   "events": [
     {
@@ -552,6 +552,25 @@
           "drm": {
             "kid": "d9623774ac5c8c351aafe97c5fe70267",
             "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50106,
+      "event_title": "Sassuolo vs Lazio",
+      "event_time": "2026-10-27 17:30",
+      "event_time_raw": "2026-10-27 17:30",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SALAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdafezj5nn/out/v1/b0d6db796b544f988172f7ca8d9480f6/cenc.mpd?aws_sessionId=a9cce8e5-1747-4e8d-870d-44488ca5cb31",
+          "drm": {
+            "kid": "50e443948a57fe66c159348eae554b3b",
+            "key": "8eda6b0e00eb21bd6de20c8e705062cc"
           }
         }
       ]
