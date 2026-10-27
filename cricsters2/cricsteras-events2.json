@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T09:53:24+05:30",
-  "generated_at_india": "27-10-2026 09:53:24 AM IST",
-  "total": 22,
+  "generated_at": "2026-10-27T10:52:03+05:30",
+  "generated_at_india": "27-10-2026 10:52:03 AM IST",
+  "total": 17,
   "events": [
     {
       "event_id": 50002,
@@ -71,18 +71,26 @@
       "stream_count": 1
     },
     {
+      "event_id": 50012,
+      "event_title": "Pakistan vs Sri Lanka",
+      "event_time": "2026-10-27 08:00",
+      "event_time_raw": "2026-10-27 08:00",
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
       "event_id": 50027,
-      "event_title": "Golden State Valkyries vs Atlanta Dream",
-      "event_time": "2026-10-27 00:00",
-      "event_time_raw": "2026-10-27 00:00",
+      "event_title": "Atlanta Dream vs Golden State Valkyries",
+      "event_time": "2026-10-29 16:30",
+      "event_time_raw": "2026-10-29 16:30",
       "category": "WNBA",
       "stream_count": 1
     },
     {
       "event_id": 50032,
       "event_title": "Tampa Bay Rays vs Milwaukee Brewers",
-      "event_time": "2026-10-27 00:00",
-      "event_time_raw": "2026-10-27 00:00",
+      "event_time": "2026-10-28 00:00",
+      "event_time_raw": "2026-10-28 00:00",
       "category": "MLB",
       "stream_count": 2
     },
@@ -95,91 +103,43 @@
       "stream_count": 3
     },
     {
-      "event_id": 50063,
-      "event_title": "Ballon d'Or Show",
-      "event_time": "2026-10-26 18:00",
-      "event_time_raw": "2026-10-26 18:00",
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50069,
-      "event_title": "Philadelphia Eagles vs Dallas Cowboys",
-      "event_time": "2026-10-27 00:15",
-      "event_time_raw": "2026-10-27 00:15",
-      "category": "NFL",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50086,
-      "event_title": "Coritiba vs Grêmio",
-      "event_time": "2026-10-26 22:30",
-      "event_time_raw": "2026-10-26 22:30",
-      "category": "Brasileirão",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50087,
-      "event_title": "Flamengo vs Atlético Mineiro",
-      "event_time": "2026-10-26 23:00",
-      "event_time_raw": "2026-10-26 23:00",
-      "category": "Brasileirão",
-      "stream_count": 2
+      "event_id": 50070,
+      "event_title": "Nepal Premier League (T20)",
+      "event_time": "2026-10-27 06:45",
+      "event_time_raw": "2026-10-27 06:45",
+      "category": "NPL",
+      "stream_count": 3
     },
     {
       "event_id": 50090,
-      "event_title": "AS Roma vs Cagliari",
-      "event_time": "2026-10-27 19:45",
-      "event_time_raw": "2026-10-27 19:45",
-      "category": "Serie A 🇮🇹",
+      "event_title": "Fleetwood Town vs Arsenal",
+      "event_time": "2026-10-27 20:00",
+      "event_time_raw": "2026-10-27 20:00",
+      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 1
     },
     {
       "event_id": 50091,
-      "event_title": "Sevilla vs Osasuna",
-      "event_time": "2026-10-26 20:00",
-      "event_time_raw": "2026-10-26 20:00",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 4
+      "event_title": "Borussia Dortmund vs Werder Bremen",
+      "event_time": "2026-10-27 19:45",
+      "event_time_raw": "2026-10-27 19:45",
+      "category": "DFB Pokal",
+      "stream_count": 1
     },
     {
       "event_id": 50092,
-      "event_title": "Sassuolo vs Lazio",
-      "event_time": "2026-10-27 17:30",
-      "event_time_raw": "2026-10-27 17:30",
+      "event_title": "AS Roma vs Cagliari",
+      "event_time": "2026-10-27 19:45",
+      "event_time_raw": "2026-10-27 19:45",
       "category": "Serie A 🇮🇹",
-      "stream_count": 7
-    },
-    {
-      "event_id": 50094,
-      "event_title": "Santa Clara vs Benfica",
-      "event_time": "2026-10-26 18:45",
-      "event_time_raw": "2026-10-26 18:45",
-      "category": "Liga Portugal",
       "stream_count": 2
     },
     {
-      "event_id": 50095,
-      "event_title": "Galatasaray vs Fenerbahçe",
-      "event_time": "2026-10-26 18:30",
-      "event_time_raw": "2026-10-26 18:30",
-      "category": "Super Lig",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50097,
-      "event_title": "Walsall vs Salford City",
-      "event_time": "2026-10-26 20:00",
-      "event_time_raw": "2026-10-26 20:00",
-      "category": "League Two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50102,
-      "event_title": "Al-Ain vs Tractor FC",
-      "event_time": "2026-10-26 16:00",
-      "event_time_raw": "2026-10-26 16:00",
-      "category": "AFC Champions Elite",
+      "event_id": 50105,
+      "event_title": "Bradford City vs Peterborough United",
+      "event_time": "2026-10-27 19:45",
+      "event_time_raw": "2026-10-27 19:45",
+      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 1
     }
   ],
