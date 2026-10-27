@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T01:02:32+05:30",
-  "generated_at_india": "28-10-2026 01:02:32 AM IST",
-  "total": 18,
-  "ok": 18,
+  "generated_at": "2026-10-28T01:55:44+05:30",
+  "generated_at_india": "28-10-2026 01:55:44 AM IST",
+  "total": 19,
+  "ok": 19,
   "failed": 0,
   "events": [
     {
@@ -515,8 +515,17 @@
       "event_time": "2026-10-27 19:45",
       "event_time_raw": "2026-10-27 19:45",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2,
+      "stream_count": 4,
       "streams": [
+        {
+          "code": "ASCAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lqgwdoqbwy/out/v1/2da6744e16b2434390e1f78d70103d4b/cenc.mpd?aws_sessionId=981f7ad0-25f8-4499-bb39-880cd462e7c3",
+          "drm": {
+            "kid": "914ddbd848c3d997457031df3c95b072",
+            "key": "f1bfe135977df0de0a012fd91dcada81"
+          }
+        },
         {
           "code": "ASCABEIN",
           "title": "beIN ENGLISH FHD",
@@ -533,6 +542,34 @@
           "drm": {
             "kid": "42f72c025dd53039244adc13b7e31dad",
             "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
+          }
+        },
+        {
+          "code": "ASCASPOR",
+          "title": "SPORT 1 CZ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50093,
+      "event_title": "Torino vs Como",
+      "event_time": "2026-10-27 19:45",
+      "event_time_raw": "2026-10-27 19:45",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "TOCOPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tonqadxdng/out/v1/466fbcc3a08c42baa5882dc27ac826b3/cenc.mpd?aws_sessionId=2946c0ed-1219-434b-8446-7a9e3ff0714c",
+          "drm": {
+            "kid": "b024cff42877a9b83a5e805d4d03d676",
+            "key": "37f31db6f27fdf62c77555765a74fbd6"
           }
         }
       ]
