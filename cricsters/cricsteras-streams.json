@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T01:05:23+05:30",
-  "generated_at_india": "28-10-2026 01:05:23 AM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-10-28T01:58:58+05:30",
+  "generated_at_india": "28-10-2026 01:58:58 AM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -362,39 +362,11 @@
     },
     {
       "event_id": "18",
-      "event_title": "Serie A - Sassuolo vs Lazio",
-      "event_time": "27 Oct, 11:00 pm",
-      "event_time_raw": 1793122200000,
-      "category": "Football",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "SALAPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tdafezj5nn/out/v1/b0d6db796b544f988172f7ca8d9480f6/cenc.mpd?aws_sessionId=a9cce8e5-1747-4e8d-870d-44488ca5cb31",
-          "drm": {
-            "kid": "50e443948a57fe66c159348eae554b3b",
-            "key": "8eda6b0e00eb21bd6de20c8e705062cc"
-          }
-        },
-        {
-          "code": "SALASPOR",
-          "title": "Sport CZ - AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "19",
       "event_title": "Serie A - AS Roma vs Cagliari",
       "event_time": "28 Oct, 01:15 am",
       "event_time_raw": 1793130300000,
       "category": "Football",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "ASCABEIN",
@@ -413,11 +385,20 @@
             "kid": "42f72c025dd53039244adc13b7e31dad",
             "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
           }
+        },
+        {
+          "code": "ASCASPOR",
+          "title": "SPORTS CZ 1",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
         }
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "DFB Pokal - Borussia Dortmund vs SV Werder Bremen",
       "event_time": "28 Oct, 01:15 am",
       "event_time_raw": 1793130300000,
@@ -437,11 +418,30 @@
     },
     {
       "event_id": "21",
+      "event_title": "EFL Cup - Bradford City vs Peterborough United",
+      "event_time": "28 Oct, 01:15 am",
+      "event_time_raw": 1793130300000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BRPECBSS",
+          "title": "CBS SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "20",
       "event_title": "EFL Cup - Fleetwood Town vs Arsenal",
       "event_time": "28 Oct, 01:30 am",
       "event_time_raw": 1793131200000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "FLARBEIN",
@@ -450,6 +450,34 @@
           "drm": {
             "kid": "7995c724a13748ed970840a8ab5bb9b3",
             "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        },
+        {
+          "code": "FLARFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "22",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "28 Oct, 12:15 pm",
+      "event_time_raw": 1793169900000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NPNPFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]

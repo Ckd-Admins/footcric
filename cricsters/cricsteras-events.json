@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T01:05:23+05:30",
-  "generated_at_india": "28-10-2026 01:05:23 AM IST",
-  "total": 21,
+  "generated_at": "2026-10-28T01:58:58+05:30",
+  "generated_at_india": "28-10-2026 01:58:58 AM IST",
+  "total": 22,
   "events": [
     {
       "event_id": "4",
@@ -88,22 +88,14 @@
     },
     {
       "event_id": "18",
-      "event_title": "Serie A - Sassuolo vs Lazio",
-      "event_time": "27 Oct, 11:00 pm",
-      "event_time_raw": 1793122200000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "19",
       "event_title": "Serie A - AS Roma vs Cagliari",
       "event_time": "28 Oct, 01:15 am",
       "event_time_raw": 1793130300000,
       "category": "Football",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "DFB Pokal - Borussia Dortmund vs SV Werder Bremen",
       "event_time": "28 Oct, 01:15 am",
       "event_time_raw": 1793130300000,
@@ -112,10 +104,26 @@
     },
     {
       "event_id": "21",
+      "event_title": "EFL Cup - Bradford City vs Peterborough United",
+      "event_time": "28 Oct, 01:15 am",
+      "event_time_raw": 1793130300000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "20",
       "event_title": "EFL Cup - Fleetwood Town vs Arsenal",
       "event_time": "28 Oct, 01:30 am",
       "event_time_raw": 1793131200000,
       "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "22",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "28 Oct, 12:15 pm",
+      "event_time_raw": 1793169900000,
+      "category": "Cricket",
       "stream_count": 1
     },
     {
