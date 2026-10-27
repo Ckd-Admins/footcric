@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T15:59:54+05:30",
-  "generated_at_india": "27-10-2026 03:59:54 PM IST",
+  "generated_at": "2026-10-27T16:58:29+05:30",
+  "generated_at_india": "27-10-2026 04:58:29 PM IST",
   "total": 26,
   "ok": 26,
   "failed": 0,
@@ -353,7 +353,7 @@
         {
           "code": "KUJESTRE",
           "title": "Stream",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793110534~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=9d17ce97ff925c1987cc9b27798c568c0f40fcff66df272f689c7786eb3ef8cc/manifest.mpd",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793125537~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=f31ff681b66dfdc705f692c0214872bedbd0dd5ef12dce585b6a92eb0fbf3488/manifest.mpd",
           "drm": {
             "kid": "39bd302cdeed3710a89fb004d232ab67",
             "key": "9869f804ba18d7e508cbff781829221c"
