@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T13:10:10+05:30",
-  "generated_at_india": "27-10-2026 01:10:10 PM IST",
+  "generated_at": "2026-10-27T13:25:58+05:30",
+  "generated_at_india": "27-10-2026 01:25:58 PM IST",
   "total": 24,
   "ok": 24,
   "failed": 0,
@@ -515,24 +515,15 @@
       "event_time": "27 Oct, 01:30 pm",
       "event_time_raw": 1793088000000,
       "category": "Cricket",
-      "stream_count": 3,
+      "stream_count": 2,
       "streams": [
         {
           "code": "PASRWILL",
           "title": "WILLOW - AQ",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jcogtjna1p/out/v1/49e48e49b1b74230bc32c008303e962f/cenc.mpd",
           "drm": {
-            "kid": "012110afbe9bdf40e7da3cc766ad041e",
-            "key": "b2b91f89d2b223b349208e44e5ff49da"
-          }
-        },
-        {
-          "code": "PASRWILLLS",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7mtkevhkp8/out/v1/0e763683a5224a2f8203d7f457fe0a96/cenc.mpd",
-          "drm": {
-            "kid": "e37c80506a66e5c7aa2613b5e8254e07",
-            "key": "22fb176c5e8295133385d975520b150c"
+            "kid": "71c9587a489e14e4463fb01f0951bc69",
+            "key": "2e5fcd0b450696f14c9f065364b6787b"
           }
         },
         {
@@ -557,10 +548,10 @@
         {
           "code": "SOAUWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xbks3vyjpt/out/v1/a17d73cc568e4fa4909bf69fb2970a19/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mdzi0aespt/out/v1/ebc753f4d4af40e481e5506bad35eb42/cenc.mpd",
           "drm": {
-            "kid": "0d52e23fe7eade15ac5b852ac0a5a23a",
-            "key": "5fce44b4d3887f03d32339b27a13637b"
+            "kid": "bdc52b31dcf25b0515a61fb9d0f444a2",
+            "key": "468ae45daef1021713e7ea869a340f96"
           }
         },
         {
