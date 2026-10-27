@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T13:25:58+05:30",
-  "generated_at_india": "27-10-2026 01:25:58 PM IST",
+  "generated_at": "2026-10-27T14:03:16+05:30",
+  "generated_at_india": "27-10-2026 02:03:16 PM IST",
   "total": 24,
   "ok": 24,
   "failed": 0,
@@ -543,7 +543,7 @@
       "event_time": "27 Oct, 02:00 pm",
       "event_time_raw": 1793089800000,
       "category": "Cricket",
-      "stream_count": 3,
+      "stream_count": 4,
       "streams": [
         {
           "code": "SOAUWILL",
@@ -561,6 +561,15 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "SOAUWILL0L",
+          "title": "WILLOW HD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
         },
         {
