@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T12:00:34+05:30",
-  "generated_at_india": "27-10-2026 00:00:34 PM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-10-27T13:10:10+05:30",
+  "generated_at_india": "27-10-2026 01:10:10 PM IST",
+  "total": 24,
+  "ok": 24,
   "failed": 0,
   "events": [
     {
@@ -305,7 +305,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "23",
       "event_title": "Campeonato Brasileiro Série A - Coritiba vs Grêmio",
       "event_time": "27 Oct, 04:00 am",
       "event_time_raw": 1793053800000,
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "ICC CWC League 2 - Netherlands vs Oman",
       "event_time": "27 Oct, 11:00 am",
       "event_time_raw": 1793079000000,
@@ -380,7 +380,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "CWC Challenge League - Qatar vs Papua New Guinea",
       "event_time": "27 Oct, 12:15 pm",
       "event_time_raw": 1793083500000,
@@ -399,7 +399,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "22",
       "event_title": "CWC Challenge League - Kuwait vs Jersey",
       "event_time": "27 Oct, 12:15 pm",
       "event_time_raw": 1793083500000,
@@ -423,7 +423,7 @@
       "event_time": "27 Oct, 12:30 pm",
       "event_time_raw": 1793084400000,
       "category": "Cricket",
-      "stream_count": 9,
+      "stream_count": 7,
       "streams": [
         {
           "code": "NEINWILL",
@@ -432,6 +432,24 @@
           "drm": {
             "kid": "b1ee06e6e306aa92e9a4658f739a1596",
             "key": "b993e1f264c6a637cd28427242f5f967"
+          }
+        },
+        {
+          "code": "NEINPRIM",
+          "title": "PRIME VIDEO HINDI",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ot99hqbbfg/out/v1/d5879616029b431698a8c9446cbe58ec/cenc.mpd",
+          "drm": {
+            "kid": "4dcd41b8ecbc6d0182037e457e2baec9",
+            "key": "14a48156510444cc189cdf12c1249670"
+          }
+        },
+        {
+          "code": "NEINPRIMAH",
+          "title": "PRIME VIDEO - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgprfsmcco/out/v1/eb3926a34c6c4e4fa9c62c23726f5ff6/cenc.mpd?",
+          "drm": {
+            "kid": "f61a0f45500e86607d1467ac70431693",
+            "key": "41649554b2a83f221406756debfe3834"
           }
         },
         {
@@ -444,57 +462,21 @@
           }
         },
         {
-          "code": "NEINPRIM",
-          "title": "PRIME VIDEO - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/di53wexuc7/out/v1/40b0a31c1c5b4f4aa41286cb1313cf87/cenc.mpd",
-          "drm": {
-            "kid": "01501c3401dabab0e68c1d58b2ed5bde",
-            "key": "4c1167220c5d1358d630245281ceba58"
-          }
-        },
-        {
           "code": "NEINSONY",
           "title": "SONYLIV PPV EN - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/di53wexuc7/out/v1/40b0a31c1c5b4f4aa41286cb1313cf87/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgprfsmcco/out/v1/eb3926a34c6c4e4fa9c62c23726f5ff6/cenc.mpd?",
           "drm": {
-            "kid": "01501c3401dabab0e68c1d58b2ed5bde",
-            "key": "4c1167220c5d1358d630245281ceba58"
+            "kid": "f61a0f45500e86607d1467ac70431693",
+            "key": "41649554b2a83f221406756debfe3834"
           }
         },
         {
-          "code": "NEINSONYXW",
-          "title": "SONYLIV PPV HINDI - AQ",
-          "url": "https%3A//otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/mmvlg151u6/out/v1/ab9d1f193c094ee8a9305f983a716f35/cenc.mpd",
-          "drm": {
-            "kid": "18e6af4a0daf2a1fdfbdc5b541520c88",
-            "key": "ca0b64b84edb4f20eb1e135ff03db4f7"
-          }
-        },
-        {
-          "code": "NEINSONYRG",
-          "title": "SONYLIV PPV TAM - AQ",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/zhaaefajop/out/v1/e5226708737141b2ac370864916708b9/cenc.mpd",
-          "drm": {
-            "kid": "fb22851800fb00e16fb1a1dd8ca3997c",
-            "key": "0cd9eec4aa66c9b9865dbd7ea5788866"
-          }
-        },
-        {
-          "code": "NEINSONYFT",
-          "title": "SONYLIV PPV KAN - AQ",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/2ve4p3frvj/out/v1/0a3bdbce62524db4a16a20bf9892b680/cenc.mpd",
-          "drm": {
-            "kid": "0008b93634dcf5be9e839816086afdf0",
-            "key": "e09d1878e6e7126bd9c2c432fdb11553"
-          }
-        },
-        {
-          "code": "NEINSONYY3",
+          "code": "NEINSONYTY",
           "title": "SONYLIV PPV TEL - AQ",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/9n0mgnesec/out/v1/48f6a68ca3a34f2bba34df81e19764d1/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dwurwq3gqy/out/v1/cad9647fdbd64c08afb4ebfb1390768c/cenc.mpd?",
           "drm": {
-            "kid": "4e5ac7875b78110f6dec912429209dfa",
-            "key": "bbfe716053be1f7d3caa4e4952277a11"
+            "kid": "99ce7c4be7222f0c0760734bb1a7c726",
+            "key": "9c2f0502932c19e0ccd9c8acc5c7790e"
           }
         },
         {
@@ -504,6 +486,25 @@
           "drm": {
             "kid": "b1ee06e6e306aa92e9a4658f739a1596",
             "key": "b993e1f264c6a637cd28427242f5f967"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "19",
+      "event_title": "One Day International - Namibia vs Ireland",
+      "event_time": "27 Oct, 01:00 pm",
+      "event_time_raw": 1793086200000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NAIRSTRE",
+          "title": "Stream",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793114132~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=4d9b51f636c494042a308bd9cfa6be8056f83c51f5e1735d38748ae4b4d773ab/manifest.mpd",
+          "drm": {
+            "kid": "39bd302cdeed3710a89fb004d232ab67",
+            "key": "9869f804ba18d7e508cbff781829221c"
           }
         }
       ]
@@ -583,7 +584,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "24",
       "event_title": "Serie A - Sassuolo vs Lazio",
       "event_time": "27 Oct, 11:00 pm",
       "event_time_raw": 1793122200000,
