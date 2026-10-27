@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T23:10:21+05:30",
-  "generated_at_india": "27-10-2026 11:10:21 PM IST",
+  "generated_at": "2026-10-28T00:04:09+05:30",
+  "generated_at_india": "28-10-2026 00:04:09 AM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -704,7 +704,7 @@
         {
           "code": "NEINWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd",
           "drm": {
             "kid": "b1ee06e6e306aa92e9a4658f739a1596",
             "key": "b993e1f264c6a637cd28427242f5f967"
@@ -756,9 +756,9 @@
           }
         },
         {
-          "code": "NEINWILLBO",
+          "code": "NEINWILLYQ",
           "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd",
           "drm": {
             "kid": "b1ee06e6e306aa92e9a4658f739a1596",
             "key": "b993e1f264c6a637cd28427242f5f967"
