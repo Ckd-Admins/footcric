@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T16:58:29+05:30",
-  "generated_at_india": "27-10-2026 04:58:29 PM IST",
-  "total": 26,
-  "ok": 26,
+  "generated_at": "2026-10-27T18:02:19+05:30",
+  "generated_at_india": "27-10-2026 06:02:19 PM IST",
+  "total": 24,
+  "ok": 24,
   "failed": 0,
   "events": [
     {
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "11",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "22 Oct, 10:00 pm",
       "event_time_raw": 1792686600000,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "15",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "25 Oct, 10:30 am",
       "event_time_raw": 1792904400000,
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "21",
       "event_title": "Campeonato Brasileiro Série A - Coritiba vs Grêmio",
       "event_time": "27 Oct, 04:00 am",
       "event_time_raw": 1793053800000,
@@ -305,7 +305,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "ICC CWC League 2 - Netherlands vs Oman",
       "event_time": "27 Oct, 11:00 am",
       "event_time_raw": 1793079000000,
@@ -324,26 +324,7 @@
       ]
     },
     {
-      "event_id": "21",
-      "event_title": "CWC Challenge League - Qatar vs Papua New Guinea",
-      "event_time": "27 Oct, 12:15 pm",
-      "event_time_raw": 1793083500000,
-      "category": "Cricket",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "QAPASTRE",
-          "title": "Stream",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793122242~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=844f3d4e365fde059e4546682829a4d771102e78cbfc872ffda6161468d3e598/manifest.mpd",
-          "drm": {
-            "kid": "39bd302cdeed3710a89fb004d232ab67",
-            "key": "9869f804ba18d7e508cbff781829221c"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "22",
+      "event_id": "20",
       "event_title": "CWC Challenge League - Kuwait vs Jersey",
       "event_time": "27 Oct, 12:15 pm",
       "event_time_raw": 1793083500000,
@@ -362,7 +343,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "One Day International - Namibia vs Ireland",
       "event_time": "27 Oct, 01:00 pm",
       "event_time_raw": 1793086200000,
@@ -418,35 +399,7 @@
       ]
     },
     {
-      "event_id": "11",
-      "event_title": "ODI Tri-series in Pakistan - Pakistan vs Sri Lanka",
-      "event_time": "27 Oct, 01:30 pm",
-      "event_time_raw": 1793088000000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "PASRWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jcogtjna1p/out/v1/49e48e49b1b74230bc32c008303e962f/cenc.mpd",
-          "drm": {
-            "kid": "71c9587a489e14e4463fb01f0951bc69",
-            "key": "2e5fcd0b450696f14c9f065364b6787b"
-          }
-        },
-        {
-          "code": "PASRPEOT",
-          "title": "PEO TV - AQ (SL)",
-          "url": "https://hoast-plm.shop/playztv/links.php?id=peo1.mpd",
-          "drm": {
-            "kid": "3942bb0dd3a2c6c22814705725e22885",
-            "key": "8cea7d844678df5ad86bf851d27a7f69"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "13",
+      "event_id": "12",
       "event_title": "ICC World Test Championship - South Africa vs Australia",
       "event_time": "27 Oct, 02:00 pm",
       "event_time_raw": 1793089800000,
@@ -511,7 +464,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "22",
       "event_title": "Serie A - Sassuolo vs Lazio",
       "event_time": "27 Oct, 11:00 pm",
       "event_time_raw": 1793122200000,
@@ -530,7 +483,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "23",
       "event_title": "Serie A - AS Roma vs Cagliari",
       "event_time": "28 Oct, 01:15 am",
       "event_time_raw": 1793130300000,
@@ -558,7 +511,7 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "24",
       "event_title": "DFB Pokal - Borussia Dortmund vs SV Werder Bremen",
       "event_time": "28 Oct, 01:15 am",
       "event_time_raw": 1793130300000,
@@ -577,7 +530,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "ICC Women's Championship - India Women vs Zimbabwe Women",
       "event_time": "28 Oct, 02:00 pm",
       "event_time_raw": 1793176200000,
@@ -723,12 +676,12 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "13",
       "event_title": "ODI Tri-series in Pakistan - Sri Lanka vs England",
       "event_time": "29 Oct, 01:30 pm",
       "event_time_raw": 1793260800000,
       "category": "Cricket",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "SRENWILL",
@@ -738,11 +691,20 @@
             "kid": "53ac5670511d1300366b35b85eb6eadc",
             "key": "e255086091e4638f16985ca3ddd56e2b"
           }
+        },
+        {
+          "code": "SRENPEOT",
+          "title": "PEO TV - AQ (SL)",
+          "url": "https://hoast-plm.shop/playztv/links.php?id=peo1.mpd",
+          "drm": {
+            "kid": "3942bb0dd3a2c6c22814705725e22885",
+            "key": "8cea7d844678df5ad86bf851d27a7f69"
+          }
         }
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "14",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "30 Oct, 12:30 pm",
       "event_time_raw": 1793343600000,
