@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T01:58:58+05:30",
-  "generated_at_india": "28-10-2026 01:58:58 AM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-10-28T02:55:59+05:30",
+  "generated_at_india": "28-10-2026 02:55:59 AM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -366,7 +366,7 @@
       "event_time": "28 Oct, 01:15 am",
       "event_time_raw": 1793130300000,
       "category": "Football",
-      "stream_count": 3,
+      "stream_count": 4,
       "streams": [
         {
           "code": "ASCABEIN",
@@ -384,6 +384,15 @@
           "drm": {
             "kid": "42f72c025dd53039244adc13b7e31dad",
             "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
+          }
+        },
+        {
+          "code": "ASCAPARA",
+          "title": "PARAMOUNT+ - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lqgwdoqbwy/out/v1/2da6744e16b2434390e1f78d70103d4b/cenc.mpd?aws_sessionId=981f7ad0-25f8-4499-bb39-880cd462e7c3",
+          "drm": {
+            "kid": "914ddbd848c3d997457031df3c95b072",
+            "key": "f1bfe135977df0de0a012fd91dcada81"
           }
         },
         {
@@ -417,7 +426,26 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "20",
+      "event_title": "Serie A - Torino vs Como",
+      "event_time": "28 Oct, 01:15 am",
+      "event_time_raw": 1793130300000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "TOCOPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tonqadxdng/out/v1/466fbcc3a08c42baa5882dc27ac826b3/cenc.mpd?aws_sessionId=2946c0ed-1219-434b-8446-7a9e3ff0714c",
+          "drm": {
+            "kid": "b024cff42877a9b83a5e805d4d03d676",
+            "key": "37f31db6f27fdf62c77555765a74fbd6"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "22",
       "event_title": "EFL Cup - Bradford City vs Peterborough United",
       "event_time": "28 Oct, 01:15 am",
       "event_time_raw": 1793130300000,
@@ -436,7 +464,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "EFL Cup - Fleetwood Town vs Arsenal",
       "event_time": "28 Oct, 01:30 am",
       "event_time_raw": 1793131200000,
@@ -464,7 +492,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "23",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "28 Oct, 12:15 pm",
       "event_time_raw": 1793169900000,
