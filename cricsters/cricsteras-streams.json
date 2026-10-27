@@ -2,11 +2,11 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T02:55:59+05:30",
-  "generated_at_india": "28-10-2026 02:55:59 AM IST",
+  "generated_at": "2026-10-28T03:58:14+05:30",
+  "generated_at_india": "28-10-2026 03:58:14 AM IST",
   "total": 23,
-  "ok": 23,
-  "failed": 0,
+  "ok": 22,
+  "failed": 1,
   "events": [
     {
       "event_id": "4",
@@ -61,26 +61,8 @@
       "event_time_raw": 1792686600000,
       "category": "Football",
       "stream_count": 2,
-      "streams": [
-        {
-          "code": "GOGOPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/fbgrhb280n/out/v1/11bd5e89863343a2b7f5227f9db0caf8/b2e45e06-f330-4787-9185-8c5bf88662fa-cenc.mpd?aws_sessionId=390c6788-f4ff-40b4-b92d-852de94c5135",
-          "drm": {
-            "kid": "827ec411457b7ffa7f3c61663bd3efbe",
-            "key": "e8650f46a87c6ab5d623d2b69bf3d441"
-          }
-        },
-        {
-          "code": "GOGOCBSS",
-          "title": "CBS SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        }
-      ]
+      "streams": [],
+      "error": "GET https://foott.vercel.app/api/events?play=11 → 500 Internal Server Error"
     },
     {
       "event_id": "14",
@@ -704,7 +686,7 @@
         {
           "code": "NEINPRIM",
           "title": "PRIME VIDEO HINDI",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ot99hqbbfg/out/v1/d5879616029b431698a8c9446cbe58ec/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ot99hqbbfg/out/v1/d5879616029b431698a8c9446cbe58ec/cenc.mpd",
           "drm": {
             "kid": "4dcd41b8ecbc6d0182037e457e2baec9",
             "key": "14a48156510444cc189cdf12c1249670"
