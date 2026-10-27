@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T19:13:40+05:30",
-  "generated_at_india": "27-10-2026 07:13:40 PM IST",
+  "generated_at": "2026-10-27T20:10:35+05:30",
+  "generated_at_india": "27-10-2026 08:10:35 PM IST",
   "total": 24,
   "events": [
     {
@@ -63,27 +63,11 @@
       "stream_count": 6
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "Campeonato Brasileiro Série A - Coritiba vs Grêmio",
       "event_time": "27 Oct, 04:00 am",
       "event_time_raw": 1793053800000,
       "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "19",
-      "event_title": "ICC CWC League 2 - Netherlands vs Oman",
-      "event_time": "27 Oct, 11:00 am",
-      "event_time_raw": 1793079000000,
-      "category": "Cricket",
-      "stream_count": 1
-    },
-    {
-      "event_id": "20",
-      "event_title": "CWC Challenge League - Kuwait vs Jersey",
-      "event_time": "27 Oct, 12:15 pm",
-      "event_time_raw": 1793083500000,
-      "category": "Cricket",
       "stream_count": 1
     },
     {
@@ -119,7 +103,15 @@
       "stream_count": 1
     },
     {
-      "event_id": "22",
+      "event_id": "19",
+      "event_title": "T20 International - Afghanistan vs Zimbabwe",
+      "event_time": "27 Oct, 08:00 pm",
+      "event_time_raw": 1793111400000,
+      "category": "Cricket",
+      "stream_count": 1
+    },
+    {
+      "event_id": "21",
       "event_title": "Serie A - Sassuolo vs Lazio",
       "event_time": "27 Oct, 11:00 pm",
       "event_time_raw": 1793122200000,
@@ -127,7 +119,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "Serie A - AS Roma vs Cagliari",
       "event_time": "28 Oct, 01:15 am",
       "event_time_raw": 1793130300000,
@@ -135,10 +127,18 @@
       "stream_count": 2
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "DFB Pokal - Borussia Dortmund vs SV Werder Bremen",
       "event_time": "28 Oct, 01:15 am",
       "event_time_raw": 1793130300000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "24",
+      "event_title": "EFL Cup - Fleetwood Town vs Arsenal",
+      "event_time": "28 Oct, 01:30 am",
+      "event_time_raw": 1793131200000,
       "category": "Football",
       "stream_count": 1
     },
