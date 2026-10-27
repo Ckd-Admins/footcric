@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T12:10:50+05:30",
-  "generated_at_india": "27-10-2026 00:10:50 PM IST",
+  "generated_at": "2026-10-27T13:07:01+05:30",
+  "generated_at_india": "27-10-2026 01:07:01 PM IST",
   "total": 17,
   "events": [
     {
@@ -52,7 +52,7 @@
       "event_time": "2026-10-27 07:00",
       "event_time_raw": "2026-10-27 07:00",
       "category": "Cricket",
-      "stream_count": 8
+      "stream_count": 7
     },
     {
       "event_id": 50009,
@@ -100,7 +100,7 @@
       "event_time": "2026-10-27 08:30",
       "event_time_raw": "2026-10-27 08:30",
       "category": "Cricket",
-      "stream_count": 3
+      "stream_count": 2
     },
     {
       "event_id": 50070,
@@ -108,7 +108,7 @@
       "event_time": "2026-10-27 06:45",
       "event_time_raw": "2026-10-27 06:45",
       "category": "NPL",
-      "stream_count": 3
+      "stream_count": 1
     },
     {
       "event_id": 50090,

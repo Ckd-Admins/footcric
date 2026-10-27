@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T12:10:50+05:30",
-  "generated_at_india": "27-10-2026 00:10:50 PM IST",
+  "generated_at": "2026-10-27T13:07:01+05:30",
+  "generated_at_india": "27-10-2026 01:07:01 PM IST",
   "total": 17,
   "ok": 17,
   "failed": 0,
@@ -226,8 +226,35 @@
       "event_time": "2026-10-27 07:00",
       "event_time_raw": "2026-10-27 07:00",
       "category": "Cricket",
-      "stream_count": 8,
+      "stream_count": 7,
       "streams": [
+        {
+          "code": "NEINWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/226y6v0uth/out/v1/189e95d3dffb4aa7b97becc6a0b50257/cenc.mpd",
+          "drm": {
+            "kid": "de385641114a734ec904d6246487556a",
+            "key": "e3668e2d04f733654967da6c3ed2cb85"
+          }
+        },
+        {
+          "code": "NEINPRIM",
+          "title": "PRIME VIDEO (HINDI)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ot99hqbbfg/out/v1/d5879616029b431698a8c9446cbe58ec/cenc.mpd",
+          "drm": {
+            "kid": "4dcd41b8ecbc6d0182037e457e2baec9",
+            "key": "14a48156510444cc189cdf12c1249670"
+          }
+        },
+        {
+          "code": "NEINPRIM8O",
+          "title": "PRIME VIDEO (ENG)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lgprfsmcco/out/v1/eb3926a34c6c4e4fa9c62c23726f5ff6/cenc.mpd",
+          "drm": {
+            "kid": "f61a0f45500e86607d1467ac70431693",
+            "key": "41649554b2a83f221406756debfe3834"
+          }
+        },
         {
           "code": "NEINTNTS",
           "title": "TNT SPORTS FHD",
@@ -238,66 +265,30 @@
           }
         },
         {
-          "code": "NEINWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qabepxpmhh/out/v1/341ef8839e3a4f2f9a631a9d8feb6917/cenc.mpd",
-          "drm": {
-            "kid": "de4f7619ad148729aeb3fa269c66ac69",
-            "key": "39f15c262064e93e317aefeb4d458cf0"
-          }
-        },
-        {
-          "code": "NEINPRIM",
-          "title": "PRIME VIDEO (HIN)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mmvlg151u6/out/v1/ab9d1f193c094ee8a9305f983a716f35/cenc.mpd",
-          "drm": {
-            "kid": "18e6af4a0daf2a1fdfbdc5b541520c88",
-            "key": "ca0b64b84edb4f20eb1e135ff03db4f7"
-          }
-        },
-        {
-          "code": "NEINPRIMPG",
-          "title": "PRIME VIDEO (ENG)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/di53wexuc7/out/v1/40b0a31c1c5b4f4aa41286cb1313cf87/cenc.mpd",
-          "drm": {
-            "kid": "01501c3401dabab0e68c1d58b2ed5bde",
-            "key": "4c1167220c5d1358d630245281ceba58"
-          }
-        },
-        {
-          "code": "NEINWILLAZ",
+          "code": "NEINWILL5C",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qabepxpmhh/out/v1/341ef8839e3a4f2f9a631a9d8feb6917/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ojpgrthnnt/out/v1/52619efcaa3e473295a6fd19dd6e9437/cenc.mpd",
           "drm": {
-            "kid": "de4f7619ad148729aeb3fa269c66ac69",
-            "key": "39f15c262064e93e317aefeb4d458cf0"
+            "kid": "b1ee06e6e306aa92e9a4658f739a1596",
+            "key": "b993e1f264c6a637cd28427242f5f967"
+          }
+        },
+        {
+          "code": "NEINPRIMLZ",
+          "title": "PRIME VIDEO (TAM)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dwurwq3gqy/out/v1/cad9647fdbd64c08afb4ebfb1390768c/cenc.mpd",
+          "drm": {
+            "kid": "99ce7c4be7222f0c0760734bb1a7c726",
+            "key": "9c2f0502932c19e0ccd9c8acc5c7790e"
           }
         },
         {
           "code": "NEINSONY",
-          "title": "SonyLiv (TAM)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zhaaefajop/out/v1/e5226708737141b2ac370864916708b9/cenc.mpd",
+          "title": "SonyLiv HIN (IND)",
+          "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=1793068771~exp=1793090371~acl=/*~hmac=8dd4fe420043a06d09b30ae20521670a093df5522614b8d836ac549088b95871",
           "drm": {
-            "kid": "fb22851800fb00e16fb1a1dd8ca3997c",
-            "key": "0cd9eec4aa66c9b9865dbd7ea5788866"
-          }
-        },
-        {
-          "code": "NEINSONY9A",
-          "title": "SonyLiv (TEL)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9n0mgnesec/out/v1/48f6a68ca3a34f2bba34df81e19764d1/cenc.mpd",
-          "drm": {
-            "kid": "4e5ac7875b78110f6dec912429209dfa",
-            "key": "bbfe716053be1f7d3caa4e4952277a11"
-          }
-        },
-        {
-          "code": "NEINSONYAF",
-          "title": "SonyLiv (TEL)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/2ve4p3frvj/out/v1/0a3bdbce62524db4a16a20bf9892b680/cenc.mpd",
-          "drm": {
-            "kid": "0008b93634dcf5be9e839816086afdf0",
-            "key": "e09d1878e6e7126bd9c2c432fdb11553"
+            "kid": "68318f7c97c55ba6ab8d0398a88fed3e",
+            "key": "d312fb3325b4eb9462b4a0d2b6794adf"
           }
         }
       ]
@@ -369,19 +360,19 @@
         {
           "code": "PASRWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/etttcyodrm/out/v1/2e476a75a79741c0bc7c9586e59a5f0e/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qlhkaywvyy/out/v1/d904a3e8abc940139881639cf378de84/cenc.mpd",
           "drm": {
-            "kid": "53ac5670511d1300366b35b85eb6eadc",
-            "key": "e255086091e4638f16985ca3ddd56e2b"
+            "kid": "a06a8c6d28d399f0ef2864c732f02c7e",
+            "key": "58678b7841e58cf8eeae5d4049aac1af"
           }
         },
         {
-          "code": "PASRWILLWW",
+          "code": "PASRWILLIY",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/etttcyodrm/out/v1/2e476a75a79741c0bc7c9586e59a5f0e/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qlhkaywvyy/out/v1/d904a3e8abc940139881639cf378de84/cenc.mpd",
           "drm": {
-            "kid": "53ac5670511d1300366b35b85eb6eadc",
-            "key": "e255086091e4638f16985ca3ddd56e2b"
+            "kid": "a06a8c6d28d399f0ef2864c732f02c7e",
+            "key": "58678b7841e58cf8eeae5d4049aac1af"
           }
         }
       ]
@@ -439,33 +430,24 @@
       "event_time": "2026-10-27 08:30",
       "event_time_raw": "2026-10-27 08:30",
       "category": "Cricket",
-      "stream_count": 3,
+      "stream_count": 2,
       "streams": [
         {
           "code": "SOAUWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/2jx5hrl31t/out/v1/9b12bcffb3eb4f95a4b1809826d1d020/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qlhkaywvyy/out/v1/d904a3e8abc940139881639cf378de84/cenc.mpd",
           "drm": {
-            "kid": "0d52e23fe7eade15ac5b852ac0a5a23a",
-            "key": "5fce44b4d3887f03d32339b27a13637b"
+            "kid": "fb8d8ec6aee94e5fca2fc189606b770a",
+            "key": "f17b252239990e99cb9c213a76470b52"
           }
         },
         {
-          "code": "SOAUFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "SOAUWILLF2",
+          "code": "SOAUWILLE6",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/2jx5hrl31t/out/v1/9b12bcffb3eb4f95a4b1809826d1d020/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qlhkaywvyy/out/v1/d904a3e8abc940139881639cf378de84/cenc.mpd",
           "drm": {
-            "kid": "0d52e23fe7eade15ac5b852ac0a5a23a",
-            "key": "5fce44b4d3887f03d32339b27a13637b"
+            "kid": "fb8d8ec6aee94e5fca2fc189606b770a",
+            "key": "f17b252239990e99cb9c213a76470b52"
           }
         }
       ]
@@ -476,33 +458,15 @@
       "event_time": "2026-10-27 06:45",
       "event_time_raw": "2026-10-27 06:45",
       "category": "NPL",
-      "stream_count": 3,
+      "stream_count": 1,
       "streams": [
         {
-          "code": "NEPAWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
+          "code": "NEPAFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "drm": {
-            "kid": "c4e6bd30698f91c0d1e99e505d8859c7",
-            "key": "cea8ba61e532c7143c630f0c9becd7a6"
-          }
-        },
-        {
-          "code": "NEPASTAR",
-          "title": "STARZPLAY - FHD",
-          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
-          "drm": {
-            "kid": "0ae4f162eec3e6f2b580a5bf0f4a64d4",
-            "key": "03483335db81cba5bbcf51b6d31196d9"
-          }
-        },
-        {
-          "code": "NEPAWILLTM",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
-          "drm": {
-            "kid": "c4e6bd30698f91c0d1e99e505d8859c7",
-            "key": "cea8ba61e532c7143c630f0c9becd7a6"
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]
