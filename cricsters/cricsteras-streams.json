@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T22:09:35+05:30",
-  "generated_at_india": "27-10-2026 10:09:35 PM IST",
+  "generated_at": "2026-10-27T23:10:21+05:30",
+  "generated_at_india": "27-10-2026 11:10:21 PM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -431,8 +431,17 @@
       "event_time": "27 Oct, 11:00 pm",
       "event_time_raw": 1793122200000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "SALAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tdafezj5nn/out/v1/b0d6db796b544f988172f7ca8d9480f6/cenc.mpd?aws_sessionId=a9cce8e5-1747-4e8d-870d-44488ca5cb31",
+          "drm": {
+            "kid": "50e443948a57fe66c159348eae554b3b",
+            "key": "8eda6b0e00eb21bd6de20c8e705062cc"
+          }
+        },
         {
           "code": "SALASPOR",
           "title": "Sport CZ - AQ",
