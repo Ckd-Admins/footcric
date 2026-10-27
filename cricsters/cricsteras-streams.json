@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-27T10:55:32+05:30",
-  "generated_at_india": "27-10-2026 10:55:32 AM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-10-27T12:00:34+05:30",
+  "generated_at_india": "27-10-2026 00:00:34 PM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
-      "event_id": "4",
+      "event_id": "5",
       "event_title": "Tour De France - Tour De France vs Tour De France",
       "event_time": "22 Oct, 02:30 pm",
       "event_time_raw": 1792659600000,
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "13",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "22 Oct, 10:00 pm",
       "event_time_raw": 1792686600000,
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "event_id": "1",
+      "event_id": "2",
       "event_title": "Northern Ireland Open - SNOOKER vs SNOOKER",
       "event_time": "25 Oct, 06:30 pm",
       "event_time_raw": 1792933200000,
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "7",
       "event_title": "EUROPEAN Championship - Darts vs Darts",
       "event_time": "25 Oct, 10:30 pm",
       "event_time_raw": 1792947600000,
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "3",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "26 Oct, 01:30 am",
       "event_time_raw": 1792958400000,
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "9",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "26 Oct, 10:00 pm",
       "event_time_raw": 1793032200000,
@@ -305,119 +305,7 @@
       ]
     },
     {
-      "event_id": "23",
-      "event_title": "Liga Portugal Betclic - Santa Clara vs Benfica",
-      "event_time": "27 Oct, 12:15 am",
-      "event_time_raw": 1793040300000,
-      "category": "Football",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "SABESPOR",
-          "title": "SportDigital Fussball",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
-          "drm": {
-            "kid": "0ad4080cdff8c60b1233b22087f0b340",
-            "key": "285f129c5eca01dd08a5d5a14ad801c8"
-          }
-        },
-        {
-          "code": "SABESPORMN",
-          "title": "D Sports FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "drm": {
-            "kid": "f836853d8eac19446ed9535f5fc568b1",
-            "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "17",
-      "event_title": "Ligue 1 - Paris Saint-Germain vs Olympique Lyonnais",
-      "event_time": "27 Oct, 01:00 am",
-      "event_time_raw": 1793043000000,
-      "category": "Football",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "PAOLBEIN",
-          "title": "beIN SPORTS FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?aws_sessionId=c932d10f-7c9e-4119-858b-e0661b560c63",
-          "drm": {
-            "kid": "74cbe15488783fab07ff8c702fabafcd",
-            "key": "bb607803a49c2d6104f845e7886c971c"
-          }
-        },
-        {
-          "code": "PAOLCAZE",
-          "title": "CAZE TV FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-          "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "24",
-      "event_title": "LaLiga 2 - FC Andorra vs Burgos Club de Fútbol",
-      "event_time": "27 Oct, 01:00 am",
-      "event_time_raw": 1793043000000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "FCBULALI",
-          "title": "LALIGA HYPEMOTION ES - AQ",
-          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "22",
-      "event_title": "LaLiga - Sevilla vs Osasuna",
-      "event_time": "27 Oct, 01:30 am",
-      "event_time_raw": 1793044800000,
-      "category": "Football",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SEOSPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-          }
-        },
-        {
-          "code": "SEOSBEIN",
-          "title": "beIN SPORTSFHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "SEOSFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "20",
       "event_title": "Campeonato Brasileiro Série A - Coritiba vs Grêmio",
       "event_time": "27 Oct, 04:00 am",
       "event_time_raw": 1793053800000,
@@ -436,35 +324,7 @@
       ]
     },
     {
-      "event_id": "21",
-      "event_title": "Campeonato Brasileiro Série A - Flamengo vs Atlético Mineiro",
-      "event_time": "27 Oct, 04:30 am",
-      "event_time_raw": 1793055600000,
-      "category": "Football",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "FLATPREM",
-          "title": "PREMIERER BR",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "drm": {
-            "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-            "key": "fa38aaa865a57eda7c77444697ba8ed3"
-          }
-        },
-        {
-          "code": "FLATSPOR",
-          "title": "SporTV BR FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "drm": {
-            "kid": "51c0ef23b17297e5c01cd7f36dd0a6ce",
-            "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "10",
+      "event_id": "11",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "27 Oct, 07:00 am",
       "event_time_raw": 1793064600000,
@@ -501,7 +361,64 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "19",
+      "event_title": "ICC CWC League 2 - Netherlands vs Oman",
+      "event_time": "27 Oct, 11:00 am",
+      "event_time_raw": 1793079000000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NEOMSTRE",
+          "title": "Stream",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793106932~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=b3d6bd61301cd3e83a8629c0edb4d8b9f2a99ee3d74f1bfb78a1b0203fa55a14/manifest.mpd",
+          "drm": {
+            "kid": "39bd302cdeed3710a89fb004d232ab67",
+            "key": "9869f804ba18d7e508cbff781829221c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "20",
+      "event_title": "CWC Challenge League - Qatar vs Papua New Guinea",
+      "event_time": "27 Oct, 12:15 pm",
+      "event_time_raw": 1793083500000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "QAPASTRE",
+          "title": "Stream",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793110533~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=f384ca41fa81e4cc074b38a83c5e333d2915e4393660d55484943c7aae37c8cf/manifest.mpd",
+          "drm": {
+            "kid": "39bd302cdeed3710a89fb004d232ab67",
+            "key": "9869f804ba18d7e508cbff781829221c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "21",
+      "event_title": "CWC Challenge League - Kuwait vs Jersey",
+      "event_time": "27 Oct, 12:15 pm",
+      "event_time_raw": 1793083500000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "KUJESTRE",
+          "title": "Stream",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793110534~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=9d17ce97ff925c1987cc9b27798c568c0f40fcff66df272f689c7786eb3ef8cc/manifest.mpd",
+          "drm": {
+            "kid": "39bd302cdeed3710a89fb004d232ab67",
+            "key": "9869f804ba18d7e508cbff781829221c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "1",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "27 Oct, 12:30 pm",
       "event_time_raw": 1793084400000,
@@ -509,30 +426,30 @@
       "stream_count": 9,
       "streams": [
         {
+          "code": "NEINWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd",
+          "drm": {
+            "kid": "b1ee06e6e306aa92e9a4658f739a1596",
+            "key": "b993e1f264c6a637cd28427242f5f967"
+          }
+        },
+        {
+          "code": "NEINTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
           "code": "NEINPRIM",
           "title": "PRIME VIDEO - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/di53wexuc7/out/v1/40b0a31c1c5b4f4aa41286cb1313cf87/cenc.mpd",
           "drm": {
             "kid": "01501c3401dabab0e68c1d58b2ed5bde",
             "key": "4c1167220c5d1358d630245281ceba58"
-          }
-        },
-        {
-          "code": "NEINWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd",
-          "drm": {
-            "kid": "8c80205dcd2490ef9386a322c46aef12",
-            "key": "0dba6b2d52b76e5dff92fac577e7ac8d"
-          }
-        },
-        {
-          "code": "NEINTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm": {
-            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-            "key": "643e5474d9edd87c7d9091c8c97994ca"
           }
         },
         {
@@ -581,18 +498,18 @@
           }
         },
         {
-          "code": "NEINWILLPB",
+          "code": "NEINWILLBO",
           "title": "WILLOW S2 - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd",
           "drm": {
-            "kid": "8c80205dcd2490ef9386a322c46aef12",
-            "key": "0dba6b2d52b76e5dff92fac577e7ac8d"
+            "kid": "b1ee06e6e306aa92e9a4658f739a1596",
+            "key": "b993e1f264c6a637cd28427242f5f967"
           }
         }
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "12",
       "event_title": "ODI Tri-series in Pakistan - Pakistan vs Sri Lanka",
       "event_time": "27 Oct, 01:30 pm",
       "event_time_raw": 1793088000000,
@@ -629,7 +546,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "14",
       "event_title": "ICC World Test Championship - South Africa vs Australia",
       "event_time": "27 Oct, 02:00 pm",
       "event_time_raw": 1793089800000,
@@ -666,7 +583,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "23",
       "event_title": "Serie A - Sassuolo vs Lazio",
       "event_time": "27 Oct, 11:00 pm",
       "event_time_raw": 1793122200000,
@@ -685,7 +602,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "ICC Women's Championship - India Women vs Zimbabwe Women",
       "event_time": "28 Oct, 02:00 pm",
       "event_time_raw": 1793176200000,
@@ -794,7 +711,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "4",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "29 Oct, 05:30 am",
       "event_time_raw": 1793232000000,
@@ -850,7 +767,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "6",
       "event_title": "ONE FRIDAY FIGHTS 176 - ONE vs ONE",
       "event_time": "30 Oct, 07:00 pm",
       "event_time_raw": 1793367000000,
@@ -869,7 +786,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "8",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -888,7 +805,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "10",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
