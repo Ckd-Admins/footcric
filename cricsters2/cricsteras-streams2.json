@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T08:59:48+05:30",
-  "generated_at_india": "28-10-2026 08:59:48 AM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-10-28T10:00:02+05:30",
+  "generated_at_india": "28-10-2026 10:00:02 AM IST",
+  "total": 24,
+  "ok": 24,
   "failed": 0,
   "events": [
     {
@@ -693,6 +693,25 @@
           "drm": {
             "kid": "69a5aa835a061ce64a630d1046727e40",
             "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50128,
+      "event_title": "Bangladesh vs West Indies",
+      "event_time": "2026-10-28 03:30",
+      "event_time_raw": "2026-10-28 03:30",
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BAWEFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]
