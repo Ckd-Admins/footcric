@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T16:01:36+05:30",
-  "generated_at_india": "28-10-2026 04:01:36 PM IST",
-  "total": 22,
+  "generated_at": "2026-10-28T16:58:35+05:30",
+  "generated_at_india": "28-10-2026 04:58:35 PM IST",
+  "total": 21,
   "events": [
     {
       "event_id": 50002,
@@ -173,14 +173,6 @@
       "event_time_raw": "2026-10-28 17:30",
       "category": "Serie A 🇮🇹",
       "stream_count": 1
-    },
-    {
-      "event_id": 50128,
-      "event_title": "Bangladesh vs West Indies",
-      "event_time": "2026-10-28 03:30",
-      "event_time_raw": "2026-10-28 03:30",
-      "category": "Cricket",
-      "stream_count": 2
     }
   ],
   "raw_data": ""
