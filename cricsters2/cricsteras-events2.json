@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T07:13:35+05:30",
-  "generated_at_india": "28-10-2026 07:13:35 AM IST",
-  "total": 18,
+  "generated_at": "2026-10-28T08:02:16+05:30",
+  "generated_at_india": "28-10-2026 08:02:16 AM IST",
+  "total": 23,
   "events": [
     {
       "event_id": 50002,
@@ -136,18 +136,58 @@
     },
     {
       "event_id": 50090,
-      "event_title": "Fleetwood Town vs Arsenal",
-      "event_time": "2026-10-27 20:00",
-      "event_time_raw": "2026-10-27 20:00",
+      "event_title": "Manchester City vs Brighton",
+      "event_time": "2026-10-28 19:30",
+      "event_time_raw": "2026-10-28 19:30",
       "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 1
     },
     {
       "event_id": 50091,
-      "event_title": "Borussia Dortmund vs Werder Bremen",
-      "event_time": "2026-10-27 19:45",
-      "event_time_raw": "2026-10-27 19:45",
-      "category": "DFB Pokal",
+      "event_title": "Liverpool vs Chelsea",
+      "event_time": "2026-10-28 20:00",
+      "event_time_raw": "2026-10-28 20:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50092,
+      "event_title": "Monza vs SSC Napoli",
+      "event_time": "2026-10-28 19:45",
+      "event_time_raw": "2026-10-28 19:45",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50094,
+      "event_title": "Bournemouth vs Aston Villa",
+      "event_time": "2026-10-28 19:45",
+      "event_time_raw": "2026-10-28 19:45",
+      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50101,
+      "event_title": "Porto vs Académico Viseu",
+      "event_time": "2026-10-28 20:30",
+      "event_time_raw": "2026-10-28 20:30",
+      "category": "Taça de Portugal",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50110,
+      "event_title": "Heart of Midlothian vs Rangers",
+      "event_time": "2026-10-28 20:00",
+      "event_time_raw": "2026-10-28 20:00",
+      "category": "Scottish Premiership",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50114,
+      "event_title": "Venezia vs Inter",
+      "event_time": "2026-10-28 17:30",
+      "event_time_raw": "2026-10-28 17:30",
+      "category": "Serie A 🇮🇹",
       "stream_count": 1
     }
   ],
