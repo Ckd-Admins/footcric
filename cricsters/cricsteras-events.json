@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T12:05:10+05:30",
-  "generated_at_india": "28-10-2026 00:05:10 PM IST",
-  "total": 20,
+  "generated_at": "2026-10-28T13:19:02+05:30",
+  "generated_at_india": "28-10-2026 01:19:02 PM IST",
+  "total": 22,
   "events": [
     {
       "event_id": "5",
@@ -71,7 +71,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "20",
+      "event_id": "22",
       "event_title": "NBA - New York Knicks vs Detroit Pistons",
       "event_time": "28 Oct, 05:30 am",
       "event_time_raw": 1793145600000,
@@ -95,6 +95,22 @@
       "stream_count": 1
     },
     {
+      "event_id": "19",
+      "event_title": "CWC Challenge League - Qatar vs Denmark",
+      "event_time": "28 Oct, 12:15 pm",
+      "event_time_raw": 1793169900000,
+      "category": "Cricket",
+      "stream_count": 1
+    },
+    {
+      "event_id": "20",
+      "event_title": "CWC Challenge League - Kuwait vs Kenya",
+      "event_time": "28 Oct, 12:15 pm",
+      "event_time_raw": 1793169900000,
+      "category": "Cricket",
+      "stream_count": 1
+    },
+    {
       "event_id": "13",
       "event_title": "ICC World Test Championship - South Africa vs Australia",
       "event_time": "28 Oct, 02:00 pm",
@@ -111,7 +127,7 @@
       "stream_count": 11
     },
     {
-      "event_id": "19",
+      "event_id": "21",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "28 Oct, 04:45 pm",
       "event_time_raw": 1793186100000,
