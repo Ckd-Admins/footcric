@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T17:02:03+05:30",
-  "generated_at_india": "28-10-2026 05:02:03 PM IST",
-  "total": 22,
+  "generated_at": "2026-10-28T18:06:09+05:30",
+  "generated_at_india": "28-10-2026 06:06:09 PM IST",
+  "total": 20,
   "events": [
     {
       "event_id": "5",
@@ -71,14 +71,6 @@
       "stream_count": 1
     },
     {
-      "event_id": "22",
-      "event_title": "NBA - New York Knicks vs Detroit Pistons",
-      "event_time": "28 Oct, 05:30 am",
-      "event_time_raw": 1793145600000,
-      "category": "Basketball",
-      "stream_count": 1
-    },
-    {
       "event_id": "11",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "28 Oct, 07:00 am",
@@ -87,23 +79,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "1",
-      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
-      "event_time": "28 Oct, 09:00 am",
-      "event_time_raw": 1793158200000,
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
       "event_id": "19",
-      "event_title": "CWC Challenge League - Qatar vs Denmark",
-      "event_time": "28 Oct, 12:15 pm",
-      "event_time_raw": 1793169900000,
-      "category": "Cricket",
-      "stream_count": 1
-    },
-    {
-      "event_id": "20",
       "event_title": "CWC Challenge League - Kuwait vs Kenya",
       "event_time": "28 Oct, 12:15 pm",
       "event_time_raw": 1793169900000,
@@ -127,7 +103,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "28 Oct, 04:45 pm",
       "event_time_raw": 1793186100000,
@@ -147,6 +123,14 @@
       "event_title": "ODI Tri-series in Pakistan - Sri Lanka vs England",
       "event_time": "29 Oct, 01:30 pm",
       "event_time_raw": 1793260800000,
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
+      "event_id": "1",
+      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
+      "event_time": "29 Oct, 09:00 pm",
+      "event_time_raw": 1793287800000,
       "category": "Cricket",
       "stream_count": 2
     },

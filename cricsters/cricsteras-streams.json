@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T17:02:03+05:30",
-  "generated_at_india": "28-10-2026 05:02:03 PM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-10-28T18:06:09+05:30",
+  "generated_at_india": "28-10-2026 06:06:09 PM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
@@ -305,25 +305,6 @@
       ]
     },
     {
-      "event_id": "22",
-      "event_title": "NBA - New York Knicks vs Detroit Pistons",
-      "event_time": "28 Oct, 05:30 am",
-      "event_time_raw": 1793145600000,
-      "category": "Basketball",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NEDETSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "11",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "28 Oct, 07:00 am",
@@ -361,54 +342,7 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
-      "event_time": "28 Oct, 09:00 am",
-      "event_time_raw": 1793158200000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "BAWEFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        },
-        {
-          "code": "BAWEFANCTZ",
-          "title": "FANCODE HD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-          "drm": {
-            "kid": "5318e462b9e0677487cb87837f0bbdb1",
-            "key": "4fa0fb973b95738306005f2e8591bf8e"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "19",
-      "event_title": "CWC Challenge League - Qatar vs Denmark",
-      "event_time": "28 Oct, 12:15 pm",
-      "event_time_raw": 1793169900000,
-      "category": "Cricket",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "QADESTRE",
-          "title": "Stream",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793209234~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=68e7f6d5dc47fb4ff428dfca500e02beb2674deea52ca009d2d3911486b4374a/manifest.mpd",
-          "drm": {
-            "kid": "39bd302cdeed3710a89fb004d232ab67",
-            "key": "9869f804ba18d7e508cbff781829221c"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "20",
       "event_title": "CWC Challenge League - Kuwait vs Kenya",
       "event_time": "28 Oct, 12:15 pm",
       "event_time_raw": 1793169900000,
@@ -528,7 +462,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "28 Oct, 04:45 pm",
       "event_time_raw": 1793186100000,
@@ -607,6 +541,34 @@
           "drm": {
             "kid": "3942bb0dd3a2c6c22814705725e22885",
             "key": "8cea7d844678df5ad86bf851d27a7f69"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "1",
+      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
+      "event_time": "29 Oct, 09:00 pm",
+      "event_time_raw": 1793287800000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "BAWEFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
+          }
+        },
+        {
+          "code": "BAWEFANCTZ",
+          "title": "FANCODE HD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+          "drm": {
+            "kid": "5318e462b9e0677487cb87837f0bbdb1",
+            "key": "4fa0fb973b95738306005f2e8591bf8e"
           }
         }
       ]
