@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T14:11:36+05:30",
-  "generated_at_india": "28-10-2026 02:11:36 PM IST",
+  "generated_at": "2026-10-28T15:08:26+05:30",
+  "generated_at_india": "28-10-2026 03:08:26 PM IST",
   "total": 22,
   "ok": 22,
   "failed": 0,
@@ -366,7 +366,7 @@
       "event_time": "28 Oct, 09:00 am",
       "event_time_raw": 1793158200000,
       "category": "Cricket",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "BAWEFANC",
@@ -375,6 +375,15 @@
           "drm": {
             "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
             "key": "22a1444b3da18e139191665b3d652835"
+          }
+        },
+        {
+          "code": "BAWEFANCTZ",
+          "title": "FANCODE HD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+          "drm": {
+            "kid": "5318e462b9e0677487cb87837f0bbdb1",
+            "key": "4fa0fb973b95738306005f2e8591bf8e"
           }
         }
       ]
@@ -423,7 +432,7 @@
       "event_time": "28 Oct, 02:00 pm",
       "event_time_raw": 1793176200000,
       "category": "Cricket",
-      "stream_count": 4,
+      "stream_count": 3,
       "streams": [
         {
           "code": "SOAUWILL",
@@ -444,15 +453,6 @@
           }
         },
         {
-          "code": "SOAUWILL0L",
-          "title": "WILLOW HD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        },
-        {
           "code": "SOAUEURO",
           "title": "EUROSPORT - AQ",
           "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
@@ -469,7 +469,7 @@
       "event_time": "28 Oct, 02:00 pm",
       "event_time_raw": 1793176200000,
       "category": "Cricket",
-      "stream_count": 11,
+      "stream_count": 6,
       "streams": [
         {
           "code": "INZIWILL",
@@ -523,51 +523,6 @@
           "drm": {
             "kid": "effcadcbcc634296a6cf65e231f10000",
             "key": "569c794c69ea496e9ad1887f557ea4dc"
-          }
-        },
-        {
-          "code": "INZISSSP",
-          "title": "SS SPORTS EN - IN",
-          "url": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?",
-          "drm": {
-            "kid": "e85897bf6e594d698b7c82646c8e0000",
-            "key": "d2dda31234ae40538843e871cd4dcc2a"
-          }
-        },
-        {
-          "code": "INZISSSP9G",
-          "title": "SS SPORTS HINDI - IN",
-          "url": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?",
-          "drm": {
-            "kid": "b9f1cb8a1361457bbd8097f8c2590000",
-            "key": "1960274b7ba344cb899eba2e80916774"
-          }
-        },
-        {
-          "code": "INZISSSPZN",
-          "title": "SS SPORTS TEL -IN",
-          "url": "https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd?",
-          "drm": {
-            "kid": "4634b32328f242e3be51c3e06cde0000",
-            "key": "42e90ab215bf4a438b55851b5e0f50dc"
-          }
-        },
-        {
-          "code": "INZISSSPDI",
-          "title": "SS SPORTS TAM - IN",
-          "url": "https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd?",
-          "drm": {
-            "kid": "01cc63d414394296bb3e6cfaffee0000",
-            "key": "c1fba587fc8b4218ade5ace1e62e5aaf"
-          }
-        },
-        {
-          "code": "INZISSSP5V",
-          "title": "SS SPORTS KAN - IN",
-          "url": "https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd?",
-          "drm": {
-            "kid": "eb2f9710abf44bb1bcf51400ccc00000",
-            "key": "5f29f372823346e78934431f2a924065"
           }
         }
       ]
