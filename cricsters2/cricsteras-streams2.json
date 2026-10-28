@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T13:35:06+05:30",
-  "generated_at_india": "28-10-2026 01:35:06 PM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-10-28T14:06:42+05:30",
+  "generated_at_india": "28-10-2026 02:06:42 PM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -388,34 +388,6 @@
       ]
     },
     {
-      "event_id": 50032,
-      "event_title": "Tampa Bay Rays vs Milwaukee Brewers",
-      "event_time": "2026-10-28 00:00",
-      "event_time_raw": "2026-10-28 00:00",
-      "category": "MLB",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "TAMITNTS",
-          "title": "TNT Sports FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "TAMIFOXD",
-          "title": "FOX DEPORTES",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm": {
-            "kid": "d1a163914db8ffad2c3e94f979896a0d",
-            "key": "9728800a3959aafdd5b0bcfbf3768811"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50062,
       "event_title": "South Africa vs Australia",
       "event_time": "2026-10-28 08:30",
@@ -426,10 +398,10 @@
         {
           "code": "SOAUWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jlsbixthj2/out/v1/828e8e7fd5264ae4ad3fd4d47a09a388/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cqpsmp3hvg/out/v1/9e9f972a0244430f880cee85c6addb7d/cenc.mpd",
           "drm": {
-            "kid": "fb8d8ec6aee94e5fca2fc189606b770a",
-            "key": "f17b252239990e99cb9c213a76470b52"
+            "kid": "6d8a8cf63f2cb151902100b0d9e668dd",
+            "key": "e75124a72568aee19b04558263d1d050"
           }
         },
         {
@@ -442,12 +414,12 @@
           }
         },
         {
-          "code": "SOAUWILLTK",
+          "code": "SOAUWILL5Q",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yi1ah9sgsj/out/v1/ffe37797429b4ed28810e8d7735124fc/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cqpsmp3hvg/out/v1/9e9f972a0244430f880cee85c6addb7d/cenc.mpd",
           "drm": {
-            "kid": "bdc52b31dcf25b0515a61fb9d0f444a2",
-            "key": "468ae45daef1021713e7ea869a340f96"
+            "kid": "6d8a8cf63f2cb151902100b0d9e668dd",
+            "key": "e75124a72568aee19b04558263d1d050"
           }
         }
       ]
@@ -480,6 +452,15 @@
       "stream_count": 4,
       "streams": [
         {
+          "code": "INZIWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd",
+          "drm": {
+            "kid": "2058d5339704f2e7313fef30cb0d505d",
+            "key": "d25e0448f0a7e71f9c426d0b0a51cfcd"
+          }
+        },
+        {
           "code": "INZITNTS",
           "title": "TNT SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
@@ -489,21 +470,12 @@
           }
         },
         {
-          "code": "INZIWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
-          "drm": {
-            "kid": "7aa827ea7809299f1459d4934d4d9953",
-            "key": "f899257f571bd6a083d8a113edfc3a39"
-          }
-        },
-        {
-          "code": "INZIWILL5D",
+          "code": "INZIWILLOO",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd",
           "drm": {
-            "kid": "7aa827ea7809299f1459d4934d4d9953",
-            "key": "f899257f571bd6a083d8a113edfc3a39"
+            "kid": "2058d5339704f2e7313fef30cb0d505d",
+            "key": "d25e0448f0a7e71f9c426d0b0a51cfcd"
           }
         },
         {
