@@ -2,11 +2,11 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T03:59:45+05:30",
-  "generated_at_india": "29-10-2026 03:59:45 AM IST",
+  "generated_at": "2026-10-29T04:56:24+05:30",
+  "generated_at_india": "29-10-2026 04:56:24 AM IST",
   "total": 30,
-  "ok": 29,
-  "failed": 1,
+  "ok": 30,
+  "failed": 0,
   "events": [
     {
       "event_id": "5",
@@ -934,8 +934,17 @@
       "event_time_raw": 1794162600000,
       "category": "Boxing",
       "stream_count": 1,
-      "streams": [],
-      "error": "GET https://foott.vercel.app/api/events?play=8 → 500 Internal Server Error"
+      "streams": [
+        {
+          "code": "MVMVSKYS",
+          "title": "SKY SPORTS NZ - AQ",
+          "url": "https://skygo-playz-links.vercel.app/skynz7.mpd",
+          "drm": {
+            "kid": "df2d9b6fca9b4f3697bda9614398b991",
+            "key": "d10a74b6649741bf8e2687c03f955c90"
+          }
+        }
+      ]
     },
     {
       "event_id": "10",
