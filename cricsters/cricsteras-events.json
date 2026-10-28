@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T08:06:24+05:30",
-  "generated_at_india": "28-10-2026 08:06:24 AM IST",
-  "total": 23,
+  "generated_at": "2026-10-28T09:03:53+05:30",
+  "generated_at_india": "28-10-2026 09:03:53 AM IST",
+  "total": 18,
   "events": [
     {
       "event_id": "4",
@@ -63,14 +63,6 @@
       "stream_count": 6
     },
     {
-      "event_id": "17",
-      "event_title": "Campeonato Brasileiro Série A - Coritiba vs Grêmio",
-      "event_time": "27 Oct, 04:00 am",
-      "event_time_raw": 1793053800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
       "event_id": "8",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "27 Oct, 06:00 pm",
@@ -80,43 +72,11 @@
     },
     {
       "event_id": "18",
-      "event_title": "Serie A - AS Roma vs Cagliari",
-      "event_time": "28 Oct, 01:15 am",
-      "event_time_raw": 1793130300000,
-      "category": "Football",
-      "stream_count": 4
-    },
-    {
-      "event_id": "19",
-      "event_title": "DFB Pokal - Borussia Dortmund vs SV Werder Bremen",
-      "event_time": "28 Oct, 01:15 am",
-      "event_time_raw": 1793130300000,
-      "category": "Football",
+      "event_title": "NBA - New York Knicks vs Detroit Pistons",
+      "event_time": "28 Oct, 05:30 am",
+      "event_time_raw": 1793145600000,
+      "category": "Basketball",
       "stream_count": 1
-    },
-    {
-      "event_id": "20",
-      "event_title": "Serie A - Torino vs Como",
-      "event_time": "28 Oct, 01:15 am",
-      "event_time_raw": 1793130300000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "22",
-      "event_title": "EFL Cup - Bradford City vs Peterborough United",
-      "event_time": "28 Oct, 01:15 am",
-      "event_time_raw": 1793130300000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "21",
-      "event_title": "EFL Cup - Fleetwood Town vs Arsenal",
-      "event_time": "28 Oct, 01:30 am",
-      "event_time_raw": 1793131200000,
-      "category": "Football",
-      "stream_count": 2
     },
     {
       "event_id": "10",
@@ -127,7 +87,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "23",
+      "event_id": "17",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "28 Oct, 12:15 pm",
       "event_time_raw": 1793169900000,
