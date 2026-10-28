@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T13:19:02+05:30",
-  "generated_at_india": "28-10-2026 01:19:02 PM IST",
+  "generated_at": "2026-10-28T14:11:36+05:30",
+  "generated_at_india": "28-10-2026 02:11:36 PM IST",
   "total": 22,
   "ok": 22,
   "failed": 0,
@@ -428,10 +428,10 @@
         {
           "code": "SOAUWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mdzi0aespt/out/v1/ebc753f4d4af40e481e5506bad35eb42/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd",
           "drm": {
-            "kid": "bdc52b31dcf25b0515a61fb9d0f444a2",
-            "key": "468ae45daef1021713e7ea869a340f96"
+            "kid": "6d8a8cf63f2cb151902100b0d9e668dd",
+            "key": "e75124a72568aee19b04558263d1d050"
           }
         },
         {
@@ -474,28 +474,28 @@
         {
           "code": "INZIWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd",
           "drm": {
-            "kid": "7aa827ea7809299f1459d4934d4d9953",
-            "key": "f899257f571bd6a083d8a113edfc3a39"
+            "kid": "2058d5339704f2e7313fef30cb0d505d",
+            "key": "d25e0448f0a7e71f9c426d0b0a51cfcd"
           }
         },
         {
           "code": "INZITNTS",
           "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
           "drm": {
-            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
-            "key": "552a78d1aeb74f1650d68255c5749408"
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
           }
         },
         {
-          "code": "INZIWILLCR",
+          "code": "INZIWILLOO",
           "title": "WILLOW S2 - AQ",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd",
           "drm": {
-            "kid": "7aa827ea7809299f1459d4934d4d9953",
-            "key": "f899257f571bd6a083d8a113edfc3a39"
+            "kid": "2058d5339704f2e7313fef30cb0d505d",
+            "key": "d25e0448f0a7e71f9c426d0b0a51cfcd"
           }
         },
         {
