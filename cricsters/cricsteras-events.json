@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T22:10:48+05:30",
-  "generated_at_india": "28-10-2026 10:10:48 PM IST",
-  "total": 24,
+  "generated_at": "2026-10-28T23:06:36+05:30",
+  "generated_at_india": "28-10-2026 11:06:36 PM IST",
+  "total": 27,
   "events": [
     {
       "event_id": "5",
@@ -63,22 +63,6 @@
       "stream_count": 6
     },
     {
-      "event_id": "13",
-      "event_title": "ICC World Test Championship - South Africa vs Australia",
-      "event_time": "28 Oct, 02:00 pm",
-      "event_time_raw": 1793176200000,
-      "category": "Cricket",
-      "stream_count": 3
-    },
-    {
-      "event_id": "18",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "28 Oct, 04:45 pm",
-      "event_time_raw": 1793186100000,
-      "category": "Cricket",
-      "stream_count": 1
-    },
-    {
       "event_id": "9",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "28 Oct, 06:00 pm",
@@ -87,15 +71,47 @@
       "stream_count": 1
     },
     {
+      "event_id": "11",
+      "event_title": "Tokyo Open 2026 - WTA vs WTA",
+      "event_time": "28 Oct, 10:00 pm",
+      "event_time_raw": 1793205000000,
+      "category": "Tennis",
+      "stream_count": 3
+    },
+    {
+      "event_id": "26",
+      "event_title": "DFB Pokal - SSV Jeddeloh II vs Hertha BSC",
+      "event_time": "28 Oct, 10:30 pm",
+      "event_time_raw": 1793206800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "27",
+      "event_title": "DFB Pokal - SG Dynamo Dresden vs FC Schalke 04",
+      "event_time": "28 Oct, 10:30 pm",
+      "event_time_raw": 1793206800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
       "event_id": "22",
       "event_title": "Serie A - AC Milan vs Bologna",
+      "event_time": "28 Oct, 11:00 pm",
+      "event_time_raw": 1793208600000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "23",
+      "event_title": "Serie A - Parma vs Udinese",
       "event_time": "28 Oct, 11:00 pm",
       "event_time_raw": 1793208600000,
       "category": "Football",
       "stream_count": 1
     },
     {
-      "event_id": "23",
+      "event_id": "24",
       "event_title": "Serie A - Venezia vs Inter",
       "event_time": "28 Oct, 11:00 pm",
       "event_time_raw": 1793208600000,
@@ -119,7 +135,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "Serie A - Monza vs SSC Napoli",
       "event_time": "29 Oct, 01:15 am",
       "event_time_raw": 1793216700000,
@@ -143,12 +159,12 @@
       "stream_count": 3
     },
     {
-      "event_id": "11",
-      "event_title": "Tokyo Open 2026 - WTA vs WTA",
-      "event_time": "29 Oct, 07:00 am",
-      "event_time_raw": 1793237400000,
-      "category": "Tennis",
-      "stream_count": 3
+      "event_id": "18",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "29 Oct, 12:15 pm",
+      "event_time_raw": 1793256300000,
+      "category": "Cricket",
+      "stream_count": 1
     },
     {
       "event_id": "14",
@@ -157,6 +173,14 @@
       "event_time_raw": 1793260800000,
       "category": "Cricket",
       "stream_count": 2
+    },
+    {
+      "event_id": "13",
+      "event_title": "ICC World Test Championship - South Africa vs Australia",
+      "event_time": "29 Oct, 02:00 pm",
+      "event_time_raw": 1793262600000,
+      "category": "Cricket",
+      "stream_count": 3
     },
     {
       "event_id": "1",

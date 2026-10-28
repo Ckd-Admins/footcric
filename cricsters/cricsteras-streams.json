@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T22:10:48+05:30",
-  "generated_at_india": "28-10-2026 10:10:48 PM IST",
-  "total": 24,
-  "ok": 24,
+  "generated_at": "2026-10-28T23:06:36+05:30",
+  "generated_at_india": "28-10-2026 11:06:36 PM IST",
+  "total": 27,
+  "ok": 27,
   "failed": 0,
   "events": [
     {
@@ -286,62 +286,6 @@
       ]
     },
     {
-      "event_id": "13",
-      "event_title": "ICC World Test Championship - South Africa vs Australia",
-      "event_time": "28 Oct, 02:00 pm",
-      "event_time_raw": 1793176200000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SOAUWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd",
-          "drm": {
-            "kid": "6d8a8cf63f2cb151902100b0d9e668dd",
-            "key": "e75124a72568aee19b04558263d1d050"
-          }
-        },
-        {
-          "code": "SOAUFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "SOAUEURO",
-          "title": "EUROSPORT - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "18",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "28 Oct, 04:45 pm",
-      "event_time_raw": 1793186100000,
-      "category": "Cricket",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NPNPFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "9",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "28 Oct, 06:00 pm",
@@ -361,13 +305,97 @@
       ]
     },
     {
+      "event_id": "11",
+      "event_title": "Tokyo Open 2026 - WTA vs WTA",
+      "event_time": "28 Oct, 10:00 pm",
+      "event_time_raw": 1793205000000,
+      "category": "Tennis",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "WTWTBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "WTWTTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
+          }
+        },
+        {
+          "code": "WTWTSTAN",
+          "title": "STAN SPORTS - AQ (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/5ec7de30e2d849f089dc60b168fbe10f/index.mpd",
+          "drm": {
+            "kid": "edc1a8d96fd54964b8ffbf6c8a35bd1f",
+            "key": "a7c4d75c9081ac5feeaf5ce144593d9d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "26",
+      "event_title": "DFB Pokal - SSV Jeddeloh II vs Hertha BSC",
+      "event_time": "28 Oct, 10:30 pm",
+      "event_time_raw": 1793206800000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SSHEDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5c1wmtpnkt/out/v1/f44c0f09310042fa80615ed0018d537c/cenc.mpd",
+          "drm": {
+            "kid": "94051aafb2f6e4d73ce42ab1f79791bf",
+            "key": "10a701be1e7e56b65d3147fe972c9eef"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "27",
+      "event_title": "DFB Pokal - SG Dynamo Dresden vs FC Schalke 04",
+      "event_time": "28 Oct, 10:30 pm",
+      "event_time_raw": 1793206800000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SGFCDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/g4a6dittnj/out/v1/6287948a93e5404c992b9d4107f70351/cenc.mpd",
+          "drm": {
+            "kid": "c38b763df02bcbcad5d646ce67754950",
+            "key": "420304b535d20af8b2ee94416390f6a9"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "22",
       "event_title": "Serie A - AC Milan vs Bologna",
       "event_time": "28 Oct, 11:00 pm",
       "event_time_raw": 1793208600000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "ACBOPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6qnsteqlfu/out/v1/8d532d5fa02148d5995bf223c792d90b/cenc.mpd?aws_sessionId=713dad6c-0a5d-4f13-8204-9311004d0e38",
+          "drm": {
+            "kid": "56532b72abae9f70b12195ca540ecb00",
+            "key": "a5c19fccd76a86ef20365dfc6585d016"
+          }
+        },
         {
           "code": "ACBOTNTS",
           "title": "TNT SPORTS FHD",
@@ -381,6 +409,25 @@
     },
     {
       "event_id": "23",
+      "event_title": "Serie A - Parma vs Udinese",
+      "event_time": "28 Oct, 11:00 pm",
+      "event_time_raw": 1793208600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "PAUDPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7zrtkrh2ho/out/v1/abd2e01159ae4c778d34c4f46e26c4ed/cenc.mpd?aws_sessionId=8605f72c-7bf9-4370-b4af-87fea5674781",
+          "drm": {
+            "kid": "56fafd1b9ce3078c8c0301386ded6b24",
+            "key": "daae4229cbbd3546ba07498cd22a3dd5"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "24",
       "event_title": "Serie A - Venezia vs Inter",
       "event_time": "28 Oct, 11:00 pm",
       "event_time_raw": 1793208600000,
@@ -446,7 +493,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "Serie A - Monza vs SSC Napoli",
       "event_time": "29 Oct, 01:15 am",
       "event_time_raw": 1793216700000,
@@ -521,38 +568,20 @@
       ]
     },
     {
-      "event_id": "11",
-      "event_title": "Tokyo Open 2026 - WTA vs WTA",
-      "event_time": "29 Oct, 07:00 am",
-      "event_time_raw": 1793237400000,
-      "category": "Tennis",
-      "stream_count": 3,
+      "event_id": "18",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "29 Oct, 12:15 pm",
+      "event_time_raw": 1793256300000,
+      "category": "Cricket",
+      "stream_count": 1,
       "streams": [
         {
-          "code": "WTWTBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "code": "NPNPFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
           "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        },
-        {
-          "code": "WTWTTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        },
-        {
-          "code": "WTWTSTAN",
-          "title": "STAN SPORTS - AQ (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/5ec7de30e2d849f089dc60b168fbe10f/index.mpd",
-          "drm": {
-            "kid": "edc1a8d96fd54964b8ffbf6c8a35bd1f",
-            "key": "a7c4d75c9081ac5feeaf5ce144593d9d"
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]
@@ -581,6 +610,43 @@
           "drm": {
             "kid": "3942bb0dd3a2c6c22814705725e22885",
             "key": "8cea7d844678df5ad86bf851d27a7f69"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "13",
+      "event_title": "ICC World Test Championship - South Africa vs Australia",
+      "event_time": "29 Oct, 02:00 pm",
+      "event_time_raw": 1793262600000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "SOAUWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd",
+          "drm": {
+            "kid": "6d8a8cf63f2cb151902100b0d9e668dd",
+            "key": "e75124a72568aee19b04558263d1d050"
+          }
+        },
+        {
+          "code": "SOAUFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "SOAUEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
           }
         }
       ]
