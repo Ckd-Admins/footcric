@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T01:08:57+05:30",
-  "generated_at_india": "29-10-2026 01:08:57 AM IST",
-  "total": 25,
+  "generated_at": "2026-10-29T02:01:32+05:30",
+  "generated_at_india": "29-10-2026 02:01:32 AM IST",
+  "total": 28,
   "events": [
     {
       "event_id": "5",
@@ -80,47 +80,71 @@
     },
     {
       "event_id": "22",
-      "event_title": "Serie A - AC Milan vs Bologna",
-      "event_time": "28 Oct, 11:00 pm",
-      "event_time_raw": 1793208600000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "23",
-      "event_title": "Serie A - Parma vs Udinese",
-      "event_time": "28 Oct, 11:00 pm",
-      "event_time_raw": 1793208600000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "24",
-      "event_title": "Serie A - Venezia vs Inter",
-      "event_time": "28 Oct, 11:00 pm",
-      "event_time_raw": 1793208600000,
+      "event_title": "EFL Cup - Manchester City vs Brighton & Hove Albion",
+      "event_time": "29 Oct, 01:00 am",
+      "event_time_raw": 1793215800000,
       "category": "Football",
       "stream_count": 4
     },
     {
       "event_id": "20",
-      "event_title": "EFL Cup - Manchester City vs Brighton & Hove Albion",
-      "event_time": "29 Oct, 01:00 am",
-      "event_time_raw": 1793215800000,
+      "event_title": "EFL Cup - Fulham vs Crystal Palace",
+      "event_time": "29 Oct, 01:15 am",
+      "event_time_raw": 1793216700000,
       "category": "Football",
       "stream_count": 2
     },
     {
       "event_id": "21",
+      "event_title": "EFL Cup - Sunderland vs Brentford",
+      "event_time": "29 Oct, 01:15 am",
+      "event_time_raw": 1793216700000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "23",
       "event_title": "EFL Cup - Bournemouth vs Aston Villa",
+      "event_time": "29 Oct, 01:15 am",
+      "event_time_raw": 1793216700000,
+      "category": "Football",
+      "stream_count": 3
+    },
+    {
+      "event_id": "24",
+      "event_title": "Serie A - Genoa vs Juventus",
+      "event_time": "29 Oct, 01:15 am",
+      "event_time_raw": 1793216700000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "25",
+      "event_title": "Serie A - Monza vs SSC Napoli",
+      "event_time": "29 Oct, 01:15 am",
+      "event_time_raw": 1793216700000,
+      "category": "Football",
+      "stream_count": 3
+    },
+    {
+      "event_id": "26",
+      "event_title": "DFB Pokal - FC Bayern München vs 1. FC Magdeburg",
       "event_time": "29 Oct, 01:15 am",
       "event_time_raw": 1793216700000,
       "category": "Football",
       "stream_count": 1
     },
     {
-      "event_id": "25",
-      "event_title": "Serie A - Monza vs SSC Napoli",
+      "event_id": "27",
+      "event_title": "DFB Pokal - Bayer 04 Leverkusen vs 1. FC Nürnberg",
+      "event_time": "29 Oct, 01:15 am",
+      "event_time_raw": 1793216700000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "28",
+      "event_title": "DFB Pokal - Holstein Kiel vs TSG Hoffenheim",
       "event_time": "29 Oct, 01:15 am",
       "event_time_raw": 1793216700000,
       "category": "Football",
@@ -132,7 +156,7 @@
       "event_time": "29 Oct, 01:30 am",
       "event_time_raw": 1793217600000,
       "category": "Football",
-      "stream_count": 1
+      "stream_count": 4
     },
     {
       "event_id": "4",
