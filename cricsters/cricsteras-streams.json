@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T02:01:32+05:30",
-  "generated_at_india": "29-10-2026 02:01:32 AM IST",
-  "total": 28,
-  "ok": 28,
+  "generated_at": "2026-10-29T02:59:05+05:30",
+  "generated_at_india": "29-10-2026 02:59:05 AM IST",
+  "total": 30,
+  "ok": 30,
   "failed": 0,
   "events": [
     {
@@ -603,6 +603,25 @@
       ]
     },
     {
+      "event_id": "29",
+      "event_title": "DFB Pokal - Hannover 96 vs 1. FC Kaiserslautern",
+      "event_time": "29 Oct, 01:15 am",
+      "event_time_raw": 1793216700000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "HA1DAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zpfgzu5228/out/v1/5e2d0fef20ab4faf9df23b6603b97d10/cenc.mpd",
+          "drm": {
+            "kid": "beed6ab2bdeba2e841155d0ea3f02242",
+            "key": "8b71a8a3aef5e5813697b0d8ebd3ad29"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "19",
       "event_title": "EFL Cup - Liverpool FC vs Chelsea",
       "event_time": "29 Oct, 01:30 am",
@@ -644,6 +663,25 @@
           "drm": {
             "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
             "key": "22a1444b3da18e139191665b3d652835"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "30",
+      "event_title": "UEFA Women's Champions League - OL Lyonnes vs Inter",
+      "event_time": "29 Oct, 01:30 am",
+      "event_time_raw": 1793217600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "OLINPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qtz2jxwrkj/out/v1/0cd9903fb7354e8c8126f1eb179b424f/cenc.mpd?aws_sessionId=5c16e621-a01b-4e60-b3e7-b9830b559dbf",
+          "drm": {
+            "kid": "b5388f81912bd3ee65f6566eda52ef7e",
+            "key": "94cf0d0c269f34126b56674e97a26f9d"
           }
         }
       ]

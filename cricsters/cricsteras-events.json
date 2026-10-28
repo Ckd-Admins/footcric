@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T02:01:32+05:30",
-  "generated_at_india": "29-10-2026 02:01:32 AM IST",
-  "total": 28,
+  "generated_at": "2026-10-29T02:59:05+05:30",
+  "generated_at_india": "29-10-2026 02:59:05 AM IST",
+  "total": 30,
   "events": [
     {
       "event_id": "5",
@@ -151,12 +151,28 @@
       "stream_count": 1
     },
     {
+      "event_id": "29",
+      "event_title": "DFB Pokal - Hannover 96 vs 1. FC Kaiserslautern",
+      "event_time": "29 Oct, 01:15 am",
+      "event_time_raw": 1793216700000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
       "event_id": "19",
       "event_title": "EFL Cup - Liverpool FC vs Chelsea",
       "event_time": "29 Oct, 01:30 am",
       "event_time_raw": 1793217600000,
       "category": "Football",
       "stream_count": 4
+    },
+    {
+      "event_id": "30",
+      "event_title": "UEFA Women's Champions League - OL Lyonnes vs Inter",
+      "event_time": "29 Oct, 01:30 am",
+      "event_time_raw": 1793217600000,
+      "category": "Football",
+      "stream_count": 1
     },
     {
       "event_id": "4",
