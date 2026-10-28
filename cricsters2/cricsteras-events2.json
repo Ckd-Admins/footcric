@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T22:07:46+05:30",
-  "generated_at_india": "28-10-2026 10:07:46 PM IST",
-  "total": 21,
+  "generated_at": "2026-10-28T23:03:48+05:30",
+  "generated_at_india": "28-10-2026 11:03:48 PM IST",
+  "total": 26,
   "events": [
     {
       "event_id": 50002,
@@ -169,6 +169,46 @@
     {
       "event_id": 50115,
       "event_title": "AC Milan vs Bologna",
+      "event_time": "2026-10-28 17:30",
+      "event_time_raw": "2026-10-28 17:30",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50116,
+      "event_title": "SC Freiburg vs VfL Wolfsburg",
+      "event_time": "2026-10-28 17:00",
+      "event_time_raw": "2026-10-28 17:00",
+      "category": "DFB Pokal",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50117,
+      "event_title": "Paderborn vs VfB Stuttgart",
+      "event_time": "2026-10-28 17:00",
+      "event_time_raw": "2026-10-28 17:00",
+      "category": "DFB Pokal",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50118,
+      "event_title": "Dynamo Dresden vs Schalke 04",
+      "event_time": "2026-10-28 17:00",
+      "event_time_raw": "2026-10-28 17:00",
+      "category": "DFB Pokal",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50119,
+      "event_title": "SSV Jeddeloh vs Hertha BSC",
+      "event_time": "2026-10-28 17:00",
+      "event_time_raw": "2026-10-28 17:00",
+      "category": "DFB Pokal",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50128,
+      "event_title": "Parma vs Udinese",
       "event_time": "2026-10-28 17:30",
       "event_time_raw": "2026-10-28 17:30",
       "category": "Serie A 🇮🇹",

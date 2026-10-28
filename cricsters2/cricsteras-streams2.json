@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T22:07:46+05:30",
-  "generated_at_india": "28-10-2026 10:07:46 PM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-10-28T23:03:48+05:30",
+  "generated_at_india": "28-10-2026 11:03:48 PM IST",
+  "total": 26,
+  "ok": 26,
   "failed": 0,
   "events": [
     {
@@ -637,8 +637,17 @@
       "event_time": "2026-10-28 17:30",
       "event_time_raw": "2026-10-28 17:30",
       "category": "Serie A 🇮🇹",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "ACBOPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6qnsteqlfu/out/v1/8d532d5fa02148d5995bf223c792d90b/cenc.mpd?aws_sessionId=713dad6c-0a5d-4f13-8204-9311004d0e38",
+          "drm": {
+            "kid": "56532b72abae9f70b12195ca540ecb00",
+            "key": "a5c19fccd76a86ef20365dfc6585d016"
+          }
+        },
         {
           "code": "ACBOTNTS",
           "title": "TNT SPORTS FHD",
@@ -646,6 +655,101 @@
           "drm": {
             "kid": "69a5aa835a061ce64a630d1046727e40",
             "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50116,
+      "event_title": "SC Freiburg vs VfL Wolfsburg",
+      "event_time": "2026-10-28 17:00",
+      "event_time_raw": "2026-10-28 17:00",
+      "category": "DFB Pokal",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SCVFDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pelrgwizbi/out/v1/48e1c58a8b9e4600812a7252c3ba5fcf/cenc.mpd",
+          "drm": {
+            "kid": "3cc4f7d0aa2788320c15118d3896a0b1",
+            "key": "b73555878f9ab61ba10cba61878afd15"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50117,
+      "event_title": "Paderborn vs VfB Stuttgart",
+      "event_time": "2026-10-28 17:00",
+      "event_time_raw": "2026-10-28 17:00",
+      "category": "DFB Pokal",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "PAVFDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vtbs5yn2bo/out/v1/771f80aba4674c1d9795982069716769/cenc.mpd",
+          "drm": {
+            "kid": "b6d12b3dc30f7db7adb951fc591451f4",
+            "key": "a5a34a9a631a8ece20de725f205eff84"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50118,
+      "event_title": "Dynamo Dresden vs Schalke 04",
+      "event_time": "2026-10-28 17:00",
+      "event_time_raw": "2026-10-28 17:00",
+      "category": "DFB Pokal",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "DYSCDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/g4a6dittnj/out/v1/6287948a93e5404c992b9d4107f70351/cenc.mpd",
+          "drm": {
+            "kid": "c38b763df02bcbcad5d646ce67754950",
+            "key": "420304b535d20af8b2ee94416390f6a9"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50119,
+      "event_title": "SSV Jeddeloh vs Hertha BSC",
+      "event_time": "2026-10-28 17:00",
+      "event_time_raw": "2026-10-28 17:00",
+      "category": "DFB Pokal",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SSHEDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5c1wmtpnkt/out/v1/f44c0f09310042fa80615ed0018d537c/cenc.mpd",
+          "drm": {
+            "kid": "94051aafb2f6e4d73ce42ab1f79791bf",
+            "key": "10a701be1e7e56b65d3147fe972c9eef"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50128,
+      "event_title": "Parma vs Udinese",
+      "event_time": "2026-10-28 17:30",
+      "event_time_raw": "2026-10-28 17:30",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "PAUDPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/7zrtkrh2ho/out/v1/abd2e01159ae4c778d34c4f46e26c4ed/cenc.mpd?aws_sessionId=8605f72c-7bf9-4370-b4af-87fea5674781",
+          "drm": {
+            "kid": "56fafd1b9ce3078c8c0301386ded6b24",
+            "key": "daae4229cbbd3546ba07498cd22a3dd5"
           }
         }
       ]
