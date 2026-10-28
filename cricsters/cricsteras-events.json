@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T00:03:58+05:30",
-  "generated_at_india": "29-10-2026 00:03:58 AM IST",
-  "total": 27,
+  "generated_at": "2026-10-29T01:08:57+05:30",
+  "generated_at_india": "29-10-2026 01:08:57 AM IST",
+  "total": 25,
   "events": [
     {
       "event_id": "5",
@@ -79,22 +79,6 @@
       "stream_count": 3
     },
     {
-      "event_id": "26",
-      "event_title": "DFB Pokal - SSV Jeddeloh II vs Hertha BSC",
-      "event_time": "28 Oct, 10:30 pm",
-      "event_time_raw": 1793206800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "27",
-      "event_title": "DFB Pokal - SG Dynamo Dresden vs FC Schalke 04",
-      "event_time": "28 Oct, 10:30 pm",
-      "event_time_raw": 1793206800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
       "event_id": "22",
       "event_title": "Serie A - AC Milan vs Bologna",
       "event_time": "28 Oct, 11:00 pm",
@@ -124,7 +108,7 @@
       "event_time": "29 Oct, 01:00 am",
       "event_time_raw": 1793215800000,
       "category": "Football",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": "21",
