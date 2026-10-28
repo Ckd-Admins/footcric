@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T20:13:40+05:30",
-  "generated_at_india": "28-10-2026 08:13:40 PM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-10-28T21:11:02+05:30",
+  "generated_at_india": "28-10-2026 09:11:02 PM IST",
+  "total": 24,
+  "ok": 24,
   "failed": 0,
   "events": [
     {
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "22",
       "event_title": "Serie A - AC Milan vs Bologna",
       "event_time": "28 Oct, 11:00 pm",
       "event_time_raw": 1793208600000,
@@ -380,7 +380,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "23",
       "event_title": "Serie A - Venezia vs Inter",
       "event_time": "28 Oct, 11:00 pm",
       "event_time_raw": 1793208600000,
@@ -408,7 +408,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "EFL Cup - Manchester City vs Brighton & Hove Albion",
       "event_time": "29 Oct, 01:00 am",
       "event_time_raw": 1793215800000,
@@ -427,7 +427,26 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "21",
+      "event_title": "EFL Cup - Bournemouth vs Aston Villa",
+      "event_time": "29 Oct, 01:15 am",
+      "event_time_raw": 1793216700000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BOASCBSS",
+          "title": "CBS SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "24",
       "event_title": "Serie A - Monza vs SSC Napoli",
       "event_time": "29 Oct, 01:15 am",
       "event_time_raw": 1793216700000,
@@ -441,6 +460,25 @@
           "drm": {
             "kid": "69a5aa835a061ce64a630d1046727e40",
             "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "19",
+      "event_title": "EFL Cup - Liverpool FC vs Chelsea",
+      "event_time": "29 Oct, 01:30 am",
+      "event_time_raw": 1793217600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LICHBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
           }
         }
       ]
