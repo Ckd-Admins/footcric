@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T08:02:16+05:30",
-  "generated_at_india": "28-10-2026 08:02:16 AM IST",
+  "generated_at": "2026-10-28T08:59:48+05:30",
+  "generated_at_india": "28-10-2026 08:59:48 AM IST",
   "total": 23,
   "events": [
     {
@@ -41,16 +41,16 @@
     {
       "event_id": 50007,
       "event_title": "Afghanistan vs Zimbabwe",
-      "event_time": "2026-10-27 14:30",
-      "event_time_raw": "2026-10-27 14:30",
+      "event_time": "2026-10-29 14:30",
+      "event_time_raw": "2026-10-29 14:30",
       "category": "Cricket",
       "stream_count": 2
     },
     {
       "event_id": 50008,
       "event_title": "New Zealand vs India",
-      "event_time": "2026-10-27 07:00",
-      "event_time_raw": "2026-10-27 07:00",
+      "event_time": "2026-10-30 07:00",
+      "event_time_raw": "2026-10-30 07:00",
       "category": "Cricket",
       "stream_count": 7
     },
@@ -72,9 +72,9 @@
     },
     {
       "event_id": 50012,
-      "event_title": "Pakistan vs Sri Lanka",
-      "event_time": "2026-10-27 08:00",
-      "event_time_raw": "2026-10-27 08:00",
+      "event_title": "Sri Lanka vs England",
+      "event_time": "2026-10-29 08:00",
+      "event_time_raw": "2026-10-29 08:00",
       "category": "Cricket",
       "stream_count": 2
     },
@@ -95,14 +95,6 @@
       "stream_count": 2
     },
     {
-      "event_id": 50044,
-      "event_title": "New York Knicks vs Detroit Pistons",
-      "event_time": "2026-10-28 00:00",
-      "event_time_raw": "2026-10-28 00:00",
-      "category": "NBA",
-      "stream_count": 2
-    },
-    {
       "event_id": 50062,
       "event_title": "South Africa vs Australia",
       "event_time": "2026-10-28 08:30",
@@ -119,20 +111,20 @@
       "stream_count": 1
     },
     {
-      "event_id": 50075,
-      "event_title": "Philadelphia Flyers vs Columbus Blue Jackets",
-      "event_time": "2026-10-27 23:00",
-      "event_time_raw": "2026-10-27 23:00",
-      "category": "NHL",
-      "stream_count": 1
-    },
-    {
       "event_id": 50078,
       "event_title": "Dallas Stars vs New Jersey Devils",
       "event_time": "2026-10-28 00:00",
       "event_time_raw": "2026-10-28 00:00",
       "category": "NHL",
       "stream_count": 1
+    },
+    {
+      "event_id": 50085,
+      "event_title": "India Women vs Zimbabwe Women",
+      "event_time": "2026-10-28 08:30",
+      "event_time_raw": "2026-10-28 08:30",
+      "category": "Cricket",
+      "stream_count": 4
     },
     {
       "event_id": 50090,
@@ -147,7 +139,7 @@
       "event_title": "Liverpool vs Chelsea",
       "event_time": "2026-10-28 20:00",
       "event_time_raw": "2026-10-28 20:00",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 1
     },
     {
@@ -185,6 +177,14 @@
     {
       "event_id": 50114,
       "event_title": "Venezia vs Inter",
+      "event_time": "2026-10-28 17:30",
+      "event_time_raw": "2026-10-28 17:30",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50115,
+      "event_title": "AC Milan vs Bologna",
       "event_time": "2026-10-28 17:30",
       "event_time_raw": "2026-10-28 17:30",
       "category": "Serie A 🇮🇹",

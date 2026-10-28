@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T08:02:16+05:30",
-  "generated_at_india": "28-10-2026 08:02:16 AM IST",
+  "generated_at": "2026-10-28T08:59:48+05:30",
+  "generated_at_india": "28-10-2026 08:59:48 AM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -186,8 +186,8 @@
     {
       "event_id": 50007,
       "event_title": "Afghanistan vs Zimbabwe",
-      "event_time": "2026-10-27 14:30",
-      "event_time_raw": "2026-10-27 14:30",
+      "event_time": "2026-10-29 14:30",
+      "event_time_raw": "2026-10-29 14:30",
       "category": "Cricket",
       "stream_count": 2,
       "streams": [
@@ -214,8 +214,8 @@
     {
       "event_id": 50008,
       "event_title": "New Zealand vs India",
-      "event_time": "2026-10-27 07:00",
-      "event_time_raw": "2026-10-27 07:00",
+      "event_time": "2026-10-30 07:00",
+      "event_time_raw": "2026-10-30 07:00",
       "category": "Cricket",
       "stream_count": 7,
       "streams": [
@@ -342,14 +342,14 @@
     },
     {
       "event_id": 50012,
-      "event_title": "Pakistan vs Sri Lanka",
-      "event_time": "2026-10-27 08:00",
-      "event_time_raw": "2026-10-27 08:00",
+      "event_title": "Sri Lanka vs England",
+      "event_time": "2026-10-29 08:00",
+      "event_time_raw": "2026-10-29 08:00",
       "category": "Cricket",
       "stream_count": 2,
       "streams": [
         {
-          "code": "PASRWILL",
+          "code": "SRENWILL",
           "title": "WILLOW - FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qlhkaywvyy/out/v1/d904a3e8abc940139881639cf378de84/cenc.mpd",
           "drm": {
@@ -358,7 +358,7 @@
           }
         },
         {
-          "code": "PASRWILLSG",
+          "code": "SRENWILLJB",
           "title": "WILLOW - ALT",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jcogtjna1p/out/v1/49e48e49b1b74230bc32c008303e962f/cenc.mpd",
           "drm": {
@@ -411,34 +411,6 @@
           "drm": {
             "kid": "d1a163914db8ffad2c3e94f979896a0d",
             "key": "9728800a3959aafdd5b0bcfbf3768811"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50044,
-      "event_title": "New York Knicks vs Detroit Pistons",
-      "event_time": "2026-10-28 00:00",
-      "event_time_raw": "2026-10-28 00:00",
-      "category": "NBA",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "NEDETSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
-          }
-        },
-        {
-          "code": "NEDENBCS",
-          "title": "NBC SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
-          "drm": {
-            "kid": "36a385124dcdfb2f0969935065e03afa",
-            "key": "ccecd65514dff22eae493b975ccf9a9e"
           }
         }
       ]
@@ -500,25 +472,6 @@
       ]
     },
     {
-      "event_id": 50075,
-      "event_title": "Philadelphia Flyers vs Columbus Blue Jackets",
-      "event_time": "2026-10-27 23:00",
-      "event_time_raw": "2026-10-27 23:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "PHCOPREM",
-          "title": "PREMIER SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50078,
       "event_title": "Dallas Stars vs New Jersey Devils",
       "event_time": "2026-10-28 00:00",
@@ -533,6 +486,52 @@
           "drm": {
             "kid": "1444f4235529f183f0a5a486befe9cdb",
             "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50085,
+      "event_title": "India Women vs Zimbabwe Women",
+      "event_time": "2026-10-28 08:30",
+      "event_time_raw": "2026-10-28 08:30",
+      "category": "Cricket",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "INZITNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        },
+        {
+          "code": "INZIWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
+          "drm": {
+            "kid": "7aa827ea7809299f1459d4934d4d9953",
+            "key": "f899257f571bd6a083d8a113edfc3a39"
+          }
+        },
+        {
+          "code": "INZIWILL5D",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
+          "drm": {
+            "kid": "7aa827ea7809299f1459d4934d4d9953",
+            "key": "f899257f571bd6a083d8a113edfc3a39"
+          }
+        },
+        {
+          "code": "INZIWILL94",
+          "title": "WILLOW HD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
         }
       ]
@@ -561,7 +560,7 @@
       "event_title": "Liverpool vs Chelsea",
       "event_time": "2026-10-28 20:00",
       "event_time_raw": "2026-10-28 20:00",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 1,
       "streams": [
         {
@@ -657,7 +656,7 @@
       "event_time": "2026-10-28 17:30",
       "event_time_raw": "2026-10-28 17:30",
       "category": "Serie A 🇮🇹",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "VEINFUBO",
@@ -666,6 +665,34 @@
           "drm": {
             "kid": "42f72c025dd53039244adc13b7e31dad",
             "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
+          }
+        },
+        {
+          "code": "VEINSPOR",
+          "title": "SPORT 1 CZ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50115,
+      "event_title": "AC Milan vs Bologna",
+      "event_time": "2026-10-28 17:30",
+      "event_time_raw": "2026-10-28 17:30",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ACBOTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
           }
         }
       ]
