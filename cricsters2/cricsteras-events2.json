@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T23:03:48+05:30",
-  "generated_at_india": "28-10-2026 11:03:48 PM IST",
-  "total": 26,
+  "generated_at": "2026-10-28T23:59:02+05:30",
+  "generated_at_india": "28-10-2026 11:59:02 PM IST",
+  "total": 28,
   "events": [
     {
       "event_id": 50002,
@@ -159,12 +159,28 @@
       "stream_count": 1
     },
     {
+      "event_id": 50112,
+      "event_title": "Bayern München vs Real Madrid",
+      "event_time": "2026-10-28 17:45",
+      "event_time_raw": "2026-10-28 17:45",
+      "category": "UCL Womens",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50113,
+      "event_title": "Chelsea FC vs AS Roma",
+      "event_time": "2026-10-28 17:45",
+      "event_time_raw": "2026-10-28 17:45",
+      "category": "UCL Womens",
+      "stream_count": 1
+    },
+    {
       "event_id": 50114,
       "event_title": "Venezia vs Inter",
       "event_time": "2026-10-28 17:30",
       "event_time_raw": "2026-10-28 17:30",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2
+      "stream_count": 4
     },
     {
       "event_id": 50115,
@@ -172,7 +188,7 @@
       "event_time": "2026-10-28 17:30",
       "event_time_raw": "2026-10-28 17:30",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": 50116,
@@ -212,7 +228,7 @@
       "event_time": "2026-10-28 17:30",
       "event_time_raw": "2026-10-28 17:30",
       "category": "Serie A 🇮🇹",
-      "stream_count": 1
+      "stream_count": 2
     }
   ],
   "raw_data": ""
