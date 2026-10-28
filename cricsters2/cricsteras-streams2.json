@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T10:00:02+05:30",
-  "generated_at_india": "28-10-2026 10:00:02 AM IST",
-  "total": 24,
-  "ok": 24,
+  "generated_at": "2026-10-28T10:58:48+05:30",
+  "generated_at_india": "28-10-2026 10:58:48 AM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -467,25 +467,6 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50078,
-      "event_title": "Dallas Stars vs New Jersey Devils",
-      "event_time": "2026-10-28 00:00",
-      "event_time_raw": "2026-10-28 00:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "DANEPREM",
-          "title": "PREMIER SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
           }
         }
       ]

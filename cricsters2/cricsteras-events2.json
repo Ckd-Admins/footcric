@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T10:00:02+05:30",
-  "generated_at_india": "28-10-2026 10:00:02 AM IST",
-  "total": 24,
+  "generated_at": "2026-10-28T10:58:48+05:30",
+  "generated_at_india": "28-10-2026 10:58:48 AM IST",
+  "total": 23,
   "events": [
     {
       "event_id": 50002,
@@ -108,14 +108,6 @@
       "event_time": "2026-10-27 06:45",
       "event_time_raw": "2026-10-27 06:45",
       "category": "NPL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50078,
-      "event_title": "Dallas Stars vs New Jersey Devils",
-      "event_time": "2026-10-28 00:00",
-      "event_time_raw": "2026-10-28 00:00",
-      "category": "NHL",
       "stream_count": 1
     },
     {
