@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T06:04:12+05:30",
-  "generated_at_india": "28-10-2026 06:04:12 AM IST",
+  "generated_at": "2026-10-28T07:16:20+05:30",
+  "generated_at_india": "28-10-2026 07:16:20 AM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -305,43 +305,6 @@
       ]
     },
     {
-      "event_id": "10",
-      "event_title": "Tokyo Open 2026 - WTA vs WTA",
-      "event_time": "27 Oct, 01:30 pm",
-      "event_time_raw": 1793088000000,
-      "category": "Tennis",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "WTWTBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        },
-        {
-          "code": "WTWTTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        },
-        {
-          "code": "WTWTSTAN",
-          "title": "STAN SPORTS - AQ (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/a63367a11db04edbb260de9307e22ebd/index.mpd",
-          "drm": {
-            "kid": "1b5333cf4de04a9abf960f96bb573cf9",
-            "key": "b0f6f78470183ad1f0c03ef21c415d75"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "8",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "27 Oct, 06:00 pm",
@@ -487,6 +450,43 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "10",
+      "event_title": "Tokyo Open 2026 - WTA vs WTA",
+      "event_time": "28 Oct, 07:00 am",
+      "event_time_raw": 1793151000000,
+      "category": "Tennis",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "WTWTBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "WTWTTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
+          }
+        },
+        {
+          "code": "WTWTSTAN",
+          "title": "STAN SPORTS - AQ (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/a63367a11db04edbb260de9307e22ebd/index.mpd",
+          "drm": {
+            "kid": "1b5333cf4de04a9abf960f96bb573cf9",
+            "key": "b0f6f78470183ad1f0c03ef21c415d75"
           }
         }
       ]

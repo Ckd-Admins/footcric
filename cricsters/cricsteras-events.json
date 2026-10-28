@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T06:04:12+05:30",
-  "generated_at_india": "28-10-2026 06:04:12 AM IST",
+  "generated_at": "2026-10-28T07:16:20+05:30",
+  "generated_at_india": "28-10-2026 07:16:20 AM IST",
   "total": 23,
   "events": [
     {
@@ -71,14 +71,6 @@
       "stream_count": 1
     },
     {
-      "event_id": "10",
-      "event_title": "Tokyo Open 2026 - WTA vs WTA",
-      "event_time": "27 Oct, 01:30 pm",
-      "event_time_raw": 1793088000000,
-      "category": "Tennis",
-      "stream_count": 3
-    },
-    {
       "event_id": "8",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "27 Oct, 06:00 pm",
@@ -125,6 +117,14 @@
       "event_time_raw": 1793131200000,
       "category": "Football",
       "stream_count": 2
+    },
+    {
+      "event_id": "10",
+      "event_title": "Tokyo Open 2026 - WTA vs WTA",
+      "event_time": "28 Oct, 07:00 am",
+      "event_time_raw": 1793151000000,
+      "category": "Tennis",
+      "stream_count": 3
     },
     {
       "event_id": "23",
