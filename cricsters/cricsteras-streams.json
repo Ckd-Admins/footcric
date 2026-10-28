@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-28T07:16:20+05:30",
-  "generated_at_india": "28-10-2026 07:16:20 AM IST",
+  "generated_at": "2026-10-28T08:06:24+05:30",
+  "generated_at_india": "28-10-2026 08:06:24 AM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -483,10 +483,10 @@
         {
           "code": "WTWTSTAN",
           "title": "STAN SPORTS - AQ (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/a63367a11db04edbb260de9307e22ebd/index.mpd",
+          "url": "https://live02-stan.akamaized.net/out/v1/5ec7de30e2d849f089dc60b168fbe10f/index.mpd",
           "drm": {
-            "kid": "1b5333cf4de04a9abf960f96bb573cf9",
-            "key": "b0f6f78470183ad1f0c03ef21c415d75"
+            "kid": "edc1a8d96fd54964b8ffbf6c8a35bd1f",
+            "key": "a7c4d75c9081ac5feeaf5ce144593d9d"
           }
         }
       ]
