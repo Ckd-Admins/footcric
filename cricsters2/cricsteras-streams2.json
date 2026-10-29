@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T19:17:28+05:30",
-  "generated_at_india": "29-10-2026 07:17:28 PM IST",
+  "generated_at": "2026-10-29T20:11:55+05:30",
+  "generated_at_india": "29-10-2026 08:11:55 PM IST",
   "total": 22,
   "ok": 22,
   "failed": 0,
@@ -194,19 +194,19 @@
         {
           "code": "AFZIWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
           "drm": {
-            "kid": "85e95a4fae22e02459252a03faaf3166",
-            "key": "29334fa5e1d5708ed994f8bf74687933"
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
         },
         {
-          "code": "AFZIWILLFG",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd",
+          "code": "AFZIFANC",
+          "title": "FANCODE - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
           "drm": {
-            "kid": "85e95a4fae22e02459252a03faaf3166",
-            "key": "29334fa5e1d5708ed994f8bf74687933"
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]
