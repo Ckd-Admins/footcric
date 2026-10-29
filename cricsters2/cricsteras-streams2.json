@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T13:41:47+05:30",
-  "generated_at_india": "29-10-2026 01:41:47 PM IST",
+  "generated_at": "2026-10-29T14:09:23+05:30",
+  "generated_at_india": "29-10-2026 02:09:23 PM IST",
   "total": 21,
   "ok": 21,
   "failed": 0,
@@ -476,24 +476,33 @@
       "event_time": "2026-10-29 04:45",
       "event_time_raw": "2026-10-29 04:45",
       "category": "BBL",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "WOMEWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/r6vs6zdomz/out/v1/d34a7d179f4f49f2b2f08ec490165d8b/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8x9f8fvjwv/out/v1/15d9b1a637644c4baa527bd43e8d87a5/cenc.mpd",
           "drm": {
-            "kid": "81cceef47300d899003a2dd4f80a0ec4",
-            "key": "0db92cc3f3a7b1c97af4aaef56d641ef"
+            "kid": "3f9bba6398d727a70e33b03bc2c1957d",
+            "key": "8df87cf8c3d56350ea0297ae273de0c3"
           }
         },
         {
-          "code": "WOMEWILLGN",
+          "code": "WOMEWILLGA",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/r6vs6zdomz/out/v1/d34a7d179f4f49f2b2f08ec490165d8b/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8x9f8fvjwv/out/v1/15d9b1a637644c4baa527bd43e8d87a5/cenc.mpd",
           "drm": {
-            "kid": "81cceef47300d899003a2dd4f80a0ec4",
-            "key": "0db92cc3f3a7b1c97af4aaef56d641ef"
+            "kid": "3f9bba6398d727a70e33b03bc2c1957d",
+            "key": "8df87cf8c3d56350ea0297ae273de0c3"
+          }
+        },
+        {
+          "code": "WOMEEURO",
+          "title": "EUROSPORTS - FHD",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
           }
         }
       ]
