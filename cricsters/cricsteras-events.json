@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T22:12:27+05:30",
-  "generated_at_india": "29-10-2026 10:12:27 PM IST",
-  "total": 25,
+  "generated_at": "2026-10-29T23:09:17+05:30",
+  "generated_at_india": "29-10-2026 11:09:17 PM IST",
+  "total": 24,
   "events": [
     {
       "event_id": "5",
@@ -31,7 +31,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -55,35 +55,11 @@
       "stream_count": 3
     },
     {
-      "event_id": "18",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "29 Oct, 12:15 pm",
-      "event_time_raw": 1793256300000,
-      "category": "Cricket",
-      "stream_count": 1
-    },
-    {
       "event_id": "11",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "29 Oct, 01:30 pm",
       "event_time_raw": 1793260800000,
       "category": "Tennis",
-      "stream_count": 3
-    },
-    {
-      "event_id": "14",
-      "event_title": "ODI Tri-series in Pakistan - Sri Lanka vs England",
-      "event_time": "29 Oct, 01:30 pm",
-      "event_time_raw": 1793260800000,
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
-      "event_id": "19",
-      "event_title": "Women's Big Bash League - Melbourne Stars Women vs Hobart Hurricanes Women",
-      "event_time": "29 Oct, 01:40 pm",
-      "event_time_raw": 1793261400000,
-      "category": "Cricket",
       "stream_count": 3
     },
     {
@@ -95,7 +71,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "29 Oct, 08:00 pm",
       "event_time_raw": 1793284200000,
@@ -103,23 +79,23 @@
       "stream_count": 3
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "Serie A - Frosinone vs Lecce",
       "event_time": "29 Oct, 11:00 pm",
       "event_time_raw": 1793295000000,
       "category": "Football",
-      "stream_count": 2
+      "stream_count": 4
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "Saudi Pro League - Al-Nassr vs Al-Kholood",
       "event_time": "29 Oct, 11:30 pm",
       "event_time_raw": 1793296800000,
       "category": "Football",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "EFL Cup - Everton vs Newcastle United",
       "event_time": "30 Oct, 01:15 am",
       "event_time_raw": 1793303100000,
@@ -127,7 +103,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "Serie A - Fiorentina vs Atalanta",
       "event_time": "30 Oct, 01:15 am",
       "event_time_raw": 1793303100000,
@@ -135,7 +111,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "Campeonato Brasileiro Série A - Grêmio vs Athletico",
       "event_time": "30 Oct, 06:00 am",
       "event_time_raw": 1793320200000,
@@ -143,7 +119,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "16",
+      "event_id": "15",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "30 Oct, 08:15 am",
       "event_time_raw": 1793328300000,
@@ -159,7 +135,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "15",
+      "event_id": "14",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "30 Oct, 12:30 pm",
       "event_time_raw": 1793343600000,
@@ -189,6 +165,22 @@
       "event_time_raw": 1793428200000,
       "category": "Motorsport",
       "stream_count": 6
+    },
+    {
+      "event_id": "17",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "31 Oct, 12:15 pm",
+      "event_time_raw": 1793429100000,
+      "category": "Cricket",
+      "stream_count": 1
+    },
+    {
+      "event_id": "18",
+      "event_title": "ODI Tri-series in Pakistan - Pakistan vs Sri Lanka",
+      "event_time": "31 Oct, 01:30 pm",
+      "event_time_raw": 1793433600000,
+      "category": "Cricket",
+      "stream_count": 2
     },
     {
       "event_id": "8",
