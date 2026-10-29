@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T01:07:39+05:30",
-  "generated_at_india": "30-10-2026 01:07:39 AM IST",
-  "total": 23,
+  "generated_at": "2026-10-30T01:59:31+05:30",
+  "generated_at_india": "30-10-2026 01:59:31 AM IST",
+  "total": 24,
   "events": [
     {
       "event_id": 50002,
@@ -140,7 +140,7 @@
       "event_time": "2026-10-29 19:45",
       "event_time_raw": "2026-10-29 19:45",
       "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
+      "stream_count": 4
     },
     {
       "event_id": 50092,
@@ -148,7 +148,7 @@
       "event_time": "2026-10-29 19:45",
       "event_time_raw": "2026-10-29 19:45",
       "category": "Serie A 🇮🇹",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50093,
@@ -173,6 +173,14 @@
       "event_time_raw": "2026-10-29 18:00",
       "category": "Pro League 🇸🇦",
       "stream_count": 3
+    },
+    {
+      "event_id": 50098,
+      "event_title": "Manchester City W vs PSG W",
+      "event_time": "2026-10-29 20:00",
+      "event_time_raw": "2026-10-29 20:00",
+      "category": "UCL Womens",
+      "stream_count": 1
     },
     {
       "event_id": 50100,

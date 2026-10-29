@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T01:07:39+05:30",
-  "generated_at_india": "30-10-2026 01:07:39 AM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-10-30T01:59:31+05:30",
+  "generated_at_india": "30-10-2026 01:59:31 AM IST",
+  "total": 24,
+  "ok": 24,
   "failed": 0,
   "events": [
     {
@@ -469,12 +469,12 @@
           }
         },
         {
-          "code": "GRCATSN5",
-          "title": "TSN5 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "code": "GRCATSN4",
+          "title": "TSN4 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
           "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
           }
         }
       ]
@@ -597,8 +597,17 @@
       "event_time": "2026-10-29 19:45",
       "event_time_raw": "2026-10-29 19:45",
       "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2,
+      "stream_count": 4,
       "streams": [
+        {
+          "code": "EVNEPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rkrurusouk/out/v1/6474343c5a61446c8f7b06eea483f916/cenc.mpd",
+          "drm": {
+            "kid": "96a07d690a8629882bfaaa5b91038e6d",
+            "key": "7e12035fba602db7dd8948ba42d09871"
+          }
+        },
         {
           "code": "EVNEBEIN",
           "title": "beIN ENGLISH FHD",
@@ -606,6 +615,15 @@
           "drm": {
             "kid": "7995c724a13748ed970840a8ab5bb9b3",
             "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        },
+        {
+          "code": "EVNEFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         },
         {
@@ -625,8 +643,17 @@
       "event_time": "2026-10-29 19:45",
       "event_time_raw": "2026-10-29 19:45",
       "category": "Serie A 🇮🇹",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "FIATPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cubrycsrq6/out/v1/81532072aecc4d529d7e674d011c551f/cenc.mpd",
+          "drm": {
+            "kid": "7d9cc90bbee73b7a4d1fc39033eb40d4",
+            "key": "0da2db905ff7d59e9b87e603fe51e4d5"
+          }
+        },
         {
           "code": "FIATBEIN",
           "title": "beIN ENGLISH FHD",
@@ -745,6 +772,25 @@
           "drm": {
             "kid": "0ad4080cdff8c60b1233b22087f0b340",
             "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50098,
+      "event_title": "Manchester City W vs PSG W",
+      "event_time": "2026-10-29 20:00",
+      "event_time_raw": "2026-10-29 20:00",
+      "category": "UCL Womens",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "MAPSFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]
