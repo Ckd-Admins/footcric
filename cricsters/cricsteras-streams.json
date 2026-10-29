@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T10:08:14+05:30",
-  "generated_at_india": "29-10-2026 10:08:14 AM IST",
-  "total": 19,
-  "ok": 19,
+  "generated_at": "2026-10-29T11:05:27+05:30",
+  "generated_at_india": "29-10-2026 11:05:27 AM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -407,6 +407,53 @@
       ]
     },
     {
+      "event_id": "20",
+      "event_title": "Women's Big Bash League - Melbourne Renegades Women vs Sydney Thunder Women",
+      "event_time": "29 Oct, 10:10 am",
+      "event_time_raw": 1793248800000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "MESYWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5spnuigv8z/out/v1/06c617e5db8f49cb9e63ca89da7b281c/cenc.mpd",
+          "drm": {
+            "kid": "81cceef47300d899003a2dd4f80a0ec4",
+            "key": "0db92cc3f3a7b1c97af4aaef56d641ef"
+          }
+        },
+        {
+          "code": "MESYWILLJP",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "22",
+      "event_title": "ICC CWC League 2 - United Arab Emirates vs Oman",
+      "event_time": "29 Oct, 11:00 am",
+      "event_time_raw": 1793251800000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "UNOMSTRE",
+          "title": "Stream",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793279731~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=34a99c35a7bfa602e2bb0154c9374ede131ea3a820ba82821b6219bfe3789693/manifest.mpd",
+          "drm": {
+            "kid": "39bd302cdeed3710a89fb004d232ab67",
+            "key": "9869f804ba18d7e508cbff781829221c"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "18",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "29 Oct, 12:15 pm",
@@ -454,6 +501,34 @@
       ]
     },
     {
+      "event_id": "19",
+      "event_title": "Women's Big Bash League - Melbourne Stars Women vs Hobart Hurricanes Women",
+      "event_time": "29 Oct, 01:40 pm",
+      "event_time_raw": 1793261400000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "MEHOWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5spnuigv8z/out/v1/06c617e5db8f49cb9e63ca89da7b281c/cenc.mpd",
+          "drm": {
+            "kid": "81cceef47300d899003a2dd4f80a0ec4",
+            "key": "0db92cc3f3a7b1c97af4aaef56d641ef"
+          }
+        },
+        {
+          "code": "MEHOWILLRM",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "13",
       "event_title": "ICC World Test Championship - South Africa vs Australia",
       "event_time": "29 Oct, 02:00 pm",
@@ -491,7 +566,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "21",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "29 Oct, 08:00 pm",
       "event_time_raw": 1793284200000,
