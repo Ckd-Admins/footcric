@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T22:08:58+05:30",
-  "generated_at_india": "29-10-2026 10:08:58 PM IST",
+  "generated_at": "2026-10-29T23:05:22+05:30",
+  "generated_at_india": "29-10-2026 11:05:22 PM IST",
   "total": 21,
   "events": [
     {
@@ -156,7 +156,7 @@
       "event_time": "2026-10-29 17:30",
       "event_time_raw": "2026-10-29 17:30",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2
+      "stream_count": 4
     },
     {
       "event_id": 50094,
@@ -172,7 +172,7 @@
       "event_time": "2026-10-29 18:00",
       "event_time_raw": "2026-10-29 18:00",
       "category": "Pro League 🇸🇦",
-      "stream_count": 1
+      "stream_count": 2
     }
   ],
   "raw_data": ""
