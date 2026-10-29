@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T18:00:06+05:30",
-  "generated_at_india": "29-10-2026 06:00:06 PM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-10-29T19:17:28+05:30",
+  "generated_at_india": "29-10-2026 07:17:28 PM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -471,11 +471,39 @@
       ]
     },
     {
+      "event_id": 50069,
+      "event_title": "Green Bay Packers vs Carolina Panthers",
+      "event_time": "2026-10-30 00:15",
+      "event_time_raw": "2026-10-30 00:15",
+      "category": "NFL",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "GRCATSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm": {
+            "kid": "14eeabf30c14b7fbf3008c03099ce011",
+            "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          }
+        },
+        {
+          "code": "GRCATSN5",
+          "title": "TSN5 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-10-29 04:45",
-      "event_time_raw": "2026-10-29 04:45",
-      "category": "BBL",
+      "event_time": "2026-10-30 08:10",
+      "event_time_raw": "2026-10-30 08:10",
+      "category": "WBBL",
       "stream_count": 3,
       "streams": [
         {
