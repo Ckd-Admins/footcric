@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T09:01:58+05:30",
-  "generated_at_india": "29-10-2026 09:01:58 AM IST",
-  "total": 23,
+  "generated_at": "2026-10-29T10:03:25+05:30",
+  "generated_at_india": "29-10-2026 10:03:25 AM IST",
+  "total": 21,
   "events": [
     {
       "event_id": 50002,
@@ -33,8 +33,8 @@
     {
       "event_id": 50006,
       "event_title": "AEW Dynamite",
-      "event_time": "2026-10-29 00:00",
-      "event_time_raw": "2026-10-29 00:00",
+      "event_time": "2026-11-05 00:00",
+      "event_time_raw": "2026-11-05 00:00",
       "category": "WWE",
       "stream_count": 2
     },
@@ -88,19 +88,11 @@
     },
     {
       "event_id": 50032,
-      "event_title": "Tampa Bay Rays vs Milwaukee Brewers",
-      "event_time": "2026-10-29 00:00",
-      "event_time_raw": "2026-10-29 00:00",
+      "event_title": "Milwaukee Brewers vs Tampa Bay Rays",
+      "event_time": "2026-10-31 00:00",
+      "event_time_raw": "2026-10-31 00:00",
       "category": "MLB",
       "stream_count": 2
-    },
-    {
-      "event_id": 50055,
-      "event_title": "Toronto Raptors vs Orlando Magic",
-      "event_time": "2026-10-28 23:30",
-      "event_time_raw": "2026-10-28 23:30",
-      "category": "NBA",
-      "stream_count": 1
     },
     {
       "event_id": 50062,
@@ -119,34 +111,26 @@
       "stream_count": 1
     },
     {
-      "event_id": 50085,
-      "event_title": "India Women vs Zimbabwe Women",
-      "event_time": "2026-10-28 08:30",
-      "event_time_raw": "2026-10-28 08:30",
-      "category": "Cricket",
-      "stream_count": 4
-    },
-    {
       "event_id": 50086,
-      "event_title": "Santos vs Palmeiras",
-      "event_time": "2026-10-28 22:30",
-      "event_time_raw": "2026-10-28 22:30",
+      "event_title": "Atlético Mineiro vs Cruzeiro",
+      "event_time": "2026-10-29 22:30",
+      "event_time_raw": "2026-10-29 22:30",
       "category": "Brasileirão",
       "stream_count": 3
     },
     {
       "event_id": 50087,
-      "event_title": "Bahia vs São Paulo",
-      "event_time": "2026-10-29 00:30",
-      "event_time_raw": "2026-10-29 00:30",
+      "event_title": "Vasco da Gama vs Flamengo",
+      "event_time": "2026-10-29 23:00",
+      "event_time_raw": "2026-10-29 23:00",
       "category": "Brasileirão",
       "stream_count": 1
     },
     {
       "event_id": 50088,
-      "event_title": "Remo vs Botafogo",
-      "event_time": "2026-10-29 00:30",
-      "event_time_raw": "2026-10-29 00:30",
+      "event_title": "Grêmio vs Athletico",
+      "event_time": "2026-10-30 00:30",
+      "event_time_raw": "2026-10-30 00:30",
       "category": "Brasileirão",
       "stream_count": 1
     },
@@ -177,8 +161,8 @@
     {
       "event_id": 50094,
       "event_title": "Bangladesh vs West Indies",
-      "event_time": "2026-10-28 03:30",
-      "event_time_raw": "2026-10-28 03:30",
+      "event_time": "2026-10-29 03:30",
+      "event_time_raw": "2026-10-29 03:30",
       "category": "Cricket",
       "stream_count": 2
     },

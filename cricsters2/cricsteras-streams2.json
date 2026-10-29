@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T09:01:58+05:30",
-  "generated_at_india": "29-10-2026 09:01:58 AM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-10-29T10:03:25+05:30",
+  "generated_at_india": "29-10-2026 10:03:25 AM IST",
+  "total": 21,
+  "ok": 21,
   "failed": 0,
   "events": [
     {
@@ -158,8 +158,8 @@
     {
       "event_id": 50006,
       "event_title": "AEW Dynamite",
-      "event_time": "2026-10-29 00:00",
-      "event_time_raw": "2026-10-29 00:00",
+      "event_time": "2026-11-05 00:00",
+      "event_time_raw": "2026-11-05 00:00",
       "category": "WWE",
       "stream_count": 2,
       "streams": [
@@ -389,14 +389,14 @@
     },
     {
       "event_id": 50032,
-      "event_title": "Tampa Bay Rays vs Milwaukee Brewers",
-      "event_time": "2026-10-29 00:00",
-      "event_time_raw": "2026-10-29 00:00",
+      "event_title": "Milwaukee Brewers vs Tampa Bay Rays",
+      "event_time": "2026-10-31 00:00",
+      "event_time_raw": "2026-10-31 00:00",
       "category": "MLB",
       "stream_count": 2,
       "streams": [
         {
-          "code": "TAMITNTS",
+          "code": "MITATNTS",
           "title": "TNT Sports FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "drm": {
@@ -405,31 +405,12 @@
           }
         },
         {
-          "code": "TAMIFOXD",
+          "code": "MITAFOXD",
           "title": "FOX DEPORTES",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
           "drm": {
             "kid": "d1a163914db8ffad2c3e94f979896a0d",
             "key": "9728800a3959aafdd5b0bcfbf3768811"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50055,
-      "event_title": "Toronto Raptors vs Orlando Magic",
-      "event_time": "2026-10-28 23:30",
-      "event_time_raw": "2026-10-28 23:30",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "TOORTSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
           }
         }
       ]
@@ -491,61 +472,15 @@
       ]
     },
     {
-      "event_id": 50085,
-      "event_title": "India Women vs Zimbabwe Women",
-      "event_time": "2026-10-28 08:30",
-      "event_time_raw": "2026-10-28 08:30",
-      "category": "Cricket",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "INZIWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd",
-          "drm": {
-            "kid": "2058d5339704f2e7313fef30cb0d505d",
-            "key": "d25e0448f0a7e71f9c426d0b0a51cfcd"
-          }
-        },
-        {
-          "code": "INZITNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm": {
-            "kid": "f3df7843080ae743bf865dc5fdf64c68",
-            "key": "567c863bc12eb74788ea74888c042e1b"
-          }
-        },
-        {
-          "code": "INZIWILLOO",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd",
-          "drm": {
-            "kid": "2058d5339704f2e7313fef30cb0d505d",
-            "key": "d25e0448f0a7e71f9c426d0b0a51cfcd"
-          }
-        },
-        {
-          "code": "INZIWILL94",
-          "title": "WILLOW HD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50086,
-      "event_title": "Santos vs Palmeiras",
-      "event_time": "2026-10-28 22:30",
-      "event_time_raw": "2026-10-28 22:30",
+      "event_title": "Atlético Mineiro vs Cruzeiro",
+      "event_time": "2026-10-29 22:30",
+      "event_time_raw": "2026-10-29 22:30",
       "category": "Brasileirão",
       "stream_count": 3,
       "streams": [
         {
-          "code": "SAPAPREM",
+          "code": "ATCRPREM",
           "title": "PREMIER SPORTS",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
           "drm": {
@@ -554,7 +489,7 @@
           }
         },
         {
-          "code": "SAPAPREMBC",
+          "code": "ATCRPREMRI",
           "title": "PREMIERER BR",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
           "drm": {
@@ -563,7 +498,7 @@
           }
         },
         {
-          "code": "SAPASPOR",
+          "code": "ATCRSPOR",
           "title": "SportDigital Fussball",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
           "drm": {
@@ -575,14 +510,14 @@
     },
     {
       "event_id": 50087,
-      "event_title": "Bahia vs São Paulo",
-      "event_time": "2026-10-29 00:30",
-      "event_time_raw": "2026-10-29 00:30",
+      "event_title": "Vasco da Gama vs Flamengo",
+      "event_time": "2026-10-29 23:00",
+      "event_time_raw": "2026-10-29 23:00",
       "category": "Brasileirão",
       "stream_count": 1,
       "streams": [
         {
-          "code": "BASOPREM",
+          "code": "VAFLPREM",
           "title": "PREMIERER BR",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
           "drm": {
@@ -594,14 +529,14 @@
     },
     {
       "event_id": 50088,
-      "event_title": "Remo vs Botafogo",
-      "event_time": "2026-10-29 00:30",
-      "event_time_raw": "2026-10-29 00:30",
+      "event_title": "Grêmio vs Athletico",
+      "event_time": "2026-10-30 00:30",
+      "event_time_raw": "2026-10-30 00:30",
       "category": "Brasileirão",
       "stream_count": 1,
       "streams": [
         {
-          "code": "REBOPREM",
+          "code": "GRATPREM",
           "title": "PREMIERER BR",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
           "drm": {
@@ -689,8 +624,8 @@
     {
       "event_id": 50094,
       "event_title": "Bangladesh vs West Indies",
-      "event_time": "2026-10-28 03:30",
-      "event_time_raw": "2026-10-28 03:30",
+      "event_time": "2026-10-29 03:30",
+      "event_time_raw": "2026-10-29 03:30",
       "category": "Cricket",
       "stream_count": 2,
       "streams": [
