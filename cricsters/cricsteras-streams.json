@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T04:00:32+05:30",
-  "generated_at_india": "30-10-2026 04:00:32 AM IST",
+  "generated_at": "2026-10-30T04:57:16+05:30",
+  "generated_at_india": "30-10-2026 04:57:16 AM IST",
   "total": 24,
   "ok": 24,
   "failed": 0,
@@ -769,7 +769,7 @@
         {
           "code": "PASRWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd",
           "drm": {
             "kid": "ba4284442c87f52ddeaa95c65d236805",
             "key": "56f0808d1f1fbfc0703b384081f1d340"
