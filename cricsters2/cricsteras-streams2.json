@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T10:03:25+05:30",
-  "generated_at_india": "29-10-2026 10:03:25 AM IST",
+  "generated_at": "2026-10-29T11:01:27+05:30",
+  "generated_at_india": "29-10-2026 11:01:27 AM IST",
   "total": 21,
   "ok": 21,
   "failed": 0,
@@ -454,19 +454,28 @@
     },
     {
       "event_id": 50070,
-      "event_title": "Nepal Premier League (T20)",
-      "event_time": "2026-10-27 06:45",
-      "event_time_raw": "2026-10-27 06:45",
-      "category": "NPL",
-      "stream_count": 1,
+      "event_title": "Womens Big Bash League",
+      "event_time": "2026-10-29 04:45",
+      "event_time_raw": "2026-10-29 04:45",
+      "category": "BBL",
+      "stream_count": 2,
       "streams": [
         {
-          "code": "NEPAFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "code": "WOMEWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/r6vs6zdomz/out/v1/d34a7d179f4f49f2b2f08ec490165d8b/cenc.mpd",
           "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
+            "kid": "81cceef47300d899003a2dd4f80a0ec4",
+            "key": "0db92cc3f3a7b1c97af4aaef56d641ef"
+          }
+        },
+        {
+          "code": "WOMEWILLGN",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/r6vs6zdomz/out/v1/d34a7d179f4f49f2b2f08ec490165d8b/cenc.mpd",
+          "drm": {
+            "kid": "81cceef47300d899003a2dd4f80a0ec4",
+            "key": "0db92cc3f3a7b1c97af4aaef56d641ef"
           }
         }
       ]

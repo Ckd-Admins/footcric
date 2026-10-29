@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T10:03:25+05:30",
-  "generated_at_india": "29-10-2026 10:03:25 AM IST",
+  "generated_at": "2026-10-29T11:01:27+05:30",
+  "generated_at_india": "29-10-2026 11:01:27 AM IST",
   "total": 21,
   "events": [
     {
@@ -104,11 +104,11 @@
     },
     {
       "event_id": 50070,
-      "event_title": "Nepal Premier League (T20)",
-      "event_time": "2026-10-27 06:45",
-      "event_time_raw": "2026-10-27 06:45",
-      "category": "NPL",
-      "stream_count": 1
+      "event_title": "Womens Big Bash League",
+      "event_time": "2026-10-29 04:45",
+      "event_time_raw": "2026-10-29 04:45",
+      "category": "BBL",
+      "stream_count": 2
     },
     {
       "event_id": 50086,
