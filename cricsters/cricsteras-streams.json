@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T18:07:00+05:30",
-  "generated_at_india": "29-10-2026 06:07:00 PM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-10-29T19:20:59+05:30",
+  "generated_at_india": "29-10-2026 07:20:59 PM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
@@ -318,25 +318,6 @@
           "drm": {
             "kid": "12ed56d780abcfebcd23aa27e4ac5015",
             "key": "6784567890abcfebcd23aa27e4ac2814"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "21",
-      "event_title": "ICC CWC League 2 - United Arab Emirates vs Oman",
-      "event_time": "29 Oct, 11:00 am",
-      "event_time_raw": 1793251800000,
-      "category": "Cricket",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "UNOMSTRE",
-          "title": "Stream",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793294729~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=e031c55d930392aefa7073b9660ee1ea6f891b4a3474bd1844ae3a35c66eb94d/manifest.mpd",
-          "drm": {
-            "kid": "39bd302cdeed3710a89fb004d232ab67",
-            "key": "9869f804ba18d7e508cbff781829221c"
           }
         }
       ]

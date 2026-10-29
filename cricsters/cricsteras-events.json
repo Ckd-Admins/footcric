@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T18:07:00+05:30",
-  "generated_at_india": "29-10-2026 06:07:00 PM IST",
-  "total": 21,
+  "generated_at": "2026-10-29T19:20:59+05:30",
+  "generated_at_india": "29-10-2026 07:20:59 PM IST",
+  "total": 20,
   "events": [
     {
       "event_id": "5",
@@ -69,14 +69,6 @@
       "event_time_raw": 1793232000000,
       "category": "WWE",
       "stream_count": 3
-    },
-    {
-      "event_id": "21",
-      "event_title": "ICC CWC League 2 - United Arab Emirates vs Oman",
-      "event_time": "29 Oct, 11:00 am",
-      "event_time_raw": 1793251800000,
-      "category": "Cricket",
-      "stream_count": 1
     },
     {
       "event_id": "18",
