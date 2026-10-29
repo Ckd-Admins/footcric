@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T23:09:17+05:30",
-  "generated_at_india": "29-10-2026 11:09:17 PM IST",
+  "generated_at": "2026-10-30T00:06:58+05:30",
+  "generated_at_india": "30-10-2026 00:06:58 AM IST",
   "total": 24,
   "ok": 24,
   "failed": 0,
@@ -348,8 +348,17 @@
       "event_time": "29 Oct, 11:30 pm",
       "event_time_raw": 1793296800000,
       "category": "Football",
-      "stream_count": 2,
+      "stream_count": 4,
       "streams": [
+        {
+          "code": "ALALSPOR",
+          "title": "SportDigital Fussball",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm": {
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        },
         {
           "code": "ALALFOXD",
           "title": "FOX DEPORTES",
@@ -360,12 +369,21 @@
           }
         },
         {
-          "code": "ALALSPOR",
-          "title": "SportDigital Fussball",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "code": "ALALTHMA",
+          "title": "THMANYAH - AQ [SAUDI IP]",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd",
           "drm": {
-            "kid": "0ad4080cdff8c60b1233b22087f0b340",
-            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+            "kid": "714c789c76686632652eefc19f18c3db",
+            "key": "962cee49ee9422b44a6c60a7999854ad"
+          }
+        },
+        {
+          "code": "ALALTHMA0W",
+          "title": "THMANYAH HD",
+          "url": "https://hoast-plm.shop/playztv/links.php?id=thmanyah1.mpd",
+          "drm": {
+            "kid": "714c789c76686632652eefc19f18c3db",
+            "key": "962cee49ee9422b44a6c60a7999854ad"
           }
         }
       ]
