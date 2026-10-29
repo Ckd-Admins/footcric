@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T00:06:58+05:30",
-  "generated_at_india": "30-10-2026 00:06:58 AM IST",
+  "generated_at": "2026-10-30T01:11:08+05:30",
+  "generated_at_india": "30-10-2026 01:11:08 AM IST",
   "total": 24,
   "ok": 24,
   "failed": 0,
@@ -298,46 +298,19 @@
     },
     {
       "event_id": "24",
-      "event_title": "Serie A - Frosinone vs Lecce",
-      "event_time": "29 Oct, 11:00 pm",
-      "event_time_raw": 1793295000000,
-      "category": "Football",
-      "stream_count": 4,
+      "event_title": "WNBA - Atlanta Dream vs Golden State Valkyries",
+      "event_time": "29 Oct, 10:00 pm",
+      "event_time_raw": 1793291400000,
+      "category": "Basketball",
+      "stream_count": 1,
       "streams": [
         {
-          "code": "FRLEPARA",
-          "title": "PARAMOUNT+ - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ipvhzym9z1/out/v1/7bc4633a25864c2b99d73c106d07852e/cenc.mpd?aws_sessionId=dfe567c6-e185-4ea0-9139-01671fbdd1a0",
+          "code": "ATGOTSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
           "drm": {
-            "kid": "59b4ca07afd69d7a160946198f38d5fb",
-            "key": "b77d9b5f5967f9b2dbb6ef6cc0003554"
-          }
-        },
-        {
-          "code": "FRLEFUBO",
-          "title": "FUBO SPORTS - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?aws_sessionId=73f4fa42-d4a7-4aaa-8ec3-f6f7f679d31d",
-          "drm": {
-            "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
-            "key": "3e7d40c4b2ca331fe48bd65acae439d7"
-          }
-        },
-        {
-          "code": "FRLEFUBOUH",
-          "title": "FUBO SPORTS HD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-          "drm": {
-            "kid": "42f72c025dd53039244adc13b7e31dad",
-            "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
-          }
-        },
-        {
-          "code": "FRLESPOR",
-          "title": "SPORT 1 CZ",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
           }
         }
       ]
@@ -422,7 +395,7 @@
       "event_time": "30 Oct, 01:15 am",
       "event_time_raw": 1793303100000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "FIATBEIN",
@@ -431,6 +404,15 @@
           "drm": {
             "kid": "0b42be2664d7e811d04f3e504e0924c5",
             "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        },
+        {
+          "code": "FIATSPOR",
+          "title": "SPORT 1 CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
           }
         }
       ]

@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T00:06:58+05:30",
-  "generated_at_india": "30-10-2026 00:06:58 AM IST",
+  "generated_at": "2026-10-30T01:11:08+05:30",
+  "generated_at_india": "30-10-2026 01:11:08 AM IST",
   "total": 24,
   "events": [
     {
@@ -80,11 +80,11 @@
     },
     {
       "event_id": "24",
-      "event_title": "Serie A - Frosinone vs Lecce",
-      "event_time": "29 Oct, 11:00 pm",
-      "event_time_raw": 1793295000000,
-      "category": "Football",
-      "stream_count": 4
+      "event_title": "WNBA - Atlanta Dream vs Golden State Valkyries",
+      "event_time": "29 Oct, 10:00 pm",
+      "event_time_raw": 1793291400000,
+      "category": "Basketball",
+      "stream_count": 1
     },
     {
       "event_id": "22",
@@ -108,7 +108,7 @@
       "event_time": "30 Oct, 01:15 am",
       "event_time_raw": 1793303100000,
       "category": "Football",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": "21",
