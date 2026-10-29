@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T21:09:49+05:30",
-  "generated_at_india": "29-10-2026 09:09:49 PM IST",
-  "total": 22,
+  "generated_at": "2026-10-29T22:08:58+05:30",
+  "generated_at_india": "29-10-2026 10:08:58 PM IST",
+  "total": 21,
   "events": [
     {
       "event_id": 50002,
@@ -71,14 +71,6 @@
       "stream_count": 1
     },
     {
-      "event_id": 50012,
-      "event_title": "Sri Lanka vs England",
-      "event_time": "2026-10-29 08:00",
-      "event_time_raw": "2026-10-29 08:00",
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
       "event_id": 50027,
       "event_title": "Atlanta Dream vs Golden State Valkyries",
       "event_time": "2026-10-29 16:30",
@@ -97,8 +89,8 @@
     {
       "event_id": 50062,
       "event_title": "South Africa vs Australia",
-      "event_time": "2026-10-29 08:30",
-      "event_time_raw": "2026-10-29 08:30",
+      "event_time": "2026-10-30 08:30",
+      "event_time_raw": "2026-10-30 08:30",
       "category": "Cricket",
       "stream_count": 5
     },

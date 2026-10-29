@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T21:09:49+05:30",
-  "generated_at_india": "29-10-2026 09:09:49 PM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-10-29T22:08:58+05:30",
+  "generated_at_india": "29-10-2026 10:08:58 PM IST",
+  "total": 21,
+  "ok": 21,
   "failed": 0,
   "events": [
     {
@@ -350,34 +350,6 @@
       ]
     },
     {
-      "event_id": 50012,
-      "event_title": "Sri Lanka vs England",
-      "event_time": "2026-10-29 08:00",
-      "event_time_raw": "2026-10-29 08:00",
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "SRENWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd",
-          "drm": {
-            "kid": "ba4284442c87f52ddeaa95c65d236805",
-            "key": "56f0808d1f1fbfc0703b384081f1d340"
-          }
-        },
-        {
-          "code": "SRENWILLVH",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd",
-          "drm": {
-            "kid": "ba4284442c87f52ddeaa95c65d236805",
-            "key": "56f0808d1f1fbfc0703b384081f1d340"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50027,
       "event_title": "Atlanta Dream vs Golden State Valkyries",
       "event_time": "2026-10-29 16:30",
@@ -388,10 +360,10 @@
         {
           "code": "ATGOTSNS",
           "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
           "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
           }
         }
       ]
@@ -427,8 +399,8 @@
     {
       "event_id": 50062,
       "event_title": "South Africa vs Australia",
-      "event_time": "2026-10-29 08:30",
-      "event_time_raw": "2026-10-29 08:30",
+      "event_time": "2026-10-30 08:30",
+      "event_time_raw": "2026-10-30 08:30",
       "category": "Cricket",
       "stream_count": 5,
       "streams": [
