@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T12:07:47+05:30",
-  "generated_at_india": "29-10-2026 00:07:47 PM IST",
+  "generated_at": "2026-10-29T13:22:06+05:30",
+  "generated_at_india": "29-10-2026 01:22:06 PM IST",
   "total": 22,
   "events": [
     {
@@ -71,14 +71,6 @@
       "stream_count": 1
     },
     {
-      "event_id": "11",
-      "event_title": "Tokyo Open 2026 - WTA vs WTA",
-      "event_time": "28 Oct, 10:00 pm",
-      "event_time_raw": 1793205000000,
-      "category": "Tennis",
-      "stream_count": 3
-    },
-    {
       "event_id": "4",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "29 Oct, 05:30 am",
@@ -117,6 +109,14 @@
       "event_time_raw": 1793256300000,
       "category": "Cricket",
       "stream_count": 1
+    },
+    {
+      "event_id": "11",
+      "event_title": "Tokyo Open 2026 - WTA vs WTA",
+      "event_time": "29 Oct, 01:30 pm",
+      "event_time_raw": 1793260800000,
+      "category": "Tennis",
+      "stream_count": 3
     },
     {
       "event_id": "14",
