@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T20:11:55+05:30",
-  "generated_at_india": "29-10-2026 08:11:55 PM IST",
+  "generated_at": "2026-10-29T21:09:49+05:30",
+  "generated_at_india": "29-10-2026 09:09:49 PM IST",
   "total": 22,
   "ok": 22,
   "failed": 0,
@@ -189,15 +189,15 @@
       "event_time": "2026-10-29 14:30",
       "event_time_raw": "2026-10-29 14:30",
       "category": "Cricket",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "AFZIWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nbhokkdipi/out/v1/2b5492875ca8431a979f3ec685cce2f8/cenc.mpd",
           "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
+            "kid": "d2efbc1c5f8ff101397ecf138e8741ba",
+            "key": "7f4d45f386a7640749e0f07417471f01"
           }
         },
         {
@@ -207,6 +207,15 @@
           "drm": {
             "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
             "key": "22a1444b3da18e139191665b3d652835"
+          }
+        },
+        {
+          "code": "AFZIWILLBS",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nbhokkdipi/out/v1/2b5492875ca8431a979f3ec685cce2f8/cenc.mpd",
+          "drm": {
+            "kid": "d2efbc1c5f8ff101397ecf138e8741ba",
+            "key": "7f4d45f386a7640749e0f07417471f01"
           }
         }
       ]
