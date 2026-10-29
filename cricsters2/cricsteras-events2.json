@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T08:05:37+05:30",
-  "generated_at_india": "29-10-2026 08:05:37 AM IST",
-  "total": 35,
+  "generated_at": "2026-10-29T09:01:58+05:30",
+  "generated_at_india": "29-10-2026 09:01:58 AM IST",
+  "total": 23,
   "events": [
     {
       "event_id": 50002,
@@ -105,8 +105,8 @@
     {
       "event_id": 50062,
       "event_title": "South Africa vs Australia",
-      "event_time": "2026-10-28 08:30",
-      "event_time_raw": "2026-10-28 08:30",
+      "event_time": "2026-10-29 08:30",
+      "event_time_raw": "2026-10-29 08:30",
       "category": "Cricket",
       "stream_count": 3
     },
@@ -152,138 +152,42 @@
     },
     {
       "event_id": 50090,
-      "event_title": "Manchester City vs Brighton",
-      "event_time": "2026-10-28 19:30",
-      "event_time_raw": "2026-10-28 19:30",
+      "event_title": "Everton vs Newcastle United",
+      "event_time": "2026-10-29 19:45",
+      "event_time_raw": "2026-10-29 19:45",
       "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 2
     },
     {
-      "event_id": 50091,
-      "event_title": "Liverpool vs Chelsea",
-      "event_time": "2026-10-28 20:00",
-      "event_time_raw": "2026-10-28 20:00",
-      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 4
-    },
-    {
       "event_id": 50092,
-      "event_title": "Monza vs SSC Napoli",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
+      "event_title": "Fiorentina vs Atalanta",
+      "event_time": "2026-10-29 19:45",
+      "event_time_raw": "2026-10-29 19:45",
       "category": "Serie A 🇮🇹",
-      "stream_count": 3
+      "stream_count": 1
     },
     {
       "event_id": 50093,
-      "event_title": "Genoa vs Juventus",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
+      "event_title": "Frosinone vs Lecce",
+      "event_time": "2026-10-29 17:30",
+      "event_time_raw": "2026-10-29 17:30",
       "category": "Serie A 🇮🇹",
       "stream_count": 2
     },
     {
       "event_id": 50094,
-      "event_title": "Bournemouth vs Aston Villa",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 3
+      "event_title": "Bangladesh vs West Indies",
+      "event_time": "2026-10-28 03:30",
+      "event_time_raw": "2026-10-28 03:30",
+      "category": "Cricket",
+      "stream_count": 2
     },
     {
       "event_id": 50095,
-      "event_title": "Fulham vs Crystal Palace",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50096,
-      "event_title": "Sunderland vs Brentford",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50097,
-      "event_title": "Bayern München vs Magdeburg",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "DFB Pokal",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50098,
-      "event_title": "Bayer Leverkusen vs Nürnberg",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "DFB Pokal",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50099,
-      "event_title": "Hannover vs Kaiserslautern",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "DFB Pokal",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50100,
-      "event_title": "Holstein Kiel vs Hoffenheim",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "DFB Pokal",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50101,
-      "event_title": "Porto vs Académico Viseu",
-      "event_time": "2026-10-28 20:30",
-      "event_time_raw": "2026-10-28 20:30",
-      "category": "Taça de Portugal",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50108,
-      "event_title": "Arsenal vs Benfica",
-      "event_time": "2026-10-28 20:00",
-      "event_time_raw": "2026-10-28 20:00",
-      "category": "UCL Womens",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50109,
-      "event_title": "OL Lyonnes vs Inter",
-      "event_time": "2026-10-28 20:00",
-      "event_time_raw": "2026-10-28 20:00",
-      "category": "UCL Womens",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50110,
-      "event_title": "Heart of Midlothian vs Rangers",
-      "event_time": "2026-10-28 20:00",
-      "event_time_raw": "2026-10-28 20:00",
-      "category": "Scottish Premiership",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50112,
-      "event_title": "Fluminense vs Internacional",
-      "event_time": "2026-10-28 22:30",
-      "event_time_raw": "2026-10-28 22:30",
-      "category": "Brasileirão",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50113,
-      "event_title": "Red Bull Bragantino vs Chapecoense",
-      "event_time": "2026-10-28 22:30",
-      "event_time_raw": "2026-10-28 22:30",
-      "category": "Brasileirão",
+      "event_title": "Al-Nassr vs Al-Kholood",
+      "event_time": "2026-10-29 18:00",
+      "event_time_raw": "2026-10-29 18:00",
+      "category": "Pro League 🇸🇦",
       "stream_count": 1
     }
   ],

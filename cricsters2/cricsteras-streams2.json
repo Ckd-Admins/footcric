@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T08:05:37+05:30",
-  "generated_at_india": "29-10-2026 08:05:37 AM IST",
-  "total": 35,
-  "ok": 35,
+  "generated_at": "2026-10-29T09:01:58+05:30",
+  "generated_at_india": "29-10-2026 09:01:58 AM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -437,8 +437,8 @@
     {
       "event_id": 50062,
       "event_title": "South Africa vs Australia",
-      "event_time": "2026-10-28 08:30",
-      "event_time_raw": "2026-10-28 08:30",
+      "event_time": "2026-10-29 08:30",
+      "event_time_raw": "2026-10-29 08:30",
       "category": "Cricket",
       "stream_count": 3,
       "streams": [
@@ -613,60 +613,14 @@
     },
     {
       "event_id": 50090,
-      "event_title": "Manchester City vs Brighton",
-      "event_time": "2026-10-28 19:30",
-      "event_time_raw": "2026-10-28 19:30",
+      "event_title": "Everton vs Newcastle United",
+      "event_time": "2026-10-29 19:45",
+      "event_time_raw": "2026-10-29 19:45",
       "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 2,
       "streams": [
         {
-          "code": "MABRBEIN",
-          "title": "beIN ENGLISH FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "MABRFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50091,
-      "event_title": "Liverpool vs Chelsea",
-      "event_time": "2026-10-28 20:00",
-      "event_time_raw": "2026-10-28 20:00",
-      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "LICHPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/62adhhyr2r/out/v1/574b872158c7428885910984c4cc8427/cenc.mpd?aws_sessionId=3b385222-0996-4bcb-95dc-3cc1b369075c",
-          "drm": {
-            "kid": "6a57061e16aa29ee12e7611ef9e7964f",
-            "key": "351bfaf902667534c409fb615e7185ef"
-          }
-        },
-        {
-          "code": "LICHDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mwgaktvoez/out/v1/18652481c81f4aeeaae308b9b2138406/cenc.mpd",
-          "drm": {
-            "kid": "1fd8f4ca8509298b8e4a8fe6d01392ff",
-            "key": "c4a2085b1ed2715872574e99c43f2a27"
-          }
-        },
-        {
-          "code": "LICHBEIN",
+          "code": "EVNEBEIN",
           "title": "beIN ENGLISH FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "drm": {
@@ -675,109 +629,7 @@
           }
         },
         {
-          "code": "LICHFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50092,
-      "event_title": "Monza vs SSC Napoli",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "MOSSPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/iwsgmipnbb/out/v1/29d2553067834c3c8dc248b63bee75c2/cenc.mpd?aws_sessionId=11c513fa-73ba-4dd6-91fb-a6f993652c36",
-          "drm": {
-            "kid": "b1ed682bc9d2552773f67ffcab4d5323",
-            "key": "a255ae735bebd528f234626a5598bc89"
-          }
-        },
-        {
-          "code": "MOSSFUBO",
-          "title": "FUBO SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/l7ncidnrej/out/v1/4da9b7d2b1414cb28afd976da2c3b840/cenc.mpd?aws_sessionId=40fed08b-9e1f-4b37-bfb3-380c1f18f402",
-          "drm": {
-            "kid": "0488e598b1b6ef24e2ef8264cd86e1ef",
-            "key": "ef778c17e2b1798e2f15718967a81299"
-          }
-        },
-        {
-          "code": "MOSSTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50093,
-      "event_title": "Genoa vs Juventus",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "GEJUPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gyuzn4p42i/out/v1/ff10618fdd9849c58d08bcdd29273b25/cenc.mpd?aws_sessionId=fb16b1ea-9fe8-4713-9738-8bb5c99363cc",
-          "drm": {
-            "kid": "4414b2e099fbd62ca6547b0e34418928",
-            "key": "1558e2881dbdd2838c78a85ad8d85c05"
-          }
-        },
-        {
-          "code": "GEJUPARA2P",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/uautlxohcw/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd?aws_sessionId=f3907a10-7893-441b-9deb-da9cefbcff41",
-          "drm": {
-            "kid": "34bfd93263d0ad79234d40c9ecacc343",
-            "key": "535cca7ca0b77defee15bf8561c522c0"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50094,
-      "event_title": "Bournemouth vs Aston Villa",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "BOASPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/srhjkloyvb/out/v1/97a9ca11e6bb43bf85ad2625dfa2ec88/cenc.mpd?aws_sessionId=79ef9a92-09bd-4041-a360-06d5c1a106be",
-          "drm": {
-            "kid": "7cd6cec6fa3cd8c1f514bc934376bce2",
-            "key": "fc21f8fc483ed5c21d9b734ed3eff685"
-          }
-        },
-        {
-          "code": "BOASDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/czisttix25/out/v1/2d860de54fa1488689107bb5b7352eee/cenc.mpd",
-          "drm": {
-            "kid": "8a2398dced1beb97bc0c066cef5d75bf",
-            "key": "30668759dc261fec1ca713ae7d39491f"
-          }
-        },
-        {
-          "code": "BOASCBSN",
+          "code": "EVNECBSN",
           "title": "CBS NETWORK",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
           "drm": {
@@ -788,247 +640,95 @@
       ]
     },
     {
+      "event_id": 50092,
+      "event_title": "Fiorentina vs Atalanta",
+      "event_time": "2026-10-29 19:45",
+      "event_time_raw": "2026-10-29 19:45",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FIATBEIN",
+          "title": "beIN ENGLISH FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50093,
+      "event_title": "Frosinone vs Lecce",
+      "event_time": "2026-10-29 17:30",
+      "event_time_raw": "2026-10-29 17:30",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "FRLEFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+          "drm": {
+            "kid": "42f72c025dd53039244adc13b7e31dad",
+            "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
+          }
+        },
+        {
+          "code": "FRLESPOR",
+          "title": "SPORT 1 CZ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50094,
+      "event_title": "Bangladesh vs West Indies",
+      "event_time": "2026-10-28 03:30",
+      "event_time_raw": "2026-10-28 03:30",
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "BAWEFANC",
+          "title": "FANCODE - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
+          }
+        },
+        {
+          "code": "BAWEFANCTZ",
+          "title": "FANCODE HD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+          "drm": {
+            "kid": "5318e462b9e0677487cb87837f0bbdb1",
+            "key": "4fa0fb973b95738306005f2e8591bf8e"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50095,
-      "event_title": "Fulham vs Crystal Palace",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "FUCRPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kawh0u4b36/out/v1/9237526f55b24799a37e3c6d8931388f/cenc.mpd?aws_sessionId=dc7aba62-5d8a-4abe-9d3c-cbb9110b3acd",
-          "drm": {
-            "kid": "b811a4d7001a2fe83f5c35f0a9076e0e",
-            "key": "6b4211aa017e48bdd1f25e515cee22ad"
-          }
-        },
-        {
-          "code": "FUCRDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xxmwhhchra/out/v1/e27554ab5cfc4b169913ecb51bbf37c7/cenc.mpd",
-          "drm": {
-            "kid": "d31a6972e6451a50ddb18c20748d2b48",
-            "key": "a8ced10c1bc7d524e1192a08d070f1d5"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50096,
-      "event_title": "Sunderland vs Brentford",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "SUBRPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cndaqngbiy/out/v1/3415799b7f8546c6884dd364a2b09f46/cenc.mpd?aws_sessionId=c136d95e-ca27-4a6f-88f4-6bf162e4d35c",
-          "drm": {
-            "kid": "85e19b4c08d7692c02713371fc53b0b1",
-            "key": "947ee8edbc3bcabb96e4e8a59f795c93"
-          }
-        },
-        {
-          "code": "SUBRDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/iw6dv7zj6b/out/v1/62dd675e944f4c5fb5388a166cc116d0/cenc.mpd",
-          "drm": {
-            "kid": "7c7ba5aeb06f63a43b5db94a50425b35",
-            "key": "794e12a8c36324764d390057912cd276"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50097,
-      "event_title": "Bayern München vs Magdeburg",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "DFB Pokal",
+      "event_title": "Al-Nassr vs Al-Kholood",
+      "event_time": "2026-10-29 18:00",
+      "event_time_raw": "2026-10-29 18:00",
+      "category": "Pro League 🇸🇦",
       "stream_count": 1,
       "streams": [
         {
-          "code": "BAMADAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n6ydp4albq/out/v1/b0834541bd02489795e0fbaa9a685d40/cenc.mpd",
+          "code": "ALALFOXD",
+          "title": "FOX DEPORTES",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
           "drm": {
-            "kid": "c7f6aa5d6a00ae7bd9f7b9efc1eb77e5",
-            "key": "b028ebfe0eac2597720e4d63733345e4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50098,
-      "event_title": "Bayer Leverkusen vs Nürnberg",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "DFB Pokal",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "BANRDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/llxpj5g9lr/out/v1/48e765feafdb4082a4b72dee3854f07f/cenc.mpd",
-          "drm": {
-            "kid": "3e4e7a49e6215369bb6d536a044e2969",
-            "key": "d9c50b0f51950c1317951080d125e0f7"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50099,
-      "event_title": "Hannover vs Kaiserslautern",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "DFB Pokal",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "HAKADAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zpfgzu5228/out/v1/5e2d0fef20ab4faf9df23b6603b97d10/cenc.mpd",
-          "drm": {
-            "kid": "beed6ab2bdeba2e841155d0ea3f02242",
-            "key": "8b71a8a3aef5e5813697b0d8ebd3ad29"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50100,
-      "event_title": "Holstein Kiel vs Hoffenheim",
-      "event_time": "2026-10-28 19:45",
-      "event_time_raw": "2026-10-28 19:45",
-      "category": "DFB Pokal",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "HOHODAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0zvhz368pe/out/v1/58df2777de334b398c1d414dc79af8e7/cenc.mpd",
-          "drm": {
-            "kid": "89dfbd4870fe134ec58379dde9fae9bb",
-            "key": "e75e01f41f71065fda2f1966e0c42e5c"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50101,
-      "event_title": "Porto vs Académico Viseu",
-      "event_time": "2026-10-28 20:30",
-      "event_time_raw": "2026-10-28 20:30",
-      "category": "Taça de Portugal",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "POACSPOR",
-          "title": "D Sports FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "drm": {
-            "kid": "f836853d8eac19446ed9535f5fc568b1",
-            "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50108,
-      "event_title": "Arsenal vs Benfica",
-      "event_time": "2026-10-28 20:00",
-      "event_time_raw": "2026-10-28 20:00",
-      "category": "UCL Womens",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "ARBEPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/irezzvtqvb/out/v1/da8779975e454a5582ee2c1e7b79fc9a/cenc.mpd?aws_sessionId=ced589e6-1808-4615-b13c-627874c530c8",
-          "drm": {
-            "kid": "fa012998d44653bb8c3d82c20ff4b2b2",
-            "key": "290bfde8332481cbf6ded9109392f2fc"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50109,
-      "event_title": "OL Lyonnes vs Inter",
-      "event_time": "2026-10-28 20:00",
-      "event_time_raw": "2026-10-28 20:00",
-      "category": "UCL Womens",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "OLINPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qtz2jxwrkj/out/v1/0cd9903fb7354e8c8126f1eb179b424f/cenc.mpd?aws_sessionId=5c16e621-a01b-4e60-b3e7-b9830b559dbf",
-          "drm": {
-            "kid": "b5388f81912bd3ee65f6566eda52ef7e",
-            "key": "94cf0d0c269f34126b56674e97a26f9d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50110,
-      "event_title": "Heart of Midlothian vs Rangers",
-      "event_time": "2026-10-28 20:00",
-      "event_time_raw": "2026-10-28 20:00",
-      "category": "Scottish Premiership",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "HERASPOR",
-          "title": "SportDigital Fussball",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
-          "drm": {
-            "kid": "0ad4080cdff8c60b1233b22087f0b340",
-            "key": "285f129c5eca01dd08a5d5a14ad801c8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50112,
-      "event_title": "Fluminense vs Internacional",
-      "event_time": "2026-10-28 22:30",
-      "event_time_raw": "2026-10-28 22:30",
-      "category": "Brasileirão",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "FLINPREM",
-          "title": "PREMIERER BR",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-          "drm": {
-            "kid": "9dc40460c93087aea84d6315f08ecb64",
-            "key": "f69c8d4624fddff4ca89bd0b31bdc4a7"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50113,
-      "event_title": "Red Bull Bragantino vs Chapecoense",
-      "event_time": "2026-10-28 22:30",
-      "event_time_raw": "2026-10-28 22:30",
-      "category": "Brasileirão",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "RECHPREM",
-          "title": "PREMIERER BR",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
-          "drm": {
-            "kid": "e23365c2ad97870c871712b73f0d6195",
-            "key": "58709c714320bb862dbd07270df81c94"
+            "kid": "d1a163914db8ffad2c3e94f979896a0d",
+            "key": "9728800a3959aafdd5b0bcfbf3768811"
           }
         }
       ]
