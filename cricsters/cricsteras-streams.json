@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T13:22:06+05:30",
-  "generated_at_india": "29-10-2026 01:22:06 PM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-10-29T14:13:28+05:30",
+  "generated_at_india": "29-10-2026 02:13:28 PM IST",
+  "total": 21,
+  "ok": 21,
   "failed": 0,
   "events": [
     {
@@ -370,35 +370,7 @@
       ]
     },
     {
-      "event_id": "20",
-      "event_title": "Women's Big Bash League - Melbourne Renegades Women vs Sydney Thunder Women",
-      "event_time": "29 Oct, 10:10 am",
-      "event_time_raw": 1793248800000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "MESYWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5spnuigv8z/out/v1/06c617e5db8f49cb9e63ca89da7b281c/cenc.mpd",
-          "drm": {
-            "kid": "81cceef47300d899003a2dd4f80a0ec4",
-            "key": "0db92cc3f3a7b1c97af4aaef56d641ef"
-          }
-        },
-        {
-          "code": "MESYWILLJP",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "ICC CWC League 2 - United Arab Emirates vs Oman",
       "event_time": "29 Oct, 11:00 am",
       "event_time_raw": 1793251800000,
@@ -464,10 +436,10 @@
         {
           "code": "WTWTSTAN",
           "title": "STAN SPORTS - AQ (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/5ec7de30e2d849f089dc60b168fbe10f/index.mpd",
+          "url": "https://live02-stan.akamaized.net/out/v1/7b948471209e49d49aa7ac4f2c33c0fd/index.mpd",
           "drm": {
-            "kid": "edc1a8d96fd54964b8ffbf6c8a35bd1f",
-            "key": "a7c4d75c9081ac5feeaf5ce144593d9d"
+            "kid": "5588cdbe2ccd469b9c2382f8a1f61469",
+            "key": "108820a145035228f084f740d22c562c"
           }
         }
       ]
@@ -483,10 +455,10 @@
         {
           "code": "SRENWILL",
           "title": "WILLOW - AQ",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t0zydsmzll/out/v1/62025d771c7b4fe7a727ede5f3d6b8ec/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd",
           "drm": {
-            "kid": "53ac5670511d1300366b35b85eb6eadc",
-            "key": "e255086091e4638f16985ca3ddd56e2b"
+            "kid": "ba4284442c87f52ddeaa95c65d236805",
+            "key": "56f0808d1f1fbfc0703b384081f1d340"
           }
         },
         {
@@ -506,7 +478,7 @@
       "event_time": "29 Oct, 01:40 pm",
       "event_time_raw": 1793261400000,
       "category": "Cricket",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "MEHOWILL",
@@ -525,6 +497,15 @@
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
+        },
+        {
+          "code": "MEHOEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
+          }
         }
       ]
     },
@@ -539,10 +520,10 @@
         {
           "code": "SOAUWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
           "drm": {
-            "kid": "6d8a8cf63f2cb151902100b0d9e668dd",
-            "key": "e75124a72568aee19b04558263d1d050"
+            "kid": "cad7365855ea0ac0653144882a46e9a6",
+            "key": "0ee40359b01264cce5aac3140096c927"
           }
         },
         {
@@ -566,7 +547,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "29 Oct, 08:00 pm",
       "event_time_raw": 1793284200000,
