@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T13:18:02+05:30",
-  "generated_at_india": "29-10-2026 01:18:02 PM IST",
+  "generated_at": "2026-10-29T13:41:47+05:30",
+  "generated_at_india": "29-10-2026 01:41:47 PM IST",
   "total": 21,
   "ok": 21,
   "failed": 0,
@@ -351,19 +351,19 @@
         {
           "code": "SRENWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qlhkaywvyy/out/v1/d904a3e8abc940139881639cf378de84/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd",
           "drm": {
-            "kid": "a06a8c6d28d399f0ef2864c732f02c7e",
-            "key": "58678b7841e58cf8eeae5d4049aac1af"
+            "kid": "ba4284442c87f52ddeaa95c65d236805",
+            "key": "56f0808d1f1fbfc0703b384081f1d340"
           }
         },
         {
-          "code": "SRENWILLJB",
+          "code": "SRENWILLVH",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jcogtjna1p/out/v1/49e48e49b1b74230bc32c008303e962f/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd",
           "drm": {
-            "kid": "71c9587a489e14e4463fb01f0951bc69",
-            "key": "2e5fcd0b450696f14c9f065364b6787b"
+            "kid": "ba4284442c87f52ddeaa95c65d236805",
+            "key": "56f0808d1f1fbfc0703b384081f1d340"
           }
         }
       ]
@@ -421,15 +421,15 @@
       "event_time": "2026-10-29 08:30",
       "event_time_raw": "2026-10-29 08:30",
       "category": "Cricket",
-      "stream_count": 3,
+      "stream_count": 5,
       "streams": [
         {
           "code": "SOAUWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cqpsmp3hvg/out/v1/9e9f972a0244430f880cee85c6addb7d/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
           "drm": {
-            "kid": "6d8a8cf63f2cb151902100b0d9e668dd",
-            "key": "e75124a72568aee19b04558263d1d050"
+            "kid": "cad7365855ea0ac0653144882a46e9a6",
+            "key": "0ee40359b01264cce5aac3140096c927"
           }
         },
         {
@@ -442,12 +442,30 @@
           }
         },
         {
-          "code": "SOAUWILL5Q",
+          "code": "SOAUWILLCY",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cqpsmp3hvg/out/v1/9e9f972a0244430f880cee85c6addb7d/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
           "drm": {
-            "kid": "6d8a8cf63f2cb151902100b0d9e668dd",
-            "key": "e75124a72568aee19b04558263d1d050"
+            "kid": "cad7365855ea0ac0653144882a46e9a6",
+            "key": "0ee40359b01264cce5aac3140096c927"
+          }
+        },
+        {
+          "code": "SOAUEURO",
+          "title": "EUROSPORTS - FHD",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
+          }
+        },
+        {
+          "code": "SOAUFANCPH",
+          "title": "FANCODE - SD",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "drm": {
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
           }
         }
       ]
