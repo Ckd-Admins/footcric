@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T23:05:22+05:30",
-  "generated_at_india": "29-10-2026 11:05:22 PM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-10-30T00:01:22+05:30",
+  "generated_at_india": "30-10-2026 00:01:22 AM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -718,7 +718,7 @@
       "event_time": "2026-10-29 18:00",
       "event_time_raw": "2026-10-29 18:00",
       "category": "Pro League 🇸🇦",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "ALALFOXD",
@@ -731,11 +731,58 @@
         },
         {
           "code": "ALALSPOR",
+          "title": "SporTV BR FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+          "drm": {
+            "kid": "9009b7189e3e68cc09d17811f2beb55a",
+            "key": "dd3f96a94c909da48ff40c92aabf8cf3"
+          }
+        },
+        {
+          "code": "ALALSPORDK",
           "title": "SportDigital Fussball",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
           "drm": {
             "kid": "0ad4080cdff8c60b1233b22087f0b340",
             "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50100,
+      "event_title": "Austria Wien vs Juventus",
+      "event_time": "2026-10-29 17:45",
+      "event_time_raw": "2026-10-29 17:45",
+      "category": "UCL Womens",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "AUJUPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qb6vrngcmw/out/v1/d4384fca006a441bbb10eb906b6f2e4a/cenc.mpd?aws_sessionId=3e1c90ec-60d0-493c-b246-d293040246bf",
+          "drm": {
+            "kid": "7d3a66464cc41c7ecf1e2e1972f077f8",
+            "key": "0d53027488612be8037c534fb72ca7a3"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50101,
+      "event_title": "Paris vs Häcken FF",
+      "event_time": "2026-10-29 17:45",
+      "event_time_raw": "2026-10-29 17:45",
+      "category": "UCL Womens",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "PAHCPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8kwfuktqiu/out/v1/8454d851b01b4acdb9bbba76703f05a6/cenc.mpd?aws_sessionId=5d330fc0-dad3-4b2d-ab8e-b1f151cb46a0",
+          "drm": {
+            "kid": "3506206ed97ea04a702f542fa4968854",
+            "key": "120c301e39bcc52d17ddb517415e9c9e"
           }
         }
       ]

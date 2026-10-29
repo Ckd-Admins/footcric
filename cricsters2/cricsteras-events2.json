@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T23:05:22+05:30",
-  "generated_at_india": "29-10-2026 11:05:22 PM IST",
-  "total": 21,
+  "generated_at": "2026-10-30T00:01:22+05:30",
+  "generated_at_india": "30-10-2026 00:01:22 AM IST",
+  "total": 23,
   "events": [
     {
       "event_id": 50002,
@@ -172,7 +172,23 @@
       "event_time": "2026-10-29 18:00",
       "event_time_raw": "2026-10-29 18:00",
       "category": "Pro League 🇸🇦",
-      "stream_count": 2
+      "stream_count": 3
+    },
+    {
+      "event_id": 50100,
+      "event_title": "Austria Wien vs Juventus",
+      "event_time": "2026-10-29 17:45",
+      "event_time_raw": "2026-10-29 17:45",
+      "category": "UCL Womens",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50101,
+      "event_title": "Paris vs Häcken FF",
+      "event_time": "2026-10-29 17:45",
+      "event_time_raw": "2026-10-29 17:45",
+      "category": "UCL Womens",
+      "stream_count": 1
     }
   ],
   "raw_data": ""
