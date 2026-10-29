@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-29T08:09:33+05:30",
-  "generated_at_india": "29-10-2026 08:09:33 AM IST",
-  "total": 30,
+  "generated_at": "2026-10-29T09:07:32+05:30",
+  "generated_at_india": "29-10-2026 09:07:32 AM IST",
+  "total": 19,
   "events": [
     {
       "event_id": "5",
@@ -79,108 +79,20 @@
       "stream_count": 3
     },
     {
-      "event_id": "22",
-      "event_title": "EFL Cup - Manchester City vs Brighton & Hove Albion",
-      "event_time": "29 Oct, 01:00 am",
-      "event_time_raw": 1793215800000,
-      "category": "Football",
-      "stream_count": 4
-    },
-    {
-      "event_id": "20",
-      "event_title": "EFL Cup - Fulham vs Crystal Palace",
-      "event_time": "29 Oct, 01:15 am",
-      "event_time_raw": 1793216700000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "21",
-      "event_title": "EFL Cup - Sunderland vs Brentford",
-      "event_time": "29 Oct, 01:15 am",
-      "event_time_raw": 1793216700000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "23",
-      "event_title": "EFL Cup - Bournemouth vs Aston Villa",
-      "event_time": "29 Oct, 01:15 am",
-      "event_time_raw": 1793216700000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "24",
-      "event_title": "Serie A - Genoa vs Juventus",
-      "event_time": "29 Oct, 01:15 am",
-      "event_time_raw": 1793216700000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "25",
-      "event_title": "Serie A - Monza vs SSC Napoli",
-      "event_time": "29 Oct, 01:15 am",
-      "event_time_raw": 1793216700000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "26",
-      "event_title": "DFB Pokal - FC Bayern München vs 1. FC Magdeburg",
-      "event_time": "29 Oct, 01:15 am",
-      "event_time_raw": 1793216700000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "27",
-      "event_title": "DFB Pokal - Bayer 04 Leverkusen vs 1. FC Nürnberg",
-      "event_time": "29 Oct, 01:15 am",
-      "event_time_raw": 1793216700000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "28",
-      "event_title": "DFB Pokal - Holstein Kiel vs TSG Hoffenheim",
-      "event_time": "29 Oct, 01:15 am",
-      "event_time_raw": 1793216700000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "29",
-      "event_title": "DFB Pokal - Hannover 96 vs 1. FC Kaiserslautern",
-      "event_time": "29 Oct, 01:15 am",
-      "event_time_raw": 1793216700000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "19",
-      "event_title": "EFL Cup - Liverpool FC vs Chelsea",
-      "event_time": "29 Oct, 01:30 am",
-      "event_time_raw": 1793217600000,
-      "category": "Football",
-      "stream_count": 4
-    },
-    {
-      "event_id": "30",
-      "event_title": "UEFA Women's Champions League - OL Lyonnes vs Inter",
-      "event_time": "29 Oct, 01:30 am",
-      "event_time_raw": 1793217600000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
       "event_id": "4",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "29 Oct, 05:30 am",
       "event_time_raw": 1793232000000,
       "category": "WWE",
       "stream_count": 3
+    },
+    {
+      "event_id": "1",
+      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
+      "event_time": "29 Oct, 09:30 am",
+      "event_time_raw": 1793246400000,
+      "category": "Cricket",
+      "stream_count": 2
     },
     {
       "event_id": "18",
@@ -207,12 +119,12 @@
       "stream_count": 3
     },
     {
-      "event_id": "1",
-      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
-      "event_time": "29 Oct, 09:00 pm",
-      "event_time_raw": 1793287800000,
+      "event_id": "19",
+      "event_title": "T20 International - Afghanistan vs Zimbabwe",
+      "event_time": "29 Oct, 08:00 pm",
+      "event_time_raw": 1793284200000,
       "category": "Cricket",
-      "stream_count": 2
+      "stream_count": 1
     },
     {
       "event_id": "15",
