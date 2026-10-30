@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T20:16:40+05:30",
-  "generated_at_india": "30-10-2026 08:16:40 PM IST",
-  "total": 30,
+  "generated_at": "2026-10-30T21:10:32+05:30",
+  "generated_at_india": "30-10-2026 09:10:32 PM IST",
+  "total": 28,
   "events": [
     {
       "event_id": "7",
@@ -31,7 +31,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -55,7 +55,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "30 Oct, 08:15 am",
       "event_time_raw": 1793328300000,
@@ -69,14 +69,6 @@
       "event_time_raw": 1793343600000,
       "category": "Cricket",
       "stream_count": 6
-    },
-    {
-      "event_id": "16",
-      "event_title": "One Day International - Namibia vs Ireland",
-      "event_time": "30 Oct, 01:00 pm",
-      "event_time_raw": 1793345400000,
-      "category": "Cricket",
-      "stream_count": 1
     },
     {
       "event_id": "15",
@@ -95,14 +87,6 @@
       "stream_count": 1
     },
     {
-      "event_id": "26",
-      "event_title": "Saudi Pro League - Abha vs Al-Ittihad",
-      "event_time": "30 Oct, 06:00 pm",
-      "event_time_raw": 1793363400000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
       "event_id": "8",
       "event_title": "ONE FRIDAY FIGHTS 176 - ONE vs ONE",
       "event_time": "30 Oct, 07:00 pm",
@@ -111,7 +95,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "Indian Super League - NorthEast United FC vs Bengaluru FC",
       "event_time": "30 Oct, 07:30 pm",
       "event_time_raw": 1793368800000,
@@ -119,7 +103,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "2. Bundesliga - Energie Cottbus vs VfL Bochum 1848",
       "event_time": "30 Oct, 11:00 pm",
       "event_time_raw": 1793381400000,
@@ -127,7 +111,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "2. Bundesliga - Arminia Bielefeld vs Eintracht Braunschweig",
       "event_time": "30 Oct, 11:00 pm",
       "event_time_raw": 1793381400000,
@@ -135,7 +119,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "29",
+      "event_id": "27",
       "event_title": "Ligue 1 - Le Havre vs Paris Saint-Germain",
       "event_time": "30 Oct, 11:30 pm",
       "event_time_raw": 1793383200000,
@@ -143,7 +127,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "Bundesliga - SV 07 Elversberg vs 1. FSV Mainz 05",
       "event_time": "31 Oct, 01:00 am",
       "event_time_raw": 1793388600000,
@@ -151,7 +135,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "Championship - Sheffield United vs Wrexham",
       "event_time": "31 Oct, 01:30 am",
       "event_time_raw": 1793390400000,
@@ -159,7 +143,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "27",
+      "event_id": "25",
       "event_title": "LaLiga - Villarreal vs Espanyol",
       "event_time": "31 Oct, 01:30 am",
       "event_time_raw": 1793390400000,
@@ -167,7 +151,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "30",
+      "event_id": "28",
       "event_title": "Ligue 1 - Lille vs RC Lens",
       "event_time": "31 Oct, 01:35 am",
       "event_time_raw": 1793390700000,
@@ -175,7 +159,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "28",
+      "event_id": "26",
       "event_title": "Liga Portugal Betclic - Casa Pia vs Sporting CP",
       "event_time": "31 Oct, 01:45 am",
       "event_time_raw": 1793391300000,
@@ -207,7 +191,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "31 Oct, 12:15 pm",
       "event_time_raw": 1793429100000,
@@ -215,7 +199,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "ODI Tri-series in Pakistan - Pakistan vs Sri Lanka",
       "event_time": "31 Oct, 01:30 pm",
       "event_time_raw": 1793433600000,
