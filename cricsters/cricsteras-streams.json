@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T00:04:06+05:30",
-  "generated_at_india": "31-10-2026 00:04:06 AM IST",
+  "generated_at": "2026-10-31T00:32:39+05:30",
+  "generated_at_india": "31-10-2026 00:32:39 AM IST",
   "total": 30,
   "ok": 30,
   "failed": 0,
   "events": [
     {
-      "event_id": "7",
+      "event_id": "8",
       "event_title": "Tour De France - Tour De France vs Tour De France",
       "event_time": "22 Oct, 02:30 pm",
       "event_time_raw": 1792659600000,
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "15",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "22 Oct, 10:00 pm",
       "event_time_raw": 1792686600000,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "5",
       "event_title": "Northern Ireland Open - SNOOKER vs SNOOKER",
       "event_time": "25 Oct, 06:30 pm",
       "event_time_raw": 1792933200000,
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "10",
       "event_title": "EUROPEAN Championship - Darts vs Darts",
       "event_time": "25 Oct, 10:30 pm",
       "event_time_raw": 1792947600000,
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "7",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "29 Oct, 05:30 am",
       "event_time_raw": 1793232000000,
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "30 Oct, 08:15 am",
       "event_time_raw": 1793328300000,
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "event_id": "1",
+      "event_id": "2",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "30 Oct, 12:30 pm",
       "event_time_raw": 1793343600000,
@@ -323,7 +323,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "12",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "30 Oct, 06:00 pm",
       "event_time_raw": 1793363400000,
@@ -342,7 +342,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "9",
       "event_title": "ONE FRIDAY FIGHTS 176 - ONE vs ONE",
       "event_time": "30 Oct, 07:00 pm",
       "event_time_raw": 1793367000000,
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "Indian Super League - NorthEast United FC vs Bengaluru FC",
       "event_time": "30 Oct, 07:30 pm",
       "event_time_raw": 1793368800000,
@@ -380,7 +380,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "22",
       "event_title": "2. Bundesliga - Energie Cottbus vs VfL Bochum 1848",
       "event_time": "30 Oct, 11:00 pm",
       "event_time_raw": 1793381400000,
@@ -399,7 +399,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "23",
       "event_title": "2. Bundesliga - Arminia Bielefeld vs Eintracht Braunschweig",
       "event_time": "30 Oct, 11:00 pm",
       "event_time_raw": 1793381400000,
@@ -418,45 +418,7 @@
       ]
     },
     {
-      "event_id": "23",
-      "event_title": "Ligue 1 - Nice vs Stade Rennais",
-      "event_time": "30 Oct, 11:30 pm",
-      "event_time_raw": 1793383200000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NISTBEIN",
-          "title": "beIN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xnypecepsc/out/v1/0cb42f7039694b3199d1cd2cba7a5ddb/cenc.mpd",
-          "drm": {
-            "kid": "6fb0ddc7e384e78dea1868457c21fc7d",
-            "key": "88f26e97ed7f41070644f8519fd4d2ae"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "26",
-      "event_title": "Saudi Pro League - Al-Shabab vs Al-Ahli",
-      "event_time": "30 Oct, 11:30 pm",
-      "event_time_raw": 1793383200000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "ALALTHMA",
-          "title": "THMANYAH 1 - AQ [SAUDI IP]",
-          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd",
-          "drm": {
-            "kid": "714c789c76686632652eefc19f18c3db",
-            "key": "962cee49ee9422b44a6c60a7999854ad"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "29",
+      "event_id": "1",
       "event_title": "Ligue 1 - Le Havre vs Paris Saint-Germain",
       "event_time": "30 Oct, 11:30 pm",
       "event_time_raw": 1793383200000,
@@ -484,12 +446,50 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "24",
+      "event_title": "Ligue 1 - Nice vs Stade Rennais",
+      "event_time": "30 Oct, 11:30 pm",
+      "event_time_raw": 1793383200000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NISTBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xnypecepsc/out/v1/0cb42f7039694b3199d1cd2cba7a5ddb/cenc.mpd",
+          "drm": {
+            "kid": "6fb0ddc7e384e78dea1868457c21fc7d",
+            "key": "88f26e97ed7f41070644f8519fd4d2ae"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "27",
+      "event_title": "Saudi Pro League - Al-Shabab vs Al-Ahli",
+      "event_time": "30 Oct, 11:30 pm",
+      "event_time_raw": 1793383200000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ALALTHMA",
+          "title": "THMANYAH 1 - AQ [SAUDI IP]",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd",
+          "drm": {
+            "kid": "714c789c76686632652eefc19f18c3db",
+            "key": "962cee49ee9422b44a6c60a7999854ad"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "6",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "31 Oct, 12:00 am",
       "event_time_raw": 1793385000000,
       "category": "Motorsport",
-      "stream_count": 6,
+      "stream_count": 5,
       "streams": [
         {
           "code": "FOFOFANC",
@@ -498,15 +498,6 @@
           "drm": {
             "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
             "key": "22a1444b3da18e139191665b3d652835"
-          }
-        },
-        {
-          "code": "FOFOTSNS",
-          "title": "TSN SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
           }
         },
         {
@@ -548,7 +539,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "Bundesliga - SV 07 Elversberg vs 1. FSV Mainz 05",
       "event_time": "31 Oct, 01:00 am",
       "event_time_raw": 1793388600000,
@@ -567,7 +558,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "26",
       "event_title": "Championship - Sheffield United vs Wrexham",
       "event_time": "31 Oct, 01:30 am",
       "event_time_raw": 1793390400000,
@@ -595,7 +586,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "28",
       "event_title": "LaLiga - Villarreal vs Espanyol",
       "event_time": "31 Oct, 01:30 am",
       "event_time_raw": 1793390400000,
@@ -651,7 +642,7 @@
       ]
     },
     {
-      "event_id": "28",
+      "event_id": "29",
       "event_title": "Liga Portugal Betclic - Casa Pia vs Sporting CP",
       "event_time": "31 Oct, 01:45 am",
       "event_time_raw": 1793391300000,
@@ -670,7 +661,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "3",
       "event_title": "Hong Kong Super 6 | HK SUPER 6 - HK SUPER 6 vs HK SUPER 6",
       "event_time": "31 Oct, 06:15 am",
       "event_time_raw": 1793407500000,
@@ -707,7 +698,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "4",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "31 Oct, 09:00 am",
       "event_time_raw": 1793417400000,
@@ -735,7 +726,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "31 Oct, 12:15 pm",
       "event_time_raw": 1793429100000,
@@ -754,7 +745,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "ODI Tri-series in Pakistan - Pakistan vs Sri Lanka",
       "event_time": "31 Oct, 01:30 pm",
       "event_time_raw": 1793433600000,
@@ -782,7 +773,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "16",
       "event_title": "ICC World Test Championship - South Africa vs Australia",
       "event_time": "31 Oct, 02:00 pm",
       "event_time_raw": 1793435400000,
@@ -819,7 +810,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "14",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "31 Oct, 07:00 pm",
       "event_time_raw": 1793453400000,
@@ -856,7 +847,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "11",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -875,7 +866,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "13",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
