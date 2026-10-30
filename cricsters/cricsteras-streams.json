@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T09:07:41+05:30",
-  "generated_at_india": "30-10-2026 09:07:41 AM IST",
+  "generated_at": "2026-10-30T10:07:39+05:30",
+  "generated_at_india": "30-10-2026 10:07:39 AM IST",
   "total": 26,
   "ok": 26,
   "failed": 0,
@@ -335,7 +335,7 @@
         {
           "code": "EVNEPARA",
           "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rkrurusouk/out/v1/6474343c5a61446c8f7b06eea483f916/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rkrurusouk/out/v1/6474343c5a61446c8f7b06eea483f916/cenc.mpd",
           "drm": {
             "kid": "96a07d690a8629882bfaaa5b91038e6d",
             "key": "7e12035fba602db7dd8948ba42d09871"
@@ -381,7 +381,7 @@
         {
           "code": "FIATPARA",
           "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cubrycsrq6/out/v1/81532072aecc4d529d7e674d011c551f/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cubrycsrq6/out/v1/81532072aecc4d529d7e674d011c551f/cenc.mpd",
           "drm": {
             "kid": "7d9cc90bbee73b7a4d1fc39033eb40d4",
             "key": "0da2db905ff7d59e9b87e603fe51e4d5"
@@ -437,16 +437,16 @@
         {
           "code": "HKHKWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sdvqfcqoza/out/v1/1519bb4c746348ceb10f042aa84b70f0/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/f0prkjuymq/out/v1/2e724fedaa1548a2a962b48de161b358/cenc.mpd",
           "drm": {
-            "kid": "fbfab2ae4f4e8a1705b4cdc7802e9304",
-            "key": "29db7aa2585fdbc1d5892db6d04fe351"
+            "kid": "5ad2836094f0f19bbdc4f9bf00405ce9",
+            "key": "be7824f1197c39ec98d9b852c7b124af"
           }
         },
         {
           "code": "HKHKPLAY",
           "title": "PLAYZTV - AQ",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793357109~acl=/variant/v1blackout/vcg-01-d/*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cff6a0e3b14986641a026a8507d6783618cde4d1e41e6c45fe37d7d35818f074/manifest.mpd?vcfilter=97c689f5-de4e-4c7c-a869-31f8206809d9",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793357109~acl=/variant/v1blackout/vcg-01-d/*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cff6a0e3b14986641a026a8507d6783618cde4d1e41e6c45fe37d7d35818f074/manifest.mpd?vcfilter=992cc923-cf3d-4540-9c7d-e7e7f8c79454",
           "drm": {
             "kid": "39bd302cdeed3710a89fb004d232ab67",
             "key": "9869f804ba18d7e508cbff781829221c"
