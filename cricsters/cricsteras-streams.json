@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T08:08:31+05:30",
-  "generated_at_india": "30-10-2026 08:08:31 AM IST",
-  "total": 24,
-  "ok": 24,
+  "generated_at": "2026-10-30T09:07:41+05:30",
+  "generated_at_india": "30-10-2026 09:07:41 AM IST",
+  "total": 26,
+  "ok": 26,
   "failed": 0,
   "events": [
     {
-      "event_id": "5",
+      "event_id": "6",
       "event_title": "Tour De France - Tour De France vs Tour De France",
       "event_time": "22 Oct, 02:30 pm",
       "event_time_raw": 1792659600000,
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "13",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "22 Oct, 10:00 pm",
       "event_time_raw": 1792686600000,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "3",
       "event_title": "Northern Ireland Open - SNOOKER vs SNOOKER",
       "event_time": "25 Oct, 06:30 pm",
       "event_time_raw": 1792933200000,
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "8",
       "event_title": "EUROPEAN Championship - Darts vs Darts",
       "event_time": "25 Oct, 10:30 pm",
       "event_time_raw": 1792947600000,
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "5",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "29 Oct, 05:30 am",
       "event_time_raw": 1793232000000,
@@ -204,44 +204,7 @@
       ]
     },
     {
-      "event_id": "11",
-      "event_title": "Tokyo Open 2026 - WTA vs WTA",
-      "event_time": "29 Oct, 01:30 pm",
-      "event_time_raw": 1793260800000,
-      "category": "Tennis",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "WTWTBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        },
-        {
-          "code": "WTWTTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        },
-        {
-          "code": "WTWTSTAN",
-          "title": "STAN SPORTS - AQ (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/7b948471209e49d49aa7ac4f2c33c0fd/index.mpd",
-          "drm": {
-            "kid": "5588cdbe2ccd469b9c2382f8a1f61469",
-            "key": "108820a145035228f084f740d22c562c"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "9",
+      "event_id": "10",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "29 Oct, 06:00 pm",
       "event_time_raw": 1793277000000,
@@ -260,7 +223,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "29 Oct, 08:00 pm",
       "event_time_raw": 1793284200000,
@@ -297,7 +260,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "WNBA - Atlanta Dream vs Golden State Valkyries",
       "event_time": "29 Oct, 10:00 pm",
       "event_time_raw": 1793291400000,
@@ -316,7 +279,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "23",
       "event_title": "Saudi Pro League - Al-Nassr vs Al-Kholood",
       "event_time": "29 Oct, 11:30 pm",
       "event_time_raw": 1793296800000,
@@ -362,7 +325,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "EFL Cup - Everton vs Newcastle United",
       "event_time": "30 Oct, 01:15 am",
       "event_time_raw": 1793303100000,
@@ -408,7 +371,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "24",
       "event_title": "Serie A - Fiorentina vs Atalanta",
       "event_time": "30 Oct, 01:15 am",
       "event_time_raw": 1793303100000,
@@ -445,7 +408,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "22",
       "event_title": "Campeonato Brasileiro Série A - Grêmio vs Athletico",
       "event_time": "30 Oct, 06:00 am",
       "event_time_raw": 1793320200000,
@@ -464,7 +427,100 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "1",
+      "event_title": "Hong Kong Super 6 - HK SUPER 6 vs HK SUPER 6",
+      "event_time": "30 Oct, 06:15 am",
+      "event_time_raw": 1793321100000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "HKHKWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sdvqfcqoza/out/v1/1519bb4c746348ceb10f042aa84b70f0/cenc.mpd",
+          "drm": {
+            "kid": "fbfab2ae4f4e8a1705b4cdc7802e9304",
+            "key": "29db7aa2585fdbc1d5892db6d04fe351"
+          }
+        },
+        {
+          "code": "HKHKPLAY",
+          "title": "PLAYZTV - AQ",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793357109~acl=/variant/v1blackout/vcg-01-d/*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cff6a0e3b14986641a026a8507d6783618cde4d1e41e6c45fe37d7d35818f074/manifest.mpd?vcfilter=97c689f5-de4e-4c7c-a869-31f8206809d9",
+          "drm": {
+            "kid": "39bd302cdeed3710a89fb004d232ab67",
+            "key": "9869f804ba18d7e508cbff781829221c"
+          }
+        },
+        {
+          "code": "HKHKWILLCB",
+          "title": "WILLOW SP - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "12",
+      "event_title": "Tokyo Open 2026 - WTA vs WTA",
+      "event_time": "30 Oct, 07:00 am",
+      "event_time_raw": 1793323800000,
+      "category": "Tennis",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "WTWTBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "WTWTTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
+          }
+        },
+        {
+          "code": "WTWTSTAN",
+          "title": "STAN SPORTS - AQ (AUS)",
+          "url": "https://live01-stan.akamaized.net/out/v1/94bc59ac859941f39ef5320a607ce936/index.mpd",
+          "drm": {
+            "kid": "78ebfaa7e06f4cb7a05d88b494f691ca",
+            "key": "4cca8c458c627a9d0af551cc20d79583"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "26",
+      "event_title": "NHL - Los Angeles Kings vs Ottawa Senators",
+      "event_time": "30 Oct, 07:30 am",
+      "event_time_raw": 1793325600000,
+      "category": "Hockey",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LOOTPREM",
+          "title": "PREMIER SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "16",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "30 Oct, 08:15 am",
       "event_time_raw": 1793328300000,
@@ -501,10 +557,10 @@
         {
           "code": "MOMOAUVI",
           "title": "AUVIO SPORTS - AQ",
-          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/1848c8da/1d16da65.isml/.mpd?t=2026-10-24T03:40:00.000",
+          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/accf636f.isml/.mpd?t=2026-10-30T00:50:00.000",
           "drm": {
-            "kid": "4fb9655101e745febb73bdf061ff2c0c",
-            "key": "67cbc76f12c7cf87fdc08e333c6eab11"
+            "kid": "fae4090b103c42efa4baeb0b6536d07f",
+            "key": "e89f3bd094427ae543196025e8065846"
           }
         },
         {
@@ -519,7 +575,7 @@
       ]
     },
     {
-      "event_id": "1",
+      "event_id": "2",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "30 Oct, 09:00 am",
       "event_time_raw": 1793331000000,
@@ -547,7 +603,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "15",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "30 Oct, 12:30 pm",
       "event_time_raw": 1793343600000,
@@ -620,7 +676,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "14",
       "event_title": "ICC World Test Championship - South Africa vs Australia",
       "event_time": "30 Oct, 02:00 pm",
       "event_time_raw": 1793349000000,
@@ -657,7 +713,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "7",
       "event_title": "ONE FRIDAY FIGHTS 176 - ONE vs ONE",
       "event_time": "30 Oct, 07:00 pm",
       "event_time_raw": 1793367000000,
@@ -676,7 +732,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "4",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "31 Oct, 12:00 pm",
       "event_time_raw": 1793428200000,
@@ -740,7 +796,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "31 Oct, 12:15 pm",
       "event_time_raw": 1793429100000,
@@ -759,7 +815,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "ODI Tri-series in Pakistan - Pakistan vs Sri Lanka",
       "event_time": "31 Oct, 01:30 pm",
       "event_time_raw": 1793433600000,
@@ -787,7 +843,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "9",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -806,7 +862,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "11",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
