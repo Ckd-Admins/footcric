@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T16:09:16+05:30",
-  "generated_at_india": "30-10-2026 04:09:16 PM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-10-30T16:58:03+05:30",
+  "generated_at_india": "30-10-2026 04:58:03 PM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -260,89 +260,6 @@
       ]
     },
     {
-      "event_id": "22",
-      "event_title": "Saudi Pro League - Al-Nassr vs Al-Kholood",
-      "event_time": "29 Oct, 11:30 pm",
-      "event_time_raw": 1793296800000,
-      "category": "Football",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "ALALSPOR",
-          "title": "SportDigital Fussball",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
-          "drm": {
-            "kid": "0ad4080cdff8c60b1233b22087f0b340",
-            "key": "285f129c5eca01dd08a5d5a14ad801c8"
-          }
-        },
-        {
-          "code": "ALALFOXD",
-          "title": "FOX DEPORTES",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm": {
-            "kid": "d1a163914db8ffad2c3e94f979896a0d",
-            "key": "9728800a3959aafdd5b0bcfbf3768811"
-          }
-        },
-        {
-          "code": "ALALTHMA",
-          "title": "THMANYAH - AQ [SAUDI IP]",
-          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd",
-          "drm": {
-            "kid": "714c789c76686632652eefc19f18c3db",
-            "key": "962cee49ee9422b44a6c60a7999854ad"
-          }
-        },
-        {
-          "code": "ALALTHMA0W",
-          "title": "THMANYAH HD",
-          "url": "https://hoast-plm.shop/playztv/links.php?id=thmanyah1.mpd",
-          "drm": {
-            "kid": "714c789c76686632652eefc19f18c3db",
-            "key": "962cee49ee9422b44a6c60a7999854ad"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "2",
-      "event_title": "Hong Kong Super 6 | HK SUPER 6 - HK SUPER 6 vs HK SUPER 6",
-      "event_time": "30 Oct, 06:15 am",
-      "event_time_raw": 1793321100000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "HKHKWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ryvveqheby/out/v1/5bf9ff9c026048d897328bedb8c9b4b3/cenc.mpd",
-          "drm": {
-            "kid": "c7a9e1a3b38d230bcd8a785b18e5575a",
-            "key": "0f9cc8a4d3ae133b56b33e088762d3d2"
-          }
-        },
-        {
-          "code": "HKHKPLAY",
-          "title": "PLAYZTV - AQ",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793308232~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=6584c43dfd7f579c504d476ee7c397388dec121c2f12ad52bd8aa6b6b6f6afab/manifest.mpd",
-          "drm": {
-            "kid": "39bd302cdeed3710a89fb004d232ab67",
-            "key": "9869f804ba18d7e508cbff781829221c"
-          }
-        },
-        {
-          "code": "HKHKWILLCB",
-          "title": "WILLOW SP - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "13",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "30 Oct, 07:00 am",
@@ -435,34 +352,6 @@
       ]
     },
     {
-      "event_id": "3",
-      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
-      "event_time": "30 Oct, 09:00 am",
-      "event_time_raw": 1793331000000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "BAWEFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        },
-        {
-          "code": "BAWEFANCTZ",
-          "title": "FANCODE HD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-          "drm": {
-            "kid": "5318e462b9e0677487cb87837f0bbdb1",
-            "key": "4fa0fb973b95738306005f2e8591bf8e"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "1",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "30 Oct, 12:30 pm",
@@ -546,7 +435,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Sydney Sixers Women",
       "event_time": "30 Oct, 01:40 pm",
       "event_time_raw": 1793347800000,
@@ -634,6 +523,71 @@
           "drm": {
             "kid": "308006101c8fd0262c0f529319b9c127",
             "key": "37683aadc75b1450efa82d62c647984d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "2",
+      "event_title": "Hong Kong Super 6 | HK SUPER 6 - HK SUPER 6 vs HK SUPER 6",
+      "event_time": "31 Oct, 06:15 am",
+      "event_time_raw": 1793407500000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "HKHKWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ryvveqheby/out/v1/5bf9ff9c026048d897328bedb8c9b4b3/cenc.mpd",
+          "drm": {
+            "kid": "c7a9e1a3b38d230bcd8a785b18e5575a",
+            "key": "0f9cc8a4d3ae133b56b33e088762d3d2"
+          }
+        },
+        {
+          "code": "HKHKPLAY",
+          "title": "PLAYZTV - AQ",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793308232~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=6584c43dfd7f579c504d476ee7c397388dec121c2f12ad52bd8aa6b6b6f6afab/manifest.mpd",
+          "drm": {
+            "kid": "39bd302cdeed3710a89fb004d232ab67",
+            "key": "9869f804ba18d7e508cbff781829221c"
+          }
+        },
+        {
+          "code": "HKHKWILLCB",
+          "title": "WILLOW SP - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "3",
+      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
+      "event_time": "31 Oct, 09:00 am",
+      "event_time_raw": 1793417400000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "BAWEFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
+          }
+        },
+        {
+          "code": "BAWEFANCTZ",
+          "title": "FANCODE HD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+          "drm": {
+            "kid": "5318e462b9e0677487cb87837f0bbdb1",
+            "key": "4fa0fb973b95738306005f2e8591bf8e"
           }
         }
       ]

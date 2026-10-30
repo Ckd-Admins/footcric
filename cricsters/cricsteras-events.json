@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T16:09:16+05:30",
-  "generated_at_india": "30-10-2026 04:09:16 PM IST",
-  "total": 23,
+  "generated_at": "2026-10-30T16:58:03+05:30",
+  "generated_at_india": "30-10-2026 04:58:03 PM IST",
+  "total": 22,
   "events": [
     {
       "event_id": "7",
@@ -71,22 +71,6 @@
       "stream_count": 3
     },
     {
-      "event_id": "22",
-      "event_title": "Saudi Pro League - Al-Nassr vs Al-Kholood",
-      "event_time": "29 Oct, 11:30 pm",
-      "event_time_raw": 1793296800000,
-      "category": "Football",
-      "stream_count": 4
-    },
-    {
-      "event_id": "2",
-      "event_title": "Hong Kong Super 6 | HK SUPER 6 - HK SUPER 6 vs HK SUPER 6",
-      "event_time": "30 Oct, 06:15 am",
-      "event_time_raw": 1793321100000,
-      "category": "Cricket",
-      "stream_count": 3
-    },
-    {
       "event_id": "13",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "30 Oct, 07:00 am",
@@ -101,14 +85,6 @@
       "event_time_raw": 1793328300000,
       "category": "Motorsport",
       "stream_count": 5
-    },
-    {
-      "event_id": "3",
-      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
-      "event_time": "30 Oct, 09:00 am",
-      "event_time_raw": 1793331000000,
-      "category": "Cricket",
-      "stream_count": 2
     },
     {
       "event_id": "1",
@@ -127,7 +103,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Sydney Sixers Women",
       "event_time": "30 Oct, 01:40 pm",
       "event_time_raw": 1793347800000,
@@ -149,6 +125,22 @@
       "event_time_raw": 1793367000000,
       "category": "Mixed Martial Arts",
       "stream_count": 1
+    },
+    {
+      "event_id": "2",
+      "event_title": "Hong Kong Super 6 | HK SUPER 6 - HK SUPER 6 vs HK SUPER 6",
+      "event_time": "31 Oct, 06:15 am",
+      "event_time_raw": 1793407500000,
+      "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": "3",
+      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
+      "event_time": "31 Oct, 09:00 am",
+      "event_time_raw": 1793417400000,
+      "category": "Cricket",
+      "stream_count": 2
     },
     {
       "event_id": "5",
