@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T19:21:17+05:30",
-  "generated_at_india": "30-10-2026 07:21:17 PM IST",
+  "generated_at": "2026-10-30T20:16:40+05:30",
+  "generated_at_india": "30-10-2026 08:16:40 PM IST",
   "total": 30,
   "ok": 30,
   "failed": 0,
@@ -199,43 +199,6 @@
           "drm": {
             "kid": "12ed56d780abcfebcd23aa27e4ac5015",
             "key": "6784567890abcfebcd23aa27e4ac2814"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "21",
-      "event_title": "T20 International - Afghanistan vs Zimbabwe",
-      "event_time": "29 Oct, 08:00 pm",
-      "event_time_raw": 1793284200000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "AFZIWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd",
-          "drm": {
-            "kid": "d2efbc1c5f8ff101397ecf138e8741ba",
-            "key": "7f4d45f386a7640749e0f07417471f01"
-          }
-        },
-        {
-          "code": "AFZIFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        },
-        {
-          "code": "AFZIWILLP9",
-          "title": "WILLOW HD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
         }
       ]
@@ -477,6 +440,25 @@
           "drm": {
             "kid": "308006101c8fd0262c0f529319b9c127",
             "key": "37683aadc75b1450efa82d62c647984d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "21",
+      "event_title": "Indian Super League - NorthEast United FC vs Bengaluru FC",
+      "event_time": "30 Oct, 07:30 pm",
+      "event_time_raw": 1793368800000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NOBEPRIM",
+          "title": "PRIME VIDEO - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/okrdtowgt0/out/v1/77961fd468194c5785b97b858f9af3fc/cenc.mpd",
+          "drm": {
+            "kid": "bf2673b7fa403304187d06a465327574",
+            "key": "3e6d16f6076eb37dfb2ee05916f63db6"
           }
         }
       ]

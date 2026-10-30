@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T19:21:17+05:30",
-  "generated_at_india": "30-10-2026 07:21:17 PM IST",
+  "generated_at": "2026-10-30T20:16:40+05:30",
+  "generated_at_india": "30-10-2026 08:16:40 PM IST",
   "total": 30,
   "events": [
     {
@@ -52,14 +52,6 @@
       "event_time": "29 Oct, 05:30 am",
       "event_time_raw": 1793232000000,
       "category": "WWE",
-      "stream_count": 3
-    },
-    {
-      "event_id": "21",
-      "event_title": "T20 International - Afghanistan vs Zimbabwe",
-      "event_time": "29 Oct, 08:00 pm",
-      "event_time_raw": 1793284200000,
-      "category": "Cricket",
       "stream_count": 3
     },
     {
@@ -116,6 +108,14 @@
       "event_time": "30 Oct, 07:00 pm",
       "event_time_raw": 1793367000000,
       "category": "Mixed Martial Arts",
+      "stream_count": 1
+    },
+    {
+      "event_id": "21",
+      "event_title": "Indian Super League - NorthEast United FC vs Bengaluru FC",
+      "event_time": "30 Oct, 07:30 pm",
+      "event_time_raw": 1793368800000,
+      "category": "Football",
       "stream_count": 1
     },
     {
