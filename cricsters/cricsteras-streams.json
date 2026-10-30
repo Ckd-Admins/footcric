@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T18:07:10+05:30",
-  "generated_at_india": "30-10-2026 06:07:10 PM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-10-30T19:21:17+05:30",
+  "generated_at_india": "30-10-2026 07:21:17 PM IST",
+  "total": 30,
+  "ok": 30,
   "failed": 0,
   "events": [
     {
@@ -379,43 +379,6 @@
       ]
     },
     {
-      "event_id": "22",
-      "event_title": "Women's Big Bash League - Brisbane Heat Women vs Sydney Sixers Women",
-      "event_time": "30 Oct, 01:40 pm",
-      "event_time_raw": 1793347800000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "BRSYWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
-          "drm": {
-            "kid": "079a2605723e910f53d9e2bfb8cb7b2e",
-            "key": "d5383a5eedbcd90803e17aff07df4e48"
-          }
-        },
-        {
-          "code": "BRSYEURO",
-          "title": "EUROSPORT - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
-          }
-        },
-        {
-          "code": "BRSYWILLLR",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "15",
       "event_title": "ICC World Test Championship - South Africa vs Australia",
       "event_time": "30 Oct, 02:00 pm",
@@ -472,7 +435,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "26",
       "event_title": "Saudi Pro League - Abha vs Al-Ittihad",
       "event_time": "30 Oct, 06:00 pm",
       "event_time_raw": 1793363400000,
@@ -514,6 +477,185 @@
           "drm": {
             "kid": "308006101c8fd0262c0f529319b9c127",
             "key": "37683aadc75b1450efa82d62c647984d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "22",
+      "event_title": "2. Bundesliga - Energie Cottbus vs VfL Bochum 1848",
+      "event_time": "30 Oct, 11:00 pm",
+      "event_time_raw": 1793381400000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ENVFBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "23",
+      "event_title": "2. Bundesliga - Arminia Bielefeld vs Eintracht Braunschweig",
+      "event_time": "30 Oct, 11:00 pm",
+      "event_time_raw": 1793381400000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "AREIBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "29",
+      "event_title": "Ligue 1 - Le Havre vs Paris Saint-Germain",
+      "event_time": "30 Oct, 11:30 pm",
+      "event_time_raw": 1793383200000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LEPACAZE",
+          "title": "CAZE TV FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "drm": {
+            "kid": "34475edab991ad5e92548aebd710410a",
+            "key": "501b209cccd323ac00bf5ac15b406cb4"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "24",
+      "event_title": "Bundesliga - SV 07 Elversberg vs 1. FSV Mainz 05",
+      "event_time": "31 Oct, 01:00 am",
+      "event_time_raw": 1793388600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SV1SPOR",
+          "title": "SporTV BR FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+          "drm": {
+            "kid": "902e5ec0e3d05e665daa32fc23f4f59e",
+            "key": "7b2322a273843921a43e2c61dac7cae3"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "25",
+      "event_title": "Championship - Sheffield United vs Wrexham",
+      "event_time": "31 Oct, 01:30 am",
+      "event_time_raw": 1793390400000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "SHWRBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        },
+        {
+          "code": "SHWRCBSS",
+          "title": "CBS SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "27",
+      "event_title": "LaLiga - Villarreal vs Espanyol",
+      "event_time": "31 Oct, 01:30 am",
+      "event_time_raw": 1793390400000,
+      "category": "Football",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "VIESBEIN",
+          "title": "beIN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        },
+        {
+          "code": "VIESSPOR",
+          "title": "D SPORTS ES - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "drm": {
+            "kid": "f836853d8eac19446ed9535f5fc568b1",
+            "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+          }
+        },
+        {
+          "code": "VIESFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "30",
+      "event_title": "Ligue 1 - Lille vs RC Lens",
+      "event_time": "31 Oct, 01:35 am",
+      "event_time_raw": 1793390700000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LIRCCAZE",
+          "title": "CAZE TV FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "drm": {
+            "kid": "34475edab991ad5e92548aebd710410a",
+            "key": "501b209cccd323ac00bf5ac15b406cb4"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "28",
+      "event_title": "Liga Portugal Betclic - Casa Pia vs Sporting CP",
+      "event_time": "31 Oct, 01:45 am",
+      "event_time_raw": 1793391300000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CASPSPOR",
+          "title": "D Sports FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "drm": {
+            "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+            "key": "ea07b87acdf2e45be824cde4a1cf3504"
           }
         }
       ]

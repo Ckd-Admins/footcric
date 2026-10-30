@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T18:07:10+05:30",
-  "generated_at_india": "30-10-2026 06:07:10 PM IST",
-  "total": 23,
+  "generated_at": "2026-10-30T19:21:17+05:30",
+  "generated_at_india": "30-10-2026 07:21:17 PM IST",
+  "total": 30,
   "events": [
     {
       "event_id": "7",
@@ -87,14 +87,6 @@
       "stream_count": 1
     },
     {
-      "event_id": "22",
-      "event_title": "Women's Big Bash League - Brisbane Heat Women vs Sydney Sixers Women",
-      "event_time": "30 Oct, 01:40 pm",
-      "event_time_raw": 1793347800000,
-      "category": "Cricket",
-      "stream_count": 3
-    },
-    {
       "event_id": "15",
       "event_title": "ICC World Test Championship - South Africa vs Australia",
       "event_time": "30 Oct, 02:00 pm",
@@ -111,7 +103,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "23",
+      "event_id": "26",
       "event_title": "Saudi Pro League - Abha vs Al-Ittihad",
       "event_time": "30 Oct, 06:00 pm",
       "event_time_raw": 1793363400000,
@@ -124,6 +116,70 @@
       "event_time": "30 Oct, 07:00 pm",
       "event_time_raw": 1793367000000,
       "category": "Mixed Martial Arts",
+      "stream_count": 1
+    },
+    {
+      "event_id": "22",
+      "event_title": "2. Bundesliga - Energie Cottbus vs VfL Bochum 1848",
+      "event_time": "30 Oct, 11:00 pm",
+      "event_time_raw": 1793381400000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "23",
+      "event_title": "2. Bundesliga - Arminia Bielefeld vs Eintracht Braunschweig",
+      "event_time": "30 Oct, 11:00 pm",
+      "event_time_raw": 1793381400000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "29",
+      "event_title": "Ligue 1 - Le Havre vs Paris Saint-Germain",
+      "event_time": "30 Oct, 11:30 pm",
+      "event_time_raw": 1793383200000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "24",
+      "event_title": "Bundesliga - SV 07 Elversberg vs 1. FSV Mainz 05",
+      "event_time": "31 Oct, 01:00 am",
+      "event_time_raw": 1793388600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "25",
+      "event_title": "Championship - Sheffield United vs Wrexham",
+      "event_time": "31 Oct, 01:30 am",
+      "event_time_raw": 1793390400000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "27",
+      "event_title": "LaLiga - Villarreal vs Espanyol",
+      "event_time": "31 Oct, 01:30 am",
+      "event_time_raw": 1793390400000,
+      "category": "Football",
+      "stream_count": 3
+    },
+    {
+      "event_id": "30",
+      "event_title": "Ligue 1 - Lille vs RC Lens",
+      "event_time": "31 Oct, 01:35 am",
+      "event_time_raw": 1793390700000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "28",
+      "event_title": "Liga Portugal Betclic - Casa Pia vs Sporting CP",
+      "event_time": "31 Oct, 01:45 am",
+      "event_time_raw": 1793391300000,
+      "category": "Football",
       "stream_count": 1
     },
     {
