@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T23:02:39+05:30",
-  "generated_at_india": "30-10-2026 11:02:39 PM IST",
-  "total": 28,
+  "generated_at": "2026-10-30T23:42:35+05:30",
+  "generated_at_india": "30-10-2026 11:42:35 PM IST",
+  "total": 30,
   "events": [
     {
       "event_id": "7",
@@ -111,15 +111,39 @@
       "stream_count": 1
     },
     {
-      "event_id": "27",
-      "event_title": "Ligue 1 - Le Havre vs Paris Saint-Germain",
+      "event_id": "23",
+      "event_title": "Ligue 1 - Nice vs Stade Rennais",
       "event_time": "30 Oct, 11:30 pm",
       "event_time_raw": 1793383200000,
       "category": "Football",
       "stream_count": 1
     },
     {
-      "event_id": "23",
+      "event_id": "26",
+      "event_title": "Saudi Pro League - Al-Shabab vs Al-Ahli",
+      "event_time": "30 Oct, 11:30 pm",
+      "event_time_raw": 1793383200000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "29",
+      "event_title": "Ligue 1 - Le Havre vs Paris Saint-Germain",
+      "event_time": "30 Oct, 11:30 pm",
+      "event_time_raw": 1793383200000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "5",
+      "event_title": "Formula 1 - Formula 1 vs Formula 1",
+      "event_time": "31 Oct, 12:00 am",
+      "event_time_raw": 1793385000000,
+      "category": "Motorsport",
+      "stream_count": 6
+    },
+    {
+      "event_id": "24",
       "event_title": "Bundesliga - SV 07 Elversberg vs 1. FSV Mainz 05",
       "event_time": "31 Oct, 01:00 am",
       "event_time_raw": 1793388600000,
@@ -127,7 +151,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "Championship - Sheffield United vs Wrexham",
       "event_time": "31 Oct, 01:30 am",
       "event_time_raw": 1793390400000,
@@ -135,7 +159,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "25",
+      "event_id": "27",
       "event_title": "LaLiga - Villarreal vs Espanyol",
       "event_time": "31 Oct, 01:30 am",
       "event_time_raw": 1793390400000,
@@ -143,7 +167,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "28",
+      "event_id": "30",
       "event_title": "Ligue 1 - Lille vs RC Lens",
       "event_time": "31 Oct, 01:35 am",
       "event_time_raw": 1793390700000,
@@ -151,7 +175,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "26",
+      "event_id": "28",
       "event_title": "Liga Portugal Betclic - Casa Pia vs Sporting CP",
       "event_time": "31 Oct, 01:45 am",
       "event_time_raw": 1793391300000,
@@ -173,14 +197,6 @@
       "event_time_raw": 1793417400000,
       "category": "Cricket",
       "stream_count": 2
-    },
-    {
-      "event_id": "5",
-      "event_title": "Formula 1 - Formula 1 vs Formula 1",
-      "event_time": "31 Oct, 12:00 pm",
-      "event_time_raw": 1793428200000,
-      "category": "Motorsport",
-      "stream_count": 6
     },
     {
       "event_id": "18",
