@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T15:11:44+05:30",
-  "generated_at_india": "30-10-2026 03:11:44 PM IST",
-  "total": 26,
+  "generated_at": "2026-10-30T16:09:16+05:30",
+  "generated_at_india": "30-10-2026 04:09:16 PM IST",
+  "total": 23,
   "events": [
     {
       "event_id": "7",
@@ -71,44 +71,12 @@
       "stream_count": 3
     },
     {
-      "event_id": "26",
-      "event_title": "WNBA - Atlanta Dream vs Golden State Valkyries",
-      "event_time": "29 Oct, 10:00 pm",
-      "event_time_raw": 1793291400000,
-      "category": "Basketball",
-      "stream_count": 1
-    },
-    {
-      "event_id": "24",
+      "event_id": "22",
       "event_title": "Saudi Pro League - Al-Nassr vs Al-Kholood",
       "event_time": "29 Oct, 11:30 pm",
       "event_time_raw": 1793296800000,
       "category": "Football",
       "stream_count": 4
-    },
-    {
-      "event_id": "22",
-      "event_title": "EFL Cup - Everton vs Newcastle United",
-      "event_time": "30 Oct, 01:15 am",
-      "event_time_raw": 1793303100000,
-      "category": "Football",
-      "stream_count": 4
-    },
-    {
-      "event_id": "25",
-      "event_title": "Serie A - Fiorentina vs Atalanta",
-      "event_time": "30 Oct, 01:15 am",
-      "event_time_raw": 1793303100000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "23",
-      "event_title": "Campeonato Brasileiro Série A - Grêmio vs Athletico",
-      "event_time": "30 Oct, 06:00 am",
-      "event_time_raw": 1793320200000,
-      "category": "Football",
-      "stream_count": 1
     },
     {
       "event_id": "2",
@@ -157,6 +125,14 @@
       "event_time_raw": 1793345400000,
       "category": "Cricket",
       "stream_count": 1
+    },
+    {
+      "event_id": "23",
+      "event_title": "Women's Big Bash League - Brisbane Heat Women vs Sydney Sixers Women",
+      "event_time": "30 Oct, 01:40 pm",
+      "event_time_raw": 1793347800000,
+      "category": "Cricket",
+      "stream_count": 3
     },
     {
       "event_id": "15",
