@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T13:16:10+05:30",
-  "generated_at_india": "30-10-2026 01:16:10 PM IST",
+  "generated_at": "2026-10-30T14:09:59+05:30",
+  "generated_at_india": "30-10-2026 02:09:59 PM IST",
   "total": 38,
   "ok": 38,
   "failed": 0,
@@ -440,15 +440,15 @@
       "event_time": "2026-10-30 08:30",
       "event_time_raw": "2026-10-30 08:30",
       "category": "Cricket",
-      "stream_count": 5,
+      "stream_count": 4,
       "streams": [
         {
           "code": "SOAUWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bzm4u6axk0/out/v1/d59d1f211470430daf1bd0acb013e9b6/cenc.mpd",
           "drm": {
-            "kid": "cad7365855ea0ac0653144882a46e9a6",
-            "key": "0ee40359b01264cce5aac3140096c927"
+            "kid": "a0ea22119ca851e441c56df67e33f6fd",
+            "key": "179bbc5d1bec825eaa1b712872f12eda"
           }
         },
         {
@@ -461,21 +461,12 @@
           }
         },
         {
-          "code": "SOAUWILLCY",
+          "code": "SOAUWILL08",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bzm4u6axk0/out/v1/d59d1f211470430daf1bd0acb013e9b6/cenc.mpd",
           "drm": {
-            "kid": "cad7365855ea0ac0653144882a46e9a6",
-            "key": "0ee40359b01264cce5aac3140096c927"
-          }
-        },
-        {
-          "code": "SOAUEURO",
-          "title": "EUROSPORTS - FHD",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
+            "kid": "a0ea22119ca851e441c56df67e33f6fd",
+            "key": "179bbc5d1bec825eaa1b712872f12eda"
           }
         },
         {
@@ -500,19 +491,19 @@
         {
           "code": "WOMEWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8x9f8fvjwv/out/v1/15d9b1a637644c4baa527bd43e8d87a5/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
           "drm": {
-            "kid": "3f9bba6398d727a70e33b03bc2c1957d",
-            "key": "8df87cf8c3d56350ea0297ae273de0c3"
+            "kid": "079a2605723e910f53d9e2bfb8cb7b2e",
+            "key": "d5383a5eedbcd90803e17aff07df4e48"
           }
         },
         {
-          "code": "WOMEWILLGA",
+          "code": "WOMEWILLRH",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8x9f8fvjwv/out/v1/15d9b1a637644c4baa527bd43e8d87a5/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
           "drm": {
-            "kid": "3f9bba6398d727a70e33b03bc2c1957d",
-            "key": "8df87cf8c3d56350ea0297ae273de0c3"
+            "kid": "079a2605723e910f53d9e2bfb8cb7b2e",
+            "key": "d5383a5eedbcd90803e17aff07df4e48"
           }
         },
         {
