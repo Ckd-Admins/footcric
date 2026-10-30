@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T23:00:04+05:30",
-  "generated_at_india": "30-10-2026 11:00:04 PM IST",
-  "total": 39,
+  "generated_at": "2026-10-30T23:58:07+05:30",
+  "generated_at_india": "30-10-2026 11:58:07 PM IST",
+  "total": 41,
   "events": [
     {
       "event_id": 50002,
@@ -12,7 +12,7 @@
       "event_time": "2026-10-30 18:30",
       "event_time_raw": "2026-10-30 18:30",
       "category": "F1",
-      "stream_count": 4
+      "stream_count": 3
     },
     {
       "event_id": 50003,
@@ -252,6 +252,14 @@
       "event_time": "2026-10-30 18:00",
       "event_time_raw": "2026-10-30 18:00",
       "category": "Ligue 1 🇫🇷",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50114,
+      "event_title": "Nice vs Stade Rennais",
+      "event_time": "2026-10-30 18:00",
+      "event_time_raw": "2026-10-30 18:00",
+      "category": "Ligue 1 🇫🇷",
       "stream_count": 1
     },
     {
@@ -285,6 +293,14 @@
       "event_time_raw": "2026-10-30 20:00",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 2
+    },
+    {
+      "event_id": 50120,
+      "event_title": "Konyaspor vs Galatasaray",
+      "event_time": "2026-10-30 17:00",
+      "event_time_raw": "2026-10-30 17:00",
+      "category": "Super Lig",
+      "stream_count": 1
     },
     {
       "event_id": 50121,
