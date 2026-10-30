@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T23:58:07+05:30",
-  "generated_at_india": "30-10-2026 11:58:07 PM IST",
+  "generated_at": "2026-10-31T01:06:34+05:30",
+  "generated_at_india": "31-10-2026 01:06:34 AM IST",
   "total": 41,
   "ok": 41,
   "failed": 0,
@@ -14,7 +14,7 @@
       "event_time": "2026-10-30 18:30",
       "event_time_raw": "2026-10-30 18:30",
       "category": "F1",
-      "stream_count": 3,
+      "stream_count": 4,
       "streams": [
         {
           "code": "MEXIFANC",
@@ -32,6 +32,15 @@
           "drm": {
             "kid": "902e5ec0e3d05e665daa32fc23f4f59e",
             "key": "7b2322a273843921a43e2c61dac7cae3"
+          }
+        },
+        {
+          "code": "MEXICANA",
+          "title": "CANAL5 FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm": {
+            "kid": "d695093ea3e66d75a4d213a3e2cbf360",
+            "key": "01be3f645e89a067d2786c295f68dde4"
           }
         },
         {
@@ -1046,15 +1055,24 @@
       "event_time": "2026-10-30 19:30",
       "event_time_raw": "2026-10-30 19:30",
       "category": "Bundesliga 🇩🇪",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "ELMADAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ecgq16funr/out/v1/f0bd8b7c40b54444a6ad52cd9e60cb4f/cenc.mpd",
+          "drm": {
+            "kid": "92ced59d6ad14c38b3d9210b364f8200",
+            "key": "d8e60166931203524b0179c6956e0904"
+          }
+        },
         {
           "code": "ELMASPOR",
           "title": "SporTV BR FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
           "drm": {
-            "kid": "902e5ec0e3d05e665daa32fc23f4f59e",
-            "key": "7b2322a273843921a43e2c61dac7cae3"
+            "kid": "9009b7189e3e68cc09d17811f2beb55a",
+            "key": "dd3f96a94c909da48ff40c92aabf8cf3"
           }
         }
       ]
