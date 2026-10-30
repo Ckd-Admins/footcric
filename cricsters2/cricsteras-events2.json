@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T01:06:34+05:30",
-  "generated_at_india": "31-10-2026 01:06:34 AM IST",
+  "generated_at": "2026-10-31T01:55:46+05:30",
+  "generated_at_india": "31-10-2026 01:55:46 AM IST",
   "total": 41,
   "events": [
     {
@@ -17,8 +17,8 @@
     {
       "event_id": 50003,
       "event_title": "MotoGP - Grand Prix of Malaysia",
-      "event_time": "2026-10-30 02:45",
-      "event_time_raw": "2026-10-30 02:45",
+      "event_time": "2026-10-31 02:10",
+      "event_time_raw": "2026-10-31 02:10",
       "category": "MotoGP",
       "stream_count": 4
     },
@@ -244,7 +244,7 @@
       "event_time": "2026-10-30 20:05",
       "event_time_raw": "2026-10-30 20:05",
       "category": "Ligue 1 🇫🇷",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50113,
@@ -292,7 +292,7 @@
       "event_time": "2026-10-30 20:00",
       "event_time_raw": "2026-10-30 20:00",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
+      "stream_count": 4
     },
     {
       "event_id": 50120,
