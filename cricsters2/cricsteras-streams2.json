@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T10:02:41+05:30",
-  "generated_at_india": "30-10-2026 10:02:41 AM IST",
+  "generated_at": "2026-10-30T11:00:51+05:30",
+  "generated_at_india": "30-10-2026 11:00:51 AM IST",
   "total": 38,
   "ok": 38,
   "failed": 0,
@@ -574,10 +574,10 @@
         {
           "code": "HONGWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0prkjuymq/out/v1/2e724fedaa1548a2a962b48de161b358/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5borzp0tp1/out/v1/f5bb96e393ac4d2888e322f8d23985f9/cenc.mpd",
           "drm": {
-            "kid": "5ad2836094f0f19bbdc4f9bf00405ce9",
-            "key": "be7824f1197c39ec98d9b852c7b124af"
+            "kid": "6367e08dfc02c4327664600b9065f045",
+            "key": "0236e25b4f0f33e10750fde80911727f"
           }
         },
         {
