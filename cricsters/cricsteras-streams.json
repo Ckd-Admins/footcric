@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T10:07:39+05:30",
-  "generated_at_india": "30-10-2026 10:07:39 AM IST",
-  "total": 26,
-  "ok": 26,
+  "generated_at": "2026-10-30T11:05:20+05:30",
+  "generated_at_india": "30-10-2026 11:05:20 AM IST",
+  "total": 25,
+  "ok": 25,
   "failed": 0,
   "events": [
     {
@@ -437,16 +437,16 @@
         {
           "code": "HKHKWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/f0prkjuymq/out/v1/2e724fedaa1548a2a962b48de161b358/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mi9kocw56r/out/v1/6fd8bb445f2340989240af0a1a5f9ac9/cenc.mpd",
           "drm": {
-            "kid": "5ad2836094f0f19bbdc4f9bf00405ce9",
-            "key": "be7824f1197c39ec98d9b852c7b124af"
+            "kid": "6367e08dfc02c4327664600b9065f045",
+            "key": "0236e25b4f0f33e10750fde80911727f"
           }
         },
         {
           "code": "HKHKPLAY",
           "title": "PLAYZTV - AQ",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793357109~acl=/variant/v1blackout/vcg-01-d/*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cff6a0e3b14986641a026a8507d6783618cde4d1e41e6c45fe37d7d35818f074/manifest.mpd?vcfilter=992cc923-cf3d-4540-9c7d-e7e7f8c79454",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793308232~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=6584c43dfd7f579c504d476ee7c397388dec121c2f12ad52bd8aa6b6b6f6afab/manifest.mpd",
           "drm": {
             "kid": "39bd302cdeed3710a89fb004d232ab67",
             "key": "9869f804ba18d7e508cbff781829221c"
@@ -496,25 +496,6 @@
           "drm": {
             "kid": "78ebfaa7e06f4cb7a05d88b494f691ca",
             "key": "4cca8c458c627a9d0af551cc20d79583"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "26",
-      "event_title": "NHL - Los Angeles Kings vs Ottawa Senators",
-      "event_time": "30 Oct, 07:30 am",
-      "event_time_raw": 1793325600000,
-      "category": "Hockey",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "LOOTPREM",
-          "title": "PREMIER SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
           }
         }
       ]

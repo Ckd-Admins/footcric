@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T10:07:39+05:30",
-  "generated_at_india": "30-10-2026 10:07:39 AM IST",
-  "total": 26,
+  "generated_at": "2026-10-30T11:05:20+05:30",
+  "generated_at_india": "30-10-2026 11:05:20 AM IST",
+  "total": 25,
   "events": [
     {
       "event_id": "6",
@@ -125,14 +125,6 @@
       "event_time_raw": 1793323800000,
       "category": "Tennis",
       "stream_count": 3
-    },
-    {
-      "event_id": "26",
-      "event_title": "NHL - Los Angeles Kings vs Ottawa Senators",
-      "event_time": "30 Oct, 07:30 am",
-      "event_time_raw": 1793325600000,
-      "category": "Hockey",
-      "stream_count": 1
     },
     {
       "event_id": "16",
