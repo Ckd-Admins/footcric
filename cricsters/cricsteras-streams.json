@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T12:08:28+05:30",
-  "generated_at_india": "30-10-2026 00:08:28 PM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-10-30T13:22:01+05:30",
+  "generated_at_india": "30-10-2026 01:22:01 PM IST",
+  "total": 26,
+  "ok": 26,
   "failed": 0,
   "events": [
     {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "29 Oct, 08:00 pm",
       "event_time_raw": 1793284200000,
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "26",
       "event_title": "WNBA - Atlanta Dream vs Golden State Valkyries",
       "event_time": "29 Oct, 10:00 pm",
       "event_time_raw": 1793291400000,
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "24",
       "event_title": "Saudi Pro League - Al-Nassr vs Al-Kholood",
       "event_time": "29 Oct, 11:30 pm",
       "event_time_raw": 1793296800000,
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "22",
       "event_title": "EFL Cup - Everton vs Newcastle United",
       "event_time": "30 Oct, 01:15 am",
       "event_time_raw": 1793303100000,
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "Serie A - Fiorentina vs Atalanta",
       "event_time": "30 Oct, 01:15 am",
       "event_time_raw": 1793303100000,
@@ -408,7 +408,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "23",
       "event_title": "Campeonato Brasileiro Série A - Grêmio vs Athletico",
       "event_time": "30 Oct, 06:00 am",
       "event_time_raw": 1793320200000,
@@ -428,23 +428,23 @@
     },
     {
       "event_id": "2",
-      "event_title": "Hong Kong Super 6 | HK SUPER 6 - India vs Pakistan",
+      "event_title": "Hong Kong Super 6 | HK SUPER 6 - HK SUPER 6 vs HK SUPER 6",
       "event_time": "30 Oct, 06:15 am",
       "event_time_raw": 1793321100000,
       "category": "Cricket",
       "stream_count": 3,
       "streams": [
         {
-          "code": "INPAWILL",
+          "code": "HKHKWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ty4uvtk3uz/out/v1/e49d57fa606f46f79bea2c5d5f5bdfc4/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/a0qrspjhqu/out/v1/304e32beaabf4a6f9f6b57eb17b6bab9/cenc.mpd",
           "drm": {
-            "kid": "267d2c2755198020311d5ba35801afe4",
-            "key": "f37507ea51e3f9e71b95ef2aa3772141"
+            "kid": "c884ad869859b1e8125c41a0e32e5276",
+            "key": "f9c4f313219f7ee59f900efa739a4acc"
           }
         },
         {
-          "code": "INPAPLAY",
+          "code": "HKHKPLAY",
           "title": "PLAYZTV - AQ",
           "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793308232~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=6584c43dfd7f579c504d476ee7c397388dec121c2f12ad52bd8aa6b6b6f6afab/manifest.mpd",
           "drm": {
@@ -453,7 +453,7 @@
           }
         },
         {
-          "code": "INPAWILLMY",
+          "code": "HKHKWILLCB",
           "title": "WILLOW SP - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
           "drm": {
@@ -501,7 +501,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "30 Oct, 08:15 am",
       "event_time_raw": 1793328300000,
@@ -601,15 +601,6 @@
           }
         },
         {
-          "code": "NEINTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
           "code": "NEINPRIMTL",
           "title": "PRIME HINDI - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
@@ -621,10 +612,19 @@
         {
           "code": "NEINWILL",
           "title": "WILLOW - AQ",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
           "drm": {
-            "kid": "b1ee06e6e306aa92e9a4658f739a1596",
-            "key": "b993e1f264c6a637cd28427242f5f967"
+            "kid": "7a3f90a5769802036c18de821735b594",
+            "key": "1412cd88540af73b27e45c9982bc9c78"
+          }
+        },
+        {
+          "code": "NEINTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
           }
         },
         {
@@ -637,12 +637,31 @@
           }
         },
         {
-          "code": "NEINWILLYQ",
+          "code": "NEINWILLID",
           "title": "WILLOW S2 - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jorvx5qfk6/out/v1/6dbb07d5c15c4ffb8b51bdcdc0425548/cenc.mpd",
           "drm": {
-            "kid": "b1ee06e6e306aa92e9a4658f739a1596",
-            "key": "b993e1f264c6a637cd28427242f5f967"
+            "kid": "6df39bfdcc3293c5018e97607998cae3",
+            "key": "794ada809851b50c0e8a7568f92971e0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "16",
+      "event_title": "One Day International - Namibia vs Ireland",
+      "event_time": "30 Oct, 01:00 pm",
+      "event_time_raw": 1793345400000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NAIRPLAY",
+          "title": "PLAYZTV - AQ",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793373340~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=4da8d2331ed0be50ae0bc6624a824d9c041ff4e03dc0ec5f3ab9f78846a17a2e/manifest.mpd",
+          "drm": {
+            "kid": "39bd302cdeed3710a89fb004d232ab67",
+            "key": "9869f804ba18d7e508cbff781829221c"
           }
         }
       ]
@@ -658,10 +677,10 @@
         {
           "code": "SOAUWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd",
           "drm": {
-            "kid": "cad7365855ea0ac0653144882a46e9a6",
-            "key": "0ee40359b01264cce5aac3140096c927"
+            "kid": "a0ea22119ca851e441c56df67e33f6fd",
+            "key": "179bbc5d1bec825eaa1b712872f12eda"
           }
         },
         {
@@ -768,7 +787,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "31 Oct, 12:15 pm",
       "event_time_raw": 1793429100000,
@@ -787,7 +806,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "ODI Tri-series in Pakistan - Pakistan vs Sri Lanka",
       "event_time": "31 Oct, 01:30 pm",
       "event_time_raw": 1793433600000,
