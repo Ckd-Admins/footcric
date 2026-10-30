@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T04:57:16+05:30",
-  "generated_at_india": "30-10-2026 04:57:16 AM IST",
+  "generated_at": "2026-10-30T06:05:00+05:30",
+  "generated_at_india": "30-10-2026 06:05:00 AM IST",
   "total": 24,
   "ok": 24,
   "failed": 0,
@@ -630,7 +630,7 @@
         {
           "code": "SOAUWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
           "drm": {
             "kid": "cad7365855ea0ac0653144882a46e9a6",
             "key": "0ee40359b01264cce5aac3140096c927"
