@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T12:00:18+05:30",
-  "generated_at_india": "30-10-2026 00:00:18 PM IST",
+  "generated_at": "2026-10-30T13:16:10+05:30",
+  "generated_at_india": "30-10-2026 01:16:10 PM IST",
   "total": 38,
   "events": [
     {
@@ -52,7 +52,7 @@
       "event_time": "2026-10-30 07:00",
       "event_time_raw": "2026-10-30 07:00",
       "category": "Cricket",
-      "stream_count": 6
+      "stream_count": 5
     },
     {
       "event_id": 50009,
