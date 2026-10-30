@@ -2,17 +2,17 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T01:55:46+05:30",
-  "generated_at_india": "31-10-2026 01:55:46 AM IST",
+  "generated_at": "2026-10-31T02:54:31+05:30",
+  "generated_at_india": "31-10-2026 02:54:31 AM IST",
   "total": 41,
   "events": [
     {
       "event_id": 50002,
       "event_title": "Formula 1 -  Mexico Grand Prix",
-      "event_time": "2026-10-30 18:30",
-      "event_time_raw": "2026-10-30 18:30",
+      "event_time": "2026-10-30 21:30",
+      "event_time_raw": "2026-10-30 21:30",
       "category": "F1",
-      "stream_count": 4
+      "stream_count": 5
     },
     {
       "event_id": 50003,
@@ -95,6 +95,14 @@
       "stream_count": 2
     },
     {
+      "event_id": 50044,
+      "event_title": "Boston Celtics vs Chicago Bulls",
+      "event_time": "2026-10-30 23:30",
+      "event_time_raw": "2026-10-30 23:30",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
       "event_id": 50054,
       "event_title": "Toronto Argonauts vs Winnipeg Blue Bombers",
       "event_time": "2026-10-31 17:00",
@@ -119,6 +127,30 @@
       "stream_count": 3
     },
     {
+      "event_id": 50075,
+      "event_title": "Vegas Golden Knights vs New Jersey Devils",
+      "event_time": "2026-10-30 22:00",
+      "event_time_raw": "2026-10-30 22:00",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50076,
+      "event_title": "Florida Panthers vs Winnipeg Jets",
+      "event_time": "2026-10-30 23:00",
+      "event_time_raw": "2026-10-30 23:00",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50077,
+      "event_title": "Calgary Flames vs Seattle Kraken",
+      "event_time": "2026-10-31 00:00",
+      "event_time_raw": "2026-10-31 00:00",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
       "event_id": 50084,
       "event_title": "Los Angeles Kings vs Ottawa Senators",
       "event_time": "2026-10-30 02:00",
@@ -127,10 +159,18 @@
       "stream_count": 1
     },
     {
+      "event_id": 50086,
+      "event_title": "Corinthians vs Mirassol",
+      "event_time": "2026-10-30 23:00",
+      "event_time_raw": "2026-10-30 23:00",
+      "category": "Brasileirão",
+      "stream_count": 2
+    },
+    {
       "event_id": 50089,
       "event_title": "Hong Kong Sixes",
-      "event_time": "2026-10-30 00:45",
-      "event_time_raw": "2026-10-30 00:45",
+      "event_time": "2026-10-31 00:45",
+      "event_time_raw": "2026-10-31 00:45",
       "category": "Cricket",
       "stream_count": 2
     },
@@ -169,8 +209,8 @@
     {
       "event_id": 50094,
       "event_title": "Bangladesh vs West Indies",
-      "event_time": "2026-10-30 03:30",
-      "event_time_raw": "2026-10-30 03:30",
+      "event_time": "2026-10-31 03:30",
+      "event_time_raw": "2026-10-31 03:30",
       "category": "Cricket",
       "stream_count": 2
     },
@@ -293,46 +333,6 @@
       "event_time_raw": "2026-10-30 20:00",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 4
-    },
-    {
-      "event_id": 50120,
-      "event_title": "Konyaspor vs Galatasaray",
-      "event_time": "2026-10-30 17:00",
-      "event_time_raw": "2026-10-30 17:00",
-      "category": "Super Lig",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50121,
-      "event_title": "Energie Cottbus vs Bochum",
-      "event_time": "2026-10-30 17:30",
-      "event_time_raw": "2026-10-30 17:30",
-      "category": "2. Bundesliga",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50122,
-      "event_title": "Arminia Bielefeld vs Eintracht Braunschweig",
-      "event_time": "2026-10-30 17:30",
-      "event_time_raw": "2026-10-30 17:30",
-      "category": "2. Bundesliga",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50124,
-      "event_title": "Abha vs Al-Ittihad",
-      "event_time": "2026-10-30 12:30",
-      "event_time_raw": "2026-10-30 12:30",
-      "category": "Pro League 🇸🇦",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50125,
-      "event_title": "NorthEast United vs Bengaluru",
-      "event_time": "2026-10-30 14:00",
-      "event_time_raw": "2026-10-30 14:00",
-      "category": "ISL",
-      "stream_count": 1
     }
   ],
   "raw_data": ""
