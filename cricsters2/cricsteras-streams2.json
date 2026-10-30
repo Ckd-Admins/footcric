@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T11:00:51+05:30",
-  "generated_at_india": "30-10-2026 11:00:51 AM IST",
+  "generated_at": "2026-10-30T12:00:18+05:30",
+  "generated_at_india": "30-10-2026 00:00:18 PM IST",
   "total": 38,
   "ok": 38,
   "failed": 0,
@@ -226,8 +226,17 @@
       "event_time": "2026-10-30 07:00",
       "event_time_raw": "2026-10-30 07:00",
       "category": "Cricket",
-      "stream_count": 7,
+      "stream_count": 6,
       "streams": [
+        {
+          "code": "NEINTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
         {
           "code": "NEINWILL",
           "title": "WILLOW - FHD",
@@ -256,15 +265,6 @@
           }
         },
         {
-          "code": "NEINTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
           "code": "NEINWILL5C",
           "title": "WILLOW - ALT",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ojpgrthnnt/out/v1/52619efcaa3e473295a6fd19dd6e9437/cenc.mpd",
@@ -280,15 +280,6 @@
           "drm": {
             "kid": "99ce7c4be7222f0c0760734bb1a7c726",
             "key": "9c2f0502932c19e0ccd9c8acc5c7790e"
-          }
-        },
-        {
-          "code": "NEINSONY",
-          "title": "SonyLiv HIN (IND)",
-          "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=1793068771~exp=1793090371~acl=/*~hmac=8dd4fe420043a06d09b30ae20521670a093df5522614b8d836ac549088b95871",
-          "drm": {
-            "kid": "68318f7c97c55ba6ab8d0398a88fed3e",
-            "key": "d312fb3325b4eb9462b4a0d2b6794adf"
           }
         }
       ]
@@ -569,24 +560,15 @@
       "event_time": "2026-10-30 00:45",
       "event_time_raw": "2026-10-30 00:45",
       "category": "Cricket",
-      "stream_count": 3,
+      "stream_count": 2,
       "streams": [
         {
           "code": "HONGWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5borzp0tp1/out/v1/f5bb96e393ac4d2888e322f8d23985f9/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jjptgfegsl/out/v1/a2fa2ccca2144e04bfd4e292b2acec83/cenc.mpd",
           "drm": {
-            "kid": "6367e08dfc02c4327664600b9065f045",
-            "key": "0236e25b4f0f33e10750fde80911727f"
-          }
-        },
-        {
-          "code": "HONGHONG",
-          "title": "Hong Kong vs England",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pogxnv91qx/out/v1/c8188b0a5e22467b81ec4b50a8a4e96d/cenc.mpd",
-          "drm": {
-            "kid": "20fe599cae4e8d9a463c7e957bcfe5de",
-            "key": "d86f7d06b462abc11a4776916d316afc"
+            "kid": "e5ee66b27133880bbed9a67e151bc81d",
+            "key": "13bd795ee9b997d64a1b025b52d44566"
           }
         },
         {
