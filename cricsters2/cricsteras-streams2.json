@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T17:59:51+05:30",
-  "generated_at_india": "30-10-2026 05:59:51 PM IST",
-  "total": 38,
-  "ok": 38,
+  "generated_at": "2026-10-30T19:18:11+05:30",
+  "generated_at_india": "30-10-2026 07:18:11 PM IST",
+  "total": 39,
+  "ok": 39,
   "failed": 0,
   "events": [
     {
@@ -1149,6 +1149,25 @@
           "drm": {
             "kid": "902e5ec0e3d05e665daa32fc23f4f59e",
             "key": "7b2322a273843921a43e2c61dac7cae3"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50125,
+      "event_title": "NorthEast United vs Bengaluru",
+      "event_time": "2026-10-30 14:00",
+      "event_time_raw": "2026-10-30 14:00",
+      "category": "ISL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NOBEPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/okrdtowgt0/out/v1/77961fd468194c5785b97b858f9af3fc/cenc.mpd",
+          "drm": {
+            "kid": "bf2673b7fa403304187d06a465327574",
+            "key": "3e6d16f6076eb37dfb2ee05916f63db6"
           }
         }
       ]
