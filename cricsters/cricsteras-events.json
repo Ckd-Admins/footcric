@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T22:08:41+05:30",
-  "generated_at_india": "30-10-2026 10:08:41 PM IST",
+  "generated_at": "2026-10-30T23:02:39+05:30",
+  "generated_at_india": "30-10-2026 11:02:39 PM IST",
   "total": 28,
   "events": [
     {
@@ -69,14 +69,6 @@
       "event_time_raw": 1793343600000,
       "category": "Cricket",
       "stream_count": 6
-    },
-    {
-      "event_id": "15",
-      "event_title": "ICC World Test Championship - South Africa vs Australia",
-      "event_time": "30 Oct, 02:00 pm",
-      "event_time_raw": 1793349000000,
-      "category": "Cricket",
-      "stream_count": 3
     },
     {
       "event_id": "11",
@@ -205,6 +197,14 @@
       "event_time_raw": 1793433600000,
       "category": "Cricket",
       "stream_count": 2
+    },
+    {
+      "event_id": "15",
+      "event_title": "ICC World Test Championship - South Africa vs Australia",
+      "event_time": "31 Oct, 02:00 pm",
+      "event_time_raw": 1793435400000,
+      "category": "Cricket",
+      "stream_count": 3
     },
     {
       "event_id": "13",

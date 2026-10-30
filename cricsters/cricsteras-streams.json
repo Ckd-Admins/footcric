@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-30T22:08:41+05:30",
-  "generated_at_india": "30-10-2026 10:08:41 PM IST",
+  "generated_at": "2026-10-30T23:02:39+05:30",
+  "generated_at_india": "30-10-2026 11:02:39 PM IST",
   "total": 28,
   "ok": 28,
   "failed": 0,
@@ -318,43 +318,6 @@
           "drm": {
             "kid": "6df39bfdcc3293c5018e97607998cae3",
             "key": "794ada809851b50c0e8a7568f92971e0"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "15",
-      "event_title": "ICC World Test Championship - South Africa vs Australia",
-      "event_time": "30 Oct, 02:00 pm",
-      "event_time_raw": 1793349000000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SOAUWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd",
-          "drm": {
-            "kid": "a0ea22119ca851e441c56df67e33f6fd",
-            "key": "179bbc5d1bec825eaa1b712872f12eda"
-          }
-        },
-        {
-          "code": "SOAUFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "SOAUEURO",
-          "title": "EUROSPORT - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
           }
         }
       ]
@@ -767,6 +730,43 @@
           "drm": {
             "kid": "3942bb0dd3a2c6c22814705725e22885",
             "key": "8cea7d844678df5ad86bf851d27a7f69"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "15",
+      "event_title": "ICC World Test Championship - South Africa vs Australia",
+      "event_time": "31 Oct, 02:00 pm",
+      "event_time_raw": 1793435400000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "SOAUWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd",
+          "drm": {
+            "kid": "a0ea22119ca851e441c56df67e33f6fd",
+            "key": "179bbc5d1bec825eaa1b712872f12eda"
+          }
+        },
+        {
+          "code": "SOAUFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "SOAUEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
           }
         }
       ]
