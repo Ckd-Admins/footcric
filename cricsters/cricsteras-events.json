@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T20:27:37+05:30",
-  "generated_at_india": "31-10-2026 08:27:37 PM IST",
-  "total": 24,
+  "generated_at": "2026-10-31T20:55:45+05:30",
+  "generated_at_india": "31-10-2026 08:55:45 PM IST",
+  "total": 26,
   "events": [
     {
       "event_id": "7",
@@ -79,15 +79,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "1",
-      "event_title": "Premier League - Chelsea vs Manchester United",
-      "event_time": "31 Oct, 06:00 pm",
-      "event_time_raw": 1793449800000,
-      "category": "Football",
-      "stream_count": 6
-    },
-    {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "Championship - Lincoln City vs Birmingham City",
       "event_time": "31 Oct, 06:00 pm",
       "event_time_raw": 1793449800000,
@@ -95,15 +87,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "20",
-      "event_title": "LaLiga 2 - Real Sociedad B vs Girona FC",
-      "event_time": "31 Oct, 06:30 pm",
-      "event_time_raw": 1793451600000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "Saudi Pro League - Al-Taawoun vs Al-Ettifaq",
       "event_time": "31 Oct, 07:00 pm",
       "event_time_raw": 1793453400000,
@@ -119,7 +103,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "Bundesliga - FC Schalke 04 vs RB Leipzig",
       "event_time": "31 Oct, 08:00 pm",
       "event_time_raw": 1793457000000,
@@ -127,7 +111,39 @@
       "stream_count": 1
     },
     {
+      "event_id": "1",
+      "event_title": "Premier League - Manchester City vs Brighton & Hove Albion",
+      "event_time": "31 Oct, 08:30 pm",
+      "event_time_raw": 1793458800000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "23",
+      "event_title": "Premier League - Brentford vs Nottingham Forest",
+      "event_time": "31 Oct, 08:30 pm",
+      "event_time_raw": 1793458800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
       "event_id": "24",
+      "event_title": "Premier League - Coventry City vs Sunderland",
+      "event_time": "31 Oct, 08:30 pm",
+      "event_time_raw": 1793458800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "25",
+      "event_title": "Premier League - Hull City vs Ipswich Town",
+      "event_time": "31 Oct, 08:30 pm",
+      "event_time_raw": 1793458800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "26",
       "event_title": "Championship - West Ham United vs West Bromwich Albion",
       "event_time": "31 Oct, 08:30 pm",
       "event_time_raw": 1793458800000,
