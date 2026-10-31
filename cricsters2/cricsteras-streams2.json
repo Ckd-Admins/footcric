@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T16:50:49+05:30",
-  "generated_at_india": "31-10-2026 04:50:49 PM IST",
-  "total": 36,
-  "ok": 36,
+  "generated_at": "2026-10-31T17:56:54+05:30",
+  "generated_at_india": "31-10-2026 05:56:54 PM IST",
+  "total": 38,
+  "ok": 38,
   "failed": 0,
   "events": [
     {
@@ -1075,6 +1075,44 @@
           "drm": {
             "kid": "7995c724a13748ed970840a8ab5bb9b3",
             "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50137,
+      "event_title": "Kaiserslautern vs Hertha",
+      "event_time": "2026-10-31 12:00",
+      "event_time_raw": "2026-10-31 12:00",
+      "category": "2. Bundesliga",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "KAHEDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vszmn76lja/out/v1/4988d23eb50a4094bcc86a29f79423bb/cenc.mpd",
+          "drm": {
+            "kid": "bc6da6cdc7db9750d39cbf9d36248ac1",
+            "key": "456e4f020278cdb8a7f1d235b036199c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50141,
+      "event_title": "Indian Super League",
+      "event_time": "2026-10-31 11:30",
+      "event_time_raw": "2026-10-31 11:30",
+      "category": "ISL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "INDIPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kaugpconjv/out/v1/dc6b6d0f4bf74cba84807c9de45683b6/cenc.mpd",
+          "drm": {
+            "kid": "55bde6fbce567a3dccf69968f4b804f5",
+            "key": "ced22b5107a842875a295c1261130063"
           }
         }
       ]
