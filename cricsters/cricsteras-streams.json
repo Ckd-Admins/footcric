@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T19:08:46+05:30",
-  "generated_at_india": "31-10-2026 07:08:46 PM IST",
+  "generated_at": "2026-10-31T19:57:44+05:30",
+  "generated_at_india": "31-10-2026 07:57:44 PM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -121,25 +121,6 @@
       ]
     },
     {
-      "event_id": "11",
-      "event_title": "Vienna OPEN - ATP vs ATP",
-      "event_time": "30 Oct, 06:00 pm",
-      "event_time_raw": 1793363400000,
-      "category": "Tennis",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "ATATBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "13",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "31 Oct, 07:00 am",
@@ -227,25 +208,6 @@
           "drm": {
             "kid": "7eea72d6075245a99ee3255603d58853",
             "key": "6848ef60575579bf4d415db1032153ed"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "19",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "31 Oct, 12:15 pm",
-      "event_time_raw": 1793429100000,
-      "category": "Cricket",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NPNPFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]
@@ -483,6 +445,25 @@
       ]
     },
     {
+      "event_id": "11",
+      "event_title": "Vienna OPEN - ATP vs ATP",
+      "event_time": "31 Oct, 07:30 pm",
+      "event_time_raw": 1793455200000,
+      "category": "Tennis",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ATATBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "23",
       "event_title": "Bundesliga - FC Schalke 04 vs RB Leipzig",
       "event_time": "31 Oct, 08:00 pm",
@@ -671,6 +652,25 @@
           "drm": {
             "kid": "39bd302cdeed3710a89fb004d232ab67",
             "key": "9869f804ba18d7e508cbff781829221c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "19",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "01 Nov, 12:15 pm",
+      "event_time_raw": 1793515500000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NPNPFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]
