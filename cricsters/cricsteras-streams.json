@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T20:55:45+05:30",
-  "generated_at_india": "31-10-2026 08:55:45 PM IST",
+  "generated_at": "2026-10-31T21:56:57+05:30",
+  "generated_at_india": "31-10-2026 09:56:57 PM IST",
   "total": 26,
   "ok": 26,
   "failed": 0,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "15",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "31 Oct, 07:30 am",
       "event_time_raw": 1793412000000,
@@ -241,43 +241,6 @@
       ]
     },
     {
-      "event_id": "15",
-      "event_title": "ICC World Test Championship - South Africa vs Australia",
-      "event_time": "31 Oct, 02:00 pm",
-      "event_time_raw": 1793435400000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SOAUWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd",
-          "drm": {
-            "kid": "055e7d596817187feb6148156f166cd4",
-            "key": "d2f924558033464139e9367ffe346149"
-          }
-        },
-        {
-          "code": "SOAUFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "SOAUEURO",
-          "title": "EUROSPORT - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "4",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "31 Oct, 05:00 pm",
@@ -315,7 +278,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "Championship - Lincoln City vs Birmingham City",
       "event_time": "31 Oct, 06:00 pm",
       "event_time_raw": 1793449800000,
@@ -343,7 +306,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "Saudi Pro League - Al-Taawoun vs Al-Ettifaq",
       "event_time": "31 Oct, 07:00 pm",
       "event_time_raw": 1793453400000,
@@ -381,7 +344,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "Bundesliga - FC Schalke 04 vs RB Leipzig",
       "event_time": "31 Oct, 08:00 pm",
       "event_time_raw": 1793457000000,
@@ -400,12 +363,31 @@
       ]
     },
     {
+      "event_id": "26",
+      "event_title": "Bundesliga - FC Augsburg vs SC Freiburg",
+      "event_time": "31 Oct, 08:00 pm",
+      "event_time_raw": 1793457000000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FCSCDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/io1kqrnkwj/out/v1/c9a8204bd4464e77b8c99eb45508fb62/cenc.mpd",
+          "drm": {
+            "kid": "974992869d1029b6e565ac07c154317f",
+            "key": "4c1c0d9ce99d5a944ae2ba1db15d84b0"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "1",
       "event_title": "Premier League - Manchester City vs Brighton & Hove Albion",
       "event_time": "31 Oct, 08:30 pm",
       "event_time_raw": 1793458800000,
       "category": "Football",
-      "stream_count": 2,
+      "stream_count": 1,
       "streams": [
         {
           "code": "MABRFUBO",
@@ -415,20 +397,11 @@
             "kid": "f1d7426b1be3cb85a1d2932b21ffd263",
             "key": "f14833238fdbca625200e6e96f86b6c4"
           }
-        },
-        {
-          "code": "MABRFUBOD4",
-          "title": "FUBO SPORTS HD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-          "drm": {
-            "kid": "42f72c025dd53039244adc13b7e31dad",
-            "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
-          }
         }
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "Premier League - Brentford vs Nottingham Forest",
       "event_time": "31 Oct, 08:30 pm",
       "event_time_raw": 1793458800000,
@@ -447,7 +420,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "Premier League - Coventry City vs Sunderland",
       "event_time": "31 Oct, 08:30 pm",
       "event_time_raw": 1793458800000,
@@ -466,7 +439,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "Premier League - Hull City vs Ipswich Town",
       "event_time": "31 Oct, 08:30 pm",
       "event_time_raw": 1793458800000,
@@ -485,7 +458,7 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "25",
       "event_title": "Championship - West Ham United vs West Bromwich Albion",
       "event_time": "31 Oct, 08:30 pm",
       "event_time_raw": 1793458800000,
@@ -568,7 +541,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "UFC - Renato Moicano vs Tom Nolan",
       "event_time": "01 Nov, 04:30 am",
       "event_time_raw": 1793487600000,
@@ -678,7 +651,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "01 Nov, 12:15 pm",
       "event_time_raw": 1793515500000,
