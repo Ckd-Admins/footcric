@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T07:14:57+05:30",
-  "generated_at_india": "31-10-2026 07:14:57 AM IST",
-  "total": 32,
-  "ok": 32,
+  "generated_at": "2026-10-31T08:04:30+05:30",
+  "generated_at_india": "31-10-2026 08:04:30 AM IST",
+  "total": 35,
+  "ok": 35,
   "failed": 0,
   "events": [
     {
@@ -586,10 +586,10 @@
         {
           "code": "HONGWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ccrnhvrwro/out/v1/c68039fe2f794a0dbe4abc504223d0d6/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vczeqpmgah/out/v1/c52b9acb9d0b4122ac9eaafab46105f7/cenc.mpd",
           "drm": {
-            "kid": "5839ed7e91db24a645b7f0aacd4a4d31",
-            "key": "fa0017f41a48206956817dd7cde8e2cd"
+            "kid": "3927cb9248adb8df3d9e741815dcca3f",
+            "key": "7c3e349d1f5954edf8bcd1d480b542e7"
           }
         },
         {
@@ -605,23 +605,14 @@
     },
     {
       "event_id": 50090,
-      "event_title": "Tottenham Hotspur vs Crystal Palace",
-      "event_time": "2026-10-31 17:30",
-      "event_time_raw": "2026-10-31 17:30",
+      "event_title": "Aston Villa vs Fulham",
+      "event_time": "2026-10-31 20:00",
+      "event_time_raw": "2026-10-31 20:00",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2,
+      "stream_count": 1,
       "streams": [
         {
-          "code": "TOCRNBCS",
-          "title": "NBC SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
-          "drm": {
-            "kid": "36a385124dcdfb2f0969935065e03afa",
-            "key": "ccecd65514dff22eae493b975ccf9a9e"
-          }
-        },
-        {
-          "code": "TOCRFUBO",
+          "code": "ASFUFUBO",
           "title": "FUBO SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
           "drm": {
@@ -791,37 +782,28 @@
     },
     {
       "event_id": 50100,
-      "event_title": "Chelsea vs Manchester United",
-      "event_time": "2026-10-31 12:30",
-      "event_time_raw": "2026-10-31 12:30",
+      "event_title": "Tottenham Hotspur vs Crystal Palace",
+      "event_time": "2026-10-31 17:30",
+      "event_time_raw": "2026-10-31 17:30",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 3,
+      "stream_count": 2,
       "streams": [
         {
-          "code": "CHMATNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "code": "TOCRNBCS",
+          "title": "NBC SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
           "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
+            "kid": "36a385124dcdfb2f0969935065e03afa",
+            "key": "ccecd65514dff22eae493b975ccf9a9e"
           }
         },
         {
-          "code": "CHMAFUBO",
+          "code": "TOCRFUBO",
           "title": "FUBO SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
           "drm": {
             "kid": "42f72c025dd53039244adc13b7e31dad",
             "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
-          }
-        },
-        {
-          "code": "CHMACAZE",
-          "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-          "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
           }
         }
       ]
@@ -981,6 +963,81 @@
           "drm": {
             "kid": "34475edab991ad5e92548aebd710410a",
             "key": "501b209cccd323ac00bf5ac15b406cb4"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50112,
+      "event_title": "Chelsea vs Manchester United",
+      "event_time": "2026-10-31 12:30",
+      "event_time_raw": "2026-10-31 12:30",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "CHMATNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "CHMAFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+          "drm": {
+            "kid": "42f72c025dd53039244adc13b7e31dad",
+            "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
+          }
+        },
+        {
+          "code": "CHMACAZE",
+          "title": "CAZE TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "drm": {
+            "kid": "34475edab991ad5e92548aebd710410a",
+            "key": "501b209cccd323ac00bf5ac15b406cb4"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50113,
+      "event_title": "FC Porto vs Estoril Praia",
+      "event_time": "2026-10-31 20:30",
+      "event_time_raw": "2026-10-31 20:30",
+      "category": "Liga Portugal",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FCESSPOR",
+          "title": "D Sports FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "drm": {
+            "kid": "f836853d8eac19446ed9535f5fc568b1",
+            "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50114,
+      "event_title": "AFC Ajax vs AZ Alkmaar",
+      "event_time": "2026-10-31 20:00",
+      "event_time_raw": "2026-10-31 20:00",
+      "category": "Eredivisie",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "AFAZSPOR",
+          "title": "SportDigital Fussball",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm": {
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
           }
         }
       ]

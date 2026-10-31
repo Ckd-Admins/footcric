@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T07:14:57+05:30",
-  "generated_at_india": "31-10-2026 07:14:57 AM IST",
-  "total": 32,
+  "generated_at": "2026-10-31T08:04:30+05:30",
+  "generated_at_india": "31-10-2026 08:04:30 AM IST",
+  "total": 35,
   "events": [
     {
       "event_id": 50002,
@@ -160,11 +160,11 @@
     },
     {
       "event_id": 50090,
-      "event_title": "Tottenham Hotspur vs Crystal Palace",
-      "event_time": "2026-10-31 17:30",
-      "event_time_raw": "2026-10-31 17:30",
+      "event_title": "Aston Villa vs Fulham",
+      "event_time": "2026-10-31 20:00",
+      "event_time_raw": "2026-10-31 20:00",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
+      "stream_count": 1
     },
     {
       "event_id": 50091,
@@ -208,11 +208,11 @@
     },
     {
       "event_id": 50100,
-      "event_title": "Chelsea vs Manchester United",
-      "event_time": "2026-10-31 12:30",
-      "event_time_raw": "2026-10-31 12:30",
+      "event_title": "Tottenham Hotspur vs Crystal Palace",
+      "event_time": "2026-10-31 17:30",
+      "event_time_raw": "2026-10-31 17:30",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 3
+      "stream_count": 2
     },
     {
       "event_id": 50101,
@@ -260,6 +260,30 @@
       "event_time": "2026-10-31 14:30",
       "event_time_raw": "2026-10-31 14:30",
       "category": "Bundesliga 🇩🇪",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50112,
+      "event_title": "Chelsea vs Manchester United",
+      "event_time": "2026-10-31 12:30",
+      "event_time_raw": "2026-10-31 12:30",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50113,
+      "event_title": "FC Porto vs Estoril Praia",
+      "event_time": "2026-10-31 20:30",
+      "event_time_raw": "2026-10-31 20:30",
+      "category": "Liga Portugal",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50114,
+      "event_title": "AFC Ajax vs AZ Alkmaar",
+      "event_time": "2026-10-31 20:00",
+      "event_time_raw": "2026-10-31 20:00",
+      "category": "Eredivisie",
       "stream_count": 1
     }
   ],
