@@ -2,15 +2,15 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T06:00:22+05:30",
-  "generated_at_india": "31-10-2026 06:00:22 AM IST",
-  "total": 41,
+  "generated_at": "2026-10-31T07:14:57+05:30",
+  "generated_at_india": "31-10-2026 07:14:57 AM IST",
+  "total": 32,
   "events": [
     {
       "event_id": 50002,
       "event_title": "Formula 1 -  Mexico Grand Prix",
-      "event_time": "2026-10-30 22:00",
-      "event_time_raw": "2026-10-30 22:00",
+      "event_time": "2026-10-31 17:30",
+      "event_time_raw": "2026-10-31 17:30",
       "category": "F1",
       "stream_count": 5
     },
@@ -45,14 +45,6 @@
       "event_time_raw": "2026-11-01 14:30",
       "category": "Cricket",
       "stream_count": 3
-    },
-    {
-      "event_id": 50008,
-      "event_title": "New Zealand vs India",
-      "event_time": "2026-10-30 07:00",
-      "event_time_raw": "2026-10-30 07:00",
-      "category": "Cricket",
-      "stream_count": 5
     },
     {
       "event_id": 50009,
@@ -131,14 +123,6 @@
       "event_title": "Vegas Golden Knights vs New Jersey Devils",
       "event_time": "2026-10-30 22:00",
       "event_time_raw": "2026-10-30 22:00",
-      "category": "NHL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50076,
-      "event_title": "Florida Panthers vs Winnipeg Jets",
-      "event_time": "2026-10-30 23:00",
-      "event_time_raw": "2026-10-30 23:00",
       "category": "NHL",
       "stream_count": 1
     },
@@ -277,62 +261,6 @@
       "event_time_raw": "2026-10-31 14:30",
       "category": "Bundesliga 🇩🇪",
       "stream_count": 1
-    },
-    {
-      "event_id": 50112,
-      "event_title": "Lille vs RC Lens",
-      "event_time": "2026-10-30 20:05",
-      "event_time_raw": "2026-10-30 20:05",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50113,
-      "event_title": "Le Havre vs Paris Saint-Germain",
-      "event_time": "2026-10-30 18:00",
-      "event_time_raw": "2026-10-30 18:00",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50114,
-      "event_title": "Nice vs Stade Rennais",
-      "event_time": "2026-10-30 18:00",
-      "event_time_raw": "2026-10-30 18:00",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50115,
-      "event_title": "Villarreal vs Espanyol",
-      "event_time": "2026-10-30 20:00",
-      "event_time_raw": "2026-10-30 20:00",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50116,
-      "event_title": "Elversberg vs Mainz 05",
-      "event_time": "2026-10-30 19:30",
-      "event_time_raw": "2026-10-30 19:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50117,
-      "event_title": "Casa Pia vs Sporting CP",
-      "event_time": "2026-10-30 20:15",
-      "event_time_raw": "2026-10-30 20:15",
-      "category": "Liga Portugal",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50118,
-      "event_title": "Sheffield United vs Wrexham",
-      "event_time": "2026-10-30 20:00",
-      "event_time_raw": "2026-10-30 20:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 4
     }
   ],
   "raw_data": ""
