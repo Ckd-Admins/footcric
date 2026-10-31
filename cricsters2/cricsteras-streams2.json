@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T17:56:54+05:30",
-  "generated_at_india": "31-10-2026 05:56:54 PM IST",
+  "generated_at": "2026-10-31T19:06:35+05:30",
+  "generated_at_india": "31-10-2026 07:06:35 PM IST",
   "total": 38,
   "ok": 38,
   "failed": 0,
@@ -66,8 +66,8 @@
     {
       "event_id": 50003,
       "event_title": "MotoGP - Grand Prix of Malaysia",
-      "event_time": "2026-10-31 02:10",
-      "event_time_raw": "2026-10-31 02:10",
+      "event_time": "2026-11-01 07:00",
+      "event_time_raw": "2026-11-01 07:00",
       "category": "MotoGP",
       "stream_count": 4,
       "streams": [
@@ -807,10 +807,10 @@
         {
           "code": "LEATFANC",
           "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
           "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         },
         {
@@ -887,8 +887,17 @@
       "event_time": "2026-10-31 12:30",
       "event_time_raw": "2026-10-31 12:30",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 3,
+      "stream_count": 4,
       "streams": [
+        {
+          "code": "CHMAFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?aws_sessionId=5a6190a9-56e9-4cee-bb0d-1d9783ce201f",
+          "drm": {
+            "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
+            "key": "3e7d40c4b2ca331fe48bd65acae439d7"
+          }
+        },
         {
           "code": "CHMATNTS",
           "title": "TNT SPORTS FHD",
@@ -899,8 +908,8 @@
           }
         },
         {
-          "code": "CHMAFUBO",
-          "title": "FUBO SPORTS FHD",
+          "code": "CHMAFUBOXM",
+          "title": "FUBO SPORTS ALT",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
           "drm": {
             "kid": "42f72c025dd53039244adc13b7e31dad",
@@ -1047,8 +1056,17 @@
       "event_time": "2026-10-31 12:30",
       "event_time_raw": "2026-10-31 12:30",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "LIBIPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dfuf1pq4yh/out/v1/0c6410fe752346d79375b1e55edfe675/cenc.mpd?aws_sessionId=ffe5cf97-a256-4a1a-a62a-27518ade3e5d",
+          "drm": {
+            "kid": "4ec2e449fe6b9646adc9531d853492f3",
+            "key": "20b04601e834cdf1f9c558a64693104f"
+          }
+        },
         {
           "code": "LIBICBSN",
           "title": "CBS NETWORK",
@@ -1066,8 +1084,17 @@
       "event_time": "2026-10-31 12:30",
       "event_time_raw": "2026-10-31 12:30",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "STPRPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4g0osmwmot/out/v1/82ab87f0b6d74273b070ba3545052b17/cenc.mpd?aws_sessionId=111e164e-8aa0-4302-a447-22ae0931692d",
+          "drm": {
+            "kid": "3e7fb9ca2f31434268097f1c71b638e0",
+            "key": "10f38076c5b6ea3f524c29e1cd8c3762"
+          }
+        },
         {
           "code": "STPRBEIN",
           "title": "beIN ENGLISH FHD",
@@ -1101,8 +1128,8 @@
     {
       "event_id": 50141,
       "event_title": "Indian Super League",
-      "event_time": "2026-10-31 11:30",
-      "event_time_raw": "2026-10-31 11:30",
+      "event_time": "2026-10-31 14:00",
+      "event_time_raw": "2026-10-31 14:00",
       "category": "ISL",
       "stream_count": 1,
       "streams": [
