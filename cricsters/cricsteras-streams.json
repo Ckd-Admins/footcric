@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T02:56:16+05:30",
-  "generated_at_india": "01-11-2026 02:56:16 AM IST",
+  "generated_at": "2026-11-01T03:56:21+05:30",
+  "generated_at_india": "01-11-2026 03:56:21 AM IST",
   "total": 28,
   "ok": 28,
   "failed": 0,
@@ -274,7 +274,7 @@
       "event_time": "31 Oct, 11:00 pm",
       "event_time_raw": 1793467800000,
       "category": "Motorsport",
-      "stream_count": 6,
+      "stream_count": 7,
       "streams": [
         {
           "code": "FOFOFANC",
@@ -304,12 +304,21 @@
           }
         },
         {
+          "code": "FOFOTSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd",
+          "drm": {
+            "kid": "66e14add60c30be992503fa9a0ae5e20",
+            "key": "8c736ae52ce3cab1e918d5f9e8ed6c62"
+          }
+        },
+        {
           "code": "FOFOAUVI",
           "title": "AUVIO SPORTS - AQ",
-          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/c17fa2c8.isml/.mpd?t=2026-10-24T20:48:00.000",
+          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/939644a5.isml/.mpd?t=2026-10-31T20:48:00.000",
           "drm": {
-            "kid": "26e84d5a014e4608bbe053c55cf8196d",
-            "key": "12bb3a7a04e4abac8e26ca88531450a8"
+            "kid": "6cf9630821f943379833e75b82c02561",
+            "key": "734821c0e5174457fd185a4f6658932d"
           }
         },
         {
@@ -584,10 +593,19 @@
         {
           "code": "RETOTNTS",
           "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "drm": {
-            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-            "key": "643e5474d9edd87c7d9091c8c97994ca"
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "RETOSPOR",
+          "title": "SportsNet FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd",
+          "drm": {
+            "kid": "60de674d9db66df9ba090e06871d3554",
+            "key": "18071eac168232fc3d45549049c1de6b"
           }
         },
         {
@@ -615,15 +633,6 @@
           "drm": {
             "kid": "a49085f8da5e65af1efff0edac830b1f",
             "key": "4659bc58a85c062e3fe0c039a446fe47"
-          }
-        },
-        {
-          "code": "RETOSPOR",
-          "title": "SportsNet FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd",
-          "drm": {
-            "kid": "60de674d9db66df9ba090e06871d3554",
-            "key": "18071eac168232fc3d45549049c1de6b"
           }
         }
       ]
