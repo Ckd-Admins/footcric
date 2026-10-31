@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T11:00:21+05:30",
-  "generated_at_india": "31-10-2026 11:00:21 AM IST",
+  "generated_at": "2026-10-31T12:05:44+05:30",
+  "generated_at_india": "31-10-2026 00:05:44 PM IST",
   "total": 18,
   "ok": 18,
   "failed": 0,
@@ -196,10 +196,10 @@
         {
           "code": "HKHKWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/he7gcglt9x/out/v1/9605ed2ba03c489cbf23516f7668a08f/cenc.mpd",
           "drm": {
-            "kid": "15333933304154f97c20ec7fe8921517",
-            "key": "b03f8c42cbdc7ce3ff4ffe882bc2d47d"
+            "kid": "618ed9fba02a14e4350000041b526502",
+            "key": "d6bae617d11994298f1fe5116231f897"
           }
         },
         {
@@ -251,10 +251,10 @@
         {
           "code": "WTWTSTAN",
           "title": "STAN SPORTS - AQ (AUS)",
-          "url": "https://live01-stan.akamaized.net/out/v1/94bc59ac859941f39ef5320a607ce936/index.mpd",
+          "url": "https://live02-stan.akamaized.net/out/v1/91d32e049fa044a28e8decb1fcc13489/index.mpd",
           "drm": {
-            "kid": "78ebfaa7e06f4cb7a05d88b494f691ca",
-            "key": "4cca8c458c627a9d0af551cc20d79583"
+            "kid": "5a029b0b7b414989bebc100519169431",
+            "key": "8f20026c8b9dd1e1e1a63b49c6c7c9d5"
           }
         }
       ]
@@ -297,10 +297,10 @@
         {
           "code": "MOMOAUVI",
           "title": "AUVIO SPORTS - AQ",
-          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/accf636f.isml/.mpd?t=2026-10-30T00:50:00.000",
+          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/1848c8da/28d53b01.isml/.mpd?t=2026-10-31T05:30:00.000",
           "drm": {
-            "kid": "fae4090b103c42efa4baeb0b6536d07f",
-            "key": "e89f3bd094427ae543196025e8065846"
+            "kid": "222dd57068e7493aa91a3cabb85d7299",
+            "key": "fbaa17394a5b191e3828c38864e02cb1"
           }
         },
         {
