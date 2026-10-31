@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T19:57:44+05:30",
-  "generated_at_india": "31-10-2026 07:57:44 PM IST",
-  "total": 23,
+  "generated_at": "2026-10-31T20:27:37+05:30",
+  "generated_at_india": "31-10-2026 08:27:37 PM IST",
+  "total": 24,
   "events": [
     {
       "event_id": "7",
@@ -123,6 +123,14 @@
       "event_title": "Bundesliga - FC Schalke 04 vs RB Leipzig",
       "event_time": "31 Oct, 08:00 pm",
       "event_time_raw": 1793457000000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "24",
+      "event_title": "Championship - West Ham United vs West Bromwich Albion",
+      "event_time": "31 Oct, 08:30 pm",
+      "event_time_raw": 1793458800000,
       "category": "Football",
       "stream_count": 1
     },
