@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T21:53:50+05:30",
-  "generated_at_india": "31-10-2026 09:53:50 PM IST",
-  "total": 44,
-  "ok": 44,
+  "generated_at": "2026-10-31T22:50:25+05:30",
+  "generated_at_india": "31-10-2026 10:50:25 PM IST",
+  "total": 38,
+  "ok": 38,
   "failed": 0,
   "events": [
     {
@@ -14,17 +14,8 @@
       "event_time": "2026-10-31 17:30",
       "event_time_raw": "2026-10-31 17:30",
       "category": "F1",
-      "stream_count": 5,
+      "stream_count": 4,
       "streams": [
-        {
-          "code": "MEXITSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "drm": {
-            "kid": "85b277daf5aae05833fe43a68f587968",
-            "key": "d52d7e9bc0bcd98787efd547ac91eca0"
-          }
-        },
         {
           "code": "MEXIFANC",
           "title": "FANCODE - FHD",
@@ -396,21 +387,21 @@
       "stream_count": 2,
       "streams": [
         {
-          "code": "TOWITSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm": {
-            "kid": "14eeabf30c14b7fbf3008c03099ce011",
-            "key": "17d2ac8dbc5429bd70af3433aa12158d"
-          }
-        },
-        {
           "code": "TOWITSN4",
           "title": "TSN4 SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
           "drm": {
             "kid": "abc5b2883121012850ebda05b528c5ec",
             "key": "e5250924f4b738905f7163a0134587a7"
+          }
+        },
+        {
+          "code": "TOWITSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm": {
+            "kid": "14eeabf30c14b7fbf3008c03099ce011",
+            "key": "17d2ac8dbc5429bd70af3433aa12158d"
           }
         }
       ]
@@ -827,10 +818,10 @@
         {
           "code": "REMLCAZE",
           "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
           "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
+            "kid": "ba6aca5a550163c38d06646bb50f04e7",
+            "key": "516c3b471fce48a5b7a2e5ee7dd505f2"
           }
         }
       ]
@@ -906,8 +897,26 @@
       "event_time": "2026-10-31 17:00",
       "event_time_raw": "2026-10-31 17:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 1,
+      "stream_count": 4,
       "streams": [
+        {
+          "code": "UDASPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mxso6scrtg/out/v1/b3544f9833f0429894701c32d0fc024b/cenc.mpd?aws_sessionId=495fdb18-c069-4263-b9ff-728319ab0389",
+          "drm": {
+            "kid": "18d174570a81b42cff1f6fb6e19106c1",
+            "key": "7a0d9afbc556089281a73408594729fe"
+          }
+        },
+        {
+          "code": "UDASFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jjywhzonb4/out/v1/312cb5388cd94f7c9c257e86819368e0/cenc.mpd?aws_sessionId=5ac3f0f3-e149-4960-88d9-914f3e43e2ef",
+          "drm": {
+            "kid": "b82373bc6113efa11c8abe02afa5a180",
+            "key": "1b8a7c388b073e9adc112d605ae34570"
+          }
+        },
         {
           "code": "UDASBEIN",
           "title": "beIN ENGLISH FHD",
@@ -916,137 +925,14 @@
             "kid": "0b42be2664d7e811d04f3e504e0924c5",
             "key": "ae24090123b8c72ac5404dc152847cb8"
           }
-        }
-      ]
-    },
-    {
-      "event_id": 50105,
-      "event_title": "Bologna vs Monza",
-      "event_time": "2026-10-31 14:00",
-      "event_time_raw": "2026-10-31 14:00",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "BOMOPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kox3zctdlc/out/v1/69e4face0f4147aab7f9e8127b888b30/cenc.mpd?aws_sessionId=f592f3b2-5b4f-4f9f-9667-229f43c333c4",
-          "drm": {
-            "kid": "cc6fc0a19334bcf6f1f13303d6eadf59",
-            "key": "b0fe88983e13b84219657709474b64fc"
-          }
         },
         {
-          "code": "BOMOFUBO",
-          "title": "FUBO SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd?aws_sessionId=8d45c228-1387-4e0b-a198-16721583b6e1",
+          "code": "UDASSPOR",
+          "title": "SPORT 1 CZ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
           "drm": {
-            "kid": "e09a0900100e5ac77d4adb45a602a86b",
-            "key": "7da511a38053d3e150d38f47ac7d8298"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50106,
-      "event_title": "Bayer Leverkusen vs Stuttgart",
-      "event_time": "2026-10-31 14:30",
-      "event_time_raw": "2026-10-31 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "BASTDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3rcuyeabcv/out/v1/df2eb8eaef81491d96fea57c1020269f/cenc.mpd",
-          "drm": {
-            "kid": "01c8ab0fcd1267651244a06c70f57963",
-            "key": "d517f8b616beb81874704f8cbdf14db8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50107,
-      "event_title": "Werder Bremen vs Hoffenheim",
-      "event_time": "2026-10-31 14:30",
-      "event_time_raw": "2026-10-31 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "WEHODAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lnjz49dcaj/out/v1/ae8e1e0df7be416fbf0395252c86ae0a/cenc.mpd",
-          "drm": {
-            "kid": "3c9a4a7622c4e4a995504f49b32c6f67",
-            "key": "80222d47fd93064959e2252dc365211c"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50108,
-      "event_title": "Schalke 04 vs RB Leipzig",
-      "event_time": "2026-10-31 14:30",
-      "event_time_raw": "2026-10-31 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "SCRBDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/2umrvyyhpo/out/v1/22896a8113ef4c39a7f320a7e352ad5f/cenc.mpd",
-          "drm": {
-            "kid": "7f9866e6cb1a2e25cc991972d16ea88c",
-            "key": "b96572215334ee156f72ea071db9e73f"
-          }
-        },
-        {
-          "code": "SCRBCAZE",
-          "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
-          "drm": {
-            "kid": "ba6aca5a550163c38d06646bb50f04e7",
-            "key": "516c3b471fce48a5b7a2e5ee7dd505f2"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50109,
-      "event_title": "Augsburg vs Freiburg",
-      "event_time": "2026-10-31 14:30",
-      "event_time_raw": "2026-10-31 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "AUFRDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/io1kqrnkwj/out/v1/c9a8204bd4464e77b8c99eb45508fb62/cenc.mpd",
-          "drm": {
-            "kid": "974992869d1029b6e565ac07c154317f",
-            "key": "4c1c0d9ce99d5a944ae2ba1db15d84b0"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50110,
-      "event_title": "Borussia M'gladbach vs Paderborn",
-      "event_time": "2026-10-31 14:30",
-      "event_time_raw": "2026-10-31 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "BOPADAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/blg8dmyaxy/out/v1/4d900529f974465b894311759893fba1/cenc.mpd",
-          "drm": {
-            "kid": "e46616ce62917e1be6463dcdd405cb05",
-            "key": "ca63ee13facdb9cbe20fd2f3c6d6d03b"
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
           }
         }
       ]

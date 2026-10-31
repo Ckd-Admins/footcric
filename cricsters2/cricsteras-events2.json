@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T21:53:50+05:30",
-  "generated_at_india": "31-10-2026 09:53:50 PM IST",
-  "total": 44,
+  "generated_at": "2026-10-31T22:50:25+05:30",
+  "generated_at_india": "31-10-2026 10:50:25 PM IST",
+  "total": 38,
   "events": [
     {
       "event_id": 50002,
@@ -12,7 +12,7 @@
       "event_time": "2026-10-31 17:30",
       "event_time_raw": "2026-10-31 17:30",
       "category": "F1",
-      "stream_count": 5
+      "stream_count": 4
     },
     {
       "event_id": 50003,
@@ -236,55 +236,7 @@
       "event_time": "2026-10-31 17:00",
       "event_time_raw": "2026-10-31 17:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50105,
-      "event_title": "Bologna vs Monza",
-      "event_time": "2026-10-31 14:00",
-      "event_time_raw": "2026-10-31 14:00",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50106,
-      "event_title": "Bayer Leverkusen vs Stuttgart",
-      "event_time": "2026-10-31 14:30",
-      "event_time_raw": "2026-10-31 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50107,
-      "event_title": "Werder Bremen vs Hoffenheim",
-      "event_time": "2026-10-31 14:30",
-      "event_time_raw": "2026-10-31 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50108,
-      "event_title": "Schalke 04 vs RB Leipzig",
-      "event_time": "2026-10-31 14:30",
-      "event_time_raw": "2026-10-31 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50109,
-      "event_title": "Augsburg vs Freiburg",
-      "event_time": "2026-10-31 14:30",
-      "event_time_raw": "2026-10-31 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50110,
-      "event_title": "Borussia M'gladbach vs Paderborn",
-      "event_time": "2026-10-31 14:30",
-      "event_time_raw": "2026-10-31 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 1
+      "stream_count": 4
     },
     {
       "event_id": 50112,
