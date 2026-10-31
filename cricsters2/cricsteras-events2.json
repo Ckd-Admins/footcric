@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T20:52:33+05:30",
-  "generated_at_india": "31-10-2026 08:52:33 PM IST",
-  "total": 43,
+  "generated_at": "2026-10-31T21:53:50+05:30",
+  "generated_at_india": "31-10-2026 09:53:50 PM IST",
+  "total": 44,
   "events": [
     {
       "event_id": 50002,
@@ -337,6 +337,14 @@
     {
       "event_id": 50129,
       "event_title": "Millwall vs Derby County",
+      "event_time": "2026-10-31 15:00",
+      "event_time_raw": "2026-10-31 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50131,
+      "event_title": "Southampton vs Queens Park Rangers",
       "event_time": "2026-10-31 15:00",
       "event_time_raw": "2026-10-31 15:00",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",

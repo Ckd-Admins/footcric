@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T20:52:33+05:30",
-  "generated_at_india": "31-10-2026 08:52:33 PM IST",
-  "total": 43,
-  "ok": 43,
+  "generated_at": "2026-10-31T21:53:50+05:30",
+  "generated_at_india": "31-10-2026 09:53:50 PM IST",
+  "total": 44,
+  "ok": 44,
   "failed": 0,
   "events": [
     {
@@ -1216,6 +1216,25 @@
           "drm": {
             "kid": "7995c724a13748ed970840a8ab5bb9b3",
             "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50131,
+      "event_title": "Southampton vs Queens Park Rangers",
+      "event_time": "2026-10-31 15:00",
+      "event_time_raw": "2026-10-31 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SOQUPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/7egg7nxyy5/out/v1/5f618db8e2da4a60b5d76cb89c1e8424/cenc.mpd?aws_sessionId=c6711e34-390d-4f32-a7ca-b37c8e38492d",
+          "drm": {
+            "kid": "5bc14408674fb6e0d255f69f23578ab7",
+            "key": "d8615ba3ed3093f68dee0f55809bd23d"
           }
         }
       ]
