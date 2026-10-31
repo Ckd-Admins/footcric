@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T08:04:30+05:30",
-  "generated_at_india": "31-10-2026 08:04:30 AM IST",
-  "total": 35,
-  "ok": 35,
+  "generated_at": "2026-10-31T09:00:35+05:30",
+  "generated_at_india": "31-10-2026 09:00:35 AM IST",
+  "total": 36,
+  "ok": 36,
   "failed": 0,
   "events": [
     {
@@ -230,6 +230,61 @@
       ]
     },
     {
+      "event_id": 50008,
+      "event_title": "New Zealand vs India",
+      "event_time": "2026-11-01 07:00",
+      "event_time_raw": "2026-11-01 07:00",
+      "category": "Cricket",
+      "stream_count": 5,
+      "streams": [
+        {
+          "code": "NEINWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jorvx5qfk6/out/v1/6dbb07d5c15c4ffb8b51bdcdc0425548/cenc.mpd",
+          "drm": {
+            "kid": "6df39bfdcc3293c5018e97607998cae3",
+            "key": "794ada809851b50c0e8a7568f92971e0"
+          }
+        },
+        {
+          "code": "NEINPRIM",
+          "title": "PRIME VIDEO (HINDI)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
+          "drm": {
+            "kid": "638eaec11a32364c29f73241769dc3b0",
+            "key": "51ad6ac914e442976749f485354b50fe"
+          }
+        },
+        {
+          "code": "NEINPRIMXV",
+          "title": "PRIME VIDEO (ENG)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd",
+          "drm": {
+            "kid": "e9b05390d0d8a3766d720cc0dfa9c1c3",
+            "key": "5b371247b3ec6ae9976204359d781e85"
+          }
+        },
+        {
+          "code": "NEINTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "NEINWILLID",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jorvx5qfk6/out/v1/6dbb07d5c15c4ffb8b51bdcdc0425548/cenc.mpd",
+          "drm": {
+            "kid": "6df39bfdcc3293c5018e97607998cae3",
+            "key": "794ada809851b50c0e8a7568f92971e0"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50009,
       "event_title": "ONE Friday Fights",
       "event_time": "2026-10-30 12:30",
@@ -333,53 +388,6 @@
       ]
     },
     {
-      "event_id": 50032,
-      "event_title": "Milwaukee Brewers vs Tampa Bay Rays",
-      "event_time": "2026-10-31 00:00",
-      "event_time_raw": "2026-10-31 00:00",
-      "category": "MLB",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "MITATNTS",
-          "title": "TNT Sports FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "MITAFOXD",
-          "title": "FOX DEPORTES",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm": {
-            "kid": "d1a163914db8ffad2c3e94f979896a0d",
-            "key": "9728800a3959aafdd5b0bcfbf3768811"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50044,
-      "event_title": "Boston Celtics vs Chicago Bulls",
-      "event_time": "2026-10-30 23:30",
-      "event_time_raw": "2026-10-30 23:30",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "BOCHTSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50054,
       "event_title": "Toronto Argonauts vs Winnipeg Blue Bombers",
       "event_time": "2026-10-31 17:00",
@@ -410,8 +418,8 @@
     {
       "event_id": 50062,
       "event_title": "South Africa vs Australia",
-      "event_time": "2026-10-30 08:30",
-      "event_time_raw": "2026-10-30 08:30",
+      "event_time": "2026-10-31 08:30",
+      "event_time_raw": "2026-10-31 08:30",
       "category": "Cricket",
       "stream_count": 4,
       "streams": [
@@ -456,8 +464,8 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-10-30 08:10",
-      "event_time_raw": "2026-10-30 08:10",
+      "event_time": "2026-10-31 04:40",
+      "event_time_raw": "2026-10-31 04:40",
       "category": "WBBL",
       "stream_count": 3,
       "streams": [
@@ -491,91 +499,6 @@
       ]
     },
     {
-      "event_id": 50075,
-      "event_title": "Vegas Golden Knights vs New Jersey Devils",
-      "event_time": "2026-10-30 22:00",
-      "event_time_raw": "2026-10-30 22:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "VENEPREM",
-          "title": "PREMIER SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50077,
-      "event_title": "Calgary Flames vs Seattle Kraken",
-      "event_time": "2026-10-31 00:00",
-      "event_time_raw": "2026-10-31 00:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CASEPREM",
-          "title": "PREMIER SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50084,
-      "event_title": "Los Angeles Kings vs Ottawa Senators",
-      "event_time": "2026-10-30 02:00",
-      "event_time_raw": "2026-10-30 02:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "LOOTTSNF",
-          "title": "TSN FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50086,
-      "event_title": "Corinthians vs Mirassol",
-      "event_time": "2026-10-30 23:00",
-      "event_time_raw": "2026-10-30 23:00",
-      "category": "Brasileirão",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "COMIPREM",
-          "title": "PREMIERER BR",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "drm": {
-            "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-            "key": "fa38aaa865a57eda7c77444697ba8ed3"
-          }
-        },
-        {
-          "code": "COMISPOR",
-          "title": "SporTV BR FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "drm": {
-            "kid": "51c0ef23b17297e5c01cd7f36dd0a6ce",
-            "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50089,
       "event_title": "Hong Kong Sixes",
       "event_time": "2026-10-31 00:45",
@@ -586,10 +509,10 @@
         {
           "code": "HONGWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vczeqpmgah/out/v1/c52b9acb9d0b4122ac9eaafab46105f7/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rn751ngk3j/out/v1/8ed9f020cded44549255734287448485/cenc.mpd",
           "drm": {
-            "kid": "3927cb9248adb8df3d9e741815dcca3f",
-            "key": "7c3e349d1f5954edf8bcd1d480b542e7"
+            "kid": "7ac20ffa6bf10a35d9cf0d87d6cb98a8",
+            "key": "8c7e8a983d8066e6994cae28d2b50890"
           }
         },
         {
@@ -1038,6 +961,129 @@
           "drm": {
             "kid": "0ad4080cdff8c60b1233b22087f0b340",
             "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50121,
+      "event_title": "Feyenoord vs Fortuna Sittard",
+      "event_time": "2026-10-31 15:30",
+      "event_time_raw": "2026-10-31 15:30",
+      "category": "Eredivisie",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FEFOSPOR",
+          "title": "SportDigital Fussball",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm": {
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50127,
+      "event_title": "Rangers vs Aberdeen",
+      "event_time": "2026-10-31 17:30",
+      "event_time_raw": "2026-10-31 17:30",
+      "category": "Scottish Premiership",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "RAABPREM",
+          "title": "PREMIER SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm": {
+            "kid": "1444f4235529f183f0a5a486befe9cdb",
+            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+          }
+        },
+        {
+          "code": "RAABSPOR",
+          "title": "SportDigital Fussball",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm": {
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50128,
+      "event_title": "West Ham vs West Bromwich",
+      "event_time": "2026-10-31 15:00",
+      "event_time_raw": "2026-10-31 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "WEWECBSN",
+          "title": "CBS NETWORK",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50129,
+      "event_title": "Millwall vs Derby County",
+      "event_time": "2026-10-31 15:00",
+      "event_time_raw": "2026-10-31 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "MIDEBEIN",
+          "title": "beIN ENGLISH FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50133,
+      "event_title": "Lincoln City vs Birmingham City",
+      "event_time": "2026-10-31 12:30",
+      "event_time_raw": "2026-10-31 12:30",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LIBICBSN",
+          "title": "CBS NETWORK",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50134,
+      "event_title": "Stoke City vs Preston North End",
+      "event_time": "2026-10-31 12:30",
+      "event_time_raw": "2026-10-31 12:30",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "STPRBEIN",
+          "title": "beIN ENGLISH FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
           }
         }
       ]
