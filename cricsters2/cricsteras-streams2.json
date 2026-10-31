@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T01:49:46+05:30",
-  "generated_at_india": "01-11-2026 01:49:46 AM IST",
-  "total": 24,
-  "ok": 24,
+  "generated_at": "2026-11-01T02:52:34+05:30",
+  "generated_at_india": "01-11-2026 02:52:34 AM IST",
+  "total": 25,
+  "ok": 25,
   "failed": 0,
   "events": [
     {
@@ -14,8 +14,17 @@
       "event_time": "2026-10-31 21:00",
       "event_time_raw": "2026-10-31 21:00",
       "category": "F1",
-      "stream_count": 4,
+      "stream_count": 5,
       "streams": [
+        {
+          "code": "MEXITSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "drm": {
+            "kid": "85b277daf5aae05833fe43a68f587968",
+            "key": "d52d7e9bc0bcd98787efd547ac91eca0"
+          }
+        },
         {
           "code": "MEXIFANC",
           "title": "FANCODE - FHD",
@@ -111,37 +120,37 @@
         {
           "code": "UFNOPARA",
           "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssir8jews6/out/v1/61c2bac238b7422782a5e038863c1966/a121bf0f-3b8d-40e2-a72f-b1b4df13891c-cenc.mpd?aws_sessionId=74d64c22-5ad3-4cff-b1c0-95f042ee92b3",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cd5hufwg7w/out/v1/52491b8acfa14499b0a88ee8832a0787/cenc.mpd?",
           "drm": {
-            "kid": "294eb6d02ad018f4aaddd9e35b5dda37",
-            "key": "3c557570e9b1e9e6e39dad3b78bcb012"
-          }
-        },
-        {
-          "code": "UFNOPARACR",
-          "title": "PARAMOUNT+ ES",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tmfbljkrvo/out/v1/97ea6cd5f85242caadd34261558d639f/5a670ddd-cd2e-4e08-88a3-f07773ed6a5a-cenc.mpd?aws_sessionId=14bf9f84-2ab0-4f93-9c42-a0a28cdde7fc",
-          "drm": {
-            "kid": "d9ea85885bc96d53961b9b07f1d86efb",
-            "key": "d38968ef18f914602bffb6c74d7bbd3d"
-          }
-        },
-        {
-          "code": "UFNOPARADS",
-          "title": "PARAMOUNT+ PT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssir8jews6/out/v1/61c2bac238b7422782a5e038863c1966/a121bf0f-3b8d-40e2-a72f-b1b4df13891c-cenc.mpd?aws_sessionId=74d64c22-5ad3-4cff-b1c0-95f042ee92b3",
-          "drm": {
-            "kid": "294eb6d02ad018f4aaddd9e35b5dda37",
-            "key": "3c557570e9b1e9e6e39dad3b78bcb012"
+            "kid": "de1b507bc71689e4b0d2e41332084daf",
+            "key": "0d24dbce556b49baf5348090a59f8e5e"
           }
         },
         {
           "code": "UFNOTNTS",
           "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
           "drm": {
-            "kid": "f3df7843080ae743bf865dc5fdf64c68",
-            "key": "567c863bc12eb74788ea74888c042e1b"
+            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+            "key": "643e5474d9edd87c7d9091c8c97994ca"
+          }
+        },
+        {
+          "code": "UFNOPARAJI",
+          "title": "PARAMOUNT+ ES",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/iciyxuqbci/out/v1/03a3f0fde12a4fb99557eae7774c9989/cenc.mpd?",
+          "drm": {
+            "kid": "80f3ef6e7b3f81a120750f8eb45a5363",
+            "key": "2874a2addc99f260ef6ccf1d37699e79"
+          }
+        },
+        {
+          "code": "UFNOPARAAM",
+          "title": "PARAMOUNT+ PT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zxnjfzuj7s/out/v1/823821d93c1a4250860fd079bf2f7998/cenc.mpd",
+          "drm": {
+            "kid": "325424c12306beff75ef379b6d778974",
+            "key": "78d8e8f415823e9ddf0d209567102c7f"
           }
         },
         {
@@ -518,6 +527,25 @@
       ]
     },
     {
+      "event_id": 50082,
+      "event_title": "Vancouver Canucks vs Toronto Maple Leafs",
+      "event_time": "2026-10-31 23:00",
+      "event_time_raw": "2026-10-31 23:00",
+      "category": "NHL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "VATOPREM",
+          "title": "PREMIER SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50089,
       "event_title": "Hong Kong Sixes",
       "event_time": "2026-10-31 00:45",
@@ -565,10 +593,10 @@
         {
           "code": "ASFUFUBO",
           "title": "FUBO SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wizqvl82qv/out/v1/734e2579f6ef499a9d667b8911659679/cenc.mpd?aws_sessionId=c0f6f1e4-07a6-4053-9b82-78a9397bad25",
           "drm": {
-            "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
-            "key": "3e7d40c4b2ca331fe48bd65acae439d7"
+            "kid": "ed8e29b654f9bae33cefa1438e40a155",
+            "key": "0e56bbf6d9fce248f55128a648ae8aae"
           }
         },
         {
