@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T16:55:36+05:30",
-  "generated_at_india": "31-10-2026 04:55:36 PM IST",
-  "total": 18,
-  "ok": 18,
+  "generated_at": "2026-10-31T18:03:51+05:30",
+  "generated_at_india": "31-10-2026 06:03:51 PM IST",
+  "total": 19,
+  "ok": 19,
   "failed": 0,
   "events": [
     {
@@ -376,6 +376,25 @@
           "drm": {
             "kid": "11223344556677889900112233445566",
             "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "19",
+      "event_title": "Championship - Lincoln City vs Birmingham City",
+      "event_time": "31 Oct, 06:00 pm",
+      "event_time_raw": 1793449800000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LIBICBSS",
+          "title": "CBS SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
           }
         }
       ]
