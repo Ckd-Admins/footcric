@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T13:39:06+05:30",
-  "generated_at_india": "31-10-2026 01:39:06 PM IST",
+  "generated_at": "2026-10-31T14:01:29+05:30",
+  "generated_at_india": "31-10-2026 02:01:29 PM IST",
   "total": 36,
   "ok": 36,
   "failed": 0,
@@ -464,36 +464,27 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-10-31 04:40",
-      "event_time_raw": "2026-10-31 04:40",
+      "event_time": "2026-10-31 08:10",
+      "event_time_raw": "2026-10-31 08:10",
       "category": "WBBL",
-      "stream_count": 3,
+      "stream_count": 2,
       "streams": [
         {
           "code": "WOMEWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cie3oxklbt/out/v1/7e4172da4a0f4c4d9247c78ab34fc5bc/cenc.mpd",
           "drm": {
-            "kid": "3444af0dd264a1e280e7ac12410982e5",
-            "key": "afa20d118776231ba80fc5c2b4370909"
+            "kid": "82b8543f9ed421538363bacc50c6cc93",
+            "key": "a1c7f34031ab2f04a33af7f2df053146"
           }
         },
         {
-          "code": "WOMEWILL43",
+          "code": "WOMEWILLV9",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cie3oxklbt/out/v1/7e4172da4a0f4c4d9247c78ab34fc5bc/cenc.mpd",
           "drm": {
-            "kid": "3444af0dd264a1e280e7ac12410982e5",
-            "key": "afa20d118776231ba80fc5c2b4370909"
-          }
-        },
-        {
-          "code": "WOMEEURO",
-          "title": "EUROSPORTS - FHD",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
+            "kid": "82b8543f9ed421538363bacc50c6cc93",
+            "key": "a1c7f34031ab2f04a33af7f2df053146"
           }
         }
       ]
@@ -509,10 +500,10 @@
         {
           "code": "HONGWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nu7kjdrsmr/out/v1/2074ea6e3a4241c1b35884570c8ecb2e/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bizhukou2w/out/v1/23d9c0ff831542e288e3e0562a76781a/cenc.mpd",
           "drm": {
-            "kid": "a694d0db6c7998b91bf89ed100e682b8",
-            "key": "5b13f5556048466f7f19c23d70ae220b"
+            "kid": "9d10441fabf35a310d6ccf17158cf6e5",
+            "key": "10452c062c1990788a7f83a2dc6b7e09"
           }
         },
         {
