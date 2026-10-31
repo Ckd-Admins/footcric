@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T07:18:00+05:30",
-  "generated_at_india": "31-10-2026 07:18:00 AM IST",
-  "total": 23,
+  "generated_at": "2026-10-31T08:08:43+05:30",
+  "generated_at_india": "31-10-2026 08:08:43 AM IST",
+  "total": 18,
   "events": [
     {
       "event_id": "5",
@@ -55,60 +55,12 @@
       "stream_count": 1
     },
     {
-      "event_id": "19",
-      "event_title": "Championship - Sheffield United vs Wrexham",
-      "event_time": "31 Oct, 01:30 am",
-      "event_time_raw": 1793390400000,
-      "category": "Football",
-      "stream_count": 4
-    },
-    {
-      "event_id": "20",
-      "event_title": "LaLiga - Villarreal vs Espanyol",
-      "event_time": "31 Oct, 01:30 am",
-      "event_time_raw": 1793390400000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "23",
-      "event_title": "Ligue 1 - Lille vs RC Lens",
-      "event_time": "31 Oct, 01:35 am",
-      "event_time_raw": 1793390700000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "22",
-      "event_title": "Liga Portugal Betclic - Casa Pia vs Sporting CP",
-      "event_time": "31 Oct, 01:45 am",
-      "event_time_raw": 1793391300000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "21",
-      "event_title": "Campeonato Brasileiro Série A - Corinthians vs Mirassol",
-      "event_time": "31 Oct, 04:30 am",
-      "event_time_raw": 1793401200000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "14",
-      "event_title": "MotoGP - MotoGP vs MotoGP",
-      "event_time": "31 Oct, 05:00 am",
-      "event_time_raw": 1793403000000,
-      "category": "Motorsport",
-      "stream_count": 5
-    },
-    {
       "event_id": "1",
       "event_title": "Hong Kong Super 6 | HK SUPER 6 - HK SUPER 6 vs HK SUPER 6",
       "event_time": "31 Oct, 06:15 am",
       "event_time_raw": 1793407500000,
       "category": "Cricket",
-      "stream_count": 4
+      "stream_count": 3
     },
     {
       "event_id": "11",
@@ -117,6 +69,14 @@
       "event_time_raw": 1793410200000,
       "category": "Tennis",
       "stream_count": 3
+    },
+    {
+      "event_id": "14",
+      "event_title": "MotoGP - MotoGP vs MotoGP",
+      "event_time": "31 Oct, 07:30 am",
+      "event_time_raw": 1793412000000,
+      "category": "Motorsport",
+      "stream_count": 5
     },
     {
       "event_id": "2",
