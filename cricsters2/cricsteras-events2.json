@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T19:54:42+05:30",
-  "generated_at_india": "31-10-2026 07:54:42 PM IST",
-  "total": 38,
+  "generated_at": "2026-10-31T20:52:33+05:30",
+  "generated_at_india": "31-10-2026 08:52:33 PM IST",
+  "total": 43,
   "events": [
     {
       "event_id": 50002,
@@ -167,6 +167,38 @@
       "stream_count": 1
     },
     {
+      "event_id": 50096,
+      "event_title": "Bournemouth vs Leeds United",
+      "event_time": "2026-10-31 15:00",
+      "event_time_raw": "2026-10-31 15:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50097,
+      "event_title": "Brentford vs Nottingham Forest",
+      "event_time": "2026-10-31 15:00",
+      "event_time_raw": "2026-10-31 15:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50098,
+      "event_title": "Coventry City vs Sunderland",
+      "event_time": "2026-10-31 15:00",
+      "event_time_raw": "2026-10-31 15:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50099,
+      "event_title": "Hull City vs Ipswich Town",
+      "event_time": "2026-10-31 15:00",
+      "event_time_raw": "2026-10-31 15:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
       "event_id": 50100,
       "event_title": "Tottenham Hotspur vs Crystal Palace",
       "event_time": "2026-10-31 17:30",
@@ -215,8 +247,40 @@
       "stream_count": 2
     },
     {
+      "event_id": 50106,
+      "event_title": "Bayer Leverkusen vs Stuttgart",
+      "event_time": "2026-10-31 14:30",
+      "event_time_raw": "2026-10-31 14:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50107,
+      "event_title": "Werder Bremen vs Hoffenheim",
+      "event_time": "2026-10-31 14:30",
+      "event_time_raw": "2026-10-31 14:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 1
+    },
+    {
       "event_id": 50108,
       "event_title": "Schalke 04 vs RB Leipzig",
+      "event_time": "2026-10-31 14:30",
+      "event_time_raw": "2026-10-31 14:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50109,
+      "event_title": "Augsburg vs Freiburg",
+      "event_time": "2026-10-31 14:30",
+      "event_time_raw": "2026-10-31 14:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50110,
+      "event_title": "Borussia M'gladbach vs Paderborn",
       "event_time": "2026-10-31 14:30",
       "event_time_raw": "2026-10-31 14:30",
       "category": "Bundesliga 🇩🇪",
@@ -276,30 +340,6 @@
       "event_time": "2026-10-31 15:00",
       "event_time_raw": "2026-10-31 15:00",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50133,
-      "event_title": "Lincoln City vs Birmingham City",
-      "event_time": "2026-10-31 12:30",
-      "event_time_raw": "2026-10-31 12:30",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50134,
-      "event_title": "Stoke City vs Preston North End",
-      "event_time": "2026-10-31 12:30",
-      "event_time_raw": "2026-10-31 12:30",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50137,
-      "event_title": "Kaiserslautern vs Hertha",
-      "event_time": "2026-10-31 12:00",
-      "event_time_raw": "2026-10-31 12:00",
-      "category": "2. Bundesliga",
       "stream_count": 1
     },
     {
