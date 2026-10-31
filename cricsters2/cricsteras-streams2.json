@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T19:06:35+05:30",
-  "generated_at_india": "31-10-2026 07:06:35 PM IST",
+  "generated_at": "2026-10-31T19:54:42+05:30",
+  "generated_at_india": "31-10-2026 07:54:42 PM IST",
   "total": 38,
   "ok": 38,
   "failed": 0,
@@ -849,15 +849,24 @@
       "event_time": "2026-10-31 14:00",
       "event_time_raw": "2026-10-31 14:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "BOMOPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kox3zctdlc/out/v1/69e4face0f4147aab7f9e8127b888b30/cenc.mpd?aws_sessionId=f592f3b2-5b4f-4f9f-9667-229f43c333c4",
+          "drm": {
+            "kid": "cc6fc0a19334bcf6f1f13303d6eadf59",
+            "key": "b0fe88983e13b84219657709474b64fc"
+          }
+        },
         {
           "code": "BOMOFUBO",
           "title": "FUBO SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd?aws_sessionId=8d45c228-1387-4e0b-a198-16721583b6e1",
           "drm": {
-            "kid": "42f72c025dd53039244adc13b7e31dad",
-            "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
+            "kid": "e09a0900100e5ac77d4adb45a602a86b",
+            "key": "7da511a38053d3e150d38f47ac7d8298"
           }
         }
       ]
@@ -1136,10 +1145,10 @@
         {
           "code": "INDIPRIM",
           "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kaugpconjv/out/v1/dc6b6d0f4bf74cba84807c9de45683b6/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/otmqjqoff0/out/v1/11d1a5224b8f4d888379715e7d6220f2/cenc.mpd",
           "drm": {
-            "kid": "55bde6fbce567a3dccf69968f4b804f5",
-            "key": "ced22b5107a842875a295c1261130063"
+            "kid": "2028c0ed011bf30e99416243b010015d",
+            "key": "f8b3fc9cb034c0b72661e84d025ae01a"
           }
         }
       ]
