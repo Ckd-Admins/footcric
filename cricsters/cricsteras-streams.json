@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-10-31T15:56:34+05:30",
-  "generated_at_india": "31-10-2026 03:56:34 PM IST",
+  "generated_at": "2026-10-31T16:55:36+05:30",
+  "generated_at_india": "31-10-2026 04:55:36 PM IST",
   "total": 18,
   "ok": 18,
   "failed": 0,
@@ -83,52 +83,6 @@
       ]
     },
     {
-      "event_id": "4",
-      "event_title": "Northern Ireland Open - SNOOKER vs SNOOKER",
-      "event_time": "25 Oct, 06:30 pm",
-      "event_time_raw": 1792933200000,
-      "category": "Snooker",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "SNSNTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "SNSNTNTS2T",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "drm": {
-            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
-            "key": "552a78d1aeb74f1650d68255c5749408"
-          }
-        },
-        {
-          "code": "SNSNEURO",
-          "title": "EUROSPORT EN - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
-          "drm": {
-            "kid": "8c17752768447a2ff801b87f7a390781",
-            "key": "90375b77c0f6d271caef3c8accd4f1ae"
-          }
-        },
-        {
-          "code": "SNSNEUROAU",
-          "title": "EUROSPORT CZ - AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "17",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
@@ -181,43 +135,6 @@
           "drm": {
             "kid": "335dad778109954503dcbb21dc92015f",
             "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "2",
-      "event_title": "Hong Kong Super 6 | HK SUPER 6 - HK SUPER 6 vs HK SUPER 6",
-      "event_time": "31 Oct, 06:15 am",
-      "event_time_raw": 1793407500000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "HKHKWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pieksa9i7w/out/v1/ff2052eed6594bdc9b98bee82f03dd24/cenc.mpd",
-          "drm": {
-            "kid": "e0ab3552ca701eb29069f4e7318ff141",
-            "key": "9b995d65bbdccd7e7be9e604357316ba"
-          }
-        },
-        {
-          "code": "HKHKWILLCB",
-          "title": "WILLOW SP - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        },
-        {
-          "code": "HKHKPLAY",
-          "title": "PLAYZTV - AQ",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793460610~acl=/variant/v1blackout/vcg-01-d/*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2a3278489b1cf3261de5f6181b1a7daedd5b891434faa1bd17c13687f6483699/manifest.mpd?vcfilter=6380aea6-5654-42ff-bb05-263e3b53d59a",
-          "drm": {
-            "kid": "39bd302cdeed3710a89fb004d232ab67",
-            "key": "9869f804ba18d7e508cbff781829221c"
           }
         }
       ]
@@ -427,6 +344,43 @@
       ]
     },
     {
+      "event_id": "4",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "31 Oct, 05:00 pm",
+      "event_time_raw": 1793446200000,
+      "category": "Snooker",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "SNSNTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        },
+        {
+          "code": "SNSNEURO",
+          "title": "EUROSPORT EN - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
+          "drm": {
+            "kid": "8c17752768447a2ff801b87f7a390781",
+            "key": "90375b77c0f6d271caef3c8accd4f1ae"
+          }
+        },
+        {
+          "code": "SNSNEUROAU",
+          "title": "EUROSPORT CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "16",
       "event_title": "UFC - Renato Moicano vs Tom Nolan",
       "event_time": "01 Nov, 04:30 am",
@@ -495,6 +449,43 @@
           "drm": {
             "kid": "a49085f8da5e65af1efff0edac830b1f",
             "key": "4659bc58a85c062e3fe0c039a446fe47"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "2",
+      "event_title": "Hong Kong Super 6 | HK SUPER 6 - HK SUPER 6 vs HK SUPER 6",
+      "event_time": "01 Nov, 06:15 am",
+      "event_time_raw": 1793493900000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "HKHKWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pieksa9i7w/out/v1/ff2052eed6594bdc9b98bee82f03dd24/cenc.mpd",
+          "drm": {
+            "kid": "e0ab3552ca701eb29069f4e7318ff141",
+            "key": "9b995d65bbdccd7e7be9e604357316ba"
+          }
+        },
+        {
+          "code": "HKHKWILLCB",
+          "title": "WILLOW SP - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        },
+        {
+          "code": "HKHKPLAY",
+          "title": "PLAYZTV - AQ",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793460610~acl=/variant/v1blackout/vcg-01-d/*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2a3278489b1cf3261de5f6181b1a7daedd5b891434faa1bd17c13687f6483699/manifest.mpd?vcfilter=6380aea6-5654-42ff-bb05-263e3b53d59a",
+          "drm": {
+            "kid": "39bd302cdeed3710a89fb004d232ab67",
+            "key": "9869f804ba18d7e508cbff781829221c"
           }
         }
       ]
