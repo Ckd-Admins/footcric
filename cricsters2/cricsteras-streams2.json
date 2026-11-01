@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T21:54:32+05:30",
-  "generated_at_india": "01-11-2026 09:54:32 PM IST",
-  "total": 33,
-  "ok": 33,
+  "generated_at": "2026-11-01T22:51:03+05:30",
+  "generated_at_india": "01-11-2026 10:51:03 PM IST",
+  "total": 31,
+  "ok": 31,
   "failed": 0,
   "events": [
     {
@@ -439,11 +439,29 @@
       "event_time": "2026-11-01 16:30",
       "event_time_raw": "2026-11-01 16:30",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "LIARPEAC",
+          "title": "PEACOCK ENG FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4wn492fzje/out/v1/fda9936cc9c64529810d704dcb67951c/cenc.mpd",
+          "drm": {
+            "kid": "f2ea8d5893c5bb84b8c9f43c462add5f",
+            "key": "95b1c6f710c81d239adb7cf45ad26d39"
+          }
+        },
         {
           "code": "LIARFUBO",
           "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?aws_sessionId=d2c69f3e-2fc0-4075-b0f0-5d4281d3e718",
+          "drm": {
+            "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
+            "key": "3e7d40c4b2ca331fe48bd65acae439d7"
+          }
+        },
+        {
+          "code": "LIARFUBO0J",
+          "title": "FUBO SPORTS ALT",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
           "drm": {
             "kid": "42f72c025dd53039244adc13b7e31dad",
@@ -698,8 +716,35 @@
       "event_time": "2026-11-01 17:00",
       "event_time_raw": "2026-11-01 17:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2,
+      "stream_count": 6,
       "streams": [
+        {
+          "code": "LEGEPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4qwtwsitzq/out/v1/05ae24d638094c31b98c2faa35945991/cenc.mpd?aws_sessionId=8b11c55f-701d-4e01-963a-b0a3272f9fa3",
+          "drm": {
+            "kid": "98342fab63b4e326f32acbd643721f5f",
+            "key": "8c39f70abf21ff4a3908025e72af3e86"
+          }
+        },
+        {
+          "code": "LEGEFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/aqhzignd6x/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd?aws_sessionId=21a3c037-f46e-4e80-9fa0-71f5e55b4bd5",
+          "drm": {
+            "kid": "8d1a722ce6166c97ae3ef028a3cc83bd",
+            "key": "22cd575e524b0bf0520efb15034c67d3"
+          }
+        },
+        {
+          "code": "LEGEPARAEC",
+          "title": "PARAMOUNT+ (EN/IT)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lbs21k4mtp/out/v1/222d7fffcc5b4b9dad0567fdb0af01a4/cenc.mpd?aws_sessionId=eaa2680d-9e1c-4ea2-a024-73f94036e317",
+          "drm": {
+            "kid": "98342fab63b4e326f32acbd643721f5f",
+            "key": "8c39f70abf21ff4a3908025e72af3e86"
+          }
+        },
         {
           "code": "LEGEBEIN",
           "title": "beIN ENGLISH FHD",
@@ -710,136 +755,16 @@
           }
         },
         {
-          "code": "LEGECAZE",
-          "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "code": "LEGECBSS",
+          "title": "CBS SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
           "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50098,
-      "event_title": "Lazio vs Cagliari",
-      "event_time": "2026-11-01 14:00",
-      "event_time_raw": "2026-11-01 14:00",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 5,
-      "streams": [
-        {
-          "code": "LACAPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sg26hcq4jb/out/v1/cbefa7d3aa044a42b3fbb2d9f0ed8771/cenc.mpd?aws_sessionId=6f72bd41-cc05-4448-bdc8-0110b089a955",
-          "drm": {
-            "kid": "65bf781cc51efe95158616c012821dee",
-            "key": "1fdadf8f65dc2dee9de4bd299a219263"
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
           }
         },
         {
-          "code": "LACAFUBO",
-          "title": "FUBO SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fm0tdlxrfq/out/v1/ee234bf8b2854366834b938725860805/cenc.mpd?aws_sessionId=e9687835-fab1-4436-a8d9-38800aa116ef",
-          "drm": {
-            "kid": "4d6c44925ac7c05add19ac2365681e5b",
-            "key": "09602294e18cd9c2aa9843fe0fdbc160"
-          }
-        },
-        {
-          "code": "LACAPEAC",
-          "title": "PEACOCK TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/skya9pomml/out/v1/87d1db196d8b4b2eb491cd402196f999/cenc.mpd",
-          "drm": {
-            "kid": "65bf781cc51efe95158616c012821dee",
-            "key": "1fdadf8f65dc2dee9de4bd299a219263"
-          }
-        },
-        {
-          "code": "LACABEIN",
-          "title": "beIN ENGLISH FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "LACASPOR",
-          "title": "SPORT 1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50099,
-      "event_title": "Frosinone vs Torino",
-      "event_time": "2026-11-01 14:00",
-      "event_time_raw": "2026-11-01 14:00",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "FRTOPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z7k5coaglr/out/v1/f798f09d4b6b44de82700e47ff0207f6/cenc.mpd?aws_sessionId=d30fa58d-89fd-47ee-9f14-3bb210aa2b9e",
-          "drm": {
-            "kid": "f905d936f4562b52ee955d3ff3dcd06c",
-            "key": "65f555c4104074c2f2d2fe7a9f685ed5"
-          }
-        },
-        {
-          "code": "FRTOFUBO",
-          "title": "FUBO SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd?aws_sessionId=882cb45b-b0fd-4d57-999a-97cbc604a9b0",
-          "drm": {
-            "kid": "e09a0900100e5ac77d4adb45a602a86b",
-            "key": "7da511a38053d3e150d38f47ac7d8298"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50100,
-      "event_title": "Como vs Venezia",
-      "event_time": "2026-11-01 11:30",
-      "event_time_raw": "2026-11-01 11:30",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "COVEPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wwmbmktacw/out/v1/c6b561b85d374da4a9bcf42de192bf99/cenc.mpd?aws_sessionId=9c9fa417-eb7a-47ad-8343-5504e944771c",
-          "drm": {
-            "kid": "9afba5a3c123b275d1ecbdcb7002e530",
-            "key": "fb47476d2e7ec4cc7987261088b555e8"
-          }
-        },
-        {
-          "code": "COVEFUBO",
-          "title": "FUBO SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cj9ylmqsf0/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/cenc.mpd?aws_sessionId=47d1cddf-795e-45c4-b031-266761b8e28c",
-          "drm": {
-            "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
-            "key": "3e7d40c4b2ca331fe48bd65acae439d7"
-          }
-        },
-        {
-          "code": "COVEBEIN",
-          "title": "beIN ENGLISH FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "COVESPOR",
+          "code": "LEGESPOR",
           "title": "SPORT 1 CZ FHD",
           "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
           "drm": {
@@ -855,7 +780,7 @@
       "event_time": "2026-11-01 16:30",
       "event_time_raw": "2026-11-01 16:30",
       "category": "Bundesliga 🇩🇪",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "EIHADAZN",
@@ -864,6 +789,15 @@
           "drm": {
             "kid": "2bcaa9d588854c88c6a93fd888819d5d",
             "key": "4fc1490ca0c58c154be198a8f3ff7038"
+          }
+        },
+        {
+          "code": "EIHAPEAC",
+          "title": "PEACOCK TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6wrmwxvrmn/out/v1/d1594ae398874403a6a39719fdd6418c/cenc.mpd?aws_sessionId=9395eb9e-263e-49b3-a0f7-226af35b230d",
+          "drm": {
+            "kid": "76222d0cbeb4b175bab331e74a746aee",
+            "key": "fb426b3410410e46cf468711db1beea6"
           }
         }
       ]
@@ -1015,6 +949,25 @@
           "drm": {
             "kid": "0ad4080cdff8c60b1233b22087f0b340",
             "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50123,
+      "event_title": "Burgos vs CD Castellón",
+      "event_time": "2026-11-01 17:30",
+      "event_time_raw": "2026-11-01 17:30",
+      "category": "LaLiga 2",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BUCDLALI",
+          "title": "Laliga Hypermotion ES",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm": {
+            "kid": "a88617e904504ee291f49f0e60a51d49",
+            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
           }
         }
       ]
