@@ -2,12 +2,12 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T08:09:34+05:30",
-  "generated_at_india": "01-11-2026 08:09:34 AM IST",
+  "generated_at": "2026-11-01T09:11:23+05:30",
+  "generated_at_india": "01-11-2026 09:11:23 AM IST",
   "total": 25,
   "events": [
     {
-      "event_id": "6",
+      "event_id": "5",
       "event_title": "Tour De France - Tour De France vs Tour De France",
       "event_time": "22 Oct, 02:30 pm",
       "event_time_raw": 1792659600000,
@@ -15,7 +15,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "13",
+      "event_id": "12",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "22 Oct, 10:00 pm",
       "event_time_raw": 1792686600000,
@@ -23,7 +23,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "15",
+      "event_id": "14",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -31,7 +31,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "8",
+      "event_id": "7",
       "event_title": "EUROPEAN Championship - Darts vs Darts",
       "event_time": "25 Oct, 10:30 pm",
       "event_time_raw": 1792947600000,
@@ -39,15 +39,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "12",
-      "event_title": "Tokyo Open 2026 - WTA vs WTA",
-      "event_time": "31 Oct, 07:00 am",
-      "event_time_raw": 1793410200000,
-      "category": "Tennis",
-      "stream_count": 3
-    },
-    {
-      "event_id": "14",
+      "event_id": "13",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "31 Oct, 07:30 am",
       "event_time_raw": 1793412000000,
@@ -55,7 +47,7 @@
       "stream_count": 5
     },
     {
-      "event_id": "3",
+      "event_id": "2",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "31 Oct, 05:00 pm",
       "event_time_raw": 1793446200000,
@@ -63,7 +55,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "4",
+      "event_id": "3",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "31 Oct, 11:00 pm",
       "event_time_raw": 1793467800000,
@@ -71,7 +63,7 @@
       "stream_count": 7
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "Campeonato Brasileiro Série A - Coritiba vs Vitória",
       "event_time": "01 Nov, 12:30 am",
       "event_time_raw": 1793473200000,
@@ -79,7 +71,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "VriendenLoterij Eredivisie - AFC Ajax vs AZ Alkmaar",
       "event_time": "01 Nov, 01:30 am",
       "event_time_raw": 1793476800000,
@@ -87,7 +79,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "LaLiga 2 - Albacete Balompié vs CE Sabadell",
       "event_time": "01 Nov, 01:30 am",
       "event_time_raw": 1793476800000,
@@ -95,7 +87,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "Liga Portugal Betclic - FC Porto vs Estoril Praia",
       "event_time": "01 Nov, 02:00 am",
       "event_time_raw": 1793478600000,
@@ -103,15 +95,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "1",
-      "event_title": "UFC - Renato Moicano vs Tom Nolan",
-      "event_time": "01 Nov, 02:30 am",
-      "event_time_raw": 1793480400000,
-      "category": "Mixed Martial Arts",
-      "stream_count": 7
-    },
-    {
-      "event_id": "10",
+      "event_id": "9",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "01 Nov, 04:30 am",
       "event_time_raw": 1793487600000,
@@ -119,7 +103,15 @@
       "stream_count": 1
     },
     {
-      "event_id": "2",
+      "event_id": "25",
+      "event_title": "NBA - Houston Rockets vs Oklahoma City Thunder",
+      "event_time": "01 Nov, 06:00 am",
+      "event_time_raw": 1793493000000,
+      "category": "Basketball",
+      "stream_count": 1
+    },
+    {
+      "event_id": "1",
       "event_title": "Hong Kong Super 6 | HK SUPER 6 - HK SUPER 6 vs HK SUPER 6",
       "event_time": "01 Nov, 07:15 am",
       "event_time_raw": 1793497500000,
@@ -127,7 +119,15 @@
       "stream_count": 3
     },
     {
-      "event_id": "16",
+      "event_id": "11",
+      "event_title": "Tokyo Open 2026 - WTA vs WTA",
+      "event_time": "01 Nov, 08:30 am",
+      "event_time_raw": 1793502000000,
+      "category": "Tennis",
+      "stream_count": 3
+    },
+    {
+      "event_id": "15",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "01 Nov, 12:15 pm",
       "event_time_raw": 1793515500000,
@@ -135,7 +135,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "01 Nov, 12:30 pm",
       "event_time_raw": 1793516400000,
@@ -143,7 +143,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -151,7 +151,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "04 Nov, 07:30 am",
       "event_time_raw": 1793757600000,
@@ -159,7 +159,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "5",
+      "event_id": "4",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -167,7 +167,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "05 Nov, 09:00 am",
       "event_time_raw": 1793849400000,
@@ -175,7 +175,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "7",
+      "event_id": "6",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -183,7 +183,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -191,7 +191,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "9",
+      "event_id": "8",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -199,7 +199,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "11",
+      "event_id": "10",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,

@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T08:09:34+05:30",
-  "generated_at_india": "01-11-2026 08:09:34 AM IST",
+  "generated_at": "2026-11-01T09:11:23+05:30",
+  "generated_at_india": "01-11-2026 09:11:23 AM IST",
   "total": 25,
   "ok": 25,
   "failed": 0,
   "events": [
     {
-      "event_id": "6",
+      "event_id": "5",
       "event_title": "Tour De France - Tour De France vs Tour De France",
       "event_time": "22 Oct, 02:30 pm",
       "event_time_raw": 1792659600000,
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "12",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "22 Oct, 10:00 pm",
       "event_time_raw": 1792686600000,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "14",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "7",
       "event_title": "EUROPEAN Championship - Darts vs Darts",
       "event_time": "25 Oct, 10:30 pm",
       "event_time_raw": 1792947600000,
@@ -121,44 +121,7 @@
       ]
     },
     {
-      "event_id": "12",
-      "event_title": "Tokyo Open 2026 - WTA vs WTA",
-      "event_time": "31 Oct, 07:00 am",
-      "event_time_raw": 1793410200000,
-      "category": "Tennis",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "WTWTBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        },
-        {
-          "code": "WTWTTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        },
-        {
-          "code": "WTWTSTAN",
-          "title": "STAN SPORTS - AQ (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/91d32e049fa044a28e8decb1fcc13489/index.mpd",
-          "drm": {
-            "kid": "5a029b0b7b414989bebc100519169431",
-            "key": "8f20026c8b9dd1e1e1a63b49c6c7c9d5"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "14",
+      "event_id": "13",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "31 Oct, 07:30 am",
       "event_time_raw": 1793412000000,
@@ -213,7 +176,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "2",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "31 Oct, 05:00 pm",
       "event_time_raw": 1793446200000,
@@ -250,7 +213,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "3",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "31 Oct, 11:00 pm",
       "event_time_raw": 1793467800000,
@@ -323,7 +286,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "Campeonato Brasileiro Série A - Coritiba vs Vitória",
       "event_time": "01 Nov, 12:30 am",
       "event_time_raw": 1793473200000,
@@ -342,7 +305,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "VriendenLoterij Eredivisie - AFC Ajax vs AZ Alkmaar",
       "event_time": "01 Nov, 01:30 am",
       "event_time_raw": 1793476800000,
@@ -361,7 +324,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "LaLiga 2 - Albacete Balompié vs CE Sabadell",
       "event_time": "01 Nov, 01:30 am",
       "event_time_raw": 1793476800000,
@@ -380,7 +343,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "Liga Portugal Betclic - FC Porto vs Estoril Praia",
       "event_time": "01 Nov, 02:00 am",
       "event_time_raw": 1793478600000,
@@ -399,80 +362,7 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "UFC - Renato Moicano vs Tom Nolan",
-      "event_time": "01 Nov, 02:30 am",
-      "event_time_raw": 1793480400000,
-      "category": "Mixed Martial Arts",
-      "stream_count": 7,
-      "streams": [
-        {
-          "code": "RETOPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cd5hufwg7w/out/v1/52491b8acfa14499b0a88ee8832a0787/cenc.mpd?",
-          "drm": {
-            "kid": "de1b507bc71689e4b0d2e41332084daf",
-            "key": "0d24dbce556b49baf5348090a59f8e5e"
-          }
-        },
-        {
-          "code": "RETOSTAR",
-          "title": "STARZPLAY EN/AR - AQ",
-          "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
-          "drm": {
-            "kid": "117c29396ec6fd295880013241a466e1",
-            "key": "3dfb883251884e66d784111877c44b13"
-          }
-        },
-        {
-          "code": "RETOTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "RETOSPOR",
-          "title": "SportsNet FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd",
-          "drm": {
-            "kid": "60de674d9db66df9ba090e06871d3554",
-            "key": "18071eac168232fc3d45549049c1de6b"
-          }
-        },
-        {
-          "code": "RETOPARADT",
-          "title": "PARAMOUNT+ PT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zxnjfzuj7s/out/v1/823821d93c1a4250860fd079bf2f7998/cenc.mpd",
-          "drm": {
-            "kid": "325424c12306beff75ef379b6d778974",
-            "key": "78d8e8f415823e9ddf0d209567102c7f"
-          }
-        },
-        {
-          "code": "RETOPARA6Q",
-          "title": "PARAMOUNT+ ES",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iciyxuqbci/out/v1/03a3f0fde12a4fb99557eae7774c9989/cenc.mpd?",
-          "drm": {
-            "kid": "80f3ef6e7b3f81a120750f8eb45a5363",
-            "key": "2874a2addc99f260ef6ccf1d37699e79"
-          }
-        },
-        {
-          "code": "RETOUFCT",
-          "title": "UFC TV - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd",
-          "drm": {
-            "kid": "a49085f8da5e65af1efff0edac830b1f",
-            "key": "4659bc58a85c062e3fe0c039a446fe47"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "10",
+      "event_id": "9",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "01 Nov, 04:30 am",
       "event_time_raw": 1793487600000,
@@ -491,7 +381,26 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "25",
+      "event_title": "NBA - Houston Rockets vs Oklahoma City Thunder",
+      "event_time": "01 Nov, 06:00 am",
+      "event_time_raw": 1793493000000,
+      "category": "Basketball",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "HOOKTSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "drm": {
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "1",
       "event_title": "Hong Kong Super 6 | HK SUPER 6 - HK SUPER 6 vs HK SUPER 6",
       "event_time": "01 Nov, 07:15 am",
       "event_time_raw": 1793497500000,
@@ -508,12 +417,12 @@
           }
         },
         {
-          "code": "HKHKWILLG1",
+          "code": "HKHKWILLJG",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pieksa9i7w/out/v1/ff2052eed6594bdc9b98bee82f03dd24/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ltxdcoti1m/out/v1/4da40c8b0d194fb4a9de00e68a84c0d1/cenc.mpd",
           "drm": {
-            "kid": "e0ab3552ca701eb29069f4e7318ff141",
-            "key": "9b995d65bbdccd7e7be9e604357316ba"
+            "kid": "b610b101e8a987cbf194e6d968585cc2",
+            "key": "2ecaec94db1a7fbf40fb9d4ac74f3b47"
           }
         },
         {
@@ -528,7 +437,44 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "11",
+      "event_title": "Tokyo Open 2026 - WTA vs WTA",
+      "event_time": "01 Nov, 08:30 am",
+      "event_time_raw": 1793502000000,
+      "category": "Tennis",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "WTWTBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "WTWTTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
+          }
+        },
+        {
+          "code": "WTWTSTAN",
+          "title": "STAN SPORTS - AQ (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/b577f63edc094a0f9e623918f100a476/index.mpd",
+          "drm": {
+            "kid": "fbfc4f5e355a407bbc64a499ea596887",
+            "key": "2b2783027ed1303982ba7a18e4e8cfc0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "15",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "01 Nov, 12:15 pm",
       "event_time_raw": 1793515500000,
@@ -547,7 +493,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "01 Nov, 12:30 pm",
       "event_time_raw": 1793516400000,
@@ -611,7 +557,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -630,7 +576,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "04 Nov, 07:30 am",
       "event_time_raw": 1793757600000,
@@ -694,7 +640,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "4",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -731,7 +677,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "05 Nov, 09:00 am",
       "event_time_raw": 1793849400000,
@@ -759,7 +705,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "6",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -778,7 +724,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -842,7 +788,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "8",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -861,7 +807,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "10",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
