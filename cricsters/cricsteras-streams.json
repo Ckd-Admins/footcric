@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T13:19:04+05:30",
-  "generated_at_india": "01-11-2026 01:19:04 PM IST",
+  "generated_at": "2026-11-01T14:08:53+05:30",
+  "generated_at_india": "01-11-2026 02:08:53 PM IST",
   "total": 27,
   "ok": 27,
   "failed": 0,
@@ -420,14 +420,14 @@
     },
     {
       "event_id": "2",
-      "event_title": "Hong Kong Super 6 | Plate Final - Pakistan vs oman",
+      "event_title": "Hong Kong Super 6 | Cup Final - Australia vs Afghanistan",
       "event_time": "01 Nov, 11:15 am",
       "event_time_raw": 1793511900000,
       "category": "Cricket",
       "stream_count": 3,
       "streams": [
         {
-          "code": "PAOMWILL",
+          "code": "AUAFWILL",
           "title": "WILLOW - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nl173vux14/out/v1/d788485d04df4c53961e84d1901390db/cenc.mpd",
           "drm": {
@@ -436,7 +436,7 @@
           }
         },
         {
-          "code": "PAOMWILLL5",
+          "code": "AUAFWILL2E",
           "title": "WILLOW SP - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
           "drm": {
@@ -445,7 +445,7 @@
           }
         },
         {
-          "code": "PAOMPLAY",
+          "code": "AUAFPLAY",
           "title": "PLAYZTV - AQ",
           "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793547241~acl=/variant/v1blackout/vcg-01-d/*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=cd9e30783b77e38efa022ed17340396a125e1d84f27b5a7dceb603f79406fe1c/manifest.mpd?vcfilter=db26b50a-84ed-41ec-b84e-2f6de0599db0",
           "drm": {
@@ -512,25 +512,6 @@
       ]
     },
     {
-      "event_id": "16",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "01 Nov, 12:15 pm",
-      "event_time_raw": 1793515500000,
-      "category": "Cricket",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NPNPFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "1",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "01 Nov, 12:30 pm",
@@ -572,6 +553,25 @@
           "drm": {
             "kid": "2765adbf6880195515fed136e5a989fa",
             "key": "f1356a68a923c31d7184dfa1b91c161f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "16",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "01 Nov, 04:45 pm",
+      "event_time_raw": 1793531700000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NPNPFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]

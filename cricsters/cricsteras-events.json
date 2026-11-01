@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T13:19:04+05:30",
-  "generated_at_india": "01-11-2026 01:19:04 PM IST",
+  "generated_at": "2026-11-01T14:08:53+05:30",
+  "generated_at_india": "01-11-2026 02:08:53 PM IST",
   "total": 27,
   "events": [
     {
@@ -120,7 +120,7 @@
     },
     {
       "event_id": "2",
-      "event_title": "Hong Kong Super 6 | Plate Final - Pakistan vs oman",
+      "event_title": "Hong Kong Super 6 | Cup Final - Australia vs Afghanistan",
       "event_time": "01 Nov, 11:15 am",
       "event_time_raw": 1793511900000,
       "category": "Cricket",
@@ -143,20 +143,20 @@
       "stream_count": 1
     },
     {
-      "event_id": "16",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "01 Nov, 12:15 pm",
-      "event_time_raw": 1793515500000,
-      "category": "Cricket",
-      "stream_count": 1
-    },
-    {
       "event_id": "1",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "01 Nov, 12:30 pm",
       "event_time_raw": 1793516400000,
       "category": "Cricket",
       "stream_count": 4
+    },
+    {
+      "event_id": "16",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "01 Nov, 04:45 pm",
+      "event_time_raw": 1793531700000,
+      "category": "Cricket",
+      "stream_count": 1
     },
     {
       "event_id": "21",
