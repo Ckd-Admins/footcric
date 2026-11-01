@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T16:55:15+05:30",
-  "generated_at_india": "01-11-2026 04:55:15 PM IST",
-  "total": 20,
+  "generated_at": "2026-11-01T18:05:06+05:30",
+  "generated_at_india": "01-11-2026 06:05:06 PM IST",
+  "total": 25,
   "events": [
     {
       "event_id": "2",
@@ -15,14 +15,6 @@
       "stream_count": 7
     },
     {
-      "event_id": "6",
-      "event_title": "Vienna OPEN - ATP vs ATP",
-      "event_time": "01 Nov, 04:30 am",
-      "event_time_raw": 1793487600000,
-      "category": "Tennis",
-      "stream_count": 1
-    },
-    {
       "event_id": "8",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "01 Nov, 08:30 am",
@@ -31,15 +23,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "1",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "01 Nov, 11:30 am",
-      "event_time_raw": 1793512800000,
-      "category": "Snooker",
-      "stream_count": 3
-    },
-    {
-      "event_id": "17",
+      "event_id": "20",
       "event_title": "One Day International - Namibia vs Ireland",
       "event_time": "01 Nov, 01:00 pm",
       "event_time_raw": 1793518200000,
@@ -47,7 +31,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "15",
+      "event_id": "18",
       "event_title": "Women's Big Bash League - Sydney Sixers Women vs Hobart Hurricanes Women",
       "event_time": "01 Nov, 01:40 pm",
       "event_time_raw": 1793520600000,
@@ -55,7 +39,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "14",
+      "event_id": "17",
       "event_title": "World Cup - Tonga vs Samoa",
       "event_time": "01 Nov, 02:35 pm",
       "event_time_raw": 1793523900000,
@@ -71,15 +55,55 @@
       "stream_count": 1
     },
     {
-      "event_id": "20",
+      "event_id": "1",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "01 Nov, 05:00 pm",
+      "event_time_raw": 1793532600000,
+      "category": "Snooker",
+      "stream_count": 3
+    },
+    {
+      "event_id": "11",
+      "event_title": "Indian Super League - Mumbai City FC vs Sporting Delhi",
+      "event_time": "01 Nov, 05:00 pm",
+      "event_time_raw": 1793532600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "25",
       "event_title": "Serie A - Como vs Venezia",
       "event_time": "01 Nov, 05:00 pm",
       "event_time_raw": 1793532600000,
       "category": "Football",
+      "stream_count": 4
+    },
+    {
+      "event_id": "6",
+      "event_title": "Vienna OPEN - ATP vs ATP",
+      "event_time": "01 Nov, 05:30 pm",
+      "event_time_raw": 1793534400000,
+      "category": "Tennis",
+      "stream_count": 1
+    },
+    {
+      "event_id": "10",
+      "event_title": "Women's Super League - Arsenal vs Aston Villa",
+      "event_time": "01 Nov, 05:30 pm",
+      "event_time_raw": 1793534400000,
+      "category": "Football",
       "stream_count": 2
     },
     {
-      "event_id": "18",
+      "event_id": "12",
+      "event_title": "Women's Super League - London City Lionesses vs Manchester City",
+      "event_time": "01 Nov, 05:30 pm",
+      "event_time_raw": 1793534400000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "22",
       "event_title": "LaLiga - Getafe vs Sevilla",
       "event_time": "01 Nov, 06:30 pm",
       "event_time_raw": 1793538000000,
@@ -87,7 +111,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "19",
+      "event_id": "24",
       "event_title": "Serie A - Lazio vs Cagliari",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -95,7 +119,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "10",
+      "event_id": "13",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -103,7 +127,23 @@
       "stream_count": 1
     },
     {
-      "event_id": "16",
+      "event_id": "23",
+      "event_title": "LaLiga - Real Racing Club vs Real Madrid",
+      "event_time": "01 Nov, 08:45 pm",
+      "event_time_raw": 1793546100000,
+      "category": "Football",
+      "stream_count": 5
+    },
+    {
+      "event_id": "21",
+      "event_title": "Premier League - Liverpool FC vs Arsenal",
+      "event_time": "01 Nov, 10:00 pm",
+      "event_time_raw": 1793550600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "19",
       "event_title": "Women's Big Bash League - Melbourne Stars Women vs Perth Scorchers Women",
       "event_time": "02 Nov, 01:40 pm",
       "event_time_raw": 1793607000000,
@@ -111,7 +151,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "11",
+      "event_id": "14",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "04 Nov, 07:30 am",
       "event_time_raw": 1793757600000,
@@ -127,7 +167,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "12",
+      "event_id": "15",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "05 Nov, 09:00 am",
       "event_time_raw": 1793849400000,
@@ -143,7 +183,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "13",
+      "event_id": "16",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
