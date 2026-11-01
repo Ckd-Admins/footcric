@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T14:05:19+05:30",
-  "generated_at_india": "01-11-2026 02:05:19 PM IST",
+  "generated_at": "2026-11-01T14:59:40+05:30",
+  "generated_at_india": "01-11-2026 02:59:40 PM IST",
   "total": 26,
   "ok": 26,
   "failed": 0,
@@ -379,19 +379,19 @@
         {
           "code": "WOMEWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gog1xdwuxy/out/v1/cce434bb1b314fce9867a98d8c323a56/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vqu1w8f6e7/out/v1/f7d7ec07c208491681c1b6f68d0e823f/cenc.mpd",
           "drm": {
-            "kid": "b22b486d9a7cdab18642ad31a3ac164a",
-            "key": "554e2e626bde78f8babcb7faaf11f872"
+            "kid": "a59f28b25431a5ab1091707c14e6e5b5",
+            "key": "0e2b44300a38bd47fbb02e9c687aa2c8"
           }
         },
         {
-          "code": "WOMEWILLBM",
+          "code": "WOMEWILLOB",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gog1xdwuxy/out/v1/cce434bb1b314fce9867a98d8c323a56/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vqu1w8f6e7/out/v1/f7d7ec07c208491681c1b6f68d0e823f/cenc.mpd",
           "drm": {
-            "kid": "b22b486d9a7cdab18642ad31a3ac164a",
-            "key": "554e2e626bde78f8babcb7faaf11f872"
+            "kid": "a59f28b25431a5ab1091707c14e6e5b5",
+            "key": "0e2b44300a38bd47fbb02e9c687aa2c8"
           }
         },
         {
