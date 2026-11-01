@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T22:51:03+05:30",
-  "generated_at_india": "01-11-2026 10:51:03 PM IST",
-  "total": 31,
+  "generated_at": "2026-11-01T23:55:01+05:30",
+  "generated_at_india": "01-11-2026 11:55:01 PM IST",
+  "total": 36,
   "events": [
     {
       "event_id": 50002,
@@ -39,14 +39,6 @@
       "stream_count": 2
     },
     {
-      "event_id": 50007,
-      "event_title": "Afghanistan vs Zimbabwe",
-      "event_time": "2026-11-01 14:30",
-      "event_time_raw": "2026-11-01 14:30",
-      "category": "Cricket",
-      "stream_count": 4
-    },
-    {
       "event_id": 50008,
       "event_title": "New Zealand vs India",
       "event_time": "2026-11-01 07:00",
@@ -75,6 +67,30 @@
       "event_title": "Washington Commanders vs Philadelphia Eagles",
       "event_time": "2026-11-02 01:20",
       "event_time_raw": "2026-11-02 01:20",
+      "category": "NFL",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50023,
+      "event_title": "NFL REDZONE",
+      "event_time": "2026-11-01 17:55",
+      "event_time_raw": "2026-11-01 17:55",
+      "category": "NFL",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50068,
+      "event_title": "Tampa Bay Buccaneers vs Atlanta Falcons",
+      "event_time": "2026-11-01 18:00",
+      "event_time_raw": "2026-11-01 18:00",
+      "category": "NFL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50069,
+      "event_title": "Pittsburgh Steelers vs Cleveland Browns",
+      "event_time": "2026-11-01 18:00",
+      "event_time_raw": "2026-11-01 18:00",
       "category": "NFL",
       "stream_count": 2
     },
@@ -132,23 +148,7 @@
       "event_time": "2026-11-01 17:30",
       "event_time_raw": "2026-11-01 17:30",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50095,
-      "event_title": "Real Racing Club vs Real Madrid",
-      "event_time": "2026-11-01 15:15",
-      "event_time_raw": "2026-11-01 15:15",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 6
-    },
-    {
-      "event_id": 50096,
-      "event_title": "Getafe vs Sevilla",
-      "event_time": "2026-11-01 13:00",
-      "event_time_raw": "2026-11-01 13:00",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 3
+      "stream_count": 4
     },
     {
       "event_id": 50097,
@@ -244,6 +244,46 @@
       "event_time": "2026-11-01 13:00",
       "event_time_raw": "2026-11-01 13:00",
       "category": "LaLiga 2",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50127,
+      "event_title": "Cincinnati Bengals vs Tennessee Titans",
+      "event_time": "2026-11-01 18:00",
+      "event_time_raw": "2026-11-01 18:00",
+      "category": "NFL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50128,
+      "event_title": "Dallas Cowboys vs Arizona Cardinals",
+      "event_time": "2026-11-01 18:00",
+      "event_time_raw": "2026-11-01 18:00",
+      "category": "NFL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50129,
+      "event_title": "Detroit Lions vs Minnesota Vikings",
+      "event_time": "2026-11-01 18:00",
+      "event_time_raw": "2026-11-01 18:00",
+      "category": "NFL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50130,
+      "event_title": "Jacksonville Jaguars vs Indianapolis Colts",
+      "event_time": "2026-11-01 18:00",
+      "event_time_raw": "2026-11-01 18:00",
+      "category": "NFL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50131,
+      "event_title": "New York Jets vs Las Vegas Raiders",
+      "event_time": "2026-11-01 18:00",
+      "event_time_raw": "2026-11-01 18:00",
+      "category": "NFL",
       "stream_count": 1
     },
     {
