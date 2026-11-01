@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T11:35:07+05:30",
-  "generated_at_india": "01-11-2026 11:35:07 AM IST",
+  "generated_at": "2026-11-01T12:04:41+05:30",
+  "generated_at_india": "01-11-2026 00:04:41 PM IST",
   "total": 26,
   "ok": 26,
   "failed": 0,
@@ -240,28 +240,28 @@
         {
           "code": "NEINWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jorvx5qfk6/out/v1/6dbb07d5c15c4ffb8b51bdcdc0425548/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yt02ubg0fp/out/v1/23b293bd314742c98b5da8fb03089f0d/cenc.mpd",
           "drm": {
-            "kid": "6df39bfdcc3293c5018e97607998cae3",
-            "key": "794ada809851b50c0e8a7568f92971e0"
+            "kid": "af79b819ec8ed7b81d102fdbe1ab82a2",
+            "key": "1797b0e1d4491ff81aa11743cc9ffc09"
           }
         },
         {
           "code": "NEINPRIM",
           "title": "PRIME VIDEO (HINDI)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mohqiz9gyv/out/v1/95de092d1d574891ba87cd37df9c3f2b/cenc.mpd",
           "drm": {
-            "kid": "638eaec11a32364c29f73241769dc3b0",
-            "key": "51ad6ac914e442976749f485354b50fe"
+            "kid": "4d4e8cc811e844075fa97ed19abb1abe",
+            "key": "9bcb83c52597af936e9b3ff8a4dd27e4"
           }
         },
         {
-          "code": "NEINPRIMXV",
+          "code": "NEINPRIMC5",
           "title": "PRIME VIDEO (ENG)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9z1fajy3r4/out/v1/2e1a478d31fb4c1dbd2e54391b006a35/cenc.mpd",
           "drm": {
-            "kid": "e9b05390d0d8a3766d720cc0dfa9c1c3",
-            "key": "5b371247b3ec6ae9976204359d781e85"
+            "kid": "de23ce5421c57988c1ba1cd8a0d16551",
+            "key": "fb50935ff66bcea5899f989c5bbfd270"
           }
         },
         {
@@ -274,12 +274,12 @@
           }
         },
         {
-          "code": "NEINWILLID",
+          "code": "NEINWILL76",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jorvx5qfk6/out/v1/6dbb07d5c15c4ffb8b51bdcdc0425548/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yt02ubg0fp/out/v1/23b293bd314742c98b5da8fb03089f0d/cenc.mpd",
           "drm": {
-            "kid": "6df39bfdcc3293c5018e97607998cae3",
-            "key": "794ada809851b50c0e8a7568f92971e0"
+            "kid": "af79b819ec8ed7b81d102fdbe1ab82a2",
+            "key": "1797b0e1d4491ff81aa11743cc9ffc09"
           }
         }
       ]
@@ -416,10 +416,10 @@
         {
           "code": "HONGWILL",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gz9vwijf7m/out/v1/3ecfb634ab26422eaf14713d240485b6/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f75yhdq23v/out/v1/598eae358be84a6190477baeee289e93/cenc.mpd",
           "drm": {
-            "kid": "0cd1b4875e56c425ac0074163c244822",
-            "key": "696c27c854a7ec46c52ba65865dc3c19"
+            "kid": "a4514f31e848acef7fd26d27fe8e77b2",
+            "key": "e9c848142716a1ef70be1e38b1cc2cc6"
           }
         }
       ]
