@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T23:59:30+05:30",
-  "generated_at_india": "01-11-2026 11:59:30 PM IST",
-  "total": 34,
-  "ok": 34,
+  "generated_at": "2026-11-02T00:59:58+05:30",
+  "generated_at_india": "02-11-2026 00:59:58 AM IST",
+  "total": 33,
+  "ok": 33,
   "failed": 0,
   "events": [
     {
-      "event_id": "10",
+      "event_id": "9",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "01 Nov, 08:30 am",
       "event_time_raw": 1793502000000,
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "Women's Big Bash League - Sydney Sixers Women vs Hobart Hurricanes Women",
       "event_time": "01 Nov, 01:40 pm",
       "event_time_raw": 1793520600000,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "World Cup - Tonga vs Samoa",
       "event_time": "01 Nov, 02:35 pm",
       "event_time_raw": 1793523900000,
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "2",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "01 Nov, 05:00 pm",
       "event_time_raw": 1793532600000,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "7",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "01 Nov, 05:30 pm",
       "event_time_raw": 1793534400000,
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "12",
       "event_title": "Women's Super League - Arsenal vs Aston Villa",
       "event_time": "01 Nov, 05:30 pm",
       "event_time_raw": 1793534400000,
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "13",
       "event_title": "Women's Super League - London City Lionesses vs Manchester City",
       "event_time": "01 Nov, 05:30 pm",
       "event_time_raw": 1793534400000,
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "Serie A - Frosinone vs Torino",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "25",
       "event_title": "Serie A - Lazio vs Cagliari",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "event_id": "32",
+      "event_id": "30",
       "event_title": "Ligue 1 - RC Strasbourg vs Auxerre",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "14",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -344,7 +344,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "1",
       "event_title": "LaLiga - Real Racing Club vs Real Madrid",
       "event_time": "01 Nov, 08:45 pm",
       "event_time_raw": 1793546100000,
@@ -408,7 +408,7 @@
       ]
     },
     {
-      "event_id": "30",
+      "event_id": "28",
       "event_title": "Ligue 1 - Paris FC vs AS Monaco",
       "event_time": "01 Nov, 09:45 pm",
       "event_time_raw": 1793549700000,
@@ -436,7 +436,7 @@
       ]
     },
     {
-      "event_id": "31",
+      "event_id": "29",
       "event_title": "Ligue 1 - Olympique Lyonnais vs Angers",
       "event_time": "01 Nov, 09:45 pm",
       "event_time_raw": 1793549700000,
@@ -455,81 +455,7 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "Premier League - Liverpool FC vs Arsenal",
-      "event_time": "01 Nov, 10:00 pm",
-      "event_time_raw": 1793550600000,
-      "category": "Football",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "LIARPEAC",
-          "title": "PEACOCK TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4wn492fzje/out/v1/fda9936cc9c64529810d704dcb67951c/cenc.mpd",
-          "drm": {
-            "kid": "f2ea8d5893c5bb84b8c9f43c462add5f",
-            "key": "95b1c6f710c81d239adb7cf45ad26d39"
-          }
-        },
-        {
-          "code": "LIARFUBO",
-          "title": "FUBO SPORTS FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?aws_sessionId=d2c69f3e-2fc0-4075-b0f0-5d4281d3e718",
-          "drm": {
-            "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
-            "key": "3e7d40c4b2ca331fe48bd65acae439d7"
-          }
-        },
-        {
-          "code": "LIARFUBO0J",
-          "title": "FUBO SPORTS HD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-          "drm": {
-            "kid": "42f72c025dd53039244adc13b7e31dad",
-            "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
-          }
-        },
-        {
-          "code": "LIARSTAN",
-          "title": "STAN SPORTS - AQ {AUS}",
-          "url": "https://live02-stan.akamaized.net/out/v1/c8b11b61da824cd785cc707ab05b260f/index.mpd",
-          "drm": {
-            "kid": "a515fda044df4efd8989a491c331a614",
-            "key": "5dd768aca4f6503d21d3674bf0002c2a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "29",
-      "event_title": "Bundesliga - Eintracht Frankfurt vs Hamburger SV",
-      "event_time": "01 Nov, 10:00 pm",
-      "event_time_raw": 1793550600000,
-      "category": "Football",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "EIHADAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b11iuahvrs/out/v1/73a078e42a334a549e9169473084c862/cenc.mpd",
-          "drm": {
-            "kid": "2bcaa9d588854c88c6a93fd888819d5d",
-            "key": "4fc1490ca0c58c154be198a8f3ff7038"
-          }
-        },
-        {
-          "code": "EIHAPEAC",
-          "title": "PEACOCK TV FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6wrmwxvrmn/out/v1/d1594ae398874403a6a39719fdd6418c/cenc.mpd?aws_sessionId=9395eb9e-263e-49b3-a0f7-226af35b230d",
-          "drm": {
-            "kid": "76222d0cbeb4b175bab331e74a746aee",
-            "key": "fb426b3410410e46cf468711db1beea6"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "28",
+      "event_id": "27",
       "event_title": "Serie A - Lecce vs Genoa",
       "event_time": "01 Nov, 10:30 pm",
       "event_time_raw": 1793552400000,
@@ -584,7 +510,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "LaLiga - Elche vs Valencia",
       "event_time": "01 Nov, 11:00 pm",
       "event_time_raw": 1793554200000,
@@ -621,7 +547,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "LaLiga 2 - Burgos Club de Fútbol vs CD Castellón",
       "event_time": "01 Nov, 11:00 pm",
       "event_time_raw": 1793554200000,
@@ -640,7 +566,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "10",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "01 Nov, 11:15 pm",
       "event_time_raw": 1793555100000,
@@ -659,7 +585,7 @@
       ]
     },
     {
-      "event_id": "33",
+      "event_id": "31",
       "event_title": "Canadian Premier League - Atlético Ottawa vs Forge FC",
       "event_time": "02 Nov, 12:30 am",
       "event_time_raw": 1793559600000,
@@ -678,7 +604,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "26",
       "event_title": "Serie A - Juventus vs SSC Napoli",
       "event_time": "02 Nov, 01:15 am",
       "event_time_raw": 1793562300000,
@@ -715,7 +641,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "3",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
@@ -788,7 +714,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "LaLiga - Athletic Club vs Real Sociedad",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
@@ -834,7 +760,7 @@
       ]
     },
     {
-      "event_id": "34",
+      "event_id": "32",
       "event_title": "Liga Portugal Betclic - Sporting Braga vs Famalicão",
       "event_time": "02 Nov, 02:00 am",
       "event_time_raw": 1793565000000,
@@ -853,7 +779,26 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "33",
+      "event_title": "Canadian Premier League - FC Supra Du Quebec vs Cavalry FC",
+      "event_time": "02 Nov, 02:30 am",
+      "event_time_raw": 1793566800000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FCCATSNS",
+          "title": "TSN SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "drm": {
+            "kid": "85b277daf5aae05833fe43a68f587968",
+            "key": "d52d7e9bc0bcd98787efd547ac91eca0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "20",
       "event_title": "Women's Big Bash League - Melbourne Stars Women vs Perth Scorchers Women",
       "event_time": "02 Nov, 01:40 pm",
       "event_time_raw": 1793607000000,
@@ -890,7 +835,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "15",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "04 Nov, 07:30 am",
       "event_time_raw": 1793757600000,
@@ -954,7 +899,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "4",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -991,7 +936,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "05 Nov, 09:00 am",
       "event_time_raw": 1793849400000,
@@ -1019,7 +964,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "5",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -1038,7 +983,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -1102,7 +1047,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "6",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -1121,7 +1066,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "11",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "09 Nov, 12:15 pm",
       "event_time_raw": 1794206700000,
@@ -1140,7 +1085,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "8",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
