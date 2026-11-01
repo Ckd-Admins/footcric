@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T19:11:14+05:30",
-  "generated_at_india": "01-11-2026 07:11:14 PM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-11-01T19:58:10+05:30",
+  "generated_at_india": "01-11-2026 07:58:10 PM IST",
+  "total": 26,
+  "ok": 26,
   "failed": 0,
   "events": [
     {
@@ -250,52 +250,6 @@
       ]
     },
     {
-      "event_id": "25",
-      "event_title": "Serie A - Como vs Venezia",
-      "event_time": "01 Nov, 05:00 pm",
-      "event_time_raw": 1793532600000,
-      "category": "Football",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "COVEPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wwmbmktacw/out/v1/c6b561b85d374da4a9bcf42de192bf99/cenc.mpd?aws_sessionId=9c9fa417-eb7a-47ad-8343-5504e944771c",
-          "drm": {
-            "kid": "9afba5a3c123b275d1ecbdcb7002e530",
-            "key": "fb47476d2e7ec4cc7987261088b555e8"
-          }
-        },
-        {
-          "code": "COVEBEIN",
-          "title": "beIN SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "COVEFUBO",
-          "title": "FUBO SPORTS FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cj9ylmqsf0/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/cenc.mpd?aws_sessionId=47d1cddf-795e-45c4-b031-266761b8e28c",
-          "drm": {
-            "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
-            "key": "3e7d40c4b2ca331fe48bd65acae439d7"
-          }
-        },
-        {
-          "code": "COVESPOR",
-          "title": "SPORT 1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "6",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "01 Nov, 05:30 pm",
@@ -410,12 +364,58 @@
     },
     {
       "event_id": "24",
-      "event_title": "Serie A - Lazio vs Cagliari",
+      "event_title": "Serie A - Frosinone vs Torino",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
       "category": "Football",
       "stream_count": 2,
       "streams": [
+        {
+          "code": "FRTOPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z7k5coaglr/out/v1/f798f09d4b6b44de82700e47ff0207f6/cenc.mpd?aws_sessionId=d30fa58d-89fd-47ee-9f14-3bb210aa2b9e",
+          "drm": {
+            "kid": "f905d936f4562b52ee955d3ff3dcd06c",
+            "key": "65f555c4104074c2f2d2fe7a9f685ed5"
+          }
+        },
+        {
+          "code": "FRTOFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd?aws_sessionId=882cb45b-b0fd-4d57-999a-97cbc604a9b0",
+          "drm": {
+            "kid": "e09a0900100e5ac77d4adb45a602a86b",
+            "key": "7da511a38053d3e150d38f47ac7d8298"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "25",
+      "event_title": "Serie A - Lazio vs Cagliari",
+      "event_time": "01 Nov, 07:30 pm",
+      "event_time_raw": 1793541600000,
+      "category": "Football",
+      "stream_count": 5,
+      "streams": [
+        {
+          "code": "LACAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sg26hcq4jb/out/v1/cbefa7d3aa044a42b3fbb2d9f0ed8771/cenc.mpd?aws_sessionId=6f72bd41-cc05-4448-bdc8-0110b089a955",
+          "drm": {
+            "kid": "65bf781cc51efe95158616c012821dee",
+            "key": "1fdadf8f65dc2dee9de4bd299a219263"
+          }
+        },
+        {
+          "code": "LACAFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fm0tdlxrfq/out/v1/ee234bf8b2854366834b938725860805/cenc.mpd?aws_sessionId=e9687835-fab1-4436-a8d9-38800aa116ef",
+          "drm": {
+            "kid": "4d6c44925ac7c05add19ac2365681e5b",
+            "key": "09602294e18cd9c2aa9843fe0fdbc160"
+          }
+        },
         {
           "code": "LACABEIN",
           "title": "beIN SPORTS FHD",
@@ -423,6 +423,15 @@
           "drm": {
             "kid": "0b42be2664d7e811d04f3e504e0924c5",
             "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        },
+        {
+          "code": "LACAPEAC",
+          "title": "PEACOCK TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/skya9pomml/out/v1/87d1db196d8b4b2eb491cd402196f999/cenc.mpd",
+          "drm": {
+            "kid": "65bf781cc51efe95158616c012821dee",
+            "key": "1fdadf8f65dc2dee9de4bd299a219263"
           }
         },
         {
@@ -437,20 +446,48 @@
       ]
     },
     {
+      "event_id": "26",
+      "event_title": "Ligue 1 - RC Strasbourg vs Auxerre",
+      "event_time": "01 Nov, 07:30 pm",
+      "event_time_raw": 1793541600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "RCAUBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "drm": {
+            "kid": "74cbe15488783fab07ff8c702fabafcd",
+            "key": "bb607803a49c2d6104f845e7886c971c"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "12",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
       "category": "Cricket",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "AFZIWILL",
           "title": "WILLOW - AQ",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1ezgg5lj3v/out/v1/e6092692ffac4419aab30cecd66d3470/cenc.mpd",
           "drm": {
-            "kid": "85e95a4fae22e02459252a03faaf3166",
-            "key": "29334fa5e1d5708ed994f8bf74687933"
+            "kid": "468c69668fb1f8433921d80485af81dc",
+            "key": "fdc96b10b6e9cdcc3c5904afb6bff82d"
+          }
+        },
+        {
+          "code": "AFZIFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]
