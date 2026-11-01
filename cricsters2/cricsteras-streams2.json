@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T01:50:14+05:30",
-  "generated_at_india": "02-11-2026 01:50:14 AM IST",
-  "total": 36,
-  "ok": 36,
+  "generated_at": "2026-11-02T02:53:42+05:30",
+  "generated_at_india": "02-11-2026 02:53:42 AM IST",
+  "total": 37,
+  "ok": 37,
   "failed": 0,
   "events": [
     {
@@ -355,6 +355,43 @@
           "drm": {
             "kid": "85f340146e46533b39d1415d90746352",
             "key": "448aafcc613ddfd448f14d9275eda19b"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50042,
+      "event_title": "Miami Dolphins vs New England Patriots",
+      "event_time": "2026-11-01 21:25",
+      "event_time_raw": "2026-11-01 21:25",
+      "category": "NFL",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "MINETSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm": {
+            "kid": "14eeabf30c14b7fbf3008c03099ce011",
+            "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          }
+        },
+        {
+          "code": "MINETSN4",
+          "title": "TSN4 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "drm": {
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
+          }
+        },
+        {
+          "code": "MINESPOR",
+          "title": "SporTV BR FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+          "drm": {
+            "kid": "9009b7189e3e68cc09d17811f2beb55a",
+            "key": "dd3f96a94c909da48ff40c92aabf8cf3"
           }
         }
       ]
