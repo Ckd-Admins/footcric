@@ -2,10 +2,18 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T02:56:56+05:30",
-  "generated_at_india": "02-11-2026 02:56:56 AM IST",
-  "total": 30,
+  "generated_at": "2026-11-02T03:56:31+05:30",
+  "generated_at_india": "02-11-2026 03:56:31 AM IST",
+  "total": 31,
   "events": [
+    {
+      "event_id": "31",
+      "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
+      "event_time": "01 Nov, 07:53 am",
+      "event_time_raw": 1793499780000,
+      "category": "Football",
+      "stream_count": 1
+    },
     {
       "event_id": "8",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
@@ -47,7 +55,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "23",
+      "event_id": "21",
       "event_title": "NFL - Pittsburgh Steelers vs Cleveland Browns",
       "event_time": "01 Nov, 11:30 pm",
       "event_time_raw": 1793556000000,
@@ -55,7 +63,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "24",
+      "event_id": "22",
       "event_title": "NFL - Cincinnati Bengals vs Tennessee Titans",
       "event_time": "01 Nov, 11:30 pm",
       "event_time_raw": 1793556000000,
@@ -63,7 +71,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "NFL - Buffalo Bills vs Baltimore Ravens",
       "event_time": "01 Nov, 11:30 pm",
       "event_time_raw": 1793556000000,
@@ -71,7 +79,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "26",
+      "event_id": "25",
       "event_title": "NFL - Detroit Lions vs Minnesota Vikings",
       "event_time": "01 Nov, 11:30 pm",
       "event_time_raw": 1793556000000,
@@ -79,7 +87,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "28",
+      "event_id": "27",
       "event_title": "NFL - Dallas Cowboys vs Arizona Cardinals",
       "event_time": "01 Nov, 11:30 pm",
       "event_time_raw": 1793556000000,
@@ -87,7 +95,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "29",
+      "event_id": "28",
       "event_title": "NFL - Jacksonville Jaguars vs Indianapolis Colts",
       "event_time": "01 Nov, 11:30 pm",
       "event_time_raw": 1793556000000,
@@ -95,7 +103,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "30",
+      "event_id": "29",
       "event_title": "NFL - New York Jets vs Las Vegas Raiders",
       "event_time": "01 Nov, 11:30 pm",
       "event_time_raw": 1793556000000,
@@ -103,28 +111,20 @@
       "stream_count": 2
     },
     {
-      "event_id": "19",
+      "event_id": "30",
+      "event_title": "NFL - Tampa Bay Buccaneers vs Atlanta Falcons",
+      "event_time": "01 Nov, 11:30 pm",
+      "event_time_raw": 1793556000000,
+      "category": "American football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "18",
       "event_title": "Canadian Premier League - Atlético Ottawa vs Forge FC",
       "event_time": "02 Nov, 12:30 am",
       "event_time_raw": 1793559600000,
       "category": "Football",
       "stream_count": 1
-    },
-    {
-      "event_id": "18",
-      "event_title": "Serie A - Juventus vs SSC Napoli",
-      "event_time": "02 Nov, 01:15 am",
-      "event_time_raw": 1793562300000,
-      "category": "Football",
-      "stream_count": 5
-    },
-    {
-      "event_id": "22",
-      "event_title": "Ligue 1 - Olympique de Marseille vs Toulouse",
-      "event_time": "02 Nov, 01:15 am",
-      "event_time_raw": 1793562300000,
-      "category": "Football",
-      "stream_count": 2
     },
     {
       "event_id": "2",
@@ -151,7 +151,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "Liga Portugal Betclic - Sporting Braga vs Famalicão",
       "event_time": "02 Nov, 02:00 am",
       "event_time_raw": 1793565000000,
@@ -159,7 +159,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "Canadian Premier League - FC Supra Du Quebec vs Cavalry FC",
       "event_time": "02 Nov, 02:30 am",
       "event_time_raw": 1793566800000,
@@ -167,7 +167,15 @@
       "stream_count": 1
     },
     {
-      "event_id": "27",
+      "event_id": "23",
+      "event_title": "NFL - Miami Dolphins vs New England Patriots",
+      "event_time": "02 Nov, 02:55 am",
+      "event_time_raw": 1793568300000,
+      "category": "American football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "26",
       "event_title": "NFL - Washington Commanders vs Philadelphia Eagles",
       "event_time": "02 Nov, 06:50 am",
       "event_time_raw": 1793582400000,
