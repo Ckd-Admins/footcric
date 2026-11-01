@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T10:08:47+05:30",
-  "generated_at_india": "01-11-2026 10:08:47 AM IST",
-  "total": 27,
-  "ok": 27,
+  "generated_at": "2026-11-01T11:02:16+05:30",
+  "generated_at_india": "01-11-2026 11:02:16 AM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -287,8 +287,8 @@
     {
       "event_id": 50009,
       "event_title": "ONE Friday Fights",
-      "event_time": "2026-10-30 12:30",
-      "event_time_raw": "2026-10-30 12:30",
+      "event_time": "2026-11-06 12:30",
+      "event_time_raw": "2026-11-06 12:30",
       "category": "Boxing",
       "stream_count": 3,
       "streams": [
@@ -324,8 +324,8 @@
     {
       "event_id": 50011,
       "event_title": "🥊 WWE Friday Night SmackDown",
-      "event_time": "2026-10-31 00:00",
-      "event_time_raw": "2026-10-31 00:00",
+      "event_time": "2026-11-07 00:00",
+      "event_time_raw": "2026-11-07 00:00",
       "category": "WWE",
       "stream_count": 1,
       "streams": [
@@ -341,136 +341,6 @@
       ]
     },
     {
-      "event_id": 50012,
-      "event_title": "Pakistan vs Sri Lanka",
-      "event_time": "2026-10-31 08:00",
-      "event_time_raw": "2026-10-31 08:00",
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "PASRWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
-          "drm": {
-            "kid": "a323fd2c6886dfea4831314fd63c4eb7",
-            "key": "462c6dd2b56c26e958f5981fea25aef4"
-          }
-        },
-        {
-          "code": "PASRWILLU3",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
-          "drm": {
-            "kid": "a323fd2c6886dfea4831314fd63c4eb7",
-            "key": "462c6dd2b56c26e958f5981fea25aef4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50027,
-      "event_title": "Golden State Valkyries vs Atlanta Dream",
-      "event_time": "2026-11-01 00:00",
-      "event_time_raw": "2026-11-01 00:00",
-      "category": "WNBA",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "GOATTSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm": {
-            "kid": "14eeabf30c14b7fbf3008c03099ce011",
-            "key": "17d2ac8dbc5429bd70af3433aa12158d"
-          }
-        },
-        {
-          "code": "GOATTSN5",
-          "title": "TSN5 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50054,
-      "event_title": "BC Lions vs Saskatchewan Roughriders",
-      "event_time": "2026-10-31 20:30",
-      "event_time_raw": "2026-10-31 20:30",
-      "category": "CFL",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "BCSATSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm": {
-            "kid": "14eeabf30c14b7fbf3008c03099ce011",
-            "key": "17d2ac8dbc5429bd70af3433aa12158d"
-          }
-        },
-        {
-          "code": "BCSATSN4",
-          "title": "TSN4 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50062,
-      "event_title": "South Africa vs Australia",
-      "event_time": "2026-10-31 08:30",
-      "event_time_raw": "2026-10-31 08:30",
-      "category": "Cricket",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "SOAUWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/muuiy51nil/out/v1/a441f3a044df462e89583d61af8fdd47/cenc.mpd",
-          "drm": {
-            "kid": "055e7d596817187feb6148156f166cd4",
-            "key": "d2f924558033464139e9367ffe346149"
-          }
-        },
-        {
-          "code": "SOAUFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "SOAUWILLN0",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/muuiy51nil/out/v1/a441f3a044df462e89583d61af8fdd47/cenc.mpd",
-          "drm": {
-            "kid": "055e7d596817187feb6148156f166cd4",
-            "key": "d2f924558033464139e9367ffe346149"
-          }
-        },
-        {
-          "code": "SOAUFANCPH",
-          "title": "FANCODE - SD",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "drm": {
-            "kid": "286eb7dc538143790fa9913639531920",
-            "key": "e3f5cb08d14d9e9c08438c673819540f"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
       "event_time": "2026-11-01 04:40",
@@ -480,20 +350,20 @@
       "streams": [
         {
           "code": "WOMEWILL",
-          "title": "WILLOW - HD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gog1xdwuxy/out/v1/cce434bb1b314fce9867a98d8c323a56/cenc.mpd",
           "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
+            "kid": "b22b486d9a7cdab18642ad31a3ac164a",
+            "key": "554e2e626bde78f8babcb7faaf11f872"
           }
         },
         {
-          "code": "WOMEWILLXJ",
+          "code": "WOMEWILLBM",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gog1xdwuxy/out/v1/cce434bb1b314fce9867a98d8c323a56/cenc.mpd",
           "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
+            "kid": "b22b486d9a7cdab18642ad31a3ac164a",
+            "key": "554e2e626bde78f8babcb7faaf11f872"
           }
         },
         {
