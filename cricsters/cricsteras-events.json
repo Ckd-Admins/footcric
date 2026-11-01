@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T11:07:22+05:30",
-  "generated_at_india": "01-11-2026 11:07:22 AM IST",
-  "total": 26,
+  "generated_at": "2026-11-01T12:12:03+05:30",
+  "generated_at_india": "01-11-2026 00:12:03 PM IST",
+  "total": 27,
   "events": [
     {
       "event_id": "5",
@@ -37,22 +37,6 @@
       "event_time_raw": 1792947600000,
       "category": "Darts",
       "stream_count": 1
-    },
-    {
-      "event_id": "13",
-      "event_title": "MotoGP - MotoGP vs MotoGP",
-      "event_time": "31 Oct, 07:30 am",
-      "event_time_raw": 1793412000000,
-      "category": "Motorsport",
-      "stream_count": 5
-    },
-    {
-      "event_id": "2",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "31 Oct, 05:00 pm",
-      "event_time_raw": 1793446200000,
-      "category": "Snooker",
-      "stream_count": 3
     },
     {
       "event_id": "3",
@@ -103,20 +87,12 @@
       "stream_count": 1
     },
     {
-      "event_id": "26",
+      "event_id": "27",
       "event_title": "NBA - Houston Rockets vs Oklahoma City Thunder",
       "event_time": "01 Nov, 06:00 am",
       "event_time_raw": 1793493000000,
       "category": "Basketball",
       "stream_count": 1
-    },
-    {
-      "event_id": "1",
-      "event_title": "Hong Kong Super 6 | HK SUPER 6 - HK SUPER 6 vs HK SUPER 6",
-      "event_time": "01 Nov, 07:15 am",
-      "event_time_raw": 1793497500000,
-      "category": "Cricket",
-      "stream_count": 3
     },
     {
       "event_id": "11",
@@ -131,6 +107,38 @@
       "event_title": "World Cup, Women - Australia vs Wales",
       "event_time": "01 Nov, 10:10 am",
       "event_time_raw": 1793508000000,
+      "category": "Rugby",
+      "stream_count": 1
+    },
+    {
+      "event_id": "13",
+      "event_title": "MotoGP - MotoGP vs MotoGP",
+      "event_time": "01 Nov, 11:00 am",
+      "event_time_raw": 1793511000000,
+      "category": "Motorsport",
+      "stream_count": 5
+    },
+    {
+      "event_id": "1",
+      "event_title": "Hong Kong Super 6 | Plate Final - Pakistan vs Oman",
+      "event_time": "01 Nov, 11:15 am",
+      "event_time_raw": 1793511900000,
+      "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": "2",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "01 Nov, 11:30 am",
+      "event_time_raw": 1793512800000,
+      "category": "Snooker",
+      "stream_count": 3
+    },
+    {
+      "event_id": "26",
+      "event_title": "World Cup - Lebanon vs France",
+      "event_time": "01 Nov, 12:10 pm",
+      "event_time_raw": 1793515200000,
       "category": "Rugby",
       "stream_count": 1
     },
