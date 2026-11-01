@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T19:08:20+05:30",
-  "generated_at_india": "01-11-2026 07:08:20 PM IST",
-  "total": 29,
+  "generated_at": "2026-11-01T19:55:08+05:30",
+  "generated_at_india": "01-11-2026 07:55:08 PM IST",
+  "total": 30,
   "events": [
     {
       "event_id": 50002,
@@ -44,7 +44,7 @@
       "event_time": "2026-11-01 14:30",
       "event_time_raw": "2026-11-01 14:30",
       "category": "Cricket",
-      "stream_count": 3
+      "stream_count": 4
     },
     {
       "event_id": 50008,
@@ -164,6 +164,14 @@
       "event_time": "2026-11-01 14:00",
       "event_time_raw": "2026-11-01 14:00",
       "category": "Serie A 🇮🇹",
+      "stream_count": 5
+    },
+    {
+      "event_id": 50099,
+      "event_title": "Frosinone vs Torino",
+      "event_time": "2026-11-01 14:00",
+      "event_time_raw": "2026-11-01 14:00",
+      "category": "Serie A 🇮🇹",
       "stream_count": 2
     },
     {
@@ -233,8 +241,8 @@
     {
       "event_id": 50132,
       "event_title": "Indian Super League",
-      "event_time": "2026-11-01 11:30",
-      "event_time_raw": "2026-11-01 11:30",
+      "event_time": "2026-11-01 14:00",
+      "event_time_raw": "2026-11-01 14:00",
       "category": "ISL",
       "stream_count": 1
     }
