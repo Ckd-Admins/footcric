@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T16:52:11+05:30",
-  "generated_at_india": "01-11-2026 04:52:11 PM IST",
-  "total": 26,
-  "ok": 26,
+  "generated_at": "2026-11-01T17:59:00+05:30",
+  "generated_at_india": "01-11-2026 05:59:00 PM IST",
+  "total": 27,
+  "ok": 27,
   "failed": 0,
   "events": [
     {
@@ -371,8 +371,8 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-01 04:40",
-      "event_time_raw": "2026-11-01 04:40",
+      "event_time": "2026-11-02 08:10",
+      "event_time_raw": "2026-11-02 08:10",
       "category": "WBBL",
       "stream_count": 3,
       "streams": [
@@ -727,8 +727,26 @@
       "event_time": "2026-11-01 11:30",
       "event_time_raw": "2026-11-01 11:30",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2,
+      "stream_count": 4,
       "streams": [
+        {
+          "code": "COVEPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wwmbmktacw/out/v1/c6b561b85d374da4a9bcf42de192bf99/cenc.mpd?aws_sessionId=9c9fa417-eb7a-47ad-8343-5504e944771c",
+          "drm": {
+            "kid": "9afba5a3c123b275d1ecbdcb7002e530",
+            "key": "fb47476d2e7ec4cc7987261088b555e8"
+          }
+        },
+        {
+          "code": "COVEFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cj9ylmqsf0/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/cenc.mpd?aws_sessionId=47d1cddf-795e-45c4-b031-266761b8e28c",
+          "drm": {
+            "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
+            "key": "3e7d40c4b2ca331fe48bd65acae439d7"
+          }
+        },
         {
           "code": "COVEBEIN",
           "title": "beIN ENGLISH FHD",
@@ -849,6 +867,25 @@
           "drm": {
             "kid": "0ad4080cdff8c60b1233b22087f0b340",
             "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50132,
+      "event_title": "Indian Super League",
+      "event_time": "2026-11-01 11:30",
+      "event_time_raw": "2026-11-01 11:30",
+      "category": "ISL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "INDIPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wyy9kwu5ej/out/v1/5e9aee810f8944ecaca949b77dc8add1/cenc.mpd",
+          "drm": {
+            "kid": "da1e5d08adf948ea4d58b42dc350af37",
+            "key": "c08f92ace66a2b8547b64efefba10a3f"
           }
         }
       ]
