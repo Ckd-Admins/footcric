@@ -2,12 +2,12 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T21:57:51+05:30",
-  "generated_at_india": "01-11-2026 09:57:51 PM IST",
-  "total": 31,
+  "generated_at": "2026-11-01T22:54:28+05:30",
+  "generated_at_india": "01-11-2026 10:54:28 PM IST",
+  "total": 33,
   "events": [
     {
-      "event_id": "9",
+      "event_id": "10",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "01 Nov, 08:30 am",
       "event_time_raw": 1793502000000,
@@ -15,7 +15,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "18",
+      "event_id": "20",
       "event_title": "Women's Big Bash League - Sydney Sixers Women vs Hobart Hurricanes Women",
       "event_time": "01 Nov, 01:40 pm",
       "event_time_raw": 1793520600000,
@@ -23,7 +23,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "17",
+      "event_id": "19",
       "event_title": "World Cup - Tonga vs Samoa",
       "event_time": "01 Nov, 02:35 pm",
       "event_time_raw": 1793523900000,
@@ -31,15 +31,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "10",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "01 Nov, 04:45 pm",
-      "event_time_raw": 1793531700000,
-      "category": "Cricket",
-      "stream_count": 1
-    },
-    {
-      "event_id": "2",
+      "event_id": "3",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "01 Nov, 05:00 pm",
       "event_time_raw": 1793532600000,
@@ -47,7 +39,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "7",
+      "event_id": "8",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "01 Nov, 05:30 pm",
       "event_time_raw": 1793534400000,
@@ -55,7 +47,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "11",
+      "event_id": "13",
       "event_title": "Women's Super League - Arsenal vs Aston Villa",
       "event_time": "01 Nov, 05:30 pm",
       "event_time_raw": 1793534400000,
@@ -63,7 +55,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "12",
+      "event_id": "14",
       "event_title": "Women's Super League - London City Lionesses vs Manchester City",
       "event_time": "01 Nov, 05:30 pm",
       "event_time_raw": 1793534400000,
@@ -71,7 +63,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "Serie A - Frosinone vs Torino",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -79,7 +71,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "25",
+      "event_id": "26",
       "event_title": "Serie A - Lazio vs Cagliari",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -87,7 +79,7 @@
       "stream_count": 5
     },
     {
-      "event_id": "31",
+      "event_id": "32",
       "event_title": "Ligue 1 - RC Strasbourg vs Auxerre",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -95,7 +87,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "13",
+      "event_id": "15",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -103,15 +95,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "28",
-      "event_title": "Bundesliga - 1. FC Union Berlin vs 1. FC Köln",
-      "event_time": "01 Nov, 08:00 pm",
-      "event_time_raw": 1793543400000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "1",
+      "event_id": "2",
       "event_title": "LaLiga - Real Racing Club vs Real Madrid",
       "event_time": "01 Nov, 08:45 pm",
       "event_time_raw": 1793546100000,
@@ -119,15 +103,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "23",
-      "event_title": "LaLiga 2 - AD Ceuta vs Sporting Gijón",
-      "event_time": "01 Nov, 08:45 pm",
-      "event_time_raw": 1793546100000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "29",
+      "event_id": "30",
       "event_title": "Ligue 1 - Paris FC vs AS Monaco",
       "event_time": "01 Nov, 09:45 pm",
       "event_time_raw": 1793549700000,
@@ -135,7 +111,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "30",
+      "event_id": "31",
       "event_title": "Ligue 1 - Olympique Lyonnais vs Angers",
       "event_time": "01 Nov, 09:45 pm",
       "event_time_raw": 1793549700000,
@@ -143,23 +119,31 @@
       "stream_count": 1
     },
     {
-      "event_id": "20",
+      "event_id": "1",
       "event_title": "Premier League - Liverpool FC vs Arsenal",
+      "event_time": "01 Nov, 10:00 pm",
+      "event_time_raw": 1793550600000,
+      "category": "Football",
+      "stream_count": 4
+    },
+    {
+      "event_id": "29",
+      "event_title": "Bundesliga - Eintracht Frankfurt vs Hamburger SV",
       "event_time": "01 Nov, 10:00 pm",
       "event_time_raw": 1793550600000,
       "category": "Football",
       "stream_count": 2
     },
     {
-      "event_id": "27",
+      "event_id": "28",
       "event_title": "Serie A - Lecce vs Genoa",
       "event_time": "01 Nov, 10:30 pm",
       "event_time_raw": 1793552400000,
       "category": "Football",
-      "stream_count": 2
+      "stream_count": 5
     },
     {
-      "event_id": "21",
+      "event_id": "22",
       "event_title": "LaLiga - Elche vs Valencia",
       "event_time": "01 Nov, 11:00 pm",
       "event_time_raw": 1793554200000,
@@ -167,7 +151,23 @@
       "stream_count": 3
     },
     {
-      "event_id": "26",
+      "event_id": "24",
+      "event_title": "LaLiga 2 - Burgos Club de Fútbol vs CD Castellón",
+      "event_time": "01 Nov, 11:00 pm",
+      "event_time_raw": 1793554200000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "11",
+      "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
+      "event_time": "01 Nov, 11:15 pm",
+      "event_time_raw": 1793555100000,
+      "category": "American football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "27",
       "event_title": "Serie A - Juventus vs SSC Napoli",
       "event_time": "02 Nov, 01:15 am",
       "event_time_raw": 1793562300000,
@@ -175,7 +175,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "3",
+      "event_id": "4",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
@@ -183,7 +183,7 @@
       "stream_count": 7
     },
     {
-      "event_id": "22",
+      "event_id": "23",
       "event_title": "LaLiga - Athletic Club vs Real Sociedad",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
@@ -191,7 +191,15 @@
       "stream_count": 4
     },
     {
-      "event_id": "19",
+      "event_id": "33",
+      "event_title": "Liga Portugal Betclic - Sporting Braga vs Famalicão",
+      "event_time": "02 Nov, 02:00 am",
+      "event_time_raw": 1793565000000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "21",
       "event_title": "Women's Big Bash League - Melbourne Stars Women vs Perth Scorchers Women",
       "event_time": "02 Nov, 01:40 pm",
       "event_time_raw": 1793607000000,
@@ -199,7 +207,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "14",
+      "event_id": "16",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "04 Nov, 07:30 am",
       "event_time_raw": 1793757600000,
@@ -207,7 +215,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "4",
+      "event_id": "5",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -215,7 +223,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "15",
+      "event_id": "17",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "05 Nov, 09:00 am",
       "event_time_raw": 1793849400000,
@@ -223,7 +231,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "5",
+      "event_id": "6",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -231,7 +239,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "16",
+      "event_id": "18",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -239,7 +247,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "6",
+      "event_id": "7",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -247,7 +255,15 @@
       "stream_count": 1
     },
     {
-      "event_id": "8",
+      "event_id": "12",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "09 Nov, 12:15 pm",
+      "event_time_raw": 1794206700000,
+      "category": "Cricket",
+      "stream_count": 1
+    },
+    {
+      "event_id": "9",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
