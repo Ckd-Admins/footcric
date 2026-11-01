@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T22:54:28+05:30",
-  "generated_at_india": "01-11-2026 10:54:28 PM IST",
-  "total": 33,
-  "ok": 33,
+  "generated_at": "2026-11-01T23:59:30+05:30",
+  "generated_at_india": "01-11-2026 11:59:30 PM IST",
+  "total": 34,
+  "ok": 34,
   "failed": 0,
   "events": [
     {
@@ -56,7 +56,7 @@
         {
           "code": "SYHOWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vqu1w8f6e7/out/v1/f7d7ec07c208491681c1b6f68d0e823f/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vqu1w8f6e7/out/v1/f7d7ec07c208491681c1b6f68d0e823f/cenc.mpd",
           "drm": {
             "kid": "a59f28b25431a5ab1091707c14e6e5b5",
             "key": "0e2b44300a38bd47fbb02e9c687aa2c8"
@@ -659,6 +659,25 @@
       ]
     },
     {
+      "event_id": "33",
+      "event_title": "Canadian Premier League - Atlético Ottawa vs Forge FC",
+      "event_time": "02 Nov, 12:30 am",
+      "event_time_raw": 1793559600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ATFOTSNS",
+          "title": "TSN SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "drm": {
+            "kid": "85b277daf5aae05833fe43a68f587968",
+            "key": "d52d7e9bc0bcd98787efd547ac91eca0"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "27",
       "event_title": "Serie A - Juventus vs SSC Napoli",
       "event_time": "02 Nov, 01:15 am",
@@ -815,7 +834,7 @@
       ]
     },
     {
-      "event_id": "33",
+      "event_id": "34",
       "event_title": "Liga Portugal Betclic - Sporting Braga vs Famalicão",
       "event_time": "02 Nov, 02:00 am",
       "event_time_raw": 1793565000000,

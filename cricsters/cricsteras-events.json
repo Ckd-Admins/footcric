@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T22:54:28+05:30",
-  "generated_at_india": "01-11-2026 10:54:28 PM IST",
-  "total": 33,
+  "generated_at": "2026-11-01T23:59:30+05:30",
+  "generated_at_india": "01-11-2026 11:59:30 PM IST",
+  "total": 34,
   "events": [
     {
       "event_id": "10",
@@ -167,6 +167,14 @@
       "stream_count": 1
     },
     {
+      "event_id": "33",
+      "event_title": "Canadian Premier League - Atlético Ottawa vs Forge FC",
+      "event_time": "02 Nov, 12:30 am",
+      "event_time_raw": 1793559600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
       "event_id": "27",
       "event_title": "Serie A - Juventus vs SSC Napoli",
       "event_time": "02 Nov, 01:15 am",
@@ -191,7 +199,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "33",
+      "event_id": "34",
       "event_title": "Liga Portugal Betclic - Sporting Braga vs Famalicão",
       "event_time": "02 Nov, 02:00 am",
       "event_time_raw": 1793565000000,
