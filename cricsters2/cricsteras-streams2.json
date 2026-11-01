@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T23:55:01+05:30",
-  "generated_at_india": "01-11-2026 11:55:01 PM IST",
-  "total": 36,
-  "ok": 36,
+  "generated_at": "2026-11-02T00:57:32+05:30",
+  "generated_at_india": "02-11-2026 00:57:32 AM IST",
+  "total": 37,
+  "ok": 37,
   "failed": 0,
   "events": [
     {
@@ -505,8 +505,17 @@
       "event_time": "2026-11-01 19:45",
       "event_time_raw": "2026-11-01 19:45",
       "category": "Ligue 1 🇫🇷",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "OLTOBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xuvcbrlxmb/out/v1/27aac1f9df984d65a9d4b95d234f4468/cenc.mpd",
+          "drm": {
+            "kid": "74cbe15488783fab07ff8c702fabafcd",
+            "key": "bb607803a49c2d6104f845e7886c971c"
+          }
+        },
         {
           "code": "OLTOCAZE",
           "title": "CAZE TV FHD",
@@ -943,6 +952,25 @@
           "drm": {
             "kid": "a88617e904504ee291f49f0e60a51d49",
             "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50126,
+      "event_title": "Buffalo Bills vs Baltimore Ravens",
+      "event_time": "2026-11-01 18:00",
+      "event_time_raw": "2026-11-01 18:00",
+      "category": "NFL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BUBAFOXN",
+          "title": "FOX NFL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9zbuwaf704/out/v1/95215fbfc2814d158ca3c372e074916a/cenc.mpd",
+          "drm": {
+            "kid": "95147e474b7ecc824abf98e3d40bac25",
+            "key": "230961bfc7705f391eb38605b634ea1f"
           }
         }
       ]
