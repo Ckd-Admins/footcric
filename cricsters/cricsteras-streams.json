@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T12:12:03+05:30",
-  "generated_at_india": "01-11-2026 00:12:03 PM IST",
+  "generated_at": "2026-11-01T13:19:04+05:30",
+  "generated_at_india": "01-11-2026 01:19:04 PM IST",
   "total": 27,
   "ok": 27,
   "failed": 0,
   "events": [
     {
-      "event_id": "5",
+      "event_id": "6",
       "event_title": "Tour De France - Tour De France vs Tour De France",
       "event_time": "22 Oct, 02:30 pm",
       "event_time_raw": 1792659600000,
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "13",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "22 Oct, 10:00 pm",
       "event_time_raw": 1792686600000,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "15",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "25 Oct, 10:15 pm",
       "event_time_raw": 1792946700000,
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "8",
       "event_title": "EUROPEAN Championship - Darts vs Darts",
       "event_time": "25 Oct, 10:30 pm",
       "event_time_raw": 1792947600000,
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "4",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "31 Oct, 11:00 pm",
       "event_time_raw": 1793467800000,
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "Campeonato Brasileiro Série A - Coritiba vs Vitória",
       "event_time": "01 Nov, 12:30 am",
       "event_time_raw": 1793473200000,
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "VriendenLoterij Eredivisie - AFC Ajax vs AZ Alkmaar",
       "event_time": "01 Nov, 01:30 am",
       "event_time_raw": 1793476800000,
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "LaLiga 2 - Albacete Balompié vs CE Sabadell",
       "event_time": "01 Nov, 01:30 am",
       "event_time_raw": 1793476800000,
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "Liga Portugal Betclic - FC Porto vs Estoril Praia",
       "event_time": "01 Nov, 02:00 am",
       "event_time_raw": 1793478600000,
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "10",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "01 Nov, 04:30 am",
       "event_time_raw": 1793487600000,
@@ -308,7 +308,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "12",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "01 Nov, 08:30 am",
       "event_time_raw": 1793502000000,
@@ -364,7 +364,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "14",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "01 Nov, 11:00 am",
       "event_time_raw": 1793511000000,
@@ -419,8 +419,8 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "Hong Kong Super 6 | Plate Final - Pakistan vs Oman",
+      "event_id": "2",
+      "event_title": "Hong Kong Super 6 | Plate Final - Pakistan vs oman",
       "event_time": "01 Nov, 11:15 am",
       "event_time_raw": 1793511900000,
       "category": "Cricket",
@@ -429,10 +429,10 @@
         {
           "code": "PAOMWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rsn8la3i1v/out/v1/6127bc09ddeb4cc6ac735873fa204916/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nl173vux14/out/v1/d788485d04df4c53961e84d1901390db/cenc.mpd",
           "drm": {
-            "kid": "82616a7d2971c54cf6fe4d98c47b1302",
-            "key": "8f4eee25604fa1c62120971843239d72"
+            "kid": "47882cfe843d91ab3032dfff9fa1b468",
+            "key": "e249d2d8555ba8cc75431a25749e8822"
           }
         },
         {
@@ -447,7 +447,7 @@
         {
           "code": "PAOMPLAY",
           "title": "PLAYZTV - AQ",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793488530~acl=/Content/DASH/LLCU/d8afefb5-b1b2-4e86-b4ee-abeadfa2c2e7/*~data=hdntl~hmac=25e4e74372a22f0f243c41bc56861a328a9649fab140eae125154eeac4bb2ae4/manifest.mpd",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793547241~acl=/variant/v1blackout/vcg-01-d/*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=cd9e30783b77e38efa022ed17340396a125e1d84f27b5a7dceb603f79406fe1c/manifest.mpd?vcfilter=db26b50a-84ed-41ec-b84e-2f6de0599db0",
           "drm": {
             "kid": "39bd302cdeed3710a89fb004d232ab67",
             "key": "9869f804ba18d7e508cbff781829221c"
@@ -456,7 +456,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "3",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "01 Nov, 11:30 am",
       "event_time_raw": 1793512800000,
@@ -512,7 +512,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "16",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "01 Nov, 12:15 pm",
       "event_time_raw": 1793515500000,
@@ -531,65 +531,47 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "1",
       "event_title": "T20 International - New Zealand vs India",
       "event_time": "01 Nov, 12:30 pm",
       "event_time_raw": 1793516400000,
       "category": "Cricket",
-      "stream_count": 6,
+      "stream_count": 4,
       "streams": [
-        {
-          "code": "NEINTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
         {
           "code": "NEINPRIM",
           "title": "PRIME VIDEO - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9z1fajy3r4/out/v1/2e1a478d31fb4c1dbd2e54391b006a35/cenc.mpd",
           "drm": {
-            "kid": "e9b05390d0d8a3766d720cc0dfa9c1c3",
-            "key": "5b371247b3ec6ae9976204359d781e85"
+            "kid": "de23ce5421c57988c1ba1cd8a0d16551",
+            "key": "fb50935ff66bcea5899f989c5bbfd270"
           }
         },
         {
-          "code": "NEINPRIM7B",
+          "code": "NEINPRIMRK",
           "title": "PRIME HINDI - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mohqiz9gyv/out/v1/95de092d1d574891ba87cd37df9c3f2b/cenc.mpd",
           "drm": {
-            "kid": "638eaec11a32364c29f73241769dc3b0",
-            "key": "51ad6ac914e442976749f485354b50fe"
+            "kid": "4d4e8cc811e844075fa97ed19abb1abe",
+            "key": "9bcb83c52597af936e9b3ff8a4dd27e4"
+          }
+        },
+        {
+          "code": "NEINTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm": {
+            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+            "key": "643e5474d9edd87c7d9091c8c97994ca"
           }
         },
         {
           "code": "NEINWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd",
           "drm": {
-            "kid": "7a3f90a5769802036c18de821735b594",
-            "key": "1412cd88540af73b27e45c9982bc9c78"
-          }
-        },
-        {
-          "code": "NEINSONY",
-          "title": "SONYLIV PPV EN - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
-          "drm": {
-            "kid": "e9b05390d0d8a3766d720cc0dfa9c1c3",
-            "key": "5b371247b3ec6ae9976204359d781e85"
-          }
-        },
-        {
-          "code": "NEINWILLF4",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/jorvx5qfk6/out/v1/6dbb07d5c15c4ffb8b51bdcdc0425548/cenc.mpd",
-          "drm": {
-            "kid": "6df39bfdcc3293c5018e97607998cae3",
-            "key": "794ada809851b50c0e8a7568f92971e0"
+            "kid": "2765adbf6880195515fed136e5a989fa",
+            "key": "f1356a68a923c31d7184dfa1b91c161f"
           }
         }
       ]
@@ -631,7 +613,7 @@
           }
         },
         {
-          "code": "NEINPRIM7B2",
+          "code": "NEINPRIM7B",
           "title": "PRIME HINDI - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
           "drm": {
@@ -658,7 +640,7 @@
           }
         },
         {
-          "code": "NEINSONY69",
+          "code": "NEINSONY",
           "title": "SONYLIV PPV EN - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
           "drm": {
@@ -667,7 +649,7 @@
           }
         },
         {
-          "code": "NEINWILLF42",
+          "code": "NEINWILLF4",
           "title": "WILLOW S2 - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/jorvx5qfk6/out/v1/6dbb07d5c15c4ffb8b51bdcdc0425548/cenc.mpd",
           "drm": {
@@ -678,7 +660,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "5",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -743,7 +725,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "7",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -779,7 +761,7 @@
           }
         },
         {
-          "code": "NEINPRIM7B3",
+          "code": "NEINPRIM7B2",
           "title": "PRIME HINDI - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
           "drm": {
@@ -806,7 +788,7 @@
           }
         },
         {
-          "code": "NEINSONY692",
+          "code": "NEINSONY69",
           "title": "SONYLIV PPV EN - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
           "drm": {
@@ -815,7 +797,7 @@
           }
         },
         {
-          "code": "NEINWILLF43",
+          "code": "NEINWILLF42",
           "title": "WILLOW S2 - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/jorvx5qfk6/out/v1/6dbb07d5c15c4ffb8b51bdcdc0425548/cenc.mpd",
           "drm": {
@@ -826,7 +808,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "9",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -845,7 +827,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "11",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
