@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T09:08:05+05:30",
-  "generated_at_india": "01-11-2026 09:08:05 AM IST",
-  "total": 23,
+  "generated_at": "2026-11-01T10:08:47+05:30",
+  "generated_at_india": "01-11-2026 10:08:47 AM IST",
+  "total": 27,
   "events": [
     {
       "event_id": 50002,
@@ -95,14 +95,6 @@
       "stream_count": 2
     },
     {
-      "event_id": 50058,
-      "event_title": "Houston Rockets vs Thunder",
-      "event_time": "2026-11-01 00:30",
-      "event_time_raw": "2026-11-01 00:30",
-      "category": "NBA",
-      "stream_count": 2
-    },
-    {
       "event_id": 50062,
       "event_title": "South Africa vs Australia",
       "event_time": "2026-10-31 08:30",
@@ -113,82 +105,122 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-10-31 08:10",
-      "event_time_raw": "2026-10-31 08:10",
+      "event_time": "2026-11-01 04:40",
+      "event_time_raw": "2026-11-01 04:40",
       "category": "WBBL",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50082,
-      "event_title": "Vancouver Canucks vs Toronto Maple Leafs",
-      "event_time": "2026-10-31 23:00",
-      "event_time_raw": "2026-10-31 23:00",
-      "category": "NHL",
-      "stream_count": 1
+      "stream_count": 3
     },
     {
       "event_id": 50089,
       "event_title": "Hong Kong Sixes",
-      "event_time": "2026-10-31 00:45",
-      "event_time_raw": "2026-10-31 00:45",
+      "event_time": "2026-11-01 03:30",
+      "event_time_raw": "2026-11-01 03:30",
       "category": "Cricket",
-      "stream_count": 2
+      "stream_count": 1
     },
     {
       "event_id": 50090,
-      "event_title": "Aston Villa vs Fulham",
-      "event_time": "2026-10-31 20:00",
-      "event_time_raw": "2026-10-31 20:00",
+      "event_title": "Liverpool FC vs Arsenal",
+      "event_time": "2026-11-01 16:30",
+      "event_time_raw": "2026-11-01 16:30",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 3
+      "stream_count": 1
     },
     {
       "event_id": 50091,
-      "event_title": "Bayern Munchen vs Borussia Dortmund",
-      "event_time": "2026-10-31 17:30",
-      "event_time_raw": "2026-10-31 17:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 5
+      "event_title": "Olympique de Marseille vs Toulouse",
+      "event_time": "2026-11-01 19:45",
+      "event_time_raw": "2026-11-01 19:45",
+      "category": "Ligue 1 🇫🇷",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50092,
+      "event_title": "Juventus vs SSC Napoli",
+      "event_time": "2026-11-01 19:45",
+      "event_time_raw": "2026-11-01 19:45",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50093,
+      "event_title": "Athletic Club vs Real Sociedad",
+      "event_time": "2026-11-01 20:00",
+      "event_time_raw": "2026-11-01 20:00",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 4
     },
     {
       "event_id": 50094,
-      "event_title": "Bangladesh vs West Indies",
-      "event_time": "2026-10-31 03:30",
-      "event_time_raw": "2026-10-31 03:30",
-      "category": "Cricket",
-      "stream_count": 2
+      "event_title": "Elche vs Valencia",
+      "event_time": "2026-11-01 17:30",
+      "event_time_raw": "2026-11-01 17:30",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 3
     },
     {
       "event_id": 50095,
-      "event_title": "Manchester City vs Brighton",
-      "event_time": "2026-10-31 15:00",
-      "event_time_raw": "2026-10-31 15:00",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
+      "event_title": "Real Racing Club vs Real Madrid",
+      "event_time": "2026-11-01 15:15",
+      "event_time_raw": "2026-11-01 15:15",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 5
     },
     {
-      "event_id": 50113,
-      "event_title": "FC Porto vs Estoril Praia",
-      "event_time": "2026-10-31 20:30",
-      "event_time_raw": "2026-10-31 20:30",
-      "category": "Liga Portugal",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50114,
-      "event_title": "AFC Ajax vs AZ Alkmaar",
-      "event_time": "2026-10-31 20:00",
-      "event_time_raw": "2026-10-31 20:00",
-      "category": "Eredivisie",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50127,
-      "event_title": "Rangers vs Aberdeen",
-      "event_time": "2026-10-31 17:30",
-      "event_time_raw": "2026-10-31 17:30",
-      "category": "Scottish Premiership",
+      "event_id": 50096,
+      "event_title": "Getafe vs Sevilla",
+      "event_time": "2026-11-01 13:00",
+      "event_time_raw": "2026-11-01 13:00",
+      "category": "LaLiga 🇪🇸",
       "stream_count": 2
+    },
+    {
+      "event_id": 50097,
+      "event_title": "Lecce vs Genoa",
+      "event_time": "2026-11-01 17:00",
+      "event_time_raw": "2026-11-01 17:00",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50098,
+      "event_title": "Lazio vs Cagliari",
+      "event_time": "2026-11-01 14:00",
+      "event_time_raw": "2026-11-01 14:00",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50100,
+      "event_title": "Como vs Venezia",
+      "event_time": "2026-11-01 11:30",
+      "event_time_raw": "2026-11-01 11:30",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50103,
+      "event_title": "Paris FC vs AS Monaco",
+      "event_time": "2026-11-01 16:15",
+      "event_time_raw": "2026-11-01 16:15",
+      "category": "Ligue 1 🇫🇷",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50104,
+      "event_title": "Olympique Lyonnais vs Angers",
+      "event_time": "2026-11-01 16:15",
+      "event_time_raw": "2026-11-01 16:15",
+      "category": "Ligue 1 🇫🇷",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50105,
+      "event_title": "RC Strasbourg vs Auxerre",
+      "event_time": "2026-11-01 14:00",
+      "event_time_raw": "2026-11-01 14:00",
+      "category": "Ligue 1 🇫🇷",
+      "stream_count": 1
     }
   ],
   "raw_data": ""
