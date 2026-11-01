@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T11:02:16+05:30",
-  "generated_at_india": "01-11-2026 11:02:16 AM IST",
-  "total": 23,
+  "generated_at": "2026-11-01T11:35:07+05:30",
+  "generated_at_india": "01-11-2026 11:35:07 AM IST",
+  "total": 26,
   "events": [
     {
       "event_id": 50002,
@@ -69,6 +69,14 @@
       "event_time_raw": "2026-11-07 00:00",
       "category": "WWE",
       "stream_count": 1
+    },
+    {
+      "event_id": 50013,
+      "event_title": "Washington Commanders vs Philadelphia Eagles",
+      "event_time": "2026-11-02 01:20",
+      "event_time_raw": "2026-11-02 01:20",
+      "category": "NFL",
+      "stream_count": 2
     },
     {
       "event_id": 50070,
@@ -189,6 +197,22 @@
       "event_time_raw": "2026-11-01 14:00",
       "category": "Ligue 1 🇫🇷",
       "stream_count": 1
+    },
+    {
+      "event_id": 50106,
+      "event_title": "Sporting Braga vs Famalicão",
+      "event_time": "2026-11-01 20:30",
+      "event_time_raw": "2026-11-01 20:30",
+      "category": "Liga Portugal",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50118,
+      "event_title": "Falkirk FC vs Celtic",
+      "event_time": "2026-11-01 13:00",
+      "event_time_raw": "2026-11-01 13:00",
+      "category": "Scottish Premiership",
+      "stream_count": 2
     }
   ],
   "raw_data": ""
