@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T17:59:00+05:30",
-  "generated_at_india": "01-11-2026 05:59:00 PM IST",
-  "total": 27,
+  "generated_at": "2026-11-01T19:08:20+05:30",
+  "generated_at_india": "01-11-2026 07:08:20 PM IST",
+  "total": 29,
   "events": [
     {
       "event_id": 50002,
@@ -148,7 +148,7 @@
       "event_time": "2026-11-01 13:00",
       "event_time_raw": "2026-11-01 13:00",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": 50097,
@@ -207,12 +207,28 @@
       "stream_count": 1
     },
     {
+      "event_id": 50115,
+      "event_title": "Trabzonspor vs Gaziantep FK",
+      "event_time": "2026-11-01 13:00",
+      "event_time_raw": "2026-11-01 13:00",
+      "category": "Super Lig",
+      "stream_count": 1
+    },
+    {
       "event_id": 50118,
       "event_title": "Falkirk FC vs Celtic",
       "event_time": "2026-11-01 13:00",
       "event_time_raw": "2026-11-01 13:00",
       "category": "Scottish Premiership",
       "stream_count": 2
+    },
+    {
+      "event_id": 50125,
+      "event_title": "CD Eldense vs Granada",
+      "event_time": "2026-11-01 13:00",
+      "event_time_raw": "2026-11-01 13:00",
+      "category": "LaLiga 2",
+      "stream_count": 1
     },
     {
       "event_id": 50132,

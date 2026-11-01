@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T17:59:00+05:30",
-  "generated_at_india": "01-11-2026 05:59:00 PM IST",
-  "total": 27,
-  "ok": 27,
+  "generated_at": "2026-11-01T19:08:20+05:30",
+  "generated_at_india": "01-11-2026 07:08:20 PM IST",
+  "total": 29,
+  "ok": 29,
   "failed": 0,
   "events": [
     {
@@ -629,10 +629,10 @@
         {
           "code": "RERECAZE",
           "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
           "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
+            "kid": "ba6aca5a550163c38d06646bb50f04e7",
+            "key": "516c3b471fce48a5b7a2e5ee7dd505f2"
           }
         }
       ]
@@ -643,7 +643,7 @@
       "event_time": "2026-11-01 13:00",
       "event_time_raw": "2026-11-01 13:00",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "GESEPREM",
@@ -655,12 +655,21 @@
           }
         },
         {
+          "code": "GESEFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
           "code": "GESECAZE",
           "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
           "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
+            "kid": "ba6aca5a550163c38d06646bb50f04e7",
+            "key": "516c3b471fce48a5b7a2e5ee7dd505f2"
           }
         }
       ]
@@ -844,6 +853,25 @@
       ]
     },
     {
+      "event_id": 50115,
+      "event_title": "Trabzonspor vs Gaziantep FK",
+      "event_time": "2026-11-01 13:00",
+      "event_time_raw": "2026-11-01 13:00",
+      "category": "Super Lig",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "TRGABEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "drm": {
+            "kid": "4fce30c060b7b0464ab765e24fee5ecc",
+            "key": "65d612238736eec3794c7e75a6fd362c"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50118,
       "event_title": "Falkirk FC vs Celtic",
       "event_time": "2026-11-01 13:00",
@@ -867,6 +895,25 @@
           "drm": {
             "kid": "0ad4080cdff8c60b1233b22087f0b340",
             "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50125,
+      "event_title": "CD Eldense vs Granada",
+      "event_time": "2026-11-01 13:00",
+      "event_time_raw": "2026-11-01 13:00",
+      "category": "LaLiga 2",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CDGRLALI",
+          "title": "Laliga Hypermotion ES",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm": {
+            "kid": "a88617e904504ee291f49f0e60a51d49",
+            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
           }
         }
       ]
