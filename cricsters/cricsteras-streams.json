@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T15:59:21+05:30",
-  "generated_at_india": "01-11-2026 03:59:21 PM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-11-01T16:55:15+05:30",
+  "generated_at_india": "01-11-2026 04:55:15 PM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
-      "event_id": "3",
+      "event_id": "2",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "31 Oct, 11:00 pm",
       "event_time_raw": 1793467800000,
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "6",
       "event_title": "Vienna OPEN - ATP vs ATP",
       "event_time": "01 Nov, 04:30 am",
       "event_time_raw": 1793487600000,
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "8",
       "event_title": "Tokyo Open 2026 - WTA vs WTA",
       "event_time": "01 Nov, 08:30 am",
       "event_time_raw": 1793502000000,
@@ -138,62 +138,7 @@
       ]
     },
     {
-      "event_id": "10",
-      "event_title": "MotoGP - MotoGP vs MotoGP",
-      "event_time": "01 Nov, 11:00 am",
-      "event_time_raw": 1793511000000,
-      "category": "Motorsport",
-      "stream_count": 5,
-      "streams": [
-        {
-          "code": "MOMOFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "MOMOTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm": {
-            "kid": "f3df7843080ae743bf865dc5fdf64c68",
-            "key": "567c863bc12eb74788ea74888c042e1b"
-          }
-        },
-        {
-          "code": "MOMOMOTO",
-          "title": "MotoGP - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
-          "drm": {
-            "kid": "e03f302ec4dabcccca82cc9f76731ec9",
-            "key": "53ea1027d2bf2893a552cf15bc0366de"
-          }
-        },
-        {
-          "code": "MOMOAUVI",
-          "title": "AUVIO SPORTS - AQ",
-          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/f16d0e74.isml/.mpd?t=2026-11-01T06:25:00.000",
-          "drm": {
-            "kid": "815f7024454b45d9a34b11523831a300",
-            "key": "6b6af2bcc622c669da7bd342de887a91"
-          }
-        },
-        {
-          "code": "MOMOSPOT",
-          "title": "SPOTV - AQ",
-          "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-          "drm": {
-            "kid": "7eea72d6075245a99ee3255603d58853",
-            "key": "6848ef60575579bf4d415db1032153ed"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "2",
+      "event_id": "1",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "01 Nov, 11:30 am",
       "event_time_raw": 1793512800000,
@@ -230,53 +175,7 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "T20 International - New Zealand vs India",
-      "event_time": "01 Nov, 12:30 pm",
-      "event_time_raw": 1793516400000,
-      "category": "Cricket",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "NEINPRIM",
-          "title": "PRIME VIDEO - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9z1fajy3r4/out/v1/2e1a478d31fb4c1dbd2e54391b006a35/cenc.mpd",
-          "drm": {
-            "kid": "de23ce5421c57988c1ba1cd8a0d16551",
-            "key": "fb50935ff66bcea5899f989c5bbfd270"
-          }
-        },
-        {
-          "code": "NEINPRIMRK",
-          "title": "PRIME HINDI - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mohqiz9gyv/out/v1/95de092d1d574891ba87cd37df9c3f2b/cenc.mpd",
-          "drm": {
-            "kid": "4d4e8cc811e844075fa97ed19abb1abe",
-            "key": "9bcb83c52597af936e9b3ff8a4dd27e4"
-          }
-        },
-        {
-          "code": "NEINTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm": {
-            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-            "key": "643e5474d9edd87c7d9091c8c97994ca"
-          }
-        },
-        {
-          "code": "NEINWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd",
-          "drm": {
-            "kid": "2765adbf6880195515fed136e5a989fa",
-            "key": "f1356a68a923c31d7184dfa1b91c161f"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "19",
+      "event_id": "17",
       "event_title": "One Day International - Namibia vs Ireland",
       "event_time": "01 Nov, 01:00 pm",
       "event_time_raw": 1793518200000,
@@ -286,7 +185,7 @@
         {
           "code": "NAIRSTRE",
           "title": "Stream",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793546432~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=8294877ff21cf29f0cc2c737ab9822da4ef123d0d75cb92de9be4ad88ec64909/manifest.mpd",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793557849~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=0796703fed599f4019275bb0ae61d2d5882469b208f4b7002ebbcfaced1dd7c6/manifest.mpd",
           "drm": {
             "kid": "39bd302cdeed3710a89fb004d232ab67",
             "key": "9869f804ba18d7e508cbff781829221c"
@@ -295,7 +194,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "15",
       "event_title": "Women's Big Bash League - Sydney Sixers Women vs Hobart Hurricanes Women",
       "event_time": "01 Nov, 01:40 pm",
       "event_time_raw": 1793520600000,
@@ -332,7 +231,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "14",
       "event_title": "World Cup - Tonga vs Samoa",
       "event_time": "01 Nov, 02:35 pm",
       "event_time_raw": 1793523900000,
@@ -351,7 +250,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "9",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "01 Nov, 04:45 pm",
       "event_time_raw": 1793531700000,
@@ -370,7 +269,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "20",
       "event_title": "Serie A - Como vs Venezia",
       "event_time": "01 Nov, 05:00 pm",
       "event_time_raw": 1793532600000,
@@ -398,7 +297,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "18",
       "event_title": "LaLiga - Getafe vs Sevilla",
       "event_time": "01 Nov, 06:30 pm",
       "event_time_raw": 1793538000000,
@@ -417,7 +316,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "19",
       "event_title": "Serie A - Lazio vs Cagliari",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -445,7 +344,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "10",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -464,7 +363,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "16",
       "event_title": "Women's Big Bash League - Melbourne Stars Women vs Perth Scorchers Women",
       "event_time": "02 Nov, 01:40 pm",
       "event_time_raw": 1793607000000,
@@ -501,7 +400,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "11",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "04 Nov, 07:30 am",
       "event_time_raw": 1793757600000,
@@ -509,7 +408,7 @@
       "stream_count": 6,
       "streams": [
         {
-          "code": "NEINPRIMTE",
+          "code": "NEINPRIM",
           "title": "PRIME VIDEO - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
           "drm": {
@@ -527,7 +426,7 @@
           }
         },
         {
-          "code": "NEINWILLG2",
+          "code": "NEINWILL",
           "title": "WILLOW - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
           "drm": {
@@ -536,7 +435,7 @@
           }
         },
         {
-          "code": "NEINTNTSI1",
+          "code": "NEINTNTS",
           "title": "TNT SPORTS - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "drm": {
@@ -565,7 +464,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "3",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -602,7 +501,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "12",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "05 Nov, 09:00 am",
       "event_time_raw": 1793849400000,
@@ -630,7 +529,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "4",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -649,7 +548,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "13",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -657,7 +556,7 @@
       "stream_count": 6,
       "streams": [
         {
-          "code": "NEINPRIMTE2",
+          "code": "NEINPRIMTE",
           "title": "PRIME VIDEO - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
           "drm": {
@@ -675,7 +574,7 @@
           }
         },
         {
-          "code": "NEINWILLG22",
+          "code": "NEINWILLG2",
           "title": "WILLOW - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
           "drm": {
@@ -684,7 +583,7 @@
           }
         },
         {
-          "code": "NEINTNTSI12",
+          "code": "NEINTNTSI1",
           "title": "TNT SPORTS - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "drm": {
@@ -713,7 +612,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "5",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -732,7 +631,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "7",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
