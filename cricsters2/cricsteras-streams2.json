@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T12:04:41+05:30",
-  "generated_at_india": "01-11-2026 00:04:41 PM IST",
+  "generated_at": "2026-11-01T13:15:00+05:30",
+  "generated_at_india": "01-11-2026 01:15:00 PM IST",
   "total": 26,
   "ok": 26,
   "failed": 0,
@@ -240,10 +240,10 @@
         {
           "code": "NEINWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yt02ubg0fp/out/v1/23b293bd314742c98b5da8fb03089f0d/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd",
           "drm": {
-            "kid": "af79b819ec8ed7b81d102fdbe1ab82a2",
-            "key": "1797b0e1d4491ff81aa11743cc9ffc09"
+            "kid": "2765adbf6880195515fed136e5a989fa",
+            "key": "f1356a68a923c31d7184dfa1b91c161f"
           }
         },
         {
@@ -267,19 +267,19 @@
         {
           "code": "NEINTNTS",
           "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
           "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
+            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+            "key": "643e5474d9edd87c7d9091c8c97994ca"
           }
         },
         {
-          "code": "NEINWILL76",
+          "code": "NEINWILLCP",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yt02ubg0fp/out/v1/23b293bd314742c98b5da8fb03089f0d/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd",
           "drm": {
-            "kid": "af79b819ec8ed7b81d102fdbe1ab82a2",
-            "key": "1797b0e1d4491ff81aa11743cc9ffc09"
+            "kid": "2765adbf6880195515fed136e5a989fa",
+            "key": "f1356a68a923c31d7184dfa1b91c161f"
           }
         }
       ]
@@ -416,10 +416,10 @@
         {
           "code": "HONGWILL",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f75yhdq23v/out/v1/598eae358be84a6190477baeee289e93/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dsqjzanbb8/out/v1/dd0f18dcbbfe4f329dee9a0295412322/cenc.mpd",
           "drm": {
-            "kid": "a4514f31e848acef7fd26d27fe8e77b2",
-            "key": "e9c848142716a1ef70be1e38b1cc2cc6"
+            "kid": "47882cfe843d91ab3032dfff9fa1b468",
+            "key": "e249d2d8555ba8cc75431a25749e8822"
           }
         }
       ]
