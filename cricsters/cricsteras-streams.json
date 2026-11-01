@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T09:11:23+05:30",
-  "generated_at_india": "01-11-2026 09:11:23 AM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-11-01T10:12:19+05:30",
+  "generated_at_india": "01-11-2026 10:12:19 AM IST",
+  "total": 26,
+  "ok": 26,
   "failed": 0,
   "events": [
     {
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "26",
       "event_title": "NBA - Houston Rockets vs Oklahoma City Thunder",
       "event_time": "01 Nov, 06:00 am",
       "event_time_raw": 1793493000000,
@@ -417,12 +417,12 @@
           }
         },
         {
-          "code": "HKHKWILLJG",
+          "code": "HKHKWILLI6",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ltxdcoti1m/out/v1/4da40c8b0d194fb4a9de00e68a84c0d1/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/7yddiomgbx/out/v1/1b021c8ef5424cdf9474d931e90a32e8/cenc.mpd",
           "drm": {
-            "kid": "b610b101e8a987cbf194e6d968585cc2",
-            "key": "2ecaec94db1a7fbf40fb9d4ac74f3b47"
+            "kid": "232530a82e67bbbfb57e91e47acad246",
+            "key": "f79fa1efbdf64975a6e1263c5c00750b"
           }
         },
         {
@@ -469,6 +469,25 @@
           "drm": {
             "kid": "fbfc4f5e355a407bbc64a499ea596887",
             "key": "2b2783027ed1303982ba7a18e4e8cfc0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "25",
+      "event_title": "World Cup, Women - Australia vs Wales",
+      "event_time": "01 Nov, 10:10 am",
+      "event_time_raw": 1793508000000,
+      "category": "Rugby",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "AUWAPREM",
+          "title": "PREMIER SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
           }
         }
       ]
