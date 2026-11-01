@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T00:59:58+05:30",
-  "generated_at_india": "02-11-2026 00:59:58 AM IST",
-  "total": 33,
-  "ok": 33,
+  "generated_at": "2026-11-02T01:55:26+05:30",
+  "generated_at_india": "02-11-2026 01:55:26 AM IST",
+  "total": 35,
+  "ok": 35,
   "failed": 0,
   "events": [
     {
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "Serie A - Frosinone vs Torino",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "Serie A - Lazio vs Cagliari",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "event_id": "30",
+      "event_id": "29",
       "event_title": "Ligue 1 - RC Strasbourg vs Auxerre",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -311,6 +311,44 @@
           "drm": {
             "kid": "74cbe15488783fab07ff8c702fabafcd",
             "key": "bb607803a49c2d6104f845e7886c971c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "33",
+      "event_title": "Women's Super League - Birmingham City W.F.C. vs Tottenham FC",
+      "event_time": "01 Nov, 07:30 pm",
+      "event_time_raw": 1793541600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BITOSTAN",
+          "title": "STAN SPORTS - AQ (AUS)",
+          "url": "https://live01-stan.akamaized.net/out/v1/9811c951d4174f1590080a0550b832e9/index.mpd",
+          "drm": {
+            "kid": "2c6c9b756c6341bfaad2e3748b8bc98a",
+            "key": "ac41867afd63534b73da47cca09662c6"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "34",
+      "event_title": "Women's Super League - Brighton vs Crystal Palace",
+      "event_time": "01 Nov, 07:30 pm",
+      "event_time_raw": 1793541600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BRCRSTAN",
+          "title": "STAN SPORTS - AQ (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/dd18e5304434483394b6a8bb3247c874/index.mpd",
+          "drm": {
+            "kid": "013fc6fb10a6424f9fe9d6a846d49785",
+            "key": "e929632ea47857ea72f3cdf628a8c6f9"
           }
         }
       ]
@@ -408,7 +446,7 @@
       ]
     },
     {
-      "event_id": "28",
+      "event_id": "27",
       "event_title": "Ligue 1 - Paris FC vs AS Monaco",
       "event_time": "01 Nov, 09:45 pm",
       "event_time_raw": 1793549700000,
@@ -436,7 +474,7 @@
       ]
     },
     {
-      "event_id": "29",
+      "event_id": "28",
       "event_title": "Ligue 1 - Olympique Lyonnais vs Angers",
       "event_time": "01 Nov, 09:45 pm",
       "event_time_raw": 1793549700000,
@@ -455,7 +493,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "26",
       "event_title": "Serie A - Lecce vs Genoa",
       "event_time": "01 Nov, 10:30 pm",
       "event_time_raw": 1793552400000,
@@ -510,68 +548,12 @@
       ]
     },
     {
-      "event_id": "21",
-      "event_title": "LaLiga - Elche vs Valencia",
-      "event_time": "01 Nov, 11:00 pm",
-      "event_time_raw": 1793554200000,
-      "category": "Football",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "ELVAPREM",
-          "title": "PREMIER SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-          }
-        },
-        {
-          "code": "ELVABEIN",
-          "title": "beIN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "drm": {
-            "kid": "7995c724a13748ed970840a8ab5bb9b3",
-            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-          }
-        },
-        {
-          "code": "ELVACAZE",
-          "title": "CAZE TV FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-          "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "23",
-      "event_title": "LaLiga 2 - Burgos Club de Fútbol vs CD Castellón",
-      "event_time": "01 Nov, 11:00 pm",
-      "event_time_raw": 1793554200000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "BUCDLALI",
-          "title": "LALIGA HYPEMOTION ES - AQ",
-          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "10",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "01 Nov, 11:15 pm",
       "event_time_raw": 1793555100000,
       "category": "American football",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "NFNFREDZ",
@@ -581,11 +563,20 @@
             "kid": "85f340146e46533b39d1415d90746352",
             "key": "448aafcc613ddfd448f14d9275eda19b"
           }
+        },
+        {
+          "code": "NFNFNFLL",
+          "title": "NFL LIVE TV",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lz1p95hcxk/out/v1/d5f91ece0e304a1283b28266a072ddc2/cenc.mpd",
+          "drm": {
+            "kid": "ff4a1e48d06619919d2d36ebdb2b67fb",
+            "key": "0a6d7d953cd47b8261ac14dc13916182"
+          }
         }
       ]
     },
     {
-      "event_id": "31",
+      "event_id": "30",
       "event_title": "Canadian Premier League - Atlético Ottawa vs Forge FC",
       "event_time": "02 Nov, 12:30 am",
       "event_time_raw": 1793559600000,
@@ -604,13 +595,31 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "25",
       "event_title": "Serie A - Juventus vs SSC Napoli",
       "event_time": "02 Nov, 01:15 am",
       "event_time_raw": 1793562300000,
       "category": "Football",
-      "stream_count": 3,
+      "stream_count": 5,
       "streams": [
+        {
+          "code": "JUSSPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hqhvjrfpwc/out/v1/f566359c50874125af5052aec7078171/cenc.mpd?aws_sessionId=3c07c0ee-c5a3-4477-8580-109158b3ca3f",
+          "drm": {
+            "kid": "400f2178dd7865fcb5e06045e39b017b",
+            "key": "4d1504126895b88eece045e1f8e3e592"
+          }
+        },
+        {
+          "code": "JUSSFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/amuyymjcj2/out/v1/a8645e4080344c53b38dc66983651d99/cenc.mpd?aws_sessionId=25519975-5ffe-4b33-b5c8-3b2887253f88",
+          "drm": {
+            "kid": "36f34feef3a98cfd89ae85712df3db23",
+            "key": "afd105a07e251c2a37b36d6066d1822b"
+          }
+        },
         {
           "code": "JUSSTNTS",
           "title": "TNT SPORTS FHD",
@@ -641,6 +650,34 @@
       ]
     },
     {
+      "event_id": "35",
+      "event_title": "Ligue 1 - Olympique de Marseille vs Toulouse",
+      "event_time": "02 Nov, 01:15 am",
+      "event_time_raw": 1793562300000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "OLTOBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "drm": {
+            "kid": "4fce30c060b7b0464ab765e24fee5ecc",
+            "key": "65d612238736eec3794c7e75a6fd362c"
+          }
+        },
+        {
+          "code": "OLTOBEINM3",
+          "title": "beIN ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xuvcbrlxmb/out/v1/27aac1f9df984d65a9d4b95d234f4468/cenc.mpd",
+          "drm": {
+            "kid": "74cbe15488783fab07ff8c702fabafcd",
+            "key": "bb607803a49c2d6104f845e7886c971c"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "3",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "02 Nov, 01:30 am",
@@ -648,6 +685,15 @@
       "category": "Motorsport",
       "stream_count": 7,
       "streams": [
+        {
+          "code": "FOFOTSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        },
         {
           "code": "FOFOFANC",
           "title": "FANCODE - AQ",
@@ -673,15 +719,6 @@
           "drm": {
             "kid": "d695093ea3e66d75a4d213a3e2cbf360",
             "key": "01be3f645e89a067d2786c295f68dde4"
-          }
-        },
-        {
-          "code": "FOFOTSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd",
-          "drm": {
-            "kid": "66e14add60c30be992503fa9a0ae5e20",
-            "key": "8c736ae52ce3cab1e918d5f9e8ed6c62"
           }
         },
         {
@@ -714,7 +751,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "LaLiga - Athletic Club vs Real Sociedad",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
@@ -760,7 +797,26 @@
       ]
     },
     {
-      "event_id": "32",
+      "event_id": "22",
+      "event_title": "LaLiga 2 - CD Tenerife vs FC Andorra",
+      "event_time": "02 Nov, 01:30 am",
+      "event_time_raw": 1793563200000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CDFCLALI",
+          "title": "LALIGA HYPEMOTION ES - AQ",
+          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm": {
+            "kid": "a88617e904504ee291f49f0e60a51d49",
+            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "31",
       "event_title": "Liga Portugal Betclic - Sporting Braga vs Famalicão",
       "event_time": "02 Nov, 02:00 am",
       "event_time_raw": 1793565000000,
@@ -779,7 +835,7 @@
       ]
     },
     {
-      "event_id": "33",
+      "event_id": "32",
       "event_title": "Canadian Premier League - FC Supra Du Quebec vs Cavalry FC",
       "event_time": "02 Nov, 02:30 am",
       "event_time_raw": 1793566800000,

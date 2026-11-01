@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T00:59:58+05:30",
-  "generated_at_india": "02-11-2026 00:59:58 AM IST",
-  "total": 33,
+  "generated_at": "2026-11-02T01:55:26+05:30",
+  "generated_at_india": "02-11-2026 01:55:26 AM IST",
+  "total": 35,
   "events": [
     {
       "event_id": "9",
@@ -63,7 +63,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "Serie A - Frosinone vs Torino",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -71,7 +71,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "Serie A - Lazio vs Cagliari",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
@@ -79,8 +79,24 @@
       "stream_count": 5
     },
     {
-      "event_id": "30",
+      "event_id": "29",
       "event_title": "Ligue 1 - RC Strasbourg vs Auxerre",
+      "event_time": "01 Nov, 07:30 pm",
+      "event_time_raw": 1793541600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "33",
+      "event_title": "Women's Super League - Birmingham City W.F.C. vs Tottenham FC",
+      "event_time": "01 Nov, 07:30 pm",
+      "event_time_raw": 1793541600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "34",
+      "event_title": "Women's Super League - Brighton vs Crystal Palace",
       "event_time": "01 Nov, 07:30 pm",
       "event_time_raw": 1793541600000,
       "category": "Football",
@@ -103,7 +119,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "28",
+      "event_id": "27",
       "event_title": "Ligue 1 - Paris FC vs AS Monaco",
       "event_time": "01 Nov, 09:45 pm",
       "event_time_raw": 1793549700000,
@@ -111,7 +127,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "29",
+      "event_id": "28",
       "event_title": "Ligue 1 - Olympique Lyonnais vs Angers",
       "event_time": "01 Nov, 09:45 pm",
       "event_time_raw": 1793549700000,
@@ -119,7 +135,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "27",
+      "event_id": "26",
       "event_title": "Serie A - Lecce vs Genoa",
       "event_time": "01 Nov, 10:30 pm",
       "event_time_raw": 1793552400000,
@@ -127,31 +143,15 @@
       "stream_count": 5
     },
     {
-      "event_id": "21",
-      "event_title": "LaLiga - Elche vs Valencia",
-      "event_time": "01 Nov, 11:00 pm",
-      "event_time_raw": 1793554200000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "23",
-      "event_title": "LaLiga 2 - Burgos Club de Fútbol vs CD Castellón",
-      "event_time": "01 Nov, 11:00 pm",
-      "event_time_raw": 1793554200000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
       "event_id": "10",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "01 Nov, 11:15 pm",
       "event_time_raw": 1793555100000,
       "category": "American football",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
-      "event_id": "31",
+      "event_id": "30",
       "event_title": "Canadian Premier League - Atlético Ottawa vs Forge FC",
       "event_time": "02 Nov, 12:30 am",
       "event_time_raw": 1793559600000,
@@ -159,12 +159,20 @@
       "stream_count": 1
     },
     {
-      "event_id": "26",
+      "event_id": "25",
       "event_title": "Serie A - Juventus vs SSC Napoli",
       "event_time": "02 Nov, 01:15 am",
       "event_time_raw": 1793562300000,
       "category": "Football",
-      "stream_count": 3
+      "stream_count": 5
+    },
+    {
+      "event_id": "35",
+      "event_title": "Ligue 1 - Olympique de Marseille vs Toulouse",
+      "event_time": "02 Nov, 01:15 am",
+      "event_time_raw": 1793562300000,
+      "category": "Football",
+      "stream_count": 2
     },
     {
       "event_id": "3",
@@ -175,7 +183,7 @@
       "stream_count": 7
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "LaLiga - Athletic Club vs Real Sociedad",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
@@ -183,7 +191,15 @@
       "stream_count": 4
     },
     {
-      "event_id": "32",
+      "event_id": "22",
+      "event_title": "LaLiga 2 - CD Tenerife vs FC Andorra",
+      "event_time": "02 Nov, 01:30 am",
+      "event_time_raw": 1793563200000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "31",
       "event_title": "Liga Portugal Betclic - Sporting Braga vs Famalicão",
       "event_time": "02 Nov, 02:00 am",
       "event_time_raw": 1793565000000,
@@ -191,7 +207,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "33",
+      "event_id": "32",
       "event_title": "Canadian Premier League - FC Supra Du Quebec vs Cavalry FC",
       "event_time": "02 Nov, 02:30 am",
       "event_time_raw": 1793566800000,
