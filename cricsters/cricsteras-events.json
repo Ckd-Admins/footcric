@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-01T18:05:06+05:30",
-  "generated_at_india": "01-11-2026 06:05:06 PM IST",
+  "generated_at": "2026-11-01T19:11:14+05:30",
+  "generated_at_india": "01-11-2026 07:11:14 PM IST",
   "total": 25,
   "events": [
     {
@@ -23,7 +23,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "One Day International - Namibia vs Ireland",
       "event_time": "01 Nov, 01:00 pm",
       "event_time_raw": 1793518200000,
@@ -31,7 +31,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "Women's Big Bash League - Sydney Sixers Women vs Hobart Hurricanes Women",
       "event_time": "01 Nov, 01:40 pm",
       "event_time_raw": 1793520600000,
@@ -39,7 +39,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "World Cup - Tonga vs Samoa",
       "event_time": "01 Nov, 02:35 pm",
       "event_time_raw": 1793523900000,
@@ -61,14 +61,6 @@
       "event_time_raw": 1793532600000,
       "category": "Snooker",
       "stream_count": 3
-    },
-    {
-      "event_id": "11",
-      "event_title": "Indian Super League - Mumbai City FC vs Sporting Delhi",
-      "event_time": "01 Nov, 05:00 pm",
-      "event_time_raw": 1793532600000,
-      "category": "Football",
-      "stream_count": 1
     },
     {
       "event_id": "25",
@@ -95,7 +87,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "12",
+      "event_id": "11",
       "event_title": "Women's Super League - London City Lionesses vs Manchester City",
       "event_time": "01 Nov, 05:30 pm",
       "event_time_raw": 1793534400000,
@@ -103,8 +95,16 @@
       "stream_count": 2
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "LaLiga - Getafe vs Sevilla",
+      "event_time": "01 Nov, 06:30 pm",
+      "event_time_raw": 1793538000000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "22",
+      "event_title": "LaLiga 2 - CD Eldense vs Granada",
       "event_time": "01 Nov, 06:30 pm",
       "event_time_raw": 1793538000000,
       "category": "Football",
@@ -119,7 +119,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "13",
+      "event_id": "12",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -135,7 +135,7 @@
       "stream_count": 5
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "Premier League - Liverpool FC vs Arsenal",
       "event_time": "01 Nov, 10:00 pm",
       "event_time_raw": 1793550600000,
@@ -143,7 +143,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "Women's Big Bash League - Melbourne Stars Women vs Perth Scorchers Women",
       "event_time": "02 Nov, 01:40 pm",
       "event_time_raw": 1793607000000,
@@ -151,7 +151,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "14",
+      "event_id": "13",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "04 Nov, 07:30 am",
       "event_time_raw": 1793757600000,
@@ -167,7 +167,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "15",
+      "event_id": "14",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "05 Nov, 09:00 am",
       "event_time_raw": 1793849400000,
@@ -183,7 +183,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "16",
+      "event_id": "15",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
