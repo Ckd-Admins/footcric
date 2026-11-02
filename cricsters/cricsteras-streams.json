@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T21:20:22+05:30",
-  "generated_at_india": "02-11-2026 09:20:22 PM IST",
+  "generated_at": "2026-11-02T22:23:21+05:30",
+  "generated_at_india": "02-11-2026 10:23:21 PM IST",
   "total": 20,
   "ok": 20,
   "failed": 0,
@@ -152,25 +152,6 @@
           "drm": {
             "kid": "69021095220f3c0eae9bc24215fd692b",
             "key": "eb58cfe0458ed0b48f7351fa3393ad59"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "10",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "02 Nov, 12:15 pm",
-      "event_time_raw": 1793601900000,
-      "category": "Cricket",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NPNPFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]
@@ -358,6 +339,25 @@
           "drm": {
             "kid": "a88617e904504ee291f49f0e60a51d49",
             "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "10",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "03 Nov, 12:15 pm",
+      "event_time_raw": 1793688300000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NPNPFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]

@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T21:20:22+05:30",
-  "generated_at_india": "02-11-2026 09:20:22 PM IST",
+  "generated_at": "2026-11-02T22:23:21+05:30",
+  "generated_at_india": "02-11-2026 10:23:21 PM IST",
   "total": 20,
   "events": [
     {
@@ -37,14 +37,6 @@
       "event_time_raw": 1793563200000,
       "category": "Motorsport",
       "stream_count": 7
-    },
-    {
-      "event_id": "10",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "02 Nov, 12:15 pm",
-      "event_time_raw": 1793601900000,
-      "category": "Cricket",
-      "stream_count": 1
     },
     {
       "event_id": "15",
@@ -100,6 +92,14 @@
       "event_time": "03 Nov, 01:30 am",
       "event_time_raw": 1793649600000,
       "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "10",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "03 Nov, 12:15 pm",
+      "event_time_raw": 1793688300000,
+      "category": "Cricket",
       "stream_count": 1
     },
     {
