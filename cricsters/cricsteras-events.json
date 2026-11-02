@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T11:21:56+05:30",
-  "generated_at_india": "02-11-2026 11:21:56 AM IST",
+  "generated_at": "2026-11-02T12:32:24+05:30",
+  "generated_at_india": "02-11-2026 00:32:24 PM IST",
   "total": 16,
   "events": [
     {
@@ -12,30 +12,6 @@
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
       "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "8",
-      "event_title": "Tokyo Open 2026 - WTA vs WTA",
-      "event_time": "01 Nov, 08:30 am",
-      "event_time_raw": 1793502000000,
-      "category": "Tennis",
-      "stream_count": 3
-    },
-    {
-      "event_id": "1",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "01 Nov, 05:00 pm",
-      "event_time_raw": 1793532600000,
-      "category": "Snooker",
-      "stream_count": 3
-    },
-    {
-      "event_id": "6",
-      "event_title": "Vienna OPEN - ATP vs ATP",
-      "event_time": "01 Nov, 05:30 pm",
-      "event_time_raw": 1793534400000,
-      "category": "Tennis",
       "stream_count": 1
     },
     {
@@ -63,12 +39,28 @@
       "stream_count": 7
     },
     {
+      "event_id": "1",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "02 Nov, 11:30 am",
+      "event_time_raw": 1793599200000,
+      "category": "Snooker",
+      "stream_count": 3
+    },
+    {
       "event_id": "15",
       "event_title": "Women's Big Bash League - Melbourne Stars Women vs Perth Scorchers Women",
       "event_time": "02 Nov, 01:40 pm",
       "event_time_raw": 1793607000000,
       "category": "Cricket",
       "stream_count": 3
+    },
+    {
+      "event_id": "6",
+      "event_title": "Paris OPEN - ATP vs ATP",
+      "event_time": "02 Nov, 03:30 pm",
+      "event_time_raw": 1793613600000,
+      "category": "Tennis",
+      "stream_count": 1
     },
     {
       "event_id": "12",
@@ -93,6 +85,14 @@
       "event_time_raw": 1793849400000,
       "category": "Cricket",
       "stream_count": 2
+    },
+    {
+      "event_id": "8",
+      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
+      "event_time": "05 Nov, 11:30 am",
+      "event_time_raw": 1793858400000,
+      "category": "Tennis",
+      "stream_count": 3
     },
     {
       "event_id": "4",
