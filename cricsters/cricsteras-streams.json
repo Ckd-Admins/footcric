@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T19:32:17+05:30",
-  "generated_at_india": "02-11-2026 07:32:17 PM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-11-02T21:20:22+05:30",
+  "generated_at_india": "02-11-2026 09:20:22 PM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
@@ -218,7 +218,7 @@
       "event_time": "02 Nov, 03:30 pm",
       "event_time_raw": 1793613600000,
       "category": "Tennis",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "ATATBEIN",
@@ -236,6 +236,15 @@
           "drm": {
             "kid": "385ceb9714b75e0cef61254f80b31002",
             "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        },
+        {
+          "code": "ATATTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
           }
         }
       ]
@@ -273,25 +282,6 @@
           "drm": {
             "kid": "11223344556677889900112233445566",
             "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "19",
-      "event_title": "LaLiga 2 - CD Tenerife vs FC Andorra",
-      "event_time": "02 Nov, 06:30 pm",
-      "event_time_raw": 1793624400000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CDFCLALI",
-          "title": "LALIGA HYPEMOTION ES - AQ",
-          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
           }
         }
       ]
@@ -335,7 +325,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "Serie A - Sassuolo vs Fiorentina",
       "event_time": "02 Nov, 11:00 pm",
       "event_time_raw": 1793640600000,
@@ -354,7 +344,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "LaLiga 2 - Mallorca vs Cádiz",
       "event_time": "03 Nov, 01:30 am",
       "event_time_raw": 1793649600000,

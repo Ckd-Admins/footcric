@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T19:32:17+05:30",
-  "generated_at_india": "02-11-2026 07:32:17 PM IST",
-  "total": 21,
+  "generated_at": "2026-11-02T21:20:22+05:30",
+  "generated_at_india": "02-11-2026 09:20:22 PM IST",
+  "total": 20,
   "events": [
     {
       "event_id": "16",
@@ -60,7 +60,7 @@
       "event_time": "02 Nov, 03:30 pm",
       "event_time_raw": 1793613600000,
       "category": "Tennis",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": "1",
@@ -69,14 +69,6 @@
       "event_time_raw": 1793619000000,
       "category": "Snooker",
       "stream_count": 3
-    },
-    {
-      "event_id": "19",
-      "event_title": "LaLiga 2 - CD Tenerife vs FC Andorra",
-      "event_time": "02 Nov, 06:30 pm",
-      "event_time_raw": 1793624400000,
-      "category": "Football",
-      "stream_count": 1
     },
     {
       "event_id": "17",
@@ -95,7 +87,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "Serie A - Sassuolo vs Fiorentina",
       "event_time": "02 Nov, 11:00 pm",
       "event_time_raw": 1793640600000,
@@ -103,7 +95,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "LaLiga 2 - Mallorca vs Cádiz",
       "event_time": "03 Nov, 01:30 am",
       "event_time_raw": 1793649600000,
