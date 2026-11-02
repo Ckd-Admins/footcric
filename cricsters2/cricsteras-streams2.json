@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T00:12:02+05:30",
-  "generated_at_india": "03-11-2026 00:12:02 AM IST",
-  "total": 20,
-  "ok": 20,
+  "generated_at": "2026-11-03T01:12:52+05:30",
+  "generated_at_india": "03-11-2026 01:12:52 AM IST",
+  "total": 25,
+  "ok": 25,
   "failed": 0,
   "events": [
     {
@@ -341,6 +341,34 @@
       ]
     },
     {
+      "event_id": 50013,
+      "event_title": "Seattle Seahawks vs Chicago Bears",
+      "event_time": "2026-11-03 01:15",
+      "event_time_raw": "2026-11-03 01:15",
+      "category": "NFL",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "SECHTSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm": {
+            "kid": "14eeabf30c14b7fbf3008c03099ce011",
+            "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          }
+        },
+        {
+          "code": "SECHTSN3",
+          "title": "TSN3 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "drm": {
+            "kid": "d3250252765347a0c2603c6cb4869f8c",
+            "key": "0c19319460da7e9ed816db46ce839b37"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50023,
       "event_title": "NFL REDZONE",
       "event_time": "2026-11-08 17:55",
@@ -364,6 +392,44 @@
           "drm": {
             "kid": "85f340146e46533b39d1415d90746352",
             "key": "448aafcc613ddfd448f14d9275eda19b"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50043,
+      "event_title": "Cleveland Cavaliers vs Oklahoma City Thunder",
+      "event_time": "2026-11-03 00:00",
+      "event_time_raw": "2026-11-03 00:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CLOKTSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50052,
+      "event_title": "Los Angeles Clippers vs Toronto Raptors",
+      "event_time": "2026-11-03 03:00",
+      "event_time_raw": "2026-11-03 03:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LOTOTSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "drm": {
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
           }
         }
       ]
@@ -438,6 +504,44 @@
           "drm": {
             "kid": "12ed56d780abcfebcd23aa27e4ac5015",
             "key": "6784567890abcfebcd23aa27e4ac2814"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50075,
+      "event_title": "Boston Bruins vs Vegas Golden Knights",
+      "event_time": "2026-11-03 00:00",
+      "event_time_raw": "2026-11-03 00:00",
+      "category": "NHL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BOVEPREM",
+          "title": "PREMIER SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50078,
+      "event_title": "San Jose Sharks vs Calgary Flames",
+      "event_time": "2026-11-03 02:00",
+      "event_time_raw": "2026-11-03 02:00",
+      "category": "NHL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SACAPREM",
+          "title": "PREMIER SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm": {
+            "kid": "1444f4235529f183f0a5a486befe9cdb",
+            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
           }
         }
       ]
