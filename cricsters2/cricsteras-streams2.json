@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T11:18:38+05:30",
-  "generated_at_india": "02-11-2026 11:18:38 AM IST",
-  "total": 20,
-  "ok": 20,
+  "generated_at": "2026-11-02T12:26:28+05:30",
+  "generated_at_india": "02-11-2026 00:26:28 PM IST",
+  "total": 21,
+  "ok": 21,
   "failed": 0,
   "events": [
     {
@@ -364,6 +364,34 @@
           "drm": {
             "kid": "85f340146e46533b39d1415d90746352",
             "key": "448aafcc613ddfd448f14d9275eda19b"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50064,
+      "event_title": "Nepal Premier League",
+      "event_time": "2026-11-02 06:45",
+      "event_time_raw": "2026-11-02 06:45",
+      "category": "NPL",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "NEPAFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "NEPAFANC6G",
+          "title": "FANCODE - SD",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "drm": {
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
           }
         }
       ]
