@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T06:00:28+05:30",
-  "generated_at_india": "02-11-2026 06:00:28 AM IST",
-  "total": 37,
+  "generated_at": "2026-11-02T07:21:32+05:30",
+  "generated_at_india": "02-11-2026 07:21:32 AM IST",
+  "total": 15,
   "events": [
     {
       "event_id": 50002,
@@ -79,30 +79,6 @@
       "stream_count": 2
     },
     {
-      "event_id": 50042,
-      "event_title": "Miami Dolphins vs New England Patriots",
-      "event_time": "2026-11-01 21:25",
-      "event_time_raw": "2026-11-01 21:25",
-      "category": "NFL",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50068,
-      "event_title": "Tampa Bay Buccaneers vs Atlanta Falcons",
-      "event_time": "2026-11-01 18:00",
-      "event_time_raw": "2026-11-01 18:00",
-      "category": "NFL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50069,
-      "event_title": "Pittsburgh Steelers vs Cleveland Browns",
-      "event_time": "2026-11-01 18:00",
-      "event_time_raw": "2026-11-01 18:00",
-      "category": "NFL",
-      "stream_count": 2
-    },
-    {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
       "event_time": "2026-11-02 08:10",
@@ -149,158 +125,6 @@
       "event_time_raw": "2026-11-01 20:00",
       "category": "LaLiga 🇪🇸",
       "stream_count": 4
-    },
-    {
-      "event_id": 50094,
-      "event_title": "Elche vs Valencia",
-      "event_time": "2026-11-01 17:30",
-      "event_time_raw": "2026-11-01 17:30",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 4
-    },
-    {
-      "event_id": 50097,
-      "event_title": "Lecce vs Genoa",
-      "event_time": "2026-11-01 17:00",
-      "event_time_raw": "2026-11-01 17:00",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 6
-    },
-    {
-      "event_id": 50101,
-      "event_title": "Eintracht Frankfurt vs Hamburger SV",
-      "event_time": "2026-11-01 16:30",
-      "event_time_raw": "2026-11-01 16:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50102,
-      "event_title": "Union Berlin vs Köln",
-      "event_time": "2026-11-01 14:30",
-      "event_time_raw": "2026-11-01 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50103,
-      "event_title": "Paris FC vs AS Monaco",
-      "event_time": "2026-11-01 16:15",
-      "event_time_raw": "2026-11-01 16:15",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50104,
-      "event_title": "Olympique Lyonnais vs Angers",
-      "event_time": "2026-11-01 16:15",
-      "event_time_raw": "2026-11-01 16:15",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50105,
-      "event_title": "RC Strasbourg vs Auxerre",
-      "event_time": "2026-11-01 14:00",
-      "event_time_raw": "2026-11-01 14:00",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50106,
-      "event_title": "Sporting Braga vs Famalicão",
-      "event_time": "2026-11-01 20:30",
-      "event_time_raw": "2026-11-01 20:30",
-      "category": "Liga Portugal",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50115,
-      "event_title": "Trabzonspor vs Gaziantep FK",
-      "event_time": "2026-11-01 13:00",
-      "event_time_raw": "2026-11-01 13:00",
-      "category": "Super Lig",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50118,
-      "event_title": "Falkirk FC vs Celtic",
-      "event_time": "2026-11-01 13:00",
-      "event_time_raw": "2026-11-01 13:00",
-      "category": "Scottish Premiership",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50123,
-      "event_title": "Burgos vs CD Castellón",
-      "event_time": "2026-11-01 17:30",
-      "event_time_raw": "2026-11-01 17:30",
-      "category": "LaLiga 2",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50124,
-      "event_title": "AD Ceuta vs Sporting Gijón",
-      "event_time": "2026-11-01 15:15",
-      "event_time_raw": "2026-11-01 15:15",
-      "category": "LaLiga 2",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50125,
-      "event_title": "CD Eldense vs Granada",
-      "event_time": "2026-11-01 13:00",
-      "event_time_raw": "2026-11-01 13:00",
-      "category": "LaLiga 2",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50126,
-      "event_title": "Buffalo Bills vs Baltimore Ravens",
-      "event_time": "2026-11-01 18:00",
-      "event_time_raw": "2026-11-01 18:00",
-      "category": "NFL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50127,
-      "event_title": "Cincinnati Bengals vs Tennessee Titans",
-      "event_time": "2026-11-01 18:00",
-      "event_time_raw": "2026-11-01 18:00",
-      "category": "NFL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50128,
-      "event_title": "Dallas Cowboys vs Arizona Cardinals",
-      "event_time": "2026-11-01 18:00",
-      "event_time_raw": "2026-11-01 18:00",
-      "category": "NFL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50129,
-      "event_title": "Detroit Lions vs Minnesota Vikings",
-      "event_time": "2026-11-01 18:00",
-      "event_time_raw": "2026-11-01 18:00",
-      "category": "NFL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50130,
-      "event_title": "Jacksonville Jaguars vs Indianapolis Colts",
-      "event_time": "2026-11-01 18:00",
-      "event_time_raw": "2026-11-01 18:00",
-      "category": "NFL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50131,
-      "event_title": "New York Jets vs Las Vegas Raiders",
-      "event_time": "2026-11-01 18:00",
-      "event_time_raw": "2026-11-01 18:00",
-      "category": "NFL",
-      "stream_count": 1
     }
   ],
   "raw_data": ""
