@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T12:26:28+05:30",
-  "generated_at_india": "02-11-2026 00:26:28 PM IST",
+  "generated_at": "2026-11-02T13:47:55+05:30",
+  "generated_at_india": "02-11-2026 01:47:55 PM IST",
   "total": 21,
   "ok": 21,
   "failed": 0,
@@ -402,10 +402,19 @@
       "event_time": "2026-11-02 08:10",
       "event_time_raw": "2026-11-02 08:10",
       "category": "WBBL",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "WOMEWILL",
+          "title": "WILLOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mwlueryhck/out/v1/c4f180fd53004d80999910f8e2d9cf7d/cenc.mpd",
+          "drm": {
+            "kid": "cdca888620514236db847b1ca52773b8",
+            "key": "460dff34d4ffa3a814a4e1ad083f4993"
+          }
+        },
+        {
+          "code": "WOMEWILL87",
           "title": "WILLOW HD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "drm": {
