@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T07:21:32+05:30",
-  "generated_at_india": "02-11-2026 07:21:32 AM IST",
+  "generated_at": "2026-11-02T08:09:54+05:30",
+  "generated_at_india": "02-11-2026 08:09:54 AM IST",
   "total": 15,
   "ok": 15,
   "failed": 0,
@@ -417,33 +417,15 @@
     },
     {
       "event_id": 50090,
-      "event_title": "Liverpool FC vs Arsenal",
-      "event_time": "2026-11-01 16:30",
-      "event_time_raw": "2026-11-01 16:30",
+      "event_title": "Newcastle United vs Everton",
+      "event_time": "2026-11-02 20:00",
+      "event_time_raw": "2026-11-02 20:00",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 3,
+      "stream_count": 1,
       "streams": [
         {
-          "code": "LIARPEAC",
-          "title": "PEACOCK ENG FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4wn492fzje/out/v1/fda9936cc9c64529810d704dcb67951c/cenc.mpd",
-          "drm": {
-            "kid": "f2ea8d5893c5bb84b8c9f43c462add5f",
-            "key": "95b1c6f710c81d239adb7cf45ad26d39"
-          }
-        },
-        {
-          "code": "LIARFUBO",
+          "code": "NEEVFUBO",
           "title": "FUBO SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?aws_sessionId=d2c69f3e-2fc0-4075-b0f0-5d4281d3e718",
-          "drm": {
-            "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
-            "key": "3e7d40c4b2ca331fe48bd65acae439d7"
-          }
-        },
-        {
-          "code": "LIARFUBO0J",
-          "title": "FUBO SPORTS ALT",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
           "drm": {
             "kid": "42f72c025dd53039244adc13b7e31dad",
@@ -482,32 +464,14 @@
     },
     {
       "event_id": 50092,
-      "event_title": "Juventus vs SSC Napoli",
-      "event_time": "2026-11-01 19:45",
-      "event_time_raw": "2026-11-01 19:45",
+      "event_title": "Atalanta vs Parma",
+      "event_time": "2026-11-02 19:45",
+      "event_time_raw": "2026-11-02 19:45",
       "category": "Serie A 🇮🇹",
-      "stream_count": 7,
+      "stream_count": 4,
       "streams": [
         {
-          "code": "JUSSPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hqhvjrfpwc/out/v1/f566359c50874125af5052aec7078171/cenc.mpd?aws_sessionId=3c07c0ee-c5a3-4477-8580-109158b3ca3f",
-          "drm": {
-            "kid": "400f2178dd7865fcb5e06045e39b017b",
-            "key": "4d1504126895b88eece045e1f8e3e592"
-          }
-        },
-        {
-          "code": "JUSSFUBO",
-          "title": "FUBO SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/amuyymjcj2/out/v1/a8645e4080344c53b38dc66983651d99/cenc.mpd?aws_sessionId=25519975-5ffe-4b33-b5c8-3b2887253f88",
-          "drm": {
-            "kid": "36f34feef3a98cfd89ae85712df3db23",
-            "key": "afd105a07e251c2a37b36d6066d1822b"
-          }
-        },
-        {
-          "code": "JUSSTNTS",
+          "code": "ATPATNTS",
           "title": "TNT SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "drm": {
@@ -516,16 +480,7 @@
           }
         },
         {
-          "code": "JUSSPARA2G",
-          "title": "PARAMOUNT+ (EN/IT)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hqhvjrfpwc/out/v1/f566359c50874125af5052aec7078171/cenc.mpd?aws_sessionId=7f2b63f7-9576-4a3a-be91-23555f6be26b",
-          "drm": {
-            "kid": "400f2178dd7865fcb5e06045e39b017b",
-            "key": "4d1504126895b88eece045e1f8e3e592"
-          }
-        },
-        {
-          "code": "JUSSBEIN",
+          "code": "ATPABEIN",
           "title": "beIN ENGLISH FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
           "drm": {
@@ -534,16 +489,16 @@
           }
         },
         {
-          "code": "JUSSCAZE",
-          "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
+          "code": "ATPACBSN",
+          "title": "CBS NETWORK",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
           "drm": {
-            "kid": "ba6aca5a550163c38d06646bb50f04e7",
-            "key": "516c3b471fce48a5b7a2e5ee7dd505f2"
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
           }
         },
         {
-          "code": "JUSSSPOR",
+          "code": "ATPASPOR",
           "title": "SPORT 1 CZ FHD",
           "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
           "drm": {
@@ -555,14 +510,14 @@
     },
     {
       "event_id": 50093,
-      "event_title": "Athletic Club vs Real Sociedad",
-      "event_time": "2026-11-01 20:00",
-      "event_time_raw": "2026-11-01 20:00",
+      "event_title": "Deportivo de A Coruña vs Osasuna",
+      "event_time": "2026-11-02 20:00",
+      "event_time_raw": "2026-11-02 20:00",
       "category": "LaLiga 🇪🇸",
       "stream_count": 4,
       "streams": [
         {
-          "code": "ATREPREM",
+          "code": "DEOSPREM",
           "title": "PREMIER SPORTS",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
           "drm": {
@@ -571,7 +526,7 @@
           }
         },
         {
-          "code": "ATREBEIN",
+          "code": "DEOSBEIN",
           "title": "beIN ENGLISH FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "drm": {
@@ -580,7 +535,7 @@
           }
         },
         {
-          "code": "ATREFANC",
+          "code": "DEOSFANC",
           "title": "FANCODE FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "drm": {
@@ -589,7 +544,7 @@
           }
         },
         {
-          "code": "ATRECAZE",
+          "code": "DEOSCAZE",
           "title": "CAZE TV FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
           "drm": {

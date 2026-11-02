@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T07:21:32+05:30",
-  "generated_at_india": "02-11-2026 07:21:32 AM IST",
+  "generated_at": "2026-11-02T08:09:54+05:30",
+  "generated_at_india": "02-11-2026 08:09:54 AM IST",
   "total": 15,
   "events": [
     {
@@ -96,11 +96,11 @@
     },
     {
       "event_id": 50090,
-      "event_title": "Liverpool FC vs Arsenal",
-      "event_time": "2026-11-01 16:30",
-      "event_time_raw": "2026-11-01 16:30",
+      "event_title": "Newcastle United vs Everton",
+      "event_time": "2026-11-02 20:00",
+      "event_time_raw": "2026-11-02 20:00",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 3
+      "stream_count": 1
     },
     {
       "event_id": 50091,
@@ -112,17 +112,17 @@
     },
     {
       "event_id": 50092,
-      "event_title": "Juventus vs SSC Napoli",
-      "event_time": "2026-11-01 19:45",
-      "event_time_raw": "2026-11-01 19:45",
+      "event_title": "Atalanta vs Parma",
+      "event_time": "2026-11-02 19:45",
+      "event_time_raw": "2026-11-02 19:45",
       "category": "Serie A 🇮🇹",
-      "stream_count": 7
+      "stream_count": 4
     },
     {
       "event_id": 50093,
-      "event_title": "Athletic Club vs Real Sociedad",
-      "event_time": "2026-11-01 20:00",
-      "event_time_raw": "2026-11-01 20:00",
+      "event_title": "Deportivo de A Coruña vs Osasuna",
+      "event_time": "2026-11-02 20:00",
+      "event_time_raw": "2026-11-02 20:00",
       "category": "LaLiga 🇪🇸",
       "stream_count": 4
     }
