@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T23:15:01+05:30",
-  "generated_at_india": "02-11-2026 11:15:01 PM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-11-03T00:12:02+05:30",
+  "generated_at_india": "03-11-2026 00:12:02 AM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
@@ -703,25 +703,6 @@
       "streams": [
         {
           "code": "RELELALI",
-          "title": "Laliga Hypermotion ES",
-          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50101,
-      "event_title": "Real Oviedo vs Las Palmas",
-      "event_time": "2026-11-02 15:15",
-      "event_time_raw": "2026-11-02 15:15",
-      "category": "LaLiga 2",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "RELALALI",
           "title": "Laliga Hypermotion ES",
           "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
           "drm": {

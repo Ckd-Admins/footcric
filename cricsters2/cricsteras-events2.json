@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T23:15:01+05:30",
-  "generated_at_india": "02-11-2026 11:15:01 PM IST",
-  "total": 21,
+  "generated_at": "2026-11-03T00:12:02+05:30",
+  "generated_at_india": "03-11-2026 00:12:02 AM IST",
+  "total": 20,
   "events": [
     {
       "event_id": 50002,
@@ -163,14 +163,6 @@
       "event_title": "Real Valladolid vs Leganés",
       "event_time": "2026-11-02 17:30",
       "event_time_raw": "2026-11-02 17:30",
-      "category": "LaLiga 2",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50101,
-      "event_title": "Real Oviedo vs Las Palmas",
-      "event_time": "2026-11-02 15:15",
-      "event_time_raw": "2026-11-02 15:15",
       "category": "LaLiga 2",
       "stream_count": 1
     }
