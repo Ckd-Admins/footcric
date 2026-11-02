@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T16:20:06+05:30",
-  "generated_at_india": "02-11-2026 04:20:06 PM IST",
+  "generated_at": "2026-11-02T17:14:02+05:30",
+  "generated_at_india": "02-11-2026 05:14:02 PM IST",
   "total": 21,
   "ok": 21,
   "failed": 0,
@@ -255,7 +255,7 @@
       "event_time": "02 Nov, 03:30 pm",
       "event_time_raw": 1793613600000,
       "category": "Tennis",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "ATATBEIN",
@@ -264,6 +264,15 @@
           "drm": {
             "kid": "335dad778109954503dcbb21dc92015f",
             "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "ATATTSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
           }
         }
       ]
