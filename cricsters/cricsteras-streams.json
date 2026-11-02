@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T09:14:52+05:30",
-  "generated_at_india": "02-11-2026 09:14:52 AM IST",
-  "total": 19,
-  "ok": 19,
+  "generated_at": "2026-11-02T10:20:59+05:30",
+  "generated_at_india": "02-11-2026 10:20:59 AM IST",
+  "total": 16,
+  "ok": 16,
   "failed": 0,
   "events": [
     {
-      "event_id": "18",
+      "event_id": "16",
       "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
@@ -177,34 +177,6 @@
       ]
     },
     {
-      "event_id": "16",
-      "event_title": "NFL - Cincinnati Bengals vs Tennessee Titans",
-      "event_time": "01 Nov, 11:30 pm",
-      "event_time_raw": 1793556000000,
-      "category": "American football",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "CITENFLG",
-          "title": "NFL GAMEPASS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6ghtddqemm/out/v1/a284680840d04b8ca78da1e6e48d85a4/cenc.mpd",
-          "drm": {
-            "kid": "6e84df3c5ab6cc4542e2bb032888fb78",
-            "key": "f70a093df9f2afa85b2ae89fefdbe6cb"
-          }
-        },
-        {
-          "code": "CITECBSS",
-          "title": "CBS SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6ghtddqemm/out/v1/a284680840d04b8ca78da1e6e48d85a4/cenc.mpd",
-          "drm": {
-            "kid": "6e84df3c5ab6cc4542e2bb032888fb78",
-            "key": "f70a093df9f2afa85b2ae89fefdbe6cb"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "2",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "02 Nov, 01:30 am",
@@ -273,53 +245,6 @@
           "drm": {
             "kid": "69021095220f3c0eae9bc24215fd692b",
             "key": "eb58cfe0458ed0b48f7351fa3393ad59"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "19",
-      "event_title": "Liga MX, Apertura - Cruz Azul vs Club León",
-      "event_time": "02 Nov, 06:40 am",
-      "event_time_raw": 1793581800000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CRCLTUDN",
-          "title": "TUDN SPO",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "drm": {
-            "kid": "763ce1ebcaf23502c8cf357c6ef423e1",
-            "key": "0c5e6c0820a1ea28753721db00272411"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "17",
-      "event_title": "NFL - Washington Commanders vs Philadelphia Eagles",
-      "event_time": "02 Nov, 06:50 am",
-      "event_time_raw": 1793582400000,
-      "category": "American football",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "WAPHTSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm": {
-            "kid": "14eeabf30c14b7fbf3008c03099ce011",
-            "key": "17d2ac8dbc5429bd70af3433aa12158d"
-          }
-        },
-        {
-          "code": "WAPHTSN4",
-          "title": "TSN4 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
           }
         }
       ]

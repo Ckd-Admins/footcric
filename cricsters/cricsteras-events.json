@@ -2,12 +2,12 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T09:14:52+05:30",
-  "generated_at_india": "02-11-2026 09:14:52 AM IST",
-  "total": 19,
+  "generated_at": "2026-11-02T10:20:59+05:30",
+  "generated_at_india": "02-11-2026 10:20:59 AM IST",
+  "total": 16,
   "events": [
     {
-      "event_id": "18",
+      "event_id": "16",
       "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
@@ -55,36 +55,12 @@
       "stream_count": 2
     },
     {
-      "event_id": "16",
-      "event_title": "NFL - Cincinnati Bengals vs Tennessee Titans",
-      "event_time": "01 Nov, 11:30 pm",
-      "event_time_raw": 1793556000000,
-      "category": "American football",
-      "stream_count": 2
-    },
-    {
       "event_id": "2",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
       "category": "Motorsport",
       "stream_count": 7
-    },
-    {
-      "event_id": "19",
-      "event_title": "Liga MX, Apertura - Cruz Azul vs Club León",
-      "event_time": "02 Nov, 06:40 am",
-      "event_time_raw": 1793581800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "17",
-      "event_title": "NFL - Washington Commanders vs Philadelphia Eagles",
-      "event_time": "02 Nov, 06:50 am",
-      "event_time_raw": 1793582400000,
-      "category": "American football",
-      "stream_count": 2
     },
     {
       "event_id": "15",
