@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T12:32:24+05:30",
-  "generated_at_india": "02-11-2026 00:32:24 PM IST",
-  "total": 16,
+  "generated_at": "2026-11-02T14:22:39+05:30",
+  "generated_at_india": "02-11-2026 02:22:39 PM IST",
+  "total": 21,
   "events": [
     {
       "event_id": "16",
@@ -47,6 +47,14 @@
       "stream_count": 3
     },
     {
+      "event_id": "10",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "02 Nov, 12:15 pm",
+      "event_time_raw": 1793601900000,
+      "category": "Cricket",
+      "stream_count": 1
+    },
+    {
       "event_id": "15",
       "event_title": "Women's Big Bash League - Melbourne Stars Women vs Perth Scorchers Women",
       "event_time": "02 Nov, 01:40 pm",
@@ -60,6 +68,46 @@
       "event_time": "02 Nov, 03:30 pm",
       "event_time_raw": 1793613600000,
       "category": "Tennis",
+      "stream_count": 1
+    },
+    {
+      "event_id": "19",
+      "event_title": "LaLiga 2 - CD Tenerife vs FC Andorra",
+      "event_time": "02 Nov, 06:30 pm",
+      "event_time_raw": 1793624400000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "17",
+      "event_title": "LaLiga 2 - Real Oviedo vs UD Las Palmas",
+      "event_time": "02 Nov, 08:45 pm",
+      "event_time_raw": 1793632500000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "18",
+      "event_title": "LaLiga 2 - Real Valladolid vs Leganés",
+      "event_time": "02 Nov, 11:00 pm",
+      "event_time_raw": 1793640600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "20",
+      "event_title": "Serie A - Sassuolo vs Fiorentina",
+      "event_time": "02 Nov, 11:00 pm",
+      "event_time_raw": 1793640600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "21",
+      "event_title": "LaLiga 2 - Mallorca vs Cádiz",
+      "event_time": "03 Nov, 01:30 am",
+      "event_time_raw": 1793649600000,
+      "category": "Football",
       "stream_count": 1
     },
     {
@@ -116,14 +164,6 @@
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
       "category": "Boxing",
-      "stream_count": 1
-    },
-    {
-      "event_id": "10",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "09 Nov, 12:15 pm",
-      "event_time_raw": 1794206700000,
-      "category": "Cricket",
       "stream_count": 1
     },
     {
