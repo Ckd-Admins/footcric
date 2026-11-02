@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-02T14:22:39+05:30",
-  "generated_at_india": "02-11-2026 02:22:39 PM IST",
+  "generated_at": "2026-11-02T15:22:42+05:30",
+  "generated_at_india": "02-11-2026 03:22:42 PM IST",
   "total": 21,
   "ok": 21,
   "failed": 0,
@@ -75,7 +75,7 @@
         {
           "code": "NFNFNFLL",
           "title": "NFL LIVE TV",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lz1p95hcxk/out/v1/d5f91ece0e304a1283b28266a072ddc2/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lz1p95hcxk/out/v1/d5f91ece0e304a1283b28266a072ddc2/cenc.mpd",
           "drm": {
             "kid": "ff4a1e48d06619919d2d36ebdb2b67fb",
             "key": "0a6d7d953cd47b8261ac14dc13916182"
