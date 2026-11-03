@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T22:11:00+05:30",
-  "generated_at_india": "03-11-2026 10:11:00 PM IST",
+  "generated_at": "2026-11-03T23:09:32+05:30",
+  "generated_at_india": "03-11-2026 11:09:32 PM IST",
   "total": 18,
   "ok": 18,
   "failed": 0,
@@ -552,7 +552,7 @@
       "event_time": "2026-11-03 17:45",
       "event_time_raw": "2026-11-03 17:45",
       "category": "UCL",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "SHSPTNTS",
@@ -561,6 +561,15 @@
           "drm": {
             "kid": "fa34fa8c90336dd528c7a23871cad1fe",
             "key": "552a78d1aeb74f1650d68255c5749408"
+          }
+        },
+        {
+          "code": "SHSPHBOM",
+          "title": "HBO MAX BRAZIL",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
+          "drm": {
+            "kid": "83a4bc2c011e2c72b35b7b5f2d35560d",
+            "key": "01bd0115c83d3493449181ba68998ab1"
           }
         }
       ]
@@ -571,7 +580,7 @@
       "event_time": "2026-11-03 20:00",
       "event_time_raw": "2026-11-03 20:00",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "WESOBEIN",
@@ -580,6 +589,15 @@
           "drm": {
             "kid": "7995c724a13748ed970840a8ab5bb9b3",
             "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        },
+        {
+          "code": "WESOFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]
