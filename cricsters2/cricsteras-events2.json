@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T07:19:40+05:30",
-  "generated_at_india": "03-11-2026 07:19:40 AM IST",
-  "total": 21,
+  "generated_at": "2026-11-03T08:07:28+05:30",
+  "generated_at_india": "03-11-2026 08:07:28 AM IST",
+  "total": 24,
   "events": [
     {
       "event_id": 50002,
@@ -105,16 +105,16 @@
     {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
-      "event_time": "2026-11-02 06:45",
-      "event_time_raw": "2026-11-02 06:45",
+      "event_time": "2026-11-03 06:45",
+      "event_time_raw": "2026-11-03 06:45",
       "category": "NPL",
       "stream_count": 2
     },
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-02 08:10",
-      "event_time_raw": "2026-11-02 08:10",
+      "event_time": "2026-11-03 08:10",
+      "event_time_raw": "2026-11-03 08:10",
       "category": "WBBL",
       "stream_count": 4
     },
@@ -144,35 +144,59 @@
     },
     {
       "event_id": 50090,
-      "event_title": "Newcastle United vs Everton",
-      "event_time": "2026-11-02 20:00",
-      "event_time_raw": "2026-11-02 20:00",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
+      "event_title": "Atletico Madrid vs Bayern Munchen",
+      "event_time": "2026-11-03 20:00",
+      "event_time_raw": "2026-11-03 20:00",
+      "category": "UCL",
+      "stream_count": 1
     },
     {
       "event_id": 50091,
-      "event_title": "Lorient vs Stade Brestois",
-      "event_time": "2026-11-02 19:45",
-      "event_time_raw": "2026-11-02 19:45",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 2
+      "event_title": "FC Barcelona vs Aston Villa",
+      "event_time": "2026-11-03 20:00",
+      "event_time_raw": "2026-11-03 20:00",
+      "category": "UCL",
+      "stream_count": 1
     },
     {
       "event_id": 50092,
-      "event_title": "Atalanta vs Parma",
-      "event_time": "2026-11-02 19:45",
-      "event_time_raw": "2026-11-02 19:45",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 7
+      "event_title": "Villarreal vs Paris Saint-Germain",
+      "event_time": "2026-11-03 20:00",
+      "event_time_raw": "2026-11-03 20:00",
+      "category": "UCL",
+      "stream_count": 1
     },
     {
-      "event_id": 50093,
-      "event_title": "Deportivo de A Coruña vs Osasuna",
-      "event_time": "2026-11-02 20:00",
-      "event_time_raw": "2026-11-02 20:00",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 4
+      "event_id": 50094,
+      "event_title": "Feyenoord vs Inter",
+      "event_time": "2026-11-03 20:00",
+      "event_time_raw": "2026-11-03 20:00",
+      "category": "UCL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50097,
+      "event_title": "Galatasaray vs VfB Stuttgart",
+      "event_time": "2026-11-03 17:45",
+      "event_time_raw": "2026-11-03 17:45",
+      "category": "UCL",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50098,
+      "event_title": "Shakhtar Donetsk vs Sporting CP",
+      "event_time": "2026-11-03 17:45",
+      "event_time_raw": "2026-11-03 17:45",
+      "category": "UCL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50100,
+      "event_title": "West Bromwich Albion vs Southampton",
+      "event_time": "2026-11-03 20:00",
+      "event_time_raw": "2026-11-03 20:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
     }
   ],
   "raw_data": ""
