@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T11:14:09+05:30",
-  "generated_at_india": "03-11-2026 11:14:09 AM IST",
+  "generated_at": "2026-11-03T12:22:12+05:30",
+  "generated_at_india": "03-11-2026 00:22:12 PM IST",
   "total": 15,
   "ok": 15,
   "failed": 0,
@@ -157,47 +157,10 @@
       ]
     },
     {
-      "event_id": "6",
-      "event_title": "Paris OPEN - ATP vs ATP",
-      "event_time": "02 Nov, 03:30 pm",
-      "event_time_raw": 1793613600000,
-      "category": "Tennis",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "ATATBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        },
-        {
-          "code": "ATATTSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        },
-        {
-          "code": "ATATTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "1",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "02 Nov, 05:00 pm",
-      "event_time_raw": 1793619000000,
+      "event_time": "03 Nov, 11:30 am",
+      "event_time_raw": 1793685600000,
       "category": "Snooker",
       "stream_count": 3,
       "streams": [
@@ -236,7 +199,7 @@
       "event_time": "03 Nov, 12:15 pm",
       "event_time_raw": 1793688300000,
       "category": "Cricket",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "NPNPFANC",
@@ -245,6 +208,52 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "NPNPFANCZ9",
+          "title": "FANCODE SD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "drm": {
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "6",
+      "event_title": "Paris OPEN - ATP vs ATP",
+      "event_time": "03 Nov, 03:30 pm",
+      "event_time_raw": 1793700000000,
+      "category": "Tennis",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "ATATBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "ATATTSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        },
+        {
+          "code": "ATATTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
           }
         }
       ]
