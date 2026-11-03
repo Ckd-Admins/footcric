@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T01:10:21+05:30",
-  "generated_at_india": "04-11-2026 01:10:21 AM IST",
-  "total": 22,
+  "generated_at": "2026-11-04T01:22:05+05:30",
+  "generated_at_india": "04-11-2026 01:22:05 AM IST",
+  "total": 24,
   "events": [
     {
       "event_id": 50002,
@@ -132,7 +132,7 @@
       "event_time": "2026-11-03 20:00",
       "event_time_raw": "2026-11-03 20:00",
       "category": "UCL",
-      "stream_count": 1
+      "stream_count": 3
     },
     {
       "event_id": 50092,
@@ -145,6 +145,22 @@
     {
       "event_id": 50094,
       "event_title": "Feyenoord vs Inter",
+      "event_time": "2026-11-03 20:00",
+      "event_time_raw": "2026-11-03 20:00",
+      "category": "UCL",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50095,
+      "event_title": "Bodø/Glimt vs Lille",
+      "event_time": "2026-11-03 20:00",
+      "event_time_raw": "2026-11-03 20:00",
+      "category": "UCL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50096,
+      "event_title": "LASK vs ŠK Slovan Bratislava",
       "event_time": "2026-11-03 20:00",
       "event_time_raw": "2026-11-03 20:00",
       "category": "UCL",

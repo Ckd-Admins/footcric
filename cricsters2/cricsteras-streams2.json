@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T01:10:21+05:30",
-  "generated_at_india": "04-11-2026 01:10:21 AM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-11-04T01:22:05+05:30",
+  "generated_at_india": "04-11-2026 01:22:05 AM IST",
+  "total": 24,
+  "ok": 24,
   "failed": 0,
   "events": [
     {
@@ -524,8 +524,17 @@
       "event_time": "2026-11-03 20:00",
       "event_time_raw": "2026-11-03 20:00",
       "category": "UCL",
-      "stream_count": 1,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "FCASPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hfrpveg4ut/out/v1/898ffe1fc933458b940e736c42708232/cenc.mpd",
+          "drm": {
+            "kid": "9257aba4a8155ec0566886d9d2173cbb",
+            "key": "c1663d6dd5e13c6105f55986e1b82bb0"
+          }
+        },
         {
           "code": "FCASTNTS",
           "title": "TNT SPORTS FHD",
@@ -533,6 +542,15 @@
           "drm": {
             "kid": "69a5aa835a061ce64a630d1046727e40",
             "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "FCASDAZN",
+          "title": "DAZN SPORTS DE",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vfvwmn8lpn/out/v1/fa48945789f044c89d69a67a81acd513/cenc.mpd",
+          "drm": {
+            "kid": "d5e2fec3b6ccef137970196c83892fcf",
+            "key": "5db83e1690553fda8b857360ba7e4171"
           }
         }
       ]
@@ -562,8 +580,17 @@
       "event_time": "2026-11-03 20:00",
       "event_time_raw": "2026-11-03 20:00",
       "category": "UCL",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "FEINPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/odyam8seie/out/v1/a5f86f8dc35746c9a5d1b0128bb8196c/cenc.mpd",
+          "drm": {
+            "kid": "fc651bf819bdc1df6aa7c249f1acfe66",
+            "key": "06229427fb5ea8c1fcf8c8f878b2fc23"
+          }
+        },
         {
           "code": "FEINCBSN",
           "title": "CBS NETWORK FHD",
@@ -571,6 +598,44 @@
           "drm": {
             "kid": "d9623774ac5c8c351aafe97c5fe70267",
             "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50095,
+      "event_title": "Bodø/Glimt vs Lille",
+      "event_time": "2026-11-03 20:00",
+      "event_time_raw": "2026-11-03 20:00",
+      "category": "UCL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BOLIPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vup2gkotxm/out/v1/35a4a5af02a048968c2b300ddd4677a2/cenc.mpd",
+          "drm": {
+            "kid": "f9c393a27d7eab26828310d5116228b4",
+            "key": "54242b217e2cb116436f2a8f72b9ba6b"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50096,
+      "event_title": "LASK vs ŠK Slovan Bratislava",
+      "event_time": "2026-11-03 20:00",
+      "event_time_raw": "2026-11-03 20:00",
+      "category": "UCL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LAKPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ej3seddljs/out/v1/273718f161c34b44bc7e125ce3fa6173/cenc.mpd",
+          "drm": {
+            "kid": "0f9a8647387c8ced25cb81e31daa8465",
+            "key": "138042cf1b65ee0021b4bb86a8eb4272"
           }
         }
       ]
