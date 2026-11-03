@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T21:09:41+05:30",
-  "generated_at_india": "03-11-2026 09:09:41 PM IST",
+  "generated_at": "2026-11-03T22:14:58+05:30",
+  "generated_at_india": "03-11-2026 10:14:58 PM IST",
   "total": 20,
   "ok": 20,
   "failed": 0,
@@ -189,34 +189,6 @@
           "drm": {
             "kid": "59f50679c9e60963bd0cb6640992aaaa",
             "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "10",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "03 Nov, 04:45 pm",
-      "event_time_raw": 1793704500000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "NPNPFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "NPNPFANCZ9",
-          "title": "FANCODE SD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "drm": {
-            "kid": "286eb7dc538143790fa9913639531920",
-            "key": "e3f5cb08d14d9e9c08438c673819540f"
           }
         }
       ]
@@ -524,6 +496,34 @@
           "drm": {
             "kid": "fbfc4f5e355a407bbc64a499ea596887",
             "key": "2b2783027ed1303982ba7a18e4e8cfc0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "10",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "05 Nov, 12:15 pm",
+      "event_time_raw": 1793861100000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "NPNPFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "NPNPFANCZ9",
+          "title": "FANCODE SD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "drm": {
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
           }
         }
       ]
