@@ -1,66 +1,115 @@
-
 import re
 import json
 import urllib.request
-from pathlib import Path
 
+# M3U source URL jo aapne diya
 M3U_URL = "https://raw.githubusercontent.com/sportlive18/sportlink-update/refs/heads/main/zio.m3u"
 
-# Save JSON in the same folder as this script
-OUTPUT = Path(__file__).resolve().parent / "channels.json"
+def parse_m3u(content):
+    channels = []
+    # Lines mein split karein
+    lines = content.splitlines()
+    
+    current_channel = {}
+    
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+            
+        if line.startswith("#EXTINF:"):
+            # Naya channel start ho raha hai, purana save kar lein agar exist karta hai
+            if current_channel:
+                channels.append(current_channel)
+                current_channel = {}
+                
+            # Parse tvg-id, tvg-name, logo, group-title aur name
+            tvg_id_match = re.search(r'tvg-id="([^"]*)"', line)
+            tvg_name_match = re.search(r'tvg-name="([^"]*)"', line)
+            logo_match = re.search(r'tvg-logo="([^"]*)"', line)
+            group_match = re.search(r'group-title="([^"]*)"', line)
+            
+            # Name comma (,) ke baad hota hai
+            name_parts = line.split(",")
+            name = name_parts[-1].strip() if len(name_parts) > 1 else ""
+            
+            current_channel["name"] = tvg_name_match.group(1) if tvg_name_match else name
+            current_channel["id"] = tvg_id_match.group(1) if tvg_id_match else ""
+            current_channel["category"] = group_match.group(1) if group_match else ""
+            if logo_match:
+                current_channel["logo"] = logo_match.group(1)
+                
+            current_channel["keys_list"] = []
+            
+        elif line.startswith("#KODIPROP:inputstream.adaptive.license_key="):
+            key_data = line.split("=", 1)[1].strip()
+            # Multiple keys bhi ho sakti hain comma separated (jaise History TV18 HD mein hoti hain)
+            key_pairs = key_data.split(",")
+            for kp in key_pairs:
+                if ":" in kp:
+                    kid, k = kp.split(":", 1)
+                    current_channel["keys_list"].append({"keyId": kid.strip(), "key": k.strip()})
+                    
+        elif line.startswith("#KODIPROP:inputstream.adaptive.stream_headers="):
+            headers_str = line.split("=", 1)[1].strip()
+            # Cookie extract karne ke liye
+            cookie_match = re.search(r'Cookie=([^&]+)', headers_str)
+            if cookie_match:
+                current_channel["cookie"] = cookie_match.group(1)
+                
+        elif not line.startswith("#"):
+            # Yeh channel ka actual stream URL hai
+            url = line
+            # Agar cookie present hai, toh usko URL ke aage query parameter ki tarah jod dein
+            if "cookie" in current_channel and current_channel["cookie"]:
+                cookie_val = current_channel["cookie"]
+                if "?" in url:
+                    url += f"&{cookie_val}"
+                else:
+                    url += f"?{cookie_val}"
+            
+            current_channel["url"] = url
+            
+            # Aapke desired format ke mutabik keys structure handle karna:
+            # Agar ek key hai toh direct keyId aur key rakhein, agar zyada hain toh "keys" array rakhein
+            keys = current_channel.pop("keys_list", [])
+            current_channel.pop("cookie", None) # Temporary cookie key hata dein
+            
+            if len(keys) == 1:
+                current_channel["keyId"] = keys[0]["keyId"]
+                current_channel["key"] = keys[0]["key"]
+            elif len(keys) > 1:
+                current_channel["keys"] = keys
+            else:
+                current_channel["keyId"] = "null"
+                current_channel["key"] = "null"
+                
+            channels.append(current_channel)
+            current_channel = {}
 
+    # Agar aakhri channel bach gaya ho
+    if current_channel:
+        channels.append(current_channel)
+        
+    return channels
 
-def get_attr(line, attr):
-    match = re.search(
-        rf'{re.escape(attr)}="([^"]*)"', line
-    )
-    return match.group(1) if match else ""
-
-
-def convert():
-    print("Downloading M3U playlist...")
-
-    request = urllib.request.Request(
-        M3U_URL,
+def main():
+    print(f"Fetching M3U from {M3U_URL}...")
+    req = urllib.request.Request(
+        M3U_URL, 
         headers={"User-Agent": "Mozilla/5.0"}
     )
-
-    with urllib.request.urlopen(request, timeout=60) as response:
-        content = response.read().decode("utf-8-sig")
-
-    channels = []
-    current = None
-
-    for line in content.splitlines():
-        line = line.strip()
-
-        if line.startswith("#EXTINF:"):
-            parts = line.split(",", 1)
-
-            current = {
-                "name": parts[1].strip() if len(parts) > 1 else "",
-                "id": get_attr(line, "tvg-id"),
-                "category": get_attr(line, "group-title"),
-                "logo": get_attr(line, "tvg-logo")
-            }
-
-        elif line.startswith("http") and current:
-            current["url"] = line
-            channels.append(current)
-            current = None
-
-    if not channels:
-        raise ValueError("No channels found! Check the M3U URL.")
-
-    with open(OUTPUT, "w", encoding="utf-8") as f:
-        json.dump(channels, f, indent=4, ensure_ascii=False)
-
-    print("--------------------------------")
-    print(f"Generated: {len(channels)} channels")
-    print(f"Output: {OUTPUT}")
-    print(f"File size: {OUTPUT.stat().st_size} bytes")
-    print("--------------------------------")
-
+    with urllib.request.urlopen(req) as response:
+        content = response.read().decode('utf-8')
+        
+    json_data = parse_m3u(content)
+    
+    # JSON file save karein jise GitHub Actions deploy karega
+    output_filename = "channels.json"
+    with open(output_filename, "w", encoding="utf-8") as f:
+        json.dump(json_data, f, indent=4, ensure_ascii=False)
+        
+    print(f"Successfully generated {output_filename} with {len(json_data)} channels.")
 
 if __name__ == "__main__":
-    convert()
+    main()
