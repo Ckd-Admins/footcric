@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T01:13:28+05:30",
-  "generated_at_india": "04-11-2026 01:13:28 AM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-11-04T02:07:55+05:30",
+  "generated_at_india": "04-11-2026 02:07:55 AM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
-      "event_id": "15",
+      "event_id": "19",
       "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "15",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "13",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "01 Nov, 11:15 pm",
       "event_time_raw": 1793555100000,
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "5",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "10",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "03 Nov, 03:30 pm",
       "event_time_raw": 1793700000000,
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "event_id": "1",
+      "event_id": "4",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "03 Nov, 05:00 pm",
       "event_time_raw": 1793705400000,
@@ -231,170 +231,52 @@
       ]
     },
     {
-      "event_id": "16",
-      "event_title": "UEFA Champions League - Galatasaray vs VfB Stuttgart",
-      "event_time": "03 Nov, 11:15 pm",
-      "event_time_raw": 1793727900000,
-      "category": "Football",
-      "stream_count": 6,
+      "event_id": "9",
+      "event_title": "HYPE - Colby Covington vs Raul Rosas Jr.",
+      "event_time": "04 Nov, 12:00 am",
+      "event_time_raw": 1793730600000,
+      "category": "Boxing",
+      "stream_count": 1,
       "streams": [
         {
-          "code": "GAVFPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nneitrfr1l/out/v1/c96eca69bbb04f77add2020a85495524/cenc.mpd",
+          "code": "CORADAZN",
+          "title": "DAZN AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/s8whotxtvx/out/v1/2edfd49aaf71440e86eb73d7df83c980/cenc.mpd",
           "drm": {
-            "kid": "92d6baa3bffdea423754f5e0ab55631a",
-            "key": "50b69d834ee34886fa9830363b88e800"
-          }
-        },
-        {
-          "code": "GAVFVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwpfwrdluy/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
-          "drm": {
-            "kid": "9d5218f13397a8cbed7a4544d0d6d198",
-            "key": "919a50686f1bd2dbd1f1b6a9357a9577"
-          }
-        },
-        {
-          "code": "GAVFPRIM",
-          "title": "PRIME VIDEO",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pmxpfwjpew/out/v1/57a2345d56b3485088df37bb379b1884/cenc.mpd",
-          "drm": {
-            "kid": "042cea058767bc670450467c2ed410cb",
-            "key": "045a98c84a49742be3a5a454198ec14c"
-          }
-        },
-        {
-          "code": "GAVFDAZN",
-          "title": "DAZN DE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u4nnymerwj/out/v1/3a24e30418334f10b02441649eaa8cc3/cenc.mpd",
-          "drm": {
-            "kid": "a9dac59142fae1c70a50d526b491a86e",
-            "key": "62752c3314581b6a305f3c655810e201"
-          }
-        },
-        {
-          "code": "GAVFTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm": {
-            "kid": "f3df7843080ae743bf865dc5fdf64c68",
-            "key": "567c863bc12eb74788ea74888c042e1b"
-          }
-        },
-        {
-          "code": "GAVFCBSS",
-          "title": "CBS SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+            "kid": "4339adc036fc1a1270d41aa1bef4b16a",
+            "key": "640ce635e7ca20a820c51717d85db278"
           }
         }
       ]
     },
     {
-      "event_id": "17",
-      "event_title": "UEFA Champions League - Shakhtar Donetsk vs Sporting CP",
-      "event_time": "03 Nov, 11:15 pm",
-      "event_time_raw": 1793727900000,
-      "category": "Football",
-      "stream_count": 6,
-      "streams": [
-        {
-          "code": "SHSPPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/aeumjv0tof/out/v1/0d70b9334db84658bd3db38c484a071a/cenc.mpd",
-          "drm": {
-            "kid": "c6b9abe413b8c5552ad7f4a57dbb2af2",
-            "key": "e37d1a8371a874deda5f9b7260e65cde"
-          }
-        },
-        {
-          "code": "SHSPTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "drm": {
-            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
-            "key": "552a78d1aeb74f1650d68255c5749408"
-          }
-        },
-        {
-          "code": "SHSPTNTB",
-          "title": "TNT BRASIL - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
-          "drm": {
-            "kid": "83a4bc2c011e2c72b35b7b5f2d35560d",
-            "key": "01bd0115c83d3493449181ba68998ab1"
-          }
-        },
-        {
-          "code": "SHSPPRIM",
-          "title": "PRIME VIDEO",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5z5zrkjiuu/out/v1/7f409e917e5740f18b65323ab79309e5/cenc.mpd",
-          "drm": {
-            "kid": "e6a29d67b1f49548bc93da53455af671",
-            "key": "877d754b52368cebafec625d56be4967"
-          }
-        },
-        {
-          "code": "SHSPVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwpfwrdluy/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
-          "drm": {
-            "kid": "9d5218f13397a8cbed7a4544d0d6d198",
-            "key": "919a50686f1bd2dbd1f1b6a9357a9577"
-          }
-        },
-        {
-          "code": "SHSPDAZN",
-          "title": "DAZN DE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jiybvnjqls/out/v1/9cbdccb678364dafbac6a54af5461882/cenc.mpd",
-          "drm": {
-            "kid": "bddd33b45c3b369cf7febc4c35332e83",
-            "key": "1bbd40180ff193eb23f3db5dbdc43c40"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "18",
-      "event_title": "UEFA Champions League - Atlético Madrid vs FC Bayern München",
+      "event_id": "1",
+      "event_title": "UEFA Champions League - FC Barcelona vs Aston Villa",
       "event_time": "04 Nov, 01:30 am",
       "event_time_raw": 1793736000000,
       "category": "Football",
-      "stream_count": 6,
+      "stream_count": 5,
       "streams": [
         {
-          "code": "ATFCPRIM",
+          "code": "FCASPARA",
+          "title": "PARAMOUNT+ - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hfrpveg4ut/out/v1/898ffe1fc933458b940e736c42708232/cenc.mpd",
+          "drm": {
+            "kid": "9257aba4a8155ec0566886d9d2173cbb",
+            "key": "c1663d6dd5e13c6105f55986e1b82bb0"
+          }
+        },
+        {
+          "code": "FCASPRIM",
           "title": "PRIME VIDEO - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/62u3pe9jhe/out/v1/b16f920939bb40ec921f895197dcc8fe/cenc.mpd",
           "drm": {
-            "kid": "e9b05390d0d8a3766d720cc0dfa9c1c3",
-            "key": "5b371247b3ec6ae9976204359d781e85"
+            "kid": "8457e2ce4bab3e982f93d01d8531937c",
+            "key": "e96b9115e2da4f4fd7fef362fe16b8c6"
           }
         },
         {
-          "code": "ATFCPRIMEO",
-          "title": "PRIME HINDI - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
-          "drm": {
-            "kid": "638eaec11a32364c29f73241769dc3b0",
-            "key": "51ad6ac914e442976749f485354b50fe"
-          }
-        },
-        {
-          "code": "ATFCWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
-          "drm": {
-            "kid": "7a3f90a5769802036c18de821735b594",
-            "key": "1412cd88540af73b27e45c9982bc9c78"
-          }
-        },
-        {
-          "code": "ATFCTNTS",
+          "code": "FCASTNTS",
           "title": "TNT SPORTS - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "drm": {
@@ -403,8 +285,146 @@
           }
         },
         {
-          "code": "ATFCSONY",
-          "title": "SONYLIV PPV EN - AQ",
+          "code": "FCASTNTB",
+          "title": "TNT BRASIL - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
+          "drm": {
+            "kid": "83a4bc2c011e2c72b35b7b5f2d35560d",
+            "key": "01bd0115c83d3493449181ba68998ab1"
+          }
+        },
+        {
+          "code": "FCASDAZN",
+          "title": "DAZN SPORTS DE",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vfvwmn8lpn/out/v1/fa48945789f044c89d69a67a81acd513/cenc.mpd",
+          "drm": {
+            "kid": "d5e2fec3b6ccef137970196c83892fcf",
+            "key": "5db83e1690553fda8b857360ba7e4171"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "2",
+      "event_title": "UEFA Champions League - Villarreal vs Paris Saint-Germain",
+      "event_time": "04 Nov, 01:30 am",
+      "event_time_raw": 1793736000000,
+      "category": "Football",
+      "stream_count": 5,
+      "streams": [
+        {
+          "code": "VIPAPARA",
+          "title": "PARAMOUNT+ - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0nsrdwyz6d/out/v1/1fb3f803330c4d56b7067eb32a2d7b5b/cenc.mpd",
+          "drm": {
+            "kid": "c42433b27c13a1ad99d32d2c027eeb59",
+            "key": "2dad308a6387c9d4fc9b881d01b509d1"
+          }
+        },
+        {
+          "code": "VIPATNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "drm": {
+            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
+            "key": "552a78d1aeb74f1650d68255c5749408"
+          }
+        },
+        {
+          "code": "VIPAPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/7ginakmkhd/out/v1/ed941032a0cf478583800821f6f73f92/cenc.mpd",
+          "drm": {
+            "kid": "3c9c9759302a690821dc000229d317f4",
+            "key": "dcda7b2874e022d6a03847f78565fedf"
+          }
+        },
+        {
+          "code": "VIPADAZN",
+          "title": "DAZN SPORTS DE",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/db1e5w2dci/out/v1/3664a5f5c459440cb8becc5f4494277b/cenc.mpd",
+          "drm": {
+            "kid": "6dcdc041688dd8c939209051ddc16ad7",
+            "key": "07f42a6ce5def87eaa37b2cf01263d9d"
+          }
+        },
+        {
+          "code": "VIPASTAN",
+          "title": "STAN SPORTS - AQ",
+          "url": "https://live01-stan.akamaized.net/out/v1/80ae36c905294a3890040169d50bdc0a/index.mpd",
+          "drm": {
+            "kid": "0e676c471b2a4104b0c285c78fd69406",
+            "key": "4c617758285b666bc44462842dd7d470"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "3",
+      "event_title": "UEFA Champions League - Atlético Madrid vs FC Bayern München",
+      "event_time": "04 Nov, 01:30 am",
+      "event_time_raw": 1793736000000,
+      "category": "Football",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "ATFCPARA",
+          "title": "PARAMOUNT+ - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vh0otvgsty/out/v1/bd515f9d353d436c8d9f7fad1a036eae/cenc.mpd",
+          "drm": {
+            "kid": "81e0ae17a7166c881b38468bee4d210d",
+            "key": "be2dd777d1aa42adc54d090fcf886b29"
+          }
+        },
+        {
+          "code": "ATFCPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fhhxo4lrgi/out/v1/2e07e360adbb4143a01cfbf13db5a468/cenc.mpd",
+          "drm": {
+            "kid": "61e6e2862d578e47e1d38a09dab188d1",
+            "key": "d476e6ff0a07c5d61eebc382cf62e629"
+          }
+        },
+        {
+          "code": "ATFCVIXS",
+          "title": "VIX SPANISH - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9k8paepic3/out/v1/be6a823f7db5432bb0b75f704e5b0751/cenc.mpd",
+          "drm": {
+            "kid": "81e0ae17a7166c881b38468bee4d210d",
+            "key": "be2dd777d1aa42adc54d090fcf886b29"
+          }
+        },
+        {
+          "code": "ATFCTNTS",
+          "title": "TNT SPORTS EN",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "16",
+      "event_title": "One Day International - New Zealand vs India",
+      "event_time": "04 Nov, 07:30 am",
+      "event_time_raw": 1793757600000,
+      "category": "Cricket",
+      "stream_count": 5,
+      "streams": [
+        {
+          "code": "NEINTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        },
+        {
+          "code": "NEINPRIM",
+          "title": "PRIME VIDEO - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
           "drm": {
             "kid": "e9b05390d0d8a3766d720cc0dfa9c1c3",
@@ -412,7 +432,25 @@
           }
         },
         {
-          "code": "ATFCWILLBH",
+          "code": "NEINPRIM7B",
+          "title": "PRIME HINDI - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
+          "drm": {
+            "kid": "638eaec11a32364c29f73241769dc3b0",
+            "key": "51ad6ac914e442976749f485354b50fe"
+          }
+        },
+        {
+          "code": "NEINWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+          "drm": {
+            "kid": "7a3f90a5769802036c18de821735b594",
+            "key": "1412cd88540af73b27e45c9982bc9c78"
+          }
+        },
+        {
+          "code": "NEINWILLF4",
           "title": "WILLOW S2 - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/jorvx5qfk6/out/v1/6dbb07d5c15c4ffb8b51bdcdc0425548/cenc.mpd",
           "drm": {
@@ -423,98 +461,117 @@
       ]
     },
     {
-      "event_id": "19",
-      "event_title": "UEFA Champions League - FC Barcelona vs Aston Villa",
-      "event_time": "04 Nov, 01:30 am",
-      "event_time_raw": 1793736000000,
-      "category": "Football",
-      "stream_count": 1,
+      "event_id": "20",
+      "event_title": "Women's Big Bash League - Hobart Hurricanes Women vs Melbourne Renegades Women",
+      "event_time": "04 Nov, 01:40 pm",
+      "event_time_raw": 1793779800000,
+      "category": "Cricket",
+      "stream_count": 3,
       "streams": [
         {
-          "code": "FCASPLAY",
-          "title": "PlayZ TV",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zftvs8ttph/out/v1/d43af91e5e4545328277170da4067922/cenc.mpd",
+          "code": "HOMEWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/swik2pdf1r/out/v1/9d9e497a0a38428c98ff916ba955c6af/cenc.mpd",
           "drm": {
-            "kid": "b60700acb269f428bb828c21a125f149",
-            "key": "c80c0baea9477553e545fec46cb50e9c"
+            "kid": "bdb10e080e6cbd5a3a030e64405d20c4",
+            "key": "a0b78fd84befce65581d79f9da904a61"
+          }
+        },
+        {
+          "code": "HOMEWILLQW",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        },
+        {
+          "code": "HOMEEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
           }
         }
       ]
     },
     {
-      "event_id": "20",
-      "event_title": "UEFA Champions League - Villarreal vs Paris Saint-Germain",
-      "event_time": "04 Nov, 01:30 am",
-      "event_time_raw": 1793736000000,
-      "category": "Football",
-      "stream_count": 6,
+      "event_id": "6",
+      "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
+      "event_time": "05 Nov, 05:30 am",
+      "event_time_raw": 1793836800000,
+      "category": "WWE",
+      "stream_count": 3,
       "streams": [
         {
-          "code": "VIPAPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nneitrfr1l/out/v1/c96eca69bbb04f77add2020a85495524/cenc.mpd",
+          "code": "DYDYTSNS",
+          "title": "TSN SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
           "drm": {
-            "kid": "92d6baa3bffdea423754f5e0ab55631a",
-            "key": "50b69d834ee34886fa9830363b88e800"
+            "kid": "85b277daf5aae05833fe43a68f587968",
+            "key": "d52d7e9bc0bcd98787efd547ac91eca0"
           }
         },
         {
-          "code": "VIPAVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwpfwrdluy/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
+          "code": "DYDYFOXS",
+          "title": "FOX SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
           "drm": {
-            "kid": "9d5218f13397a8cbed7a4544d0d6d198",
-            "key": "919a50686f1bd2dbd1f1b6a9357a9577"
+            "kid": "9f327d24c66fbd84e15ab5c9ead7c7a4",
+            "key": "83837185529c0c4048f81386c2d36426"
           }
         },
         {
-          "code": "VIPAPRIM",
-          "title": "PRIME VIDEO",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pmxpfwjpew/out/v1/57a2345d56b3485088df37bb379b1884/cenc.mpd",
+          "code": "DYDYEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
           "drm": {
-            "kid": "042cea058767bc670450467c2ed410cb",
-            "key": "045a98c84a49742be3a5a454198ec14c"
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "17",
+      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
+      "event_time": "05 Nov, 09:00 am",
+      "event_time_raw": 1793849400000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "BAWEFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         },
         {
-          "code": "VIPADAZN",
-          "title": "DAZN DE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u4nnymerwj/out/v1/3a24e30418334f10b02441649eaa8cc3/cenc.mpd",
+          "code": "BAWEFANCTZ",
+          "title": "FANCODE HD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
           "drm": {
-            "kid": "a9dac59142fae1c70a50d526b491a86e",
-            "key": "62752c3314581b6a305f3c655810e201"
-          }
-        },
-        {
-          "code": "VIPATNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm": {
-            "kid": "f3df7843080ae743bf865dc5fdf64c68",
-            "key": "567c863bc12eb74788ea74888c042e1b"
-          }
-        },
-        {
-          "code": "VIPACBSS",
-          "title": "CBS SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+            "kid": "5318e462b9e0677487cb87837f0bbdb1",
+            "key": "4fa0fb973b95738306005f2e8591bf8e"
           }
         }
       ]
     },
     {
       "event_id": "12",
-      "event_title": "One Day International - New Zealand vs India",
-      "event_time": "04 Nov, 07:30 am",
-      "event_time_raw": 1793757600000,
-      "category": "Cricket",
+      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
+      "event_time": "05 Nov, 11:30 am",
+      "event_time_raw": 1793858400000,
+      "category": "Tennis",
       "stream_count": 3,
       "streams": [
         {
-          "code": "NEINBEIN",
+          "code": "WTWTBEIN",
           "title": "BEIN SPORTS - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
           "drm": {
@@ -523,7 +580,7 @@
           }
         },
         {
-          "code": "NEINTENN",
+          "code": "WTWTTENN",
           "title": "TENNIS 2 - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
           "drm": {
@@ -532,7 +589,7 @@
           }
         },
         {
-          "code": "NEINSTAN",
+          "code": "WTWTSTAN",
           "title": "STAN SPORTS - AQ (AUS)",
           "url": "https://live02-stan.akamaized.net/out/v1/b577f63edc094a0f9e623918f100a476/index.mpd",
           "drm": {
@@ -543,237 +600,15 @@
       ]
     },
     {
-      "event_id": "21",
-      "event_title": "Women's Big Bash League - Hobart Hurricanes Women vs Melbourne Renegades Women",
-      "event_time": "04 Nov, 01:40 pm",
-      "event_time_raw": 1793779800000,
-      "category": "Cricket",
-      "stream_count": 6,
-      "streams": [
-        {
-          "code": "HOMEPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/aeumjv0tof/out/v1/0d70b9334db84658bd3db38c484a071a/cenc.mpd",
-          "drm": {
-            "kid": "c6b9abe413b8c5552ad7f4a57dbb2af2",
-            "key": "e37d1a8371a874deda5f9b7260e65cde"
-          }
-        },
-        {
-          "code": "HOMETNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "drm": {
-            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
-            "key": "552a78d1aeb74f1650d68255c5749408"
-          }
-        },
-        {
-          "code": "HOMETNTB",
-          "title": "TNT BRASIL - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
-          "drm": {
-            "kid": "83a4bc2c011e2c72b35b7b5f2d35560d",
-            "key": "01bd0115c83d3493449181ba68998ab1"
-          }
-        },
-        {
-          "code": "HOMEPRIM",
-          "title": "PRIME VIDEO",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5z5zrkjiuu/out/v1/7f409e917e5740f18b65323ab79309e5/cenc.mpd",
-          "drm": {
-            "kid": "e6a29d67b1f49548bc93da53455af671",
-            "key": "877d754b52368cebafec625d56be4967"
-          }
-        },
-        {
-          "code": "HOMEVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwpfwrdluy/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
-          "drm": {
-            "kid": "9d5218f13397a8cbed7a4544d0d6d198",
-            "key": "919a50686f1bd2dbd1f1b6a9357a9577"
-          }
-        },
-        {
-          "code": "HOMEDAZN",
-          "title": "DAZN DE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jiybvnjqls/out/v1/9cbdccb678364dafbac6a54af5461882/cenc.mpd",
-          "drm": {
-            "kid": "bddd33b45c3b369cf7febc4c35332e83",
-            "key": "1bbd40180ff193eb23f3db5dbdc43c40"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "3",
-      "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
-      "event_time": "05 Nov, 05:30 am",
-      "event_time_raw": 1793836800000,
-      "category": "WWE",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "DYDYPARA",
-          "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vh0otvgsty/out/v1/bd515f9d353d436c8d9f7fad1a036eae/cenc.mpd",
-          "drm": {
-            "kid": "81e0ae17a7166c881b38468bee4d210d",
-            "key": "be2dd777d1aa42adc54d090fcf886b29"
-          }
-        },
-        {
-          "code": "DYDYTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm": {
-            "kid": "f3df7843080ae743bf865dc5fdf64c68",
-            "key": "567c863bc12eb74788ea74888c042e1b"
-          }
-        },
-        {
-          "code": "DYDYVIXS",
-          "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9k8paepic3/out/v1/be6a823f7db5432bb0b75f704e5b0751/cenc.mpd",
-          "drm": {
-            "kid": "81e0ae17a7166c881b38468bee4d210d",
-            "key": "be2dd777d1aa42adc54d090fcf886b29"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "13",
-      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
-      "event_time": "05 Nov, 09:00 am",
-      "event_time_raw": 1793849400000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "BAWEREDZ",
-          "title": "REDZONE - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd",
-          "drm": {
-            "kid": "85f340146e46533b39d1415d90746352",
-            "key": "448aafcc613ddfd448f14d9275eda19b"
-          }
-        },
-        {
-          "code": "BAWENFLL",
-          "title": "NFL LIVE TV",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lz1p95hcxk/out/v1/d5f91ece0e304a1283b28266a072ddc2/cenc.mpd",
-          "drm": {
-            "kid": "ff4a1e48d06619919d2d36ebdb2b67fb",
-            "key": "0a6d7d953cd47b8261ac14dc13916182"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "8",
-      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
-      "event_time": "05 Nov, 11:30 am",
-      "event_time_raw": 1793858400000,
-      "category": "Tennis",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "WTWTSKYS",
-          "title": "SKY SPORTS NZ - AQ",
-          "url": "https://skygo-playz-links.vercel.app/skynz7.mpd",
-          "drm": {
-            "kid": "df2d9b6fca9b4f3697bda9614398b991",
-            "key": "d10a74b6649741bf8e2687c03f955c90"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "10",
+      "event_id": "14",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "05 Nov, 12:15 pm",
       "event_time_raw": 1793861100000,
       "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "NPNPBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        },
-        {
-          "code": "NPNPTSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        },
-        {
-          "code": "NPNPTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "4",
-      "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
-      "event_time": "06 Nov, 07:00 pm",
-      "event_time_raw": 1793971800000,
-      "category": "Mixed Martial Arts",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "ONONTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "ONONEURO",
-          "title": "EUROSPORT EN - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
-          "drm": {
-            "kid": "8c17752768447a2ff801b87f7a390781",
-            "key": "90375b77c0f6d271caef3c8accd4f1ae"
-          }
-        },
-        {
-          "code": "ONONEURORX",
-          "title": "EUROSPORT CZ - AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "14",
-      "event_title": "One Day International - New Zealand vs India",
-      "event_time": "07 Nov, 07:30 am",
-      "event_time_raw": 1794016800000,
-      "category": "Cricket",
       "stream_count": 2,
       "streams": [
         {
-          "code": "NEINFANC",
+          "code": "NPNPFANC",
           "title": "FANCODE - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "drm": {
@@ -782,7 +617,7 @@
           }
         },
         {
-          "code": "NEINFANCL4",
+          "code": "NPNPFANCZ9",
           "title": "FANCODE SD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
           "drm": {
@@ -793,93 +628,131 @@
       ]
     },
     {
-      "event_id": "5",
-      "event_title": "MVPW 7 - MVPW vs MVPW",
-      "event_time": "09 Nov, 12:00 am",
-      "event_time_raw": 1794162600000,
-      "category": "Boxing",
-      "stream_count": 7,
-      "streams": [
-        {
-          "code": "MVMVTSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        },
-        {
-          "code": "MVMVFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        },
-        {
-          "code": "MVMVSPOR",
-          "title": "Sportv 3 BR - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-          "drm": {
-            "kid": "902e5ec0e3d05e665daa32fc23f4f59e",
-            "key": "7b2322a273843921a43e2c61dac7cae3"
-          }
-        },
-        {
-          "code": "MVMVCANA",
-          "title": "CANAL5 FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm": {
-            "kid": "d695093ea3e66d75a4d213a3e2cbf360",
-            "key": "01be3f645e89a067d2786c295f68dde4"
-          }
-        },
-        {
-          "code": "MVMVAUVI",
-          "title": "AUVIO SPORTS - AQ",
-          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/939644a5.isml/.mpd?t=2026-10-31T20:48:00.000",
-          "drm": {
-            "kid": "6cf9630821f943379833e75b82c02561",
-            "key": "734821c0e5174457fd185a4f6658932d"
-          }
-        },
-        {
-          "code": "MVMVSKYF",
-          "title": "SKY F1 Italia [IT]",
-          "url": "https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
-          "drm": {
-            "kid": "1118d83348830358060d408a72f56f29",
-            "key": "648378946f2f70f43af47ff9bf3e329b"
-          }
-        },
-        {
-          "code": "MVMVELEV",
-          "title": "ELEVEN SPORTS",
-          "url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-          "drm": {
-            "kid": "69021095220f3c0eae9bc24215fd692b",
-            "key": "eb58cfe0458ed0b48f7351fa3393ad59"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "7",
-      "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
-      "event_time": "14 Nov, 07:30 pm",
-      "event_time_raw": 1794664800000,
+      "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
+      "event_time": "06 Nov, 07:00 pm",
+      "event_time_raw": 1793971800000,
       "category": "Mixed Martial Arts",
       "stream_count": 1,
       "streams": [
         {
-          "code": "VASEONEP",
+          "code": "ONONONEP",
           "title": "ONE PPV - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
           "drm": {
             "kid": "308006101c8fd0262c0f529319b9c127",
             "key": "37683aadc75b1450efa82d62c647984d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "18",
+      "event_title": "One Day International - New Zealand vs India",
+      "event_time": "07 Nov, 07:30 am",
+      "event_time_raw": 1794016800000,
+      "category": "Cricket",
+      "stream_count": 6,
+      "streams": [
+        {
+          "code": "NEINPRIMTE",
+          "title": "PRIME VIDEO - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
+          "drm": {
+            "kid": "e9b05390d0d8a3766d720cc0dfa9c1c3",
+            "key": "5b371247b3ec6ae9976204359d781e85"
+          }
+        },
+        {
+          "code": "NEINPRIM7B2",
+          "title": "PRIME HINDI - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
+          "drm": {
+            "kid": "638eaec11a32364c29f73241769dc3b0",
+            "key": "51ad6ac914e442976749f485354b50fe"
+          }
+        },
+        {
+          "code": "NEINWILLG2",
+          "title": "WILLOW - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+          "drm": {
+            "kid": "7a3f90a5769802036c18de821735b594",
+            "key": "1412cd88540af73b27e45c9982bc9c78"
+          }
+        },
+        {
+          "code": "NEINTNTSI1",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "NEINSONY",
+          "title": "SONYLIV PPV EN - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
+          "drm": {
+            "kid": "e9b05390d0d8a3766d720cc0dfa9c1c3",
+            "key": "5b371247b3ec6ae9976204359d781e85"
+          }
+        },
+        {
+          "code": "NEINWILLF42",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/jorvx5qfk6/out/v1/6dbb07d5c15c4ffb8b51bdcdc0425548/cenc.mpd",
+          "drm": {
+            "kid": "6df39bfdcc3293c5018e97607998cae3",
+            "key": "794ada809851b50c0e8a7568f92971e0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "8",
+      "event_title": "MVPW 7 - MVPW vs MVPW",
+      "event_time": "09 Nov, 12:00 am",
+      "event_time_raw": 1794162600000,
+      "category": "Boxing",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "MVMVSKYS",
+          "title": "SKY SPORTS NZ - AQ",
+          "url": "https://skygo-playz-links.vercel.app/skynz7.mpd",
+          "drm": {
+            "kid": "df2d9b6fca9b4f3697bda9614398b991",
+            "key": "d10a74b6649741bf8e2687c03f955c90"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "11",
+      "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
+      "event_time": "14 Nov, 07:30 pm",
+      "event_time_raw": 1794664800000,
+      "category": "Mixed Martial Arts",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "VASEADSP",
+          "title": "AD SPORTS EN/AR - AQ",
+          "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
+          "drm": {
+            "kid": "117c29396ec6fd295880013241a466e1",
+            "key": "3dfb883251884e66d784111877c44b13"
+          }
+        },
+        {
+          "code": "VASEEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
           }
         }
       ]
