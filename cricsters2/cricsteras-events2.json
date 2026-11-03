@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T15:14:20+05:30",
-  "generated_at_india": "03-11-2026 03:14:20 PM IST",
+  "generated_at": "2026-11-03T16:14:42+05:30",
+  "generated_at_india": "03-11-2026 04:14:42 PM IST",
   "total": 19,
   "events": [
     {
@@ -89,8 +89,8 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-03 08:10",
-      "event_time_raw": "2026-11-03 08:10",
+      "event_time": "2026-11-04 08:10",
+      "event_time_raw": "2026-11-04 08:10",
       "category": "WBBL",
       "stream_count": 4
     },
