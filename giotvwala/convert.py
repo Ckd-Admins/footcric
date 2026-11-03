@@ -1,15 +1,14 @@
 import re
 import json
 import urllib.request
+import os
 
-# M3U source URL jo aapne diya
+# Source M3U URL
 M3U_URL = "https://raw.githubusercontent.com/sportlive18/sportlink-update/refs/heads/main/zio.m3u"
 
 def parse_m3u(content):
     channels = []
-    # Lines mein split karein
     lines = content.splitlines()
-    
     current_channel = {}
     
     for line in lines:
@@ -18,18 +17,15 @@ def parse_m3u(content):
             continue
             
         if line.startswith("#EXTINF:"):
-            # Naya channel start ho raha hai, purana save kar lein agar exist karta hai
             if current_channel:
                 channels.append(current_channel)
                 current_channel = {}
                 
-            # Parse tvg-id, tvg-name, logo, group-title aur name
             tvg_id_match = re.search(r'tvg-id="([^"]*)"', line)
             tvg_name_match = re.search(r'tvg-name="([^"]*)"', line)
             logo_match = re.search(r'tvg-logo="([^"]*)"', line)
             group_match = re.search(r'group-title="([^"]*)"', line)
             
-            # Name comma (,) ke baad hota hai
             name_parts = line.split(",")
             name = name_parts[-1].strip() if len(name_parts) > 1 else ""
             
@@ -43,7 +39,6 @@ def parse_m3u(content):
             
         elif line.startswith("#KODIPROP:inputstream.adaptive.license_key="):
             key_data = line.split("=", 1)[1].strip()
-            # Multiple keys bhi ho sakti hain comma separated (jaise History TV18 HD mein hoti hain)
             key_pairs = key_data.split(",")
             for kp in key_pairs:
                 if ":" in kp:
@@ -52,15 +47,12 @@ def parse_m3u(content):
                     
         elif line.startswith("#KODIPROP:inputstream.adaptive.stream_headers="):
             headers_str = line.split("=", 1)[1].strip()
-            # Cookie extract karne ke liye
             cookie_match = re.search(r'Cookie=([^&]+)', headers_str)
             if cookie_match:
                 current_channel["cookie"] = cookie_match.group(1)
                 
         elif not line.startswith("#"):
-            # Yeh channel ka actual stream URL hai
             url = line
-            # Agar cookie present hai, toh usko URL ke aage query parameter ki tarah jod dein
             if "cookie" in current_channel and current_channel["cookie"]:
                 cookie_val = current_channel["cookie"]
                 if "?" in url:
@@ -70,10 +62,8 @@ def parse_m3u(content):
             
             current_channel["url"] = url
             
-            # Aapke desired format ke mutabik keys structure handle karna:
-            # Agar ek key hai toh direct keyId aur key rakhein, agar zyada hain toh "keys" array rakhein
             keys = current_channel.pop("keys_list", [])
-            current_channel.pop("cookie", None) # Temporary cookie key hata dein
+            current_channel.pop("cookie", None)
             
             if len(keys) == 1:
                 current_channel["keyId"] = keys[0]["keyId"]
@@ -87,7 +77,6 @@ def parse_m3u(content):
             channels.append(current_channel)
             current_channel = {}
 
-    # Agar aakhri channel bach gaya ho
     if current_channel:
         channels.append(current_channel)
         
@@ -104,12 +93,14 @@ def main():
         
     json_data = parse_m3u(content)
     
-    # JSON file save karein jise GitHub Actions deploy karega
-    output_filename = "channels.json"
+    # Same folder me channels.json update karega
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    output_filename = os.path.join(script_dir, "channels.json")
+    
     with open(output_filename, "w", encoding="utf-8") as f:
         json.dump(json_data, f, indent=4, ensure_ascii=False)
         
-    print(f"Successfully generated {output_filename} with {len(json_data)} channels.")
+    print(f"Successfully updated {output_filename} with {len(json_data)} channels.")
 
 if __name__ == "__main__":
     main()
