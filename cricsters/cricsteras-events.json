@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T13:34:19+05:30",
-  "generated_at_india": "03-11-2026 01:34:19 PM IST",
-  "total": 15,
+  "generated_at": "2026-11-03T15:18:07+05:30",
+  "generated_at_india": "03-11-2026 03:18:07 PM IST",
+  "total": 20,
   "events": [
     {
       "event_id": "15",
@@ -61,6 +61,46 @@
       "event_time_raw": 1793700000000,
       "category": "Tennis",
       "stream_count": 3
+    },
+    {
+      "event_id": "16",
+      "event_title": "UEFA Champions League - Galatasaray vs VfB Stuttgart",
+      "event_time": "03 Nov, 11:15 pm",
+      "event_time_raw": 1793727900000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "17",
+      "event_title": "UEFA Champions League - Shakhtar Donetsk vs Sporting CP",
+      "event_time": "03 Nov, 11:15 pm",
+      "event_time_raw": 1793727900000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "18",
+      "event_title": "UEFA Champions League - Atlético Madrid vs FC Bayern München",
+      "event_time": "04 Nov, 01:30 am",
+      "event_time_raw": 1793736000000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "19",
+      "event_title": "UEFA Champions League - FC Barcelona vs Aston Villa",
+      "event_time": "04 Nov, 01:30 am",
+      "event_time_raw": 1793736000000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "20",
+      "event_title": "UEFA Champions League - Villarreal vs Paris Saint-Germain",
+      "event_time": "04 Nov, 01:30 am",
+      "event_time_raw": 1793736000000,
+      "category": "Football",
+      "stream_count": 1
     },
     {
       "event_id": "12",

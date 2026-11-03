@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T13:34:19+05:30",
-  "generated_at_india": "03-11-2026 01:34:19 PM IST",
-  "total": 15,
-  "ok": 15,
+  "generated_at": "2026-11-03T15:18:07+05:30",
+  "generated_at_india": "03-11-2026 03:18:07 PM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
@@ -254,6 +254,110 @@
           "drm": {
             "kid": "59f50679c9e60963bd0cb6640992aaaa",
             "key": "8685817c4d31f322e08940feeae2855a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "16",
+      "event_title": "UEFA Champions League - Galatasaray vs VfB Stuttgart",
+      "event_time": "03 Nov, 11:15 pm",
+      "event_time_raw": 1793727900000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "GAVFTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        },
+        {
+          "code": "GAVFCBSS",
+          "title": "CBS SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "17",
+      "event_title": "UEFA Champions League - Shakhtar Donetsk vs Sporting CP",
+      "event_time": "03 Nov, 11:15 pm",
+      "event_time_raw": 1793727900000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SHSPTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "drm": {
+            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
+            "key": "552a78d1aeb74f1650d68255c5749408"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "18",
+      "event_title": "UEFA Champions League - Atlético Madrid vs FC Bayern München",
+      "event_time": "04 Nov, 01:30 am",
+      "event_time_raw": 1793736000000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ATFCTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "19",
+      "event_title": "UEFA Champions League - FC Barcelona vs Aston Villa",
+      "event_time": "04 Nov, 01:30 am",
+      "event_time_raw": 1793736000000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FCASTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "20",
+      "event_title": "UEFA Champions League - Villarreal vs Paris Saint-Germain",
+      "event_time": "04 Nov, 01:30 am",
+      "event_time_raw": 1793736000000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "VIPATNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "drm": {
+            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
+            "key": "552a78d1aeb74f1650d68255c5749408"
           }
         }
       ]
