@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T23:12:39+05:30",
-  "generated_at_india": "03-11-2026 11:12:39 PM IST",
-  "total": 20,
-  "ok": 20,
+  "generated_at": "2026-11-04T00:09:16+05:30",
+  "generated_at_india": "04-11-2026 00:09:16 AM IST",
+  "total": 21,
+  "ok": 21,
   "failed": 0,
   "events": [
     {
@@ -236,8 +236,44 @@
       "event_time": "03 Nov, 11:15 pm",
       "event_time_raw": 1793727900000,
       "category": "Football",
-      "stream_count": 2,
+      "stream_count": 6,
       "streams": [
+        {
+          "code": "GAVFPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nneitrfr1l/out/v1/c96eca69bbb04f77add2020a85495524/cenc.mpd",
+          "drm": {
+            "kid": "92d6baa3bffdea423754f5e0ab55631a",
+            "key": "50b69d834ee34886fa9830363b88e800"
+          }
+        },
+        {
+          "code": "GAVFVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwpfwrdluy/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
+          "drm": {
+            "kid": "9d5218f13397a8cbed7a4544d0d6d198",
+            "key": "919a50686f1bd2dbd1f1b6a9357a9577"
+          }
+        },
+        {
+          "code": "GAVFPRIM",
+          "title": "PRIME VIDEO",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pmxpfwjpew/out/v1/57a2345d56b3485088df37bb379b1884/cenc.mpd",
+          "drm": {
+            "kid": "042cea058767bc670450467c2ed410cb",
+            "key": "045a98c84a49742be3a5a454198ec14c"
+          }
+        },
+        {
+          "code": "GAVFDAZN",
+          "title": "DAZN DE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u4nnymerwj/out/v1/3a24e30418334f10b02441649eaa8cc3/cenc.mpd",
+          "drm": {
+            "kid": "a9dac59142fae1c70a50d526b491a86e",
+            "key": "62752c3314581b6a305f3c655810e201"
+          }
+        },
         {
           "code": "GAVFTNTS",
           "title": "TNT SPORTS FHD",
@@ -264,8 +300,17 @@
       "event_time": "03 Nov, 11:15 pm",
       "event_time_raw": 1793727900000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 6,
       "streams": [
+        {
+          "code": "SHSPPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/aeumjv0tof/out/v1/0d70b9334db84658bd3db38c484a071a/cenc.mpd",
+          "drm": {
+            "kid": "c6b9abe413b8c5552ad7f4a57dbb2af2",
+            "key": "e37d1a8371a874deda5f9b7260e65cde"
+          }
+        },
         {
           "code": "SHSPTNTS",
           "title": "TNT SPORTS FHD",
@@ -273,6 +318,42 @@
           "drm": {
             "kid": "fa34fa8c90336dd528c7a23871cad1fe",
             "key": "552a78d1aeb74f1650d68255c5749408"
+          }
+        },
+        {
+          "code": "SHSPTNTB",
+          "title": "TNT BRASIL - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
+          "drm": {
+            "kid": "83a4bc2c011e2c72b35b7b5f2d35560d",
+            "key": "01bd0115c83d3493449181ba68998ab1"
+          }
+        },
+        {
+          "code": "SHSPPRIM",
+          "title": "PRIME VIDEO",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5z5zrkjiuu/out/v1/7f409e917e5740f18b65323ab79309e5/cenc.mpd",
+          "drm": {
+            "kid": "e6a29d67b1f49548bc93da53455af671",
+            "key": "877d754b52368cebafec625d56be4967"
+          }
+        },
+        {
+          "code": "SHSPVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwpfwrdluy/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
+          "drm": {
+            "kid": "9d5218f13397a8cbed7a4544d0d6d198",
+            "key": "919a50686f1bd2dbd1f1b6a9357a9577"
+          }
+        },
+        {
+          "code": "SHSPDAZN",
+          "title": "DAZN DE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jiybvnjqls/out/v1/9cbdccb678364dafbac6a54af5461882/cenc.mpd",
+          "drm": {
+            "kid": "bddd33b45c3b369cf7febc4c35332e83",
+            "key": "1bbd40180ff193eb23f3db5dbdc43c40"
           }
         }
       ]
@@ -306,7 +387,7 @@
       "streams": [
         {
           "code": "FCASTNTS",
-          "title": "TNT SPORTS FHD",
+          "title": "TNT SPORTS - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "drm": {
             "kid": "69a5aa835a061ce64a630d1046727e40",
@@ -340,15 +421,15 @@
       "event_time": "04 Nov, 07:30 am",
       "event_time_raw": 1793757600000,
       "category": "Cricket",
-      "stream_count": 6,
+      "stream_count": 5,
       "streams": [
         {
           "code": "NEINTNTS",
           "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
           "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
           }
         },
         {
@@ -379,21 +460,49 @@
           }
         },
         {
-          "code": "NEINSONY",
-          "title": "SONYLIV PPV EN - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
-          "drm": {
-            "kid": "e9b05390d0d8a3766d720cc0dfa9c1c3",
-            "key": "5b371247b3ec6ae9976204359d781e85"
-          }
-        },
-        {
           "code": "NEINWILLF4",
           "title": "WILLOW S2 - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/jorvx5qfk6/out/v1/6dbb07d5c15c4ffb8b51bdcdc0425548/cenc.mpd",
           "drm": {
             "kid": "6df39bfdcc3293c5018e97607998cae3",
             "key": "794ada809851b50c0e8a7568f92971e0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "21",
+      "event_title": "Women's Big Bash League - Hobart Hurricanes Women vs Melbourne Renegades Women",
+      "event_time": "04 Nov, 01:40 pm",
+      "event_time_raw": 1793779800000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "HOMEWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/swik2pdf1r/out/v1/9d9e497a0a38428c98ff916ba955c6af/cenc.mpd",
+          "drm": {
+            "kid": "bdb10e080e6cbd5a3a030e64405d20c4",
+            "key": "a0b78fd84befce65581d79f9da904a61"
+          }
+        },
+        {
+          "code": "HOMEWILLQW",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        },
+        {
+          "code": "HOMEEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
           }
         }
       ]
@@ -592,7 +701,7 @@
           }
         },
         {
-          "code": "NEINSONY69",
+          "code": "NEINSONY",
           "title": "SONYLIV PPV EN - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
           "drm": {
