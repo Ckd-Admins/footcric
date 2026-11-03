@@ -2,12 +2,12 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T10:13:44+05:30",
-  "generated_at_india": "03-11-2026 10:13:44 AM IST",
-  "total": 24,
+  "generated_at": "2026-11-03T11:14:09+05:30",
+  "generated_at_india": "03-11-2026 11:14:09 AM IST",
+  "total": 15,
   "events": [
     {
-      "event_id": "16",
+      "event_id": "15",
       "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
@@ -39,14 +39,6 @@
       "stream_count": 7
     },
     {
-      "event_id": "15",
-      "event_title": "Women's Big Bash League - Melbourne Stars Women vs Perth Scorchers Women",
-      "event_time": "02 Nov, 01:40 pm",
-      "event_time_raw": 1793607000000,
-      "category": "Cricket",
-      "stream_count": 3
-    },
-    {
       "event_id": "6",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "02 Nov, 03:30 pm",
@@ -61,70 +53,6 @@
       "event_time_raw": 1793619000000,
       "category": "Snooker",
       "stream_count": 3
-    },
-    {
-      "event_id": "17",
-      "event_title": "LaLiga 2 - Real Oviedo vs UD Las Palmas",
-      "event_time": "02 Nov, 08:45 pm",
-      "event_time_raw": 1793632500000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "19",
-      "event_title": "Serie A - Atalanta vs Parma",
-      "event_time": "03 Nov, 01:15 am",
-      "event_time_raw": 1793648700000,
-      "category": "Football",
-      "stream_count": 7
-    },
-    {
-      "event_id": "23",
-      "event_title": "Ligue 1 - Lorient vs Stade Brestois",
-      "event_time": "03 Nov, 01:15 am",
-      "event_time_raw": 1793648700000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "18",
-      "event_title": "Premier League - Newcastle United vs Everton",
-      "event_time": "03 Nov, 01:30 am",
-      "event_time_raw": 1793649600000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "21",
-      "event_title": "LaLiga 2 - Mallorca vs Cádiz",
-      "event_time": "03 Nov, 01:30 am",
-      "event_time_raw": 1793649600000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "24",
-      "event_title": "LaLiga - Deportivo de A Coruña vs Osasuna",
-      "event_time": "03 Nov, 01:30 am",
-      "event_time_raw": 1793649600000,
-      "category": "Football",
-      "stream_count": 4
-    },
-    {
-      "event_id": "20",
-      "event_title": "Liga Portugal Betclic - Benfica vs FC Alverca",
-      "event_time": "03 Nov, 01:45 am",
-      "event_time_raw": 1793650500000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "22",
-      "event_title": "Campeonato Brasileiro Série A - Red Bull Bragantino vs Santos",
-      "event_time": "03 Nov, 04:30 am",
-      "event_time_raw": 1793660400000,
-      "category": "Football",
-      "stream_count": 2
     },
     {
       "event_id": "10",
