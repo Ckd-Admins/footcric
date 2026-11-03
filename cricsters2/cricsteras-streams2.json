@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T06:01:13+05:30",
-  "generated_at_india": "03-11-2026 06:01:13 AM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-11-03T07:19:40+05:30",
+  "generated_at_india": "03-11-2026 07:19:40 AM IST",
+  "total": 21,
+  "ok": 21,
   "failed": 0,
   "events": [
     {
@@ -745,109 +745,6 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50094,
-      "event_title": "Benfica vs FC Alverca",
-      "event_time": "2026-11-02 20:15",
-      "event_time_raw": "2026-11-02 20:15",
-      "category": "Liga Portugal",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "BEFCBEIN",
-          "title": "beIN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
-          "drm": {
-            "kid": "74cbe15488783fab07ff8c702fabafcd",
-            "key": "bb607803a49c2d6104f845e7886c971c"
-          }
-        },
-        {
-          "code": "BEFCSPOR",
-          "title": "D Sports FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "drm": {
-            "kid": "f836853d8eac19446ed9535f5fc568b1",
-            "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50096,
-      "event_title": "Mallorca vs Cádiz",
-      "event_time": "2026-11-02 20:00",
-      "event_time_raw": "2026-11-02 20:00",
-      "category": "LaLiga 2",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "MACDLALI",
-          "title": "Laliga Hypermotion ES",
-          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50099,
-      "event_title": "Sassuolo vs Fiorentina",
-      "event_time": "2026-11-02 17:30",
-      "event_time_raw": "2026-11-02 17:30",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SAFIBEIN",
-          "title": "beIN ENGLISH FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "SAFICBSN",
-          "title": "CBS NETWORK",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        },
-        {
-          "code": "SAFISPOR",
-          "title": "SPORT 1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50100,
-      "event_title": "Real Valladolid vs Leganés",
-      "event_time": "2026-11-02 17:30",
-      "event_time_raw": "2026-11-02 17:30",
-      "category": "LaLiga 2",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "RELELALI",
-          "title": "Laliga Hypermotion ES",
-          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
           }
         }
       ]

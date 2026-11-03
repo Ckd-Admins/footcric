@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T06:01:13+05:30",
-  "generated_at_india": "03-11-2026 06:01:13 AM IST",
-  "total": 25,
+  "generated_at": "2026-11-03T07:19:40+05:30",
+  "generated_at_india": "03-11-2026 07:19:40 AM IST",
+  "total": 21,
   "events": [
     {
       "event_id": 50002,
@@ -173,38 +173,6 @@
       "event_time_raw": "2026-11-02 20:00",
       "category": "LaLiga 🇪🇸",
       "stream_count": 4
-    },
-    {
-      "event_id": 50094,
-      "event_title": "Benfica vs FC Alverca",
-      "event_time": "2026-11-02 20:15",
-      "event_time_raw": "2026-11-02 20:15",
-      "category": "Liga Portugal",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50096,
-      "event_title": "Mallorca vs Cádiz",
-      "event_time": "2026-11-02 20:00",
-      "event_time_raw": "2026-11-02 20:00",
-      "category": "LaLiga 2",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50099,
-      "event_title": "Sassuolo vs Fiorentina",
-      "event_time": "2026-11-02 17:30",
-      "event_time_raw": "2026-11-02 17:30",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50100,
-      "event_title": "Real Valladolid vs Leganés",
-      "event_time": "2026-11-02 17:30",
-      "event_time_raw": "2026-11-02 17:30",
-      "category": "LaLiga 2",
-      "stream_count": 1
     }
   ],
   "raw_data": ""
