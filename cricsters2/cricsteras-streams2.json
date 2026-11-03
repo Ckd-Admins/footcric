@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T02:03:38+05:30",
-  "generated_at_india": "04-11-2026 02:03:38 AM IST",
+  "generated_at": "2026-11-04T02:59:46+05:30",
+  "generated_at_india": "04-11-2026 02:59:46 AM IST",
   "total": 26,
   "ok": 26,
   "failed": 0,
@@ -505,8 +505,17 @@
       "event_time": "2026-11-03 20:00",
       "event_time_raw": "2026-11-03 20:00",
       "category": "UCL",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "ATBAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vh0otvgsty/out/v1/bd515f9d353d436c8d9f7fad1a036eae/cenc.mpd",
+          "drm": {
+            "kid": "81e0ae17a7166c881b38468bee4d210d",
+            "key": "be2dd777d1aa42adc54d090fcf886b29"
+          }
+        },
         {
           "code": "ATBATNTS",
           "title": "TNT SPORTS FHD",
@@ -634,8 +643,17 @@
       "event_time": "2026-11-03 20:00",
       "event_time_raw": "2026-11-03 20:00",
       "category": "UCL",
-      "stream_count": 1,
+      "stream_count": 4,
       "streams": [
+        {
+          "code": "MAASPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f9bag1jthy/out/v1/3b8065fd2f2448ae950acb1799289059/cenc.mpd",
+          "drm": {
+            "kid": "36e4c42e68010f7a3e5f543d18e48242",
+            "key": "014543c3e28193bbe08cf7e3f729715e"
+          }
+        },
         {
           "code": "MAASPRIM",
           "title": "PRIME VIDEO FHD",
@@ -643,6 +661,24 @@
           "drm": {
             "kid": "6d5337196b414dded830543ce01575c8",
             "key": "f5db6c7b83d3a8ee391191a5486ba567"
+          }
+        },
+        {
+          "code": "MAASDAZN",
+          "title": "DAZN SPORTS DE",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jtyvkcoh4v/out/v1/075533792ddb4a178c7b77a2c582bcaa/cenc.mpd",
+          "drm": {
+            "kid": "746772ee03bdc6b4c4d26384bff0e499",
+            "key": "3d88f15c96f473fbfae335e7f1b6b200"
+          }
+        },
+        {
+          "code": "MAASVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rxlovii2bb/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd",
+          "drm": {
+            "kid": "d504a4144684bf40c4ad12a9cf7c3faa",
+            "key": "f81e60e7f3c75a3453b3dd605d2b01dd"
           }
         }
       ]
