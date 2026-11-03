@@ -2,6 +2,7 @@ import re
 import json
 import urllib.request
 import os
+from datetime import datetime, timezone, timedelta
 
 # Source M3U URL
 M3U_URL = "https://raw.githubusercontent.com/sportlive18/sportlink-update/refs/heads/main/zio.m3u"
@@ -10,6 +11,7 @@ def parse_m3u(content):
     channels = []
     lines = content.splitlines()
     current_channel = {}
+    extracted_cookie = None
     
     for line in lines:
         line = line.strip()
@@ -49,7 +51,11 @@ def parse_m3u(content):
             headers_str = line.split("=", 1)[1].strip()
             cookie_match = re.search(r'Cookie=([^&]+)', headers_str)
             if cookie_match:
-                current_channel["cookie"] = cookie_match.group(1)
+                cookie_val = cookie_match.group(1)
+                current_channel["cookie"] = cookie_val
+                # First common wildcard (acl=/*) wali cookie grab karne ke liye
+                if not extracted_cookie or "acl=/*" in cookie_val:
+                    extracted_cookie = cookie_val
                 
         elif not line.startswith("#"):
             url = line
@@ -80,7 +86,7 @@ def parse_m3u(content):
     if current_channel:
         channels.append(current_channel)
         
-    return channels
+    return channels, extracted_cookie
 
 def main():
     print(f"Fetching M3U from {M3U_URL}...")
@@ -91,16 +97,33 @@ def main():
     with urllib.request.urlopen(req) as response:
         content = response.read().decode('utf-8')
         
-    json_data = parse_m3u(content)
+    json_data, cookie = parse_m3u(content)
     
-    # Same folder me channels.json update karega
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    output_filename = os.path.join(script_dir, "channels.json")
     
-    with open(output_filename, "w", encoding="utf-8") as f:
+    # 1. Save channels.json
+    channels_filename = os.path.join(script_dir, "channels.json")
+    with open(channels_filename, "w", encoding="utf-8") as f:
         json.dump(json_data, f, indent=4, ensure_ascii=False)
-        
-    print(f"Successfully updated {output_filename} with {len(json_data)} channels.")
+    print(f"Successfully updated {channels_filename}")
+    
+    # 2. Save cookies.json
+    ist_time = datetime.now(timezone.utc) + timedelta(hours=5, minutes=30)
+    formatted_time = ist_time.strftime("%H:%M %d-%m-%Y")
+    
+    cookies_data = [
+        {
+            "last_updated": formatted_time
+        },
+        {
+            "cookie": cookie if cookie else ""
+        }
+    ]
+    
+    cookies_filename = os.path.join(script_dir, "cookies.json")
+    with open(cookies_filename, "w", encoding="utf-8") as f:
+        json.dump(cookies_data, f, indent=2, ensure_ascii=False)
+    print(f"Successfully updated {cookies_filename}")
 
 if __name__ == "__main__":
     main()
