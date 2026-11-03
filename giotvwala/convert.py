@@ -3,7 +3,7 @@ import json
 import urllib.request
 
 # Apna GitHub Raw M3U URL yahan dalein
-M3U_URL = "YOUR_M3U_RAW_URL"
+M3U_URL = "https://raw.githubusercontent.com/sportlive18/sportlink-update/refs/heads/main/zio.m3u"
 
 def get_attr(line, attr):
     match = re.search(
