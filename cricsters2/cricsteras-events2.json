@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T09:07:57+05:30",
-  "generated_at_india": "03-11-2026 09:07:57 AM IST",
-  "total": 24,
+  "generated_at": "2026-11-03T10:09:27+05:30",
+  "generated_at_india": "03-11-2026 10:09:27 AM IST",
+  "total": 21,
   "events": [
     {
       "event_id": 50002,
@@ -87,14 +87,6 @@
       "stream_count": 2
     },
     {
-      "event_id": 50043,
-      "event_title": "Cleveland Cavaliers vs Oklahoma City Thunder",
-      "event_time": "2026-11-03 00:00",
-      "event_time_raw": "2026-11-03 00:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
       "event_id": 50052,
       "event_title": "Los Angeles Clippers vs Toronto Raptors",
       "event_time": "2026-11-03 03:00",
@@ -119,28 +111,12 @@
       "stream_count": 4
     },
     {
-      "event_id": 50075,
-      "event_title": "Boston Bruins vs Vegas Golden Knights",
-      "event_time": "2026-11-03 00:00",
-      "event_time_raw": "2026-11-03 00:00",
-      "category": "NHL",
-      "stream_count": 1
-    },
-    {
       "event_id": 50078,
       "event_title": "San Jose Sharks vs Calgary Flames",
       "event_time": "2026-11-03 02:00",
       "event_time_raw": "2026-11-03 02:00",
       "category": "NHL",
       "stream_count": 1
-    },
-    {
-      "event_id": 50086,
-      "event_title": "Red Bull Bragantino vs Santos",
-      "event_time": "2026-11-02 23:00",
-      "event_time_raw": "2026-11-02 23:00",
-      "category": "Brasileirão",
-      "stream_count": 2
     },
     {
       "event_id": 50090,
