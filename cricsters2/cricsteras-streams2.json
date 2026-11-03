@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T12:16:09+05:30",
-  "generated_at_india": "03-11-2026 00:16:09 PM IST",
-  "total": 20,
-  "ok": 20,
+  "generated_at": "2026-11-03T13:29:19+05:30",
+  "generated_at_india": "03-11-2026 01:29:19 PM IST",
+  "total": 19,
+  "ok": 19,
   "failed": 0,
   "events": [
     {
@@ -364,25 +364,6 @@
           "drm": {
             "kid": "85f340146e46533b39d1415d90746352",
             "key": "448aafcc613ddfd448f14d9275eda19b"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50052,
-      "event_title": "Los Angeles Clippers vs Toronto Raptors",
-      "event_time": "2026-11-03 03:00",
-      "event_time_raw": "2026-11-03 03:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "LOTOTSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
           }
         }
       ]
