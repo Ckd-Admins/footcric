@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T17:13:06+05:30",
-  "generated_at_india": "03-11-2026 05:13:06 PM IST",
+  "generated_at": "2026-11-03T18:19:49+05:30",
+  "generated_at_india": "03-11-2026 06:19:49 PM IST",
   "total": 20,
   "ok": 20,
   "failed": 0,
@@ -371,6 +371,15 @@
       "stream_count": 6,
       "streams": [
         {
+          "code": "NEINTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
           "code": "NEINPRIM",
           "title": "PRIME VIDEO - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
@@ -395,15 +404,6 @@
           "drm": {
             "kid": "7a3f90a5769802036c18de821735b594",
             "key": "1412cd88540af73b27e45c9982bc9c78"
-          }
-        },
-        {
-          "code": "NEINTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
           }
         },
         {
