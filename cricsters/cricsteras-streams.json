@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-03T09:11:17+05:30",
-  "generated_at_india": "03-11-2026 09:11:17 AM IST",
+  "generated_at": "2026-11-03T10:13:44+05:30",
+  "generated_at_india": "03-11-2026 10:13:44 AM IST",
   "total": 24,
   "ok": 24,
   "failed": 0,
@@ -297,7 +297,7 @@
         {
           "code": "ATPAPARA",
           "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/a8se1ewxyh/out/v1/6be60264f35a4029992b9cd7bfc953d5/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a8se1ewxyh/out/v1/6be60264f35a4029992b9cd7bfc953d5/cenc.mpd",
           "drm": {
             "kid": "1f1beb990203c7f2e20468ed555f1736",
             "key": "7887b793790dec665b757615ce5bce12"
@@ -306,7 +306,7 @@
         {
           "code": "ATPADAZN",
           "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wyjjf8trsu/out/v1/eae36d06f8e041e08c2f8f00b8b9db77/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wyjjf8trsu/out/v1/eae36d06f8e041e08c2f8f00b8b9db77/cenc.mpd",
           "drm": {
             "kid": "99a7a3acf15d01e38fe95ecfb623d2b5",
             "key": "9065f8b2bbc0559eedf3ebc8bf3bde86"
