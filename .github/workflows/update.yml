@@ -1,9 +1,9 @@
-name: Update M3U to Channels JSON
+name: Update M3U to Channels & Cookies JSON
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Har 6 ghante me auto update hoga
-  workflow_dispatch: # Manual run ke liye button
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -27,5 +27,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add giotvwala/channels.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update giotvwala/channels.json [skip ci]" && git push)
+          git add giotvwala/channels.json giotvwala/cookies.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update channels.json and cookies.json [skip ci]" && git push)
