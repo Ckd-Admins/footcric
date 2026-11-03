@@ -23,7 +23,7 @@ jobs:
           python-version: "3.x"
 
       - name: Run JioTV Converter
-        run: python footcric/giotvwala/convert.py
+        run: python giotvwala/convert.py
 
       - name: Commit Generated JSON
         run: |
