@@ -1,9 +1,14 @@
+
 import re
 import json
 import urllib.request
+from pathlib import Path
 
-# Apna GitHub Raw M3U URL yahan dalein
 M3U_URL = "https://raw.githubusercontent.com/sportlive18/sportlink-update/refs/heads/main/zio.m3u"
+
+# Save JSON in the same folder as this script
+OUTPUT = Path(__file__).resolve().parent / "channels.json"
+
 
 def get_attr(line, attr):
     match = re.search(
@@ -11,14 +16,17 @@ def get_attr(line, attr):
     )
     return match.group(1) if match else ""
 
+
 def convert():
+    print("Downloading M3U playlist...")
+
     request = urllib.request.Request(
         M3U_URL,
         headers={"User-Agent": "Mozilla/5.0"}
     )
 
-    with urllib.request.urlopen(request) as response:
-        content = response.read().decode("utf-8")
+    with urllib.request.urlopen(request, timeout=60) as response:
+        content = response.read().decode("utf-8-sig")
 
     channels = []
     current = None
@@ -41,10 +49,18 @@ def convert():
             channels.append(current)
             current = None
 
-    with open("channels.json", "w", encoding="utf-8") as f:
+    if not channels:
+        raise ValueError("No channels found! Check the M3U URL.")
+
+    with open(OUTPUT, "w", encoding="utf-8") as f:
         json.dump(channels, f, indent=4, ensure_ascii=False)
 
-    print(f"Generated {len(channels)} channels")
+    print("--------------------------------")
+    print(f"Generated: {len(channels)} channels")
+    print(f"Output: {OUTPUT}")
+    print(f"File size: {OUTPUT.stat().st_size} bytes")
+    print("--------------------------------")
+
 
 if __name__ == "__main__":
     convert()
