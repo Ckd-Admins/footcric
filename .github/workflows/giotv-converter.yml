@@ -1,5 +1,5 @@
 
-name: JioTV JSON Converter
+name: JioTV Converter
 
 on:
   workflow_dispatch:
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -22,13 +22,18 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Run JioTV Converter
+      - name: Convert M3U
         run: python giotvwala/convert.py
 
-      - name: Commit Generated JSON
+      - name: Verify JSON
+        run: |
+          ls -lh giotvwala/channels.json
+          python -c "import json; d=json.load(open('giotvwala/channels.json')); print('Total:', len(d))"
+
+      - name: Commit JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f giotvwala/channels.json
-          git diff --cached --quiet || git commit -m "Update JioTV channels JSON"
+          git add giotvwala/channels.json
+          git diff --cached --quiet || git commit -m "Update channels JSON"
           git push
