@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T23:14:42+05:30",
-  "generated_at_india": "04-11-2026 11:14:42 PM IST",
+  "generated_at": "2026-11-05T00:16:24+05:30",
+  "generated_at_india": "05-11-2026 00:16:24 AM IST",
   "total": 25,
   "ok": 25,
   "failed": 0,
   "events": [
     {
-      "event_id": "15",
+      "event_id": "17",
       "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "12",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "4",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "8",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "04 Nov, 03:30 pm",
       "event_time_raw": 1793786400000,
@@ -204,49 +204,21 @@
     },
     {
       "event_id": "1",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "04 Nov, 05:00 pm",
-      "event_time_raw": 1793791800000,
-      "category": "Snooker",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SNSNTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "SNSNEURO",
-          "title": "EUROSPORT EN - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
-          "drm": {
-            "kid": "8c17752768447a2ff801b87f7a390781",
-            "key": "90375b77c0f6d271caef3c8accd4f1ae"
-          }
-        },
-        {
-          "code": "SNSNEUROAU",
-          "title": "EUROSPORT CZ - AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "18",
       "event_title": "UEFA Champions League - AEK Athens vs Real Madrid",
       "event_time": "04 Nov, 11:15 pm",
       "event_time_raw": 1793814300000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 7,
       "streams": [
+        {
+          "code": "AEREPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/failbdta50/out/v1/41a2b450ebe846d08a00e84663f9b324/cenc.mpd",
+          "drm": {
+            "kid": "3513dd3c560190e3d442208dd4dca9dd",
+            "key": "108531e39fdc0a80f2f990776e7037f3"
+          }
+        },
         {
           "code": "AERETNTS",
           "title": "TNT SPORTS FHD",
@@ -255,17 +227,71 @@
             "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
             "key": "643e5474d9edd87c7d9091c8c97994ca"
           }
+        },
+        {
+          "code": "AERESONY",
+          "title": "SONYLIV PPV AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mdwszwnwl8/out/v1/7dae84dc172a435798fab72a8cd99828/cenc.mpd",
+          "drm": {
+            "kid": "e9aa556dbdf0cba2f898cbcc26e2ae0e",
+            "key": "e5e197eabb61007501d905521fa620d0"
+          }
+        },
+        {
+          "code": "AEREDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sgxlaurrkw/out/v1/c3f667057bc84a78b2df646b097fb1eb/cenc.mpd",
+          "drm": {
+            "kid": "104827754710be1bfac19b2433cf6846",
+            "key": "9f57ccbf41f5cb5fdcf0deb2b41509b0"
+          }
+        },
+        {
+          "code": "AEREVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bvddkqdcbo/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd",
+          "drm": {
+            "kid": "8423baa4631c12837510e853dcad96d6",
+            "key": "1032cc040f378fdcec68c45ccbdb7215"
+          }
+        },
+        {
+          "code": "AEREHBOM",
+          "title": "HBO MAX BR AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
+          "drm": {
+            "kid": "83a4bc2c011e2c72b35b7b5f2d35560d",
+            "key": "01bd0115c83d3493449181ba68998ab1"
+          }
+        },
+        {
+          "code": "AERESTAN",
+          "title": "STAN SPORTS AQ (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/e959b14be80542cfa366e64fdb59def2/index.mpd",
+          "drm": {
+            "kid": "968365692ff84c9185c265d3e3b6fd9e",
+            "key": "96e01b10ee8c139c0cf63cd8f4920855"
+          }
         }
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "2",
       "event_title": "UEFA Champions League - Fenerbahçe vs Liverpool FC",
       "event_time": "04 Nov, 11:15 pm",
       "event_time_raw": 1793814300000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 7,
       "streams": [
+        {
+          "code": "FELIPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/finodo98vw/out/v1/0bba03d3a8594cd6bfe409ec5ecf1114/cenc.mpd",
+          "drm": {
+            "kid": "368bdc08268c3e679d53a4b94964a911",
+            "key": "a88f47b574b27e32d186ce686b45f9a5"
+          }
+        },
         {
           "code": "FELITNTS",
           "title": "TNT SPORTS FHD",
@@ -274,11 +300,56 @@
             "kid": "69a5aa835a061ce64a630d1046727e40",
             "key": "d02feac8a999bd06bf4059bf33411749"
           }
+        },
+        {
+          "code": "FELISONY",
+          "title": "SONYLIV PPV AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hve6te3gra/out/v1/c852d0c20b0c4009a6320557da063330/cenc.mpd",
+          "drm": {
+            "kid": "196d7adbb90349cc7b8fa41a4205a287",
+            "key": "56e77fe45183734a76ab51d67efefa96"
+          }
+        },
+        {
+          "code": "FELIDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m4hzilar79/out/v1/89daf1d02da540d79fad24952ec7a8df/cenc.mpd",
+          "drm": {
+            "kid": "d8102ff81175e6be48e14f62803ba7d5",
+            "key": "7933876f7d2d1bcb66f43030e1ad926c"
+          }
+        },
+        {
+          "code": "FELIVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lho2ni3olb/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd",
+          "drm": {
+            "kid": "2453950127dfcbf10a57b540a2691b1e",
+            "key": "4eb4220aeb59cb8ca47c0bbd3cac9e6e"
+          }
+        },
+        {
+          "code": "FELIHBOM",
+          "title": "HBO MAX BR AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m0dk7evbbv/out/v1/2280611214d549bab3108a7ec929c99a/cenc.mpd",
+          "drm": {
+            "kid": "09a695c21528e0853371b882814c3aac",
+            "key": "805bb374cfeebf82408b6850ecda7d14"
+          }
+        },
+        {
+          "code": "FELISTAN",
+          "title": "STAN SPORTS AQ (AUS)",
+          "url": "https://live01-stan.akamaized.net/out/v1/0eedf4181945486ca44d2c473e1b5d68/index.mpd",
+          "drm": {
+            "kid": "74cbd8518d744502ae821436e0c71ccf",
+            "key": "6cc69e94a8591aa16471f47f558e5c8a"
+          }
         }
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "18",
       "event_title": "UEFA Champions League - SK Slavia Praha vs Arsenal",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -297,7 +368,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "19",
       "event_title": "UEFA Champions League - Borussia Dortmund vs Real Betis",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -316,7 +387,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "UEFA Champions League - RB Leipzig vs Manchester City",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -382,7 +453,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "5",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -466,7 +537,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "14",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "05 Nov, 09:00 am",
       "event_time_raw": 1793849400000,
@@ -494,7 +565,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "13",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "05 Nov, 10:30 am",
       "event_time_raw": 1793854800000,
@@ -522,7 +593,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "10",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "05 Nov, 11:30 am",
       "event_time_raw": 1793858400000,
@@ -559,7 +630,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "11",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "05 Nov, 12:15 pm",
       "event_time_raw": 1793861100000,
@@ -587,7 +658,44 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "3",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "05 Nov, 05:00 pm",
+      "event_time_raw": 1793878200000,
+      "category": "Snooker",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "SNSNTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "SNSNEURO",
+          "title": "EUROSPORT EN - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
+          "drm": {
+            "kid": "8c17752768447a2ff801b87f7a390781",
+            "key": "90375b77c0f6d271caef3c8accd4f1ae"
+          }
+        },
+        {
+          "code": "SNSNEUROAU",
+          "title": "EUROSPORT CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "6",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -606,7 +714,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "15",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -661,7 +769,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "7",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -680,7 +788,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "16",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
@@ -744,7 +852,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "9",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
