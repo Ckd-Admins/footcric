@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T07:18:00+05:30",
-  "generated_at_india": "04-11-2026 07:18:00 AM IST",
-  "total": 17,
-  "ok": 17,
+  "generated_at": "2026-11-04T07:42:48+05:30",
+  "generated_at_india": "04-11-2026 07:42:48 AM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -247,6 +247,15 @@
           }
         },
         {
+          "code": "NEINPRIM",
+          "title": "PRIME VIDEO (HINDI)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ppmrp8tlzz/out/v1/cf829370483b4212ac7d5e3009c514b1/cenc.mpd",
+          "drm": {
+            "kid": "952fb91696308da86bee7cd24edf0b58",
+            "key": "bf359214ab3ac848738bdf014ace21b3"
+          }
+        },
+        {
           "code": "NEINTNTS",
           "title": "TNT SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
@@ -256,30 +265,21 @@
           }
         },
         {
-          "code": "NEINPRIM",
-          "title": "PRIME VIDEO (HINDI)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mohqiz9gyv/out/v1/95de092d1d574891ba87cd37df9c3f2b/cenc.mpd",
-          "drm": {
-            "kid": "4d4e8cc811e844075fa97ed19abb1abe",
-            "key": "9bcb83c52597af936e9b3ff8a4dd27e4"
-          }
-        },
-        {
-          "code": "NEINPRIMC5",
+          "code": "NEINPRIMWI",
           "title": "PRIME VIDEO (ENG)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9z1fajy3r4/out/v1/2e1a478d31fb4c1dbd2e54391b006a35/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rtlq2she5l/out/v1/8965a8b295c4453eb5afd8706e65586a/cenc.mpd",
           "drm": {
-            "kid": "de23ce5421c57988c1ba1cd8a0d16551",
-            "key": "fb50935ff66bcea5899f989c5bbfd270"
+            "kid": "db4b3e1da015cf0f03c2a5f4b9ee8433",
+            "key": "964bab777741f2b59adedcbbcd463374"
           }
         },
         {
-          "code": "NEINWILLGQ",
+          "code": "NEINWILLQC",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4dwybz2taj/out/v1/c90ad7bb77af498083f47bf86b7999b7/cenc.mpd",
           "drm": {
-            "kid": "7ef90352c28904be995275bc47f74c04",
-            "key": "af5e36ddef7584474601c19b4ae5935a"
+            "kid": "6a028d5592b0e81f9c4fd4de4df6d5c7",
+            "key": "9378d2ddd738b2d0b7a85ba65b643a7f"
           }
         }
       ]
@@ -552,6 +552,120 @@
           "drm": {
             "kid": "1444f4235529f183f0a5a486befe9cdb",
             "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50090,
+      "event_title": "Borussia Dortmund vs Real Betis",
+      "event_time": "2026-11-04 20:00",
+      "event_time_raw": "2026-11-04 20:00",
+      "category": "UCL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BORETNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "drm": {
+            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
+            "key": "552a78d1aeb74f1650d68255c5749408"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50091,
+      "event_title": "RB Leipzig vs Manchester City",
+      "event_time": "2026-11-04 20:00",
+      "event_time_raw": "2026-11-04 20:00",
+      "category": "UCL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "RBMATNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50092,
+      "event_title": "SK Slavia Praha vs Arsenal",
+      "event_time": "2026-11-04 20:00",
+      "event_time_raw": "2026-11-04 20:00",
+      "category": "UCL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SKARTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50097,
+      "event_title": "AEK Athens vs Real Madrid",
+      "event_time": "2026-11-04 17:45",
+      "event_time_raw": "2026-11-04 17:45",
+      "category": "UCL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "AERETNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm": {
+            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+            "key": "643e5474d9edd87c7d9091c8c97994ca"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50098,
+      "event_title": "Fenerbahçe vs Liverpool FC",
+      "event_time": "2026-11-04 17:45",
+      "event_time_raw": "2026-11-04 17:45",
+      "category": "UCL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FELITNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50099,
+      "event_title": "Stade Rennais vs Olympiacos FC",
+      "event_time": "2026-11-04 15:30",
+      "event_time_raw": "2026-11-04 15:30",
+      "category": "UEFA Europa",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "STOLTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
           }
         }
       ]
