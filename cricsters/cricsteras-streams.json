@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T22:17:11+05:30",
-  "generated_at_india": "04-11-2026 10:17:11 PM IST",
+  "generated_at": "2026-11-04T23:14:42+05:30",
+  "generated_at_india": "04-11-2026 11:14:42 PM IST",
   "total": 25,
   "ok": 25,
   "failed": 0,
@@ -688,27 +688,27 @@
       "stream_count": 6,
       "streams": [
         {
-          "code": "NEINWILLB8",
+          "code": "NEINWILL7C",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd",
           "drm": {
             "kid": "6a028d5592b0e81f9c4fd4de4df6d5c7",
             "key": "9378d2ddd738b2d0b7a85ba65b643a7f"
           }
         },
         {
-          "code": "NEINPRIMRD",
+          "code": "NEINPRIM4Q",
           "title": "PRIME HINDI - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ppmrp8tlzz/out/v1/cf829370483b4212ac7d5e3009c514b1/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ppmrp8tlzz/out/v1/cf829370483b4212ac7d5e3009c514b1/cenc.mpd",
           "drm": {
             "kid": "952fb91696308da86bee7cd24edf0b58",
             "key": "bf359214ab3ac848738bdf014ace21b3"
           }
         },
         {
-          "code": "NEINPRIMWI",
+          "code": "NEINPRIM0Z",
           "title": "PRIME VIDEO - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rtlq2she5l/out/v1/8965a8b295c4453eb5afd8706e65586a/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rtlq2she5l/out/v1/8965a8b295c4453eb5afd8706e65586a/cenc.mpd",
           "drm": {
             "kid": "db4b3e1da015cf0f03c2a5f4b9ee8433",
             "key": "964bab777741f2b59adedcbbcd463374"
@@ -733,9 +733,9 @@
           }
         },
         {
-          "code": "NEINWILLGQ",
+          "code": "NEINWILLPR",
           "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd",
           "drm": {
             "kid": "7ef90352c28904be995275bc47f74c04",
             "key": "af5e36ddef7584474601c19b4ae5935a"
