@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T15:16:37+05:30",
-  "generated_at_india": "04-11-2026 03:16:37 PM IST",
+  "generated_at": "2026-11-04T16:25:58+05:30",
+  "generated_at_india": "04-11-2026 04:25:58 PM IST",
   "total": 21,
   "events": [
     {
@@ -49,8 +49,8 @@
     {
       "event_id": 50008,
       "event_title": "New Zealand vs India",
-      "event_time": "2026-11-04 02:00",
-      "event_time_raw": "2026-11-04 02:00",
+      "event_time": "2026-11-07 02:00",
+      "event_time_raw": "2026-11-07 02:00",
       "category": "Cricket",
       "stream_count": 5
     },
