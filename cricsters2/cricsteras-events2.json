@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T04:58:16+05:30",
-  "generated_at_india": "04-11-2026 04:58:16 AM IST",
-  "total": 26,
+  "generated_at": "2026-11-04T06:00:37+05:30",
+  "generated_at_india": "04-11-2026 06:00:37 AM IST",
+  "total": 22,
   "events": [
     {
       "event_id": 50002,
@@ -103,6 +103,22 @@
       "stream_count": 4
     },
     {
+      "event_id": 50076,
+      "event_title": "Montréal Canadiens vs Winnipeg Jets",
+      "event_time": "2026-11-04 00:00",
+      "event_time_raw": "2026-11-04 00:00",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50077,
+      "event_title": "New York Rangers vs St. Louis Blues",
+      "event_time": "2026-11-04 00:00",
+      "event_time_raw": "2026-11-04 00:00",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
       "event_id": 50086,
       "event_title": "Internacional vs Coritiba",
       "event_time": "2026-11-04 00:30",
@@ -119,36 +135,12 @@
       "stream_count": 1
     },
     {
-      "event_id": 50090,
-      "event_title": "Atletico Madrid vs Bayern Munchen",
-      "event_time": "2026-11-03 20:00",
-      "event_time_raw": "2026-11-03 20:00",
-      "category": "UCL",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50091,
-      "event_title": "FC Barcelona vs Aston Villa",
-      "event_time": "2026-11-03 20:00",
-      "event_time_raw": "2026-11-03 20:00",
-      "category": "UCL",
-      "stream_count": 5
-    },
-    {
-      "event_id": 50092,
-      "event_title": "Villarreal vs Paris Saint-Germain",
-      "event_time": "2026-11-03 20:00",
-      "event_time_raw": "2026-11-03 20:00",
-      "category": "UCL",
-      "stream_count": 4
-    },
-    {
-      "event_id": 50093,
-      "event_title": "Manchester United vs AS Roma",
-      "event_time": "2026-11-03 20:00",
-      "event_time_raw": "2026-11-03 20:00",
-      "category": "UCL",
-      "stream_count": 4
+      "event_id": 50089,
+      "event_title": "Vancouver Canucks vs Anaheim Ducks",
+      "event_time": "2026-11-04 02:00",
+      "event_time_raw": "2026-11-04 02:00",
+      "category": "NHL",
+      "stream_count": 1
     },
     {
       "event_id": 50094,
@@ -189,30 +181,6 @@
       "event_time_raw": "2026-11-03 17:45",
       "category": "UCL",
       "stream_count": 6
-    },
-    {
-      "event_id": 50100,
-      "event_title": "West Bromwich Albion vs Southampton",
-      "event_time": "2026-11-03 20:00",
-      "event_time_raw": "2026-11-03 20:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50101,
-      "event_title": "Champions League Multicast",
-      "event_time": "2026-11-03 17:40",
-      "event_time_raw": "2026-11-03 17:40",
-      "category": "UCL",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50103,
-      "event_title": "Birmingham City vs Millwall",
-      "event_time": "2026-11-03 20:00",
-      "event_time_raw": "2026-11-03 20:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
     }
   ],
   "raw_data": ""
