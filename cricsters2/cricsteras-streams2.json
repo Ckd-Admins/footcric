@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T00:11:50+05:30",
-  "generated_at_india": "05-11-2026 00:11:50 AM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-11-05T01:15:52+05:30",
+  "generated_at_india": "05-11-2026 01:15:52 AM IST",
+  "total": 24,
+  "ok": 24,
   "failed": 0,
   "events": [
     {
@@ -514,8 +514,17 @@
       "event_time": "2026-11-04 20:00",
       "event_time_raw": "2026-11-04 20:00",
       "category": "UCL",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "BOREPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/shjayahvpp/out/v1/a971b8fc52b44a1398237689dc61930c/cenc.mpd",
+          "drm": {
+            "kid": "58434b280dc5da2a0c2a0dd1ea4f48c1",
+            "key": "0367f18e8b0ea8fede8ee6cb3b82d33a"
+          }
+        },
         {
           "code": "BORETNTS",
           "title": "TNT SPORTS FHD",
@@ -552,8 +561,17 @@
       "event_time": "2026-11-04 20:00",
       "event_time_raw": "2026-11-04 20:00",
       "category": "UCL",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "SKARPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymeumajbnz/out/v1/0c52d1e9c59346e783fca2b5cd02762f/cenc.mpd",
+          "drm": {
+            "kid": "284fb360031b922b7c44697e042f9109",
+            "key": "4ebb11445096fa3b030580d985433bf9"
+          }
+        },
         {
           "code": "SKARTNTS",
           "title": "TNT SPORTS FHD",
@@ -561,6 +579,44 @@
           "drm": {
             "kid": "69a5aa835a061ce64a630d1046727e40",
             "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50093,
+      "event_title": "FC Porto vs SSC Napoli",
+      "event_time": "2026-11-04 20:00",
+      "event_time_raw": "2026-11-04 20:00",
+      "category": "UCL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FCSSPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hp8rapp5tf/out/v1/27de1189595849a98cce002e679063ba/cenc.mpd",
+          "drm": {
+            "kid": "55d6c128b456acb1d0acd5e17f4c0ae7",
+            "key": "7cc673c958ec7bbacbfe242ebce8ceaa"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50095,
+      "event_title": "RC Lens vs Como",
+      "event_time": "2026-11-04 20:00",
+      "event_time_raw": "2026-11-04 20:00",
+      "category": "UCL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "RCCOPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dpo3zmxuhz/out/v1/ea52ff20c9ef46cd91433e7183ea50c6/cenc.mpd",
+          "drm": {
+            "kid": "c609b1f56b17276d3526bc297ba8dd10",
+            "key": "390c9205242b5132df2bc9d1fb7f38e1"
           }
         }
       ]
@@ -699,8 +755,17 @@
       "event_time": "2026-11-04 17:30",
       "event_time_raw": "2026-11-04 17:30",
       "category": "UCL",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "UCLMGOLA",
+          "title": "GOLAZO SHOW",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/htqkbztz1l/out/v1/87095d82ecbf4de7ad3f5ad789f1f060/cenc.mpd",
+          "drm": {
+            "kid": "d470693cba80fbeec8e909f80ed70edc",
+            "key": "8f436dc5b928988a18d011a3b99a58b5"
+          }
+        },
         {
           "code": "UCLMDAZN",
           "title": "DAZN SPORTS DE",
@@ -736,6 +801,25 @@
           "drm": {
             "kid": "7995c724a13748ed970840a8ab5bb9b3",
             "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50102,
+      "event_title": "Cardiff City vs West Ham United",
+      "event_time": "2026-11-04 19:45",
+      "event_time_raw": "2026-11-04 19:45",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CAWEPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n1lhb2ffmr/out/v1/fd2157164ff14b08aee352dd0f295309/cenc.mpd",
+          "drm": {
+            "kid": "1c6a422a997d250d93eba4656ca35ee0",
+            "key": "280cb26b9073a5175e88992f85291699"
           }
         }
       ]

@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T00:11:50+05:30",
-  "generated_at_india": "05-11-2026 00:11:50 AM IST",
-  "total": 21,
+  "generated_at": "2026-11-05T01:15:52+05:30",
+  "generated_at_india": "05-11-2026 01:15:52 AM IST",
+  "total": 24,
   "events": [
     {
       "event_id": 50002,
@@ -124,7 +124,7 @@
       "event_time": "2026-11-04 20:00",
       "event_time_raw": "2026-11-04 20:00",
       "category": "UCL",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50091,
@@ -137,6 +137,22 @@
     {
       "event_id": 50092,
       "event_title": "SK Slavia Praha vs Arsenal",
+      "event_time": "2026-11-04 20:00",
+      "event_time_raw": "2026-11-04 20:00",
+      "category": "UCL",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50093,
+      "event_title": "FC Porto vs SSC Napoli",
+      "event_time": "2026-11-04 20:00",
+      "event_time_raw": "2026-11-04 20:00",
+      "category": "UCL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50095,
+      "event_title": "RC Lens vs Como",
       "event_time": "2026-11-04 20:00",
       "event_time_raw": "2026-11-04 20:00",
       "category": "UCL",
@@ -164,13 +180,21 @@
       "event_time": "2026-11-04 17:30",
       "event_time_raw": "2026-11-04 17:30",
       "category": "UCL",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": 50100,
       "event_title": "Bristol City vs Wolverhampton",
       "event_time": "2026-11-04 20:00",
       "event_time_raw": "2026-11-04 20:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50102,
+      "event_title": "Cardiff City vs West Ham United",
+      "event_time": "2026-11-04 19:45",
+      "event_time_raw": "2026-11-04 19:45",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 1
     }
