@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T18:17:21+05:30",
-  "generated_at_india": "04-11-2026 06:17:21 PM IST",
-  "total": 27,
-  "ok": 27,
+  "generated_at": "2026-11-04T19:30:35+05:30",
+  "generated_at_india": "04-11-2026 07:30:35 PM IST",
+  "total": 25,
+  "ok": 25,
   "failed": 0,
   "events": [
     {
-      "event_id": "16",
+      "event_id": "15",
       "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "11",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -51,34 +51,6 @@
           "drm": {
             "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
             "key": "22a1444b3da18e139191665b3d652835"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "10",
-      "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
-      "event_time": "01 Nov, 11:15 pm",
-      "event_time_raw": 1793555100000,
-      "category": "American football",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "NFNFREDZ",
-          "title": "REDZONE - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd",
-          "drm": {
-            "kid": "85f340146e46533b39d1415d90746352",
-            "key": "448aafcc613ddfd448f14d9275eda19b"
-          }
-        },
-        {
-          "code": "NFNFNFLL",
-          "title": "NFL LIVE TV",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lz1p95hcxk/out/v1/d5f91ece0e304a1283b28266a072ddc2/cenc.mpd",
-          "drm": {
-            "kid": "ff4a1e48d06619919d2d36ebdb2b67fb",
-            "key": "0a6d7d953cd47b8261ac14dc13916182"
           }
         }
       ]
@@ -176,7 +148,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "04 Nov, 12:40 am",
       "event_time_raw": 1793733000000,
@@ -208,25 +180,6 @@
           "drm": {
             "kid": "628d5b2d87e068356fd309253a048efe",
             "key": "c6e10ffed0df359c49ee088d705f942f"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "23",
-      "event_title": "ICC CWC League 2 - United Arab Emirates vs Oman",
-      "event_time": "04 Nov, 11:00 am",
-      "event_time_raw": 1793770200000,
-      "category": "Cricket",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "UNOMSTRE",
-          "title": "Stream",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793812537~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=f2c282feeae07e2f822bbcaa862c549b92f2b711335827e5fa7afd6617b4a82c/manifest.mpd",
-          "drm": {
-            "kid": "39bd302cdeed3710a89fb004d232ab67",
-            "key": "9869f804ba18d7e508cbff781829221c"
           }
         }
       ]
@@ -306,7 +259,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "UEFA Champions League - AEK Athens vs Real Madrid",
       "event_time": "04 Nov, 11:15 pm",
       "event_time_raw": 1793814300000,
@@ -325,7 +278,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "UEFA Champions League - Fenerbahçe vs Liverpool FC",
       "event_time": "04 Nov, 11:15 pm",
       "event_time_raw": 1793814300000,
@@ -344,7 +297,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "UEFA Champions League - SK Slavia Praha vs Arsenal",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -363,7 +316,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "UEFA Champions League - Borussia Dortmund vs Real Betis",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -382,7 +335,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "UEFA Champions League - RB Leipzig vs Manchester City",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -401,7 +354,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "25",
       "event_title": "Championship - Bristol City vs Wolverhampton",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -429,7 +382,7 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "24",
       "event_title": "Campeonato Brasileiro Série A - Flamengo vs Grêmio",
       "event_time": "05 Nov, 04:00 am",
       "event_time_raw": 1793831400000,
@@ -485,7 +438,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "22",
       "event_title": "Campeonato Brasileiro Série A - São Paulo vs Corinthians",
       "event_time": "05 Nov, 06:00 am",
       "event_time_raw": 1793838600000,
@@ -513,7 +466,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "23",
       "event_title": "Campeonato Brasileiro Série A - Botafogo vs Atlético Mineiro",
       "event_time": "05 Nov, 06:00 am",
       "event_time_raw": 1793838600000,
@@ -532,7 +485,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "12",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "05 Nov, 09:00 am",
       "event_time_raw": 1793849400000,
@@ -597,7 +550,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "10",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "05 Nov, 12:15 pm",
       "event_time_raw": 1793861100000,
@@ -644,7 +597,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "13",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -718,7 +671,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "14",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
