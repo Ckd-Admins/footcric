@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T22:12:00+05:30",
-  "generated_at_india": "04-11-2026 10:12:00 PM IST",
+  "generated_at": "2026-11-04T23:10:46+05:30",
+  "generated_at_india": "04-11-2026 11:10:46 PM IST",
   "total": 21,
   "ok": 21,
   "failed": 0,
@@ -571,8 +571,17 @@
       "event_time": "2026-11-04 17:45",
       "event_time_raw": "2026-11-04 17:45",
       "category": "UCL",
-      "stream_count": 1,
+      "stream_count": 4,
       "streams": [
+        {
+          "code": "AEREPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/failbdta50/out/v1/41a2b450ebe846d08a00e84663f9b324/cenc.mpd",
+          "drm": {
+            "kid": "3513dd3c560190e3d442208dd4dca9dd",
+            "key": "108531e39fdc0a80f2f990776e7037f3"
+          }
+        },
         {
           "code": "AERETNTS",
           "title": "TNT SPORTS FHD",
@@ -580,6 +589,24 @@
           "drm": {
             "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
             "key": "643e5474d9edd87c7d9091c8c97994ca"
+          }
+        },
+        {
+          "code": "AEREDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sgxlaurrkw/out/v1/c3f667057bc84a78b2df646b097fb1eb/cenc.mpd",
+          "drm": {
+            "kid": "104827754710be1bfac19b2433cf6846",
+            "key": "9f57ccbf41f5cb5fdcf0deb2b41509b0"
+          }
+        },
+        {
+          "code": "AEREVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bvddkqdcbo/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd",
+          "drm": {
+            "kid": "8423baa4631c12837510e853dcad96d6",
+            "key": "1032cc040f378fdcec68c45ccbdb7215"
           }
         }
       ]
@@ -590,8 +617,17 @@
       "event_time": "2026-11-04 17:45",
       "event_time_raw": "2026-11-04 17:45",
       "category": "UCL",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "FELIPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/finodo98vw/out/v1/0bba03d3a8594cd6bfe409ec5ecf1114/cenc.mpd",
+          "drm": {
+            "kid": "368bdc08268c3e679d53a4b94964a911",
+            "key": "a88f47b574b27e32d186ce686b45f9a5"
+          }
+        },
         {
           "code": "FELITNTS",
           "title": "TNT SPORTS FHD",
@@ -605,46 +641,28 @@
     },
     {
       "event_id": 50099,
-      "event_title": "Stade Rennais vs Olympiacos FC",
-      "event_time": "2026-11-04 15:30",
-      "event_time_raw": "2026-11-04 15:30",
-      "category": "UEFA Europa",
-      "stream_count": 4,
+      "event_title": "UCL Multicast",
+      "event_time": "2026-11-04 17:30",
+      "event_time_raw": "2026-11-04 17:30",
+      "category": "UCL",
+      "stream_count": 2,
       "streams": [
         {
-          "code": "STOLPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1uqnvcbphd/out/v1/410903aa7e1845c3b6e8f50b615d6861/cenc.mpd",
+          "code": "UCLMDAZN",
+          "title": "DAZN SPORTS DE",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/x5mu0qhmrk/out/v1/b8bac9a22bfe401bacf4298b49b7997c/cenc.mpd",
           "drm": {
-            "kid": "f04e6956155f0e9924d1380d022cb19d",
-            "key": "d502ff24af315dc45a277934a3f0565e"
+            "kid": "e8f2965188ef1f045729a67c40260a74",
+            "key": "fba28d2fe6e68d6945457167c9c80b1b"
           }
         },
         {
-          "code": "STOLTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "code": "UCLMDAZNS9",
+          "title": "DAZN SPORTS ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/x5mu0qhmrk/out/v1/b8bac9a22bfe401bacf4298b49b7997c/cenc.mpd",
           "drm": {
-            "kid": "f3df7843080ae743bf865dc5fdf64c68",
-            "key": "567c863bc12eb74788ea74888c042e1b"
-          }
-        },
-        {
-          "code": "STOLSKYS",
-          "title": "SKY SPORTS MIX",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "drm": {
-            "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
-            "key": "a883237ef30932b731f71aa59a0805c0"
-          }
-        },
-        {
-          "code": "STOLVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lky9xgjk0f/out/v1/b55e36403f7042409bb6f5fcfcc160c4/cenc.mpd",
-          "drm": {
-            "kid": "ad0238e45df5a88bc7e6de413340a1e7",
-            "key": "8c0206f9a768bd3ac6c6073c78947577"
+            "kid": "e8f2965188ef1f045729a67c40260a74",
+            "key": "fba28d2fe6e68d6945457167c9c80b1b"
           }
         }
       ]
