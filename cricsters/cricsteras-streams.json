@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T10:17:33+05:30",
-  "generated_at_india": "04-11-2026 10:17:33 AM IST",
+  "generated_at": "2026-11-04T11:19:39+05:30",
+  "generated_at_india": "04-11-2026 11:19:39 AM IST",
   "total": 20,
   "ok": 20,
   "failed": 0,
@@ -186,7 +186,7 @@
         {
           "code": "UCUCCBSS",
           "title": "CBS SPORTS GOLAZO",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xkheeec2xv/out/v1/0ba456ea055847d4ac3288f8784d4518/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xkheeec2xv/out/v1/0ba456ea055847d4ac3288f8784d4518/cenc.mpd",
           "drm": {
             "kid": "260b37ce733c1b217d443e1be601b3c5",
             "key": "ab79e014ce4ed784b63743c084bb6cb5"
