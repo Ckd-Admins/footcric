@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T04:09:54+05:30",
-  "generated_at_india": "05-11-2026 04:09:54 AM IST",
+  "generated_at": "2026-11-05T05:05:14+05:30",
+  "generated_at_india": "05-11-2026 05:05:14 AM IST",
   "total": 29,
   "ok": 29,
   "failed": 0,
@@ -185,16 +185,16 @@
         {
           "code": "UCUCDAZN",
           "title": "DAZN SPORTS DE",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/x5mu0qhmrk/out/v1/b8bac9a22bfe401bacf4298b49b7997c/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x5mu0qhmrk/out/v1/b8bac9a22bfe401bacf4298b49b7997c/cenc.mpd",
           "drm": {
             "kid": "e8f2965188ef1f045729a67c40260a74",
             "key": "fba28d2fe6e68d6945457167c9c80b1b"
           }
         },
         {
-          "code": "UCUCDAZN5I",
+          "code": "UCUCDAZNFZ",
           "title": "DAZN SPORTS S2",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/x5mu0qhmrk/out/v1/b8bac9a22bfe401bacf4298b49b7997c/cenc.mpd",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x5mu0qhmrk/out/v1/b8bac9a22bfe401bacf4298b49b7997c/cenc.mpd",
           "drm": {
             "kid": "e8f2965188ef1f045729a67c40260a74",
             "key": "fba28d2fe6e68d6945457167c9c80b1b"
