@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T01:15:52+05:30",
-  "generated_at_india": "05-11-2026 01:15:52 AM IST",
-  "total": 24,
+  "generated_at": "2026-11-05T02:10:14+05:30",
+  "generated_at_india": "05-11-2026 02:10:14 AM IST",
+  "total": 30,
   "events": [
     {
       "event_id": 50002,
@@ -79,6 +79,14 @@
       "stream_count": 2
     },
     {
+      "event_id": 50061,
+      "event_title": "Denver Nuggets vs Toronto Raptors",
+      "event_time": "2026-11-05 02:00",
+      "event_time_raw": "2026-11-05 02:00",
+      "category": "NBA",
+      "stream_count": 2
+    },
+    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-03 11:15",
@@ -93,6 +101,22 @@
       "event_time_raw": "2026-11-04 08:10",
       "category": "WBBL",
       "stream_count": 4
+    },
+    {
+      "event_id": 50076,
+      "event_title": "Florida Panthers vs Chicago Blackhawks",
+      "event_time": "2026-11-05 00:30",
+      "event_time_raw": "2026-11-05 00:30",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50078,
+      "event_title": "Seattle Kraken vs Calgary Flames",
+      "event_time": "2026-11-05 03:00",
+      "event_time_raw": "2026-11-05 03:00",
+      "category": "NHL",
+      "stream_count": 1
     },
     {
       "event_id": 50086,
@@ -124,7 +148,7 @@
       "event_time": "2026-11-04 20:00",
       "event_time_raw": "2026-11-04 20:00",
       "category": "UCL",
-      "stream_count": 2
+      "stream_count": 6
     },
     {
       "event_id": 50091,
@@ -132,7 +156,7 @@
       "event_time": "2026-11-04 20:00",
       "event_time_raw": "2026-11-04 20:00",
       "category": "UCL",
-      "stream_count": 1
+      "stream_count": 4
     },
     {
       "event_id": 50092,
@@ -140,7 +164,7 @@
       "event_time": "2026-11-04 20:00",
       "event_time_raw": "2026-11-04 20:00",
       "category": "UCL",
-      "stream_count": 2
+      "stream_count": 4
     },
     {
       "event_id": 50093,
@@ -148,7 +172,15 @@
       "event_time": "2026-11-04 20:00",
       "event_time_raw": "2026-11-04 20:00",
       "category": "UCL",
-      "stream_count": 1
+      "stream_count": 4
+    },
+    {
+      "event_id": 50094,
+      "event_title": "PSV Eindhoven vs Club Brugge",
+      "event_time": "2026-11-04 20:00",
+      "event_time_raw": "2026-11-04 20:00",
+      "category": "UCL",
+      "stream_count": 4
     },
     {
       "event_id": 50095,
@@ -156,7 +188,15 @@
       "event_time": "2026-11-04 20:00",
       "event_time_raw": "2026-11-04 20:00",
       "category": "UCL",
-      "stream_count": 1
+      "stream_count": 4
+    },
+    {
+      "event_id": 50096,
+      "event_title": "Viking vs Sabah",
+      "event_time": "2026-11-04 20:00",
+      "event_time_raw": "2026-11-04 20:00",
+      "category": "UCL",
+      "stream_count": 4
     },
     {
       "event_id": 50097,
@@ -187,6 +227,14 @@
       "event_title": "Bristol City vs Wolverhampton",
       "event_time": "2026-11-04 20:00",
       "event_time_raw": "2026-11-04 20:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50101,
+      "event_title": "Wrexham vs Middlesbrough",
+      "event_time": "2026-11-04 19:45",
+      "event_time_raw": "2026-11-04 19:45",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 1
     },
