@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T02:13:09+05:30",
-  "generated_at_india": "05-11-2026 02:13:09 AM IST",
-  "total": 28,
+  "generated_at": "2026-11-05T03:11:30+05:30",
+  "generated_at_india": "05-11-2026 03:11:30 AM IST",
+  "total": 29,
   "events": [
     {
       "event_id": "17",
@@ -148,6 +148,14 @@
       "event_time": "05 Nov, 06:00 am",
       "event_time_raw": 1793838600000,
       "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "29",
+      "event_title": "NBA - Denver Nuggets vs Toronto Raptors",
+      "event_time": "05 Nov, 07:30 am",
+      "event_time_raw": 1793844000000,
+      "category": "Basketball",
       "stream_count": 1
     },
     {
