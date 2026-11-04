@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T07:20:30+05:30",
-  "generated_at_india": "04-11-2026 07:20:30 AM IST",
-  "total": 20,
-  "ok": 20,
+  "generated_at": "2026-11-04T08:10:12+05:30",
+  "generated_at_india": "04-11-2026 08:10:12 AM IST",
+  "total": 17,
+  "ok": 17,
   "failed": 0,
   "events": [
     {
@@ -250,132 +250,12 @@
       ]
     },
     {
-      "event_id": "18",
-      "event_title": "UEFA Champions League - LASK vs ŠK Slovan Bratislava",
-      "event_time": "04 Nov, 01:30 am",
-      "event_time_raw": 1793736000000,
-      "category": "Football",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "LAKPARA",
-          "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ej3seddljs/out/v1/273718f161c34b44bc7e125ce3fa6173/cenc.mpd",
-          "drm": {
-            "kid": "0f9a8647387c8ced25cb81e31daa8465",
-            "key": "138042cf1b65ee0021b4bb86a8eb4272"
-          }
-        },
-        {
-          "code": "LAKVIXS",
-          "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mustdnrpeu/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
-          "drm": {
-            "kid": "451fbdc63a11c0819e6d36c54fe95261",
-            "key": "5125bacd14af0cbb86d23615a3d94e81"
-          }
-        },
-        {
-          "code": "LAKDAZN",
-          "title": "DAZN DE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ifwb7xeivb/out/v1/0ef0d09b99094ee9bcf8619782c7535b/cenc.mpd",
-          "drm": {
-            "kid": "05247b8d82d43428e0d5e1fa9993435a",
-            "key": "0ac0b44e21d83314c934490e522b6379"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "19",
-      "event_title": "UEFA Champions League - Feyenoord vs Inter",
-      "event_time": "04 Nov, 01:30 am",
-      "event_time_raw": 1793736000000,
-      "category": "Football",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "FEINPARA",
-          "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/odyam8seie/out/v1/a5f86f8dc35746c9a5d1b0128bb8196c/cenc.mpd",
-          "drm": {
-            "kid": "fc651bf819bdc1df6aa7c249f1acfe66",
-            "key": "06229427fb5ea8c1fcf8c8f878b2fc23"
-          }
-        },
-        {
-          "code": "FEINVIXS",
-          "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hknyjwcuzu/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
-          "drm": {
-            "kid": "1ba1ee8262e770b7d92759485de83fa6",
-            "key": "eb42d4be46e10ae5e1c529efc451e3f5"
-          }
-        },
-        {
-          "code": "FEINDAZN",
-          "title": "DAZN DE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/td2vcx9ney/out/v1/7ce09a13e61a4e008492bb0545ba65fa/cenc.mpd",
-          "drm": {
-            "kid": "8b199d76b52fbb59394d3e1f21f19b49",
-            "key": "e5bde1d899ea6c48116aa39f3e50829d"
-          }
-        },
-        {
-          "code": "FEINCBSN",
-          "title": "CBS NETWORK FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "20",
-      "event_title": "UEFA Champions League - Bodø/Glimt vs LOSC Lille",
-      "event_time": "04 Nov, 01:30 am",
-      "event_time_raw": 1793736000000,
-      "category": "Football",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "BOLOPARA",
-          "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vup2gkotxm/out/v1/35a4a5af02a048968c2b300ddd4677a2/cenc.mpd",
-          "drm": {
-            "kid": "f9c393a27d7eab26828310d5116228b4",
-            "key": "54242b217e2cb116436f2a8f72b9ba6b"
-          }
-        },
-        {
-          "code": "BOLOVIXS",
-          "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hknyjwcuzu/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
-          "drm": {
-            "kid": "1ba1ee8262e770b7d92759485de83fa6",
-            "key": "eb42d4be46e10ae5e1c529efc451e3f5"
-          }
-        },
-        {
-          "code": "BOLODAZN",
-          "title": "DAZN DE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b722xitfbt/out/v1/64cda6be047340fc8eab0cfbd350848f/cenc.mpd",
-          "drm": {
-            "kid": "4ab1edbb78f4867a4e68821974ddc07f",
-            "key": "c581c41a8e61fd0bc9ec0d4c23cfea86"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "1",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "04 Nov, 07:30 am",
       "event_time_raw": 1793757600000,
       "category": "Cricket",
-      "stream_count": 5,
+      "stream_count": 6,
       "streams": [
         {
           "code": "NEINWILL",
@@ -384,6 +264,24 @@
           "drm": {
             "kid": "6a028d5592b0e81f9c4fd4de4df6d5c7",
             "key": "9378d2ddd738b2d0b7a85ba65b643a7f"
+          }
+        },
+        {
+          "code": "NEINPRIM",
+          "title": "PRIME HINDI - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ppmrp8tlzz/out/v1/cf829370483b4212ac7d5e3009c514b1/cenc.mpd",
+          "drm": {
+            "kid": "952fb91696308da86bee7cd24edf0b58",
+            "key": "bf359214ab3ac848738bdf014ace21b3"
+          }
+        },
+        {
+          "code": "NEINPRIMWI",
+          "title": "PRIME VIDEO - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rtlq2she5l/out/v1/8965a8b295c4453eb5afd8706e65586a/cenc.mpd",
+          "drm": {
+            "kid": "db4b3e1da015cf0f03c2a5f4b9ee8433",
+            "key": "964bab777741f2b59adedcbbcd463374"
           }
         },
         {
@@ -396,30 +294,21 @@
           }
         },
         {
-          "code": "NEINPRIM",
-          "title": "PRIME VIDEO - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
+          "code": "NEINWILLNM",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "drm": {
-            "kid": "e9b05390d0d8a3766d720cc0dfa9c1c3",
-            "key": "5b371247b3ec6ae9976204359d781e85"
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
         },
         {
-          "code": "NEINPRIM7B",
-          "title": "PRIME HINDI - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
-          "drm": {
-            "kid": "638eaec11a32364c29f73241769dc3b0",
-            "key": "51ad6ac914e442976749f485354b50fe"
-          }
-        },
-        {
-          "code": "NEINWILLB8",
+          "code": "NEINWILLGQ",
           "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd",
           "drm": {
-            "kid": "6a028d5592b0e81f9c4fd4de4df6d5c7",
-            "key": "9378d2ddd738b2d0b7a85ba65b643a7f"
+            "kid": "7ef90352c28904be995275bc47f74c04",
+            "key": "af5e36ddef7584474601c19b4ae5935a"
           }
         }
       ]
@@ -628,7 +517,7 @@
           }
         },
         {
-          "code": "NEINPRIM7B2",
+          "code": "NEINPRIM7B",
           "title": "PRIME HINDI - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
           "drm": {

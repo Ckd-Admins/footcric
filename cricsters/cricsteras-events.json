@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T07:20:30+05:30",
-  "generated_at_india": "04-11-2026 07:20:30 AM IST",
-  "total": 20,
+  "generated_at": "2026-11-04T08:10:12+05:30",
+  "generated_at_india": "04-11-2026 08:10:12 AM IST",
+  "total": 17,
   "events": [
     {
       "event_id": "16",
@@ -63,36 +63,12 @@
       "stream_count": 1
     },
     {
-      "event_id": "18",
-      "event_title": "UEFA Champions League - LASK vs ŠK Slovan Bratislava",
-      "event_time": "04 Nov, 01:30 am",
-      "event_time_raw": 1793736000000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "19",
-      "event_title": "UEFA Champions League - Feyenoord vs Inter",
-      "event_time": "04 Nov, 01:30 am",
-      "event_time_raw": 1793736000000,
-      "category": "Football",
-      "stream_count": 4
-    },
-    {
-      "event_id": "20",
-      "event_title": "UEFA Champions League - Bodø/Glimt vs LOSC Lille",
-      "event_time": "04 Nov, 01:30 am",
-      "event_time_raw": 1793736000000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
       "event_id": "1",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "04 Nov, 07:30 am",
       "event_time_raw": 1793757600000,
       "category": "Cricket",
-      "stream_count": 5
+      "stream_count": 6
     },
     {
       "event_id": "17",
