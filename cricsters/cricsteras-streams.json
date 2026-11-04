@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T15:21:01+05:30",
-  "generated_at_india": "04-11-2026 03:21:01 PM IST",
-  "total": 26,
-  "ok": 26,
+  "generated_at": "2026-11-04T16:29:32+05:30",
+  "generated_at_india": "04-11-2026 04:29:32 PM IST",
+  "total": 27,
+  "ok": 27,
   "failed": 0,
   "events": [
     {
-      "event_id": "15",
+      "event_id": "16",
       "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
@@ -269,52 +269,6 @@
       ]
     },
     {
-      "event_id": "21",
-      "event_title": "Women's Big Bash League - Hobart Hurricanes Women vs Melbourne Renegades Women",
-      "event_time": "04 Nov, 01:40 pm",
-      "event_time_raw": 1793779800000,
-      "category": "Cricket",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "HOMEWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
-          "drm": {
-            "kid": "c3bbeb16c18d825f04b51b17b67baf5a",
-            "key": "f744722c08e3d13fecfa59de5436cce7"
-          }
-        },
-        {
-          "code": "HOMEFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "HOMEWILLQW",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        },
-        {
-          "code": "HOMEEURO",
-          "title": "EUROSPORT - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "7",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "04 Nov, 03:30 pm",
@@ -352,7 +306,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "UEFA Champions League - AEK Athens vs Real Madrid",
       "event_time": "04 Nov, 11:15 pm",
       "event_time_raw": 1793814300000,
@@ -371,7 +325,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "UEFA Champions League - Fenerbahçe vs Liverpool FC",
       "event_time": "04 Nov, 11:15 pm",
       "event_time_raw": 1793814300000,
@@ -390,7 +344,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "UEFA Champions League - SK Slavia Praha vs Arsenal",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -409,7 +363,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "UEFA Champions League - Borussia Dortmund vs Real Betis",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -428,7 +382,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "UEFA Champions League - RB Leipzig vs Manchester City",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -442,6 +396,34 @@
           "drm": {
             "kid": "f3df7843080ae743bf865dc5fdf64c68",
             "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "27",
+      "event_title": "Championship - Bristol City vs Wolverhampton",
+      "event_time": "05 Nov, 01:30 am",
+      "event_time_raw": 1793822400000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "BRWOBEIN",
+          "title": "BeIN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        },
+        {
+          "code": "BRWOFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]
@@ -667,7 +649,7 @@
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
       "category": "Cricket",
-      "stream_count": 6,
+      "stream_count": 5,
       "streams": [
         {
           "code": "NEINPRIM",
@@ -706,15 +688,6 @@
           }
         },
         {
-          "code": "NEINSONY",
-          "title": "SONYLIV PPV EN - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd?",
-          "drm": {
-            "kid": "e9b05390d0d8a3766d720cc0dfa9c1c3",
-            "key": "5b371247b3ec6ae9976204359d781e85"
-          }
-        },
-        {
           "code": "NEINWILLF4",
           "title": "WILLOW S2 - AQ",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/jorvx5qfk6/out/v1/6dbb07d5c15c4ffb8b51bdcdc0425548/cenc.mpd",
@@ -740,6 +713,70 @@
           "drm": {
             "kid": "df2d9b6fca9b4f3697bda9614398b991",
             "key": "d10a74b6649741bf8e2687c03f955c90"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "15",
+      "event_title": "One Day International - New Zealand vs India",
+      "event_time": "10 Nov, 07:30 am",
+      "event_time_raw": 1794276000000,
+      "category": "Cricket",
+      "stream_count": 6,
+      "streams": [
+        {
+          "code": "NEINWILLB8",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd",
+          "drm": {
+            "kid": "6a028d5592b0e81f9c4fd4de4df6d5c7",
+            "key": "9378d2ddd738b2d0b7a85ba65b643a7f"
+          }
+        },
+        {
+          "code": "NEINPRIMRD",
+          "title": "PRIME HINDI - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ppmrp8tlzz/out/v1/cf829370483b4212ac7d5e3009c514b1/cenc.mpd",
+          "drm": {
+            "kid": "952fb91696308da86bee7cd24edf0b58",
+            "key": "bf359214ab3ac848738bdf014ace21b3"
+          }
+        },
+        {
+          "code": "NEINPRIMWI",
+          "title": "PRIME VIDEO - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rtlq2she5l/out/v1/8965a8b295c4453eb5afd8706e65586a/cenc.mpd",
+          "drm": {
+            "kid": "db4b3e1da015cf0f03c2a5f4b9ee8433",
+            "key": "964bab777741f2b59adedcbbcd463374"
+          }
+        },
+        {
+          "code": "NEINTNTS5G",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        },
+        {
+          "code": "NEINWILLNM",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        },
+        {
+          "code": "NEINWILLGQ",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd",
+          "drm": {
+            "kid": "7ef90352c28904be995275bc47f74c04",
+            "key": "af5e36ddef7584474601c19b4ae5935a"
           }
         }
       ]

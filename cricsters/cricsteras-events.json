@@ -2,12 +2,12 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T15:21:01+05:30",
-  "generated_at_india": "04-11-2026 03:21:01 PM IST",
-  "total": 26,
+  "generated_at": "2026-11-04T16:29:32+05:30",
+  "generated_at_india": "04-11-2026 04:29:32 PM IST",
+  "total": 27,
   "events": [
     {
-      "event_id": "15",
+      "event_id": "16",
       "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
@@ -71,14 +71,6 @@
       "stream_count": 3
     },
     {
-      "event_id": "21",
-      "event_title": "Women's Big Bash League - Hobart Hurricanes Women vs Melbourne Renegades Women",
-      "event_time": "04 Nov, 01:40 pm",
-      "event_time_raw": 1793779800000,
-      "category": "Cricket",
-      "stream_count": 4
-    },
-    {
       "event_id": "7",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "04 Nov, 03:30 pm",
@@ -87,7 +79,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "UEFA Champions League - AEK Athens vs Real Madrid",
       "event_time": "04 Nov, 11:15 pm",
       "event_time_raw": 1793814300000,
@@ -95,7 +87,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "UEFA Champions League - Fenerbahçe vs Liverpool FC",
       "event_time": "04 Nov, 11:15 pm",
       "event_time_raw": 1793814300000,
@@ -103,7 +95,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "UEFA Champions League - SK Slavia Praha vs Arsenal",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -111,7 +103,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "UEFA Champions League - Borussia Dortmund vs Real Betis",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -119,12 +111,20 @@
       "stream_count": 1
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "UEFA Champions League - RB Leipzig vs Manchester City",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
       "category": "Football",
       "stream_count": 1
+    },
+    {
+      "event_id": "27",
+      "event_title": "Championship - Bristol City vs Wolverhampton",
+      "event_time": "05 Nov, 01:30 am",
+      "event_time_raw": 1793822400000,
+      "category": "Football",
+      "stream_count": 2
     },
     {
       "event_id": "26",
@@ -196,7 +196,7 @@
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
       "category": "Cricket",
-      "stream_count": 6
+      "stream_count": 5
     },
     {
       "event_id": "5",
@@ -205,6 +205,14 @@
       "event_time_raw": 1794162600000,
       "category": "Boxing",
       "stream_count": 1
+    },
+    {
+      "event_id": "15",
+      "event_title": "One Day International - New Zealand vs India",
+      "event_time": "10 Nov, 07:30 am",
+      "event_time_raw": 1794276000000,
+      "category": "Cricket",
+      "stream_count": 6
     },
     {
       "event_id": "8",
