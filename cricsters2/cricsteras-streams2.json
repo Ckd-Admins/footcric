@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T06:00:37+05:30",
-  "generated_at_india": "04-11-2026 06:00:37 AM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-11-04T07:16:52+05:30",
+  "generated_at_india": "04-11-2026 07:16:52 AM IST",
+  "total": 17,
+  "ok": 17,
   "failed": 0,
   "events": [
     {
@@ -238,21 +238,21 @@
       "stream_count": 5,
       "streams": [
         {
+          "code": "NEINWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd",
+          "drm": {
+            "kid": "7ef90352c28904be995275bc47f74c04",
+            "key": "af5e36ddef7584474601c19b4ae5935a"
+          }
+        },
+        {
           "code": "NEINTNTS",
           "title": "TNT SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
           "drm": {
             "kid": "f3df7843080ae743bf865dc5fdf64c68",
             "key": "567c863bc12eb74788ea74888c042e1b"
-          }
-        },
-        {
-          "code": "NEINWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd",
-          "drm": {
-            "kid": "2765adbf6880195515fed136e5a989fa",
-            "key": "f1356a68a923c31d7184dfa1b91c161f"
           }
         },
         {
@@ -274,12 +274,12 @@
           }
         },
         {
-          "code": "NEINWILLCP",
+          "code": "NEINWILLGQ",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd",
           "drm": {
-            "kid": "2765adbf6880195515fed136e5a989fa",
-            "key": "f1356a68a923c31d7184dfa1b91c161f"
+            "kid": "7ef90352c28904be995275bc47f74c04",
+            "key": "af5e36ddef7584474601c19b4ae5935a"
           }
         }
       ]
@@ -552,272 +552,6 @@
           "drm": {
             "kid": "1444f4235529f183f0a5a486befe9cdb",
             "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50094,
-      "event_title": "Feyenoord vs Inter",
-      "event_time": "2026-11-03 20:00",
-      "event_time_raw": "2026-11-03 20:00",
-      "category": "UCL",
-      "stream_count": 5,
-      "streams": [
-        {
-          "code": "FEINPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/odyam8seie/out/v1/a5f86f8dc35746c9a5d1b0128bb8196c/cenc.mpd",
-          "drm": {
-            "kid": "fc651bf819bdc1df6aa7c249f1acfe66",
-            "key": "06229427fb5ea8c1fcf8c8f878b2fc23"
-          }
-        },
-        {
-          "code": "FEINPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zfm6q50wyx/out/v1/e80bb4a13dc24a8f985079c2cfa1e692/cenc.mpd",
-          "drm": {
-            "kid": "768f15cdba33cfdf9aebb4f8225535e8",
-            "key": "e17aad86724a7d43c8484da55ab0d90b"
-          }
-        },
-        {
-          "code": "FEINDAZN",
-          "title": "DAZN SPORTS DE",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/td2vcx9ney/out/v1/7ce09a13e61a4e008492bb0545ba65fa/cenc.mpd",
-          "drm": {
-            "kid": "8b199d76b52fbb59394d3e1f21f19b49",
-            "key": "e5bde1d899ea6c48116aa39f3e50829d"
-          }
-        },
-        {
-          "code": "FEINVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yzurcf456k/out/v1/4df741b740c1401a93dd7f933bdde012/cenc.mpd",
-          "drm": {
-            "kid": "c3c680a53aab9eec4b43db218a3713a6",
-            "key": "1adcde85460fd0b23f1510ca56e1e58b"
-          }
-        },
-        {
-          "code": "FEINCBSN",
-          "title": "CBS NETWORK FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50095,
-      "event_title": "Bodø/Glimt vs Lille",
-      "event_time": "2026-11-03 20:00",
-      "event_time_raw": "2026-11-03 20:00",
-      "category": "UCL",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "BOLIPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vup2gkotxm/out/v1/35a4a5af02a048968c2b300ddd4677a2/cenc.mpd",
-          "drm": {
-            "kid": "f9c393a27d7eab26828310d5116228b4",
-            "key": "54242b217e2cb116436f2a8f72b9ba6b"
-          }
-        },
-        {
-          "code": "BOLIPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jl3tltjw9p/out/v1/16fb5ea7267e4d6b9b48b22aedeac0a5/cenc.mpd",
-          "drm": {
-            "kid": "8d7dc1cf69c9ab1e7dc09227b1db0725",
-            "key": "9020db32fc968a40a1145f6bdc9b068b"
-          }
-        },
-        {
-          "code": "BOLIDAZN",
-          "title": "DAZN SPORTS DE",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b722xitfbt/out/v1/64cda6be047340fc8eab0cfbd350848f/cenc.mpd",
-          "drm": {
-            "kid": "4ab1edbb78f4867a4e68821974ddc07f",
-            "key": "c581c41a8e61fd0bc9ec0d4c23cfea86"
-          }
-        },
-        {
-          "code": "BOLIVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hknyjwcuzu/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
-          "drm": {
-            "kid": "1ba1ee8262e770b7d92759485de83fa6",
-            "key": "eb42d4be46e10ae5e1c529efc451e3f5"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50096,
-      "event_title": "LASK vs ŠK Slovan Bratislava",
-      "event_time": "2026-11-03 20:00",
-      "event_time_raw": "2026-11-03 20:00",
-      "category": "UCL",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "LAKPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ej3seddljs/out/v1/273718f161c34b44bc7e125ce3fa6173/cenc.mpd",
-          "drm": {
-            "kid": "0f9a8647387c8ced25cb81e31daa8465",
-            "key": "138042cf1b65ee0021b4bb86a8eb4272"
-          }
-        },
-        {
-          "code": "LAKDAZN",
-          "title": "DAZN SPORTS DE",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ifwb7xeivb/out/v1/0ef0d09b99094ee9bcf8619782c7535b/cenc.mpd",
-          "drm": {
-            "kid": "05247b8d82d43428e0d5e1fa9993435a",
-            "key": "0ac0b44e21d83314c934490e522b6379"
-          }
-        },
-        {
-          "code": "LAKVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mustdnrpeu/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
-          "drm": {
-            "kid": "451fbdc63a11c0819e6d36c54fe95261",
-            "key": "5125bacd14af0cbb86d23615a3d94e81"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50097,
-      "event_title": "Galatasaray vs VfB Stuttgart",
-      "event_time": "2026-11-03 17:45",
-      "event_time_raw": "2026-11-03 17:45",
-      "category": "UCL",
-      "stream_count": 6,
-      "streams": [
-        {
-          "code": "GAVFPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nneitrfr1l/out/v1/c96eca69bbb04f77add2020a85495524/cenc.mpd",
-          "drm": {
-            "kid": "92d6baa3bffdea423754f5e0ab55631a",
-            "key": "50b69d834ee34886fa9830363b88e800"
-          }
-        },
-        {
-          "code": "GAVFTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm": {
-            "kid": "f3df7843080ae743bf865dc5fdf64c68",
-            "key": "567c863bc12eb74788ea74888c042e1b"
-          }
-        },
-        {
-          "code": "GAVFSONY",
-          "title": "SonyLiv FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pmxpfwjpew/out/v1/57a2345d56b3485088df37bb379b1884/cenc.mpd",
-          "drm": {
-            "kid": "042cea058767bc670450467c2ed410cb",
-            "key": "045a98c84a49742be3a5a454198ec14c"
-          }
-        },
-        {
-          "code": "GAVFDAZN",
-          "title": "DAZN DE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u4nnymerwj/out/v1/3a24e30418334f10b02441649eaa8cc3/cenc.mpd",
-          "drm": {
-            "kid": "a9dac59142fae1c70a50d526b491a86e",
-            "key": "62752c3314581b6a305f3c655810e201"
-          }
-        },
-        {
-          "code": "GAVFVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwpfwrdluy/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
-          "drm": {
-            "kid": "9d5218f13397a8cbed7a4544d0d6d198",
-            "key": "919a50686f1bd2dbd1f1b6a9357a9577"
-          }
-        },
-        {
-          "code": "GAVFCBSN",
-          "title": "CBS NETWORK FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50098,
-      "event_title": "Shakhtar Donetsk vs Sporting CP",
-      "event_time": "2026-11-03 17:45",
-      "event_time_raw": "2026-11-03 17:45",
-      "category": "UCL",
-      "stream_count": 6,
-      "streams": [
-        {
-          "code": "SHSPPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/aeumjv0tof/out/v1/0d70b9334db84658bd3db38c484a071a/cenc.mpd",
-          "drm": {
-            "kid": "c6b9abe413b8c5552ad7f4a57dbb2af2",
-            "key": "e37d1a8371a874deda5f9b7260e65cde"
-          }
-        },
-        {
-          "code": "SHSPTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "drm": {
-            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
-            "key": "552a78d1aeb74f1650d68255c5749408"
-          }
-        },
-        {
-          "code": "SHSPSONY",
-          "title": "SonyLiv FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5z5zrkjiuu/out/v1/7f409e917e5740f18b65323ab79309e5/cenc.mpd",
-          "drm": {
-            "kid": "e6a29d67b1f49548bc93da53455af671",
-            "key": "877d754b52368cebafec625d56be4967"
-          }
-        },
-        {
-          "code": "SHSPDAZN",
-          "title": "DAZN DE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jiybvnjqls/out/v1/9cbdccb678364dafbac6a54af5461882/cenc.mpd",
-          "drm": {
-            "kid": "bddd33b45c3b369cf7febc4c35332e83",
-            "key": "1bbd40180ff193eb23f3db5dbdc43c40"
-          }
-        },
-        {
-          "code": "SHSPVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w4lpjel0uk/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd",
-          "drm": {
-            "kid": "f0db1a79217cb4d57ae5616c4bf7b2d8",
-            "key": "c01f7bdddf9afec6c7c70841905aeed6"
-          }
-        },
-        {
-          "code": "SHSPHBOM",
-          "title": "HBO MAX BRAZIL",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
-          "drm": {
-            "kid": "83a4bc2c011e2c72b35b7b5f2d35560d",
-            "key": "01bd0115c83d3493449181ba68998ab1"
           }
         }
       ]

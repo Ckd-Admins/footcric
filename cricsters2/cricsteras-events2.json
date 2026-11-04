@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T06:00:37+05:30",
-  "generated_at_india": "04-11-2026 06:00:37 AM IST",
-  "total": 22,
+  "generated_at": "2026-11-04T07:16:52+05:30",
+  "generated_at_india": "04-11-2026 07:16:52 AM IST",
+  "total": 17,
   "events": [
     {
       "event_id": 50002,
@@ -141,46 +141,6 @@
       "event_time_raw": "2026-11-04 02:00",
       "category": "NHL",
       "stream_count": 1
-    },
-    {
-      "event_id": 50094,
-      "event_title": "Feyenoord vs Inter",
-      "event_time": "2026-11-03 20:00",
-      "event_time_raw": "2026-11-03 20:00",
-      "category": "UCL",
-      "stream_count": 5
-    },
-    {
-      "event_id": 50095,
-      "event_title": "Bodø/Glimt vs Lille",
-      "event_time": "2026-11-03 20:00",
-      "event_time_raw": "2026-11-03 20:00",
-      "category": "UCL",
-      "stream_count": 4
-    },
-    {
-      "event_id": 50096,
-      "event_title": "LASK vs ŠK Slovan Bratislava",
-      "event_time": "2026-11-03 20:00",
-      "event_time_raw": "2026-11-03 20:00",
-      "category": "UCL",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50097,
-      "event_title": "Galatasaray vs VfB Stuttgart",
-      "event_time": "2026-11-03 17:45",
-      "event_time_raw": "2026-11-03 17:45",
-      "category": "UCL",
-      "stream_count": 6
-    },
-    {
-      "event_id": 50098,
-      "event_title": "Shakhtar Donetsk vs Sporting CP",
-      "event_time": "2026-11-03 17:45",
-      "event_time_raw": "2026-11-03 17:45",
-      "category": "UCL",
-      "stream_count": 6
     }
   ],
   "raw_data": ""
