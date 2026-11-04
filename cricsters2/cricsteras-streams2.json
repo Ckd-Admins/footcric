@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T20:19:15+05:30",
-  "generated_at_india": "04-11-2026 08:19:15 PM IST",
+  "generated_at": "2026-11-04T21:12:56+05:30",
+  "generated_at_india": "04-11-2026 09:12:56 PM IST",
   "total": 21,
   "ok": 21,
   "failed": 0,
@@ -609,8 +609,17 @@
       "event_time": "2026-11-04 15:30",
       "event_time_raw": "2026-11-04 15:30",
       "category": "UEFA Europa",
-      "stream_count": 1,
+      "stream_count": 4,
       "streams": [
+        {
+          "code": "STOLPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1uqnvcbphd/out/v1/410903aa7e1845c3b6e8f50b615d6861/cenc.mpd",
+          "drm": {
+            "kid": "f04e6956155f0e9924d1380d022cb19d",
+            "key": "d502ff24af315dc45a277934a3f0565e"
+          }
+        },
         {
           "code": "STOLTNTS",
           "title": "TNT SPORTS FHD",
@@ -618,6 +627,24 @@
           "drm": {
             "kid": "f3df7843080ae743bf865dc5fdf64c68",
             "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        },
+        {
+          "code": "STOLDAZN",
+          "title": "DAZN SPORTS DE",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "drm": {
+            "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
+            "key": "a883237ef30932b731f71aa59a0805c0"
+          }
+        },
+        {
+          "code": "STOLVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lky9xgjk0f/out/v1/b55e36403f7042409bb6f5fcfcc160c4/cenc.mpd",
+          "drm": {
+            "kid": "ad0238e45df5a88bc7e6de413340a1e7",
+            "key": "8c0206f9a768bd3ac6c6073c78947577"
           }
         }
       ]
