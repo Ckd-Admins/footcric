@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T12:26:11+05:30",
-  "generated_at_india": "04-11-2026 00:26:11 PM IST",
+  "generated_at": "2026-11-04T13:43:38+05:30",
+  "generated_at_india": "04-11-2026 01:43:38 PM IST",
   "total": 20,
   "events": [
     {
@@ -47,7 +47,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "04 Nov, 12:40 am",
       "event_time_raw": 1793733000000,
@@ -55,7 +55,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "Campeonato Brasileiro Série A - Internacional vs Coritiba",
       "event_time": "04 Nov, 06:00 am",
       "event_time_raw": 1793752200000,
@@ -71,11 +71,11 @@
       "stream_count": 6
     },
     {
-      "event_id": "18",
-      "event_title": "NHL - Vancouver Canucks vs Anaheim Ducks",
-      "event_time": "04 Nov, 07:30 am",
-      "event_time_raw": 1793757600000,
-      "category": "Hockey",
+      "event_id": "20",
+      "event_title": "ICC CWC League 2 - United Arab Emirates vs Oman",
+      "event_time": "04 Nov, 11:00 am",
+      "event_time_raw": 1793770200000,
+      "category": "Cricket",
       "stream_count": 1
     },
     {

@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T12:26:11+05:30",
-  "generated_at_india": "04-11-2026 00:26:11 PM IST",
+  "generated_at": "2026-11-04T13:43:38+05:30",
+  "generated_at_india": "04-11-2026 01:43:38 PM IST",
   "total": 20,
   "ok": 20,
   "failed": 0,
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "04 Nov, 12:40 am",
       "event_time_raw": 1793733000000,
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "Campeonato Brasileiro Série A - Internacional vs Coritiba",
       "event_time": "04 Nov, 06:00 am",
       "event_time_raw": 1793752200000,
@@ -296,20 +296,20 @@
       ]
     },
     {
-      "event_id": "18",
-      "event_title": "NHL - Vancouver Canucks vs Anaheim Ducks",
-      "event_time": "04 Nov, 07:30 am",
-      "event_time_raw": 1793757600000,
-      "category": "Hockey",
+      "event_id": "20",
+      "event_title": "ICC CWC League 2 - United Arab Emirates vs Oman",
+      "event_time": "04 Nov, 11:00 am",
+      "event_time_raw": 1793770200000,
+      "category": "Cricket",
       "stream_count": 1,
       "streams": [
         {
-          "code": "VAANPREM",
-          "title": "PREMIER SPORTS AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "code": "UNOMSTRE",
+          "title": "Stream",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793798133~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=14220104381efc7acd2632020e1d546627792293409c975d09c3d6f34a3982a8/manifest.mpd",
           "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+            "kid": "39bd302cdeed3710a89fb004d232ab67",
+            "key": "9869f804ba18d7e508cbff781829221c"
           }
         }
       ]
