@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T21:12:56+05:30",
-  "generated_at_india": "04-11-2026 09:12:56 PM IST",
+  "generated_at": "2026-11-04T22:12:00+05:30",
+  "generated_at_india": "04-11-2026 10:12:00 PM IST",
   "total": 21,
   "ok": 21,
   "failed": 0,
@@ -630,8 +630,8 @@
           }
         },
         {
-          "code": "STOLDAZN",
-          "title": "DAZN SPORTS DE",
+          "code": "STOLSKYS",
+          "title": "SKY SPORTS MIX",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
           "drm": {
             "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
