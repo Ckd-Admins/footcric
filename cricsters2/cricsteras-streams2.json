@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T11:14:36+05:30",
-  "generated_at_india": "04-11-2026 11:14:36 AM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-11-04T12:21:23+05:30",
+  "generated_at_india": "04-11-2026 00:21:23 PM IST",
+  "total": 21,
+  "ok": 21,
   "failed": 0,
   "events": [
     {
@@ -369,25 +369,6 @@
       ]
     },
     {
-      "event_id": 50063,
-      "event_title": "Covington and Rosas Jr",
-      "event_time": "2026-11-03 18:30",
-      "event_time_raw": "2026-11-03 18:30",
-      "category": "Boxing",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "COVIDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/s8whotxtvx/out/v1/2edfd49aaf71440e86eb73d7df83c980/cenc.mpd",
-          "drm": {
-            "kid": "4339adc036fc1a1270d41aa1bef4b16a",
-            "key": "640ce635e7ca20a820c51717d85db278"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-03 11:15",
@@ -523,25 +504,6 @@
           "drm": {
             "kid": "e23365c2ad97870c871712b73f0d6195",
             "key": "58709c714320bb862dbd07270df81c94"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50089,
-      "event_title": "Vancouver Canucks vs Anaheim Ducks",
-      "event_time": "2026-11-04 02:00",
-      "event_time_raw": "2026-11-04 02:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "VAANPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
           }
         }
       ]
