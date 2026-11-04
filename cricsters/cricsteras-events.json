@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T08:10:12+05:30",
-  "generated_at_india": "04-11-2026 08:10:12 AM IST",
-  "total": 17,
+  "generated_at": "2026-11-04T09:12:35+05:30",
+  "generated_at_india": "04-11-2026 09:12:35 AM IST",
+  "total": 20,
   "events": [
     {
       "event_id": "16",
@@ -39,27 +39,27 @@
       "stream_count": 7
     },
     {
-      "event_id": "8",
-      "event_title": "Paris OPEN - ATP vs ATP",
-      "event_time": "03 Nov, 03:30 pm",
-      "event_time_raw": 1793700000000,
-      "category": "Tennis",
-      "stream_count": 3
-    },
-    {
-      "event_id": "2",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "03 Nov, 05:00 pm",
-      "event_time_raw": 1793705400000,
-      "category": "Snooker",
-      "stream_count": 3
-    },
-    {
       "event_id": "7",
       "event_title": "HYPE - Colby Covington vs Raul Rosas Jr.",
       "event_time": "04 Nov, 12:00 am",
       "event_time_raw": 1793730600000,
       "category": "Boxing",
+      "stream_count": 1
+    },
+    {
+      "event_id": "19",
+      "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
+      "event_time": "04 Nov, 12:40 am",
+      "event_time_raw": 1793733000000,
+      "category": "Football",
+      "stream_count": 3
+    },
+    {
+      "event_id": "20",
+      "event_title": "Campeonato Brasileiro Série A - Internacional vs Coritiba",
+      "event_time": "04 Nov, 06:00 am",
+      "event_time_raw": 1793752200000,
+      "category": "Football",
       "stream_count": 1
     },
     {
@@ -71,11 +71,35 @@
       "stream_count": 6
     },
     {
+      "event_id": "18",
+      "event_title": "NHL - Vancouver Canucks vs Anaheim Ducks",
+      "event_time": "04 Nov, 07:30 am",
+      "event_time_raw": 1793757600000,
+      "category": "Hockey",
+      "stream_count": 1
+    },
+    {
+      "event_id": "2",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "04 Nov, 11:30 am",
+      "event_time_raw": 1793772000000,
+      "category": "Snooker",
+      "stream_count": 3
+    },
+    {
       "event_id": "17",
       "event_title": "Women's Big Bash League - Hobart Hurricanes Women vs Melbourne Renegades Women",
       "event_time": "04 Nov, 01:40 pm",
       "event_time_raw": 1793779800000,
       "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": "8",
+      "event_title": "Paris OPEN - ATP vs ATP",
+      "event_time": "04 Nov, 03:30 pm",
+      "event_time_raw": 1793786400000,
+      "category": "Tennis",
       "stream_count": 3
     },
     {
