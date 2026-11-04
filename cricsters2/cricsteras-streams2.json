@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T13:37:08+05:30",
-  "generated_at_india": "04-11-2026 01:37:08 PM IST",
+  "generated_at": "2026-11-04T15:16:37+05:30",
+  "generated_at_india": "04-11-2026 03:16:37 PM IST",
   "total": 21,
   "ok": 21,
   "failed": 0,
@@ -406,38 +406,38 @@
       "streams": [
         {
           "code": "WOMEWILL",
+          "title": "WILLOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/h5r6pyxcdd/out/v1/d68cf08eacb74c349b644466b5c9e06b/cenc.mpd",
+          "drm": {
+            "kid": "b7905c23e4544d1cb19e110c2c31acc3",
+            "key": "81ef593bc93049369572a9812c1f6955"
+          }
+        },
+        {
+          "code": "WOMEFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "WOMEWILLTV",
+          "title": "WILLOW ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/h5r6pyxcdd/out/v1/d68cf08eacb74c349b644466b5c9e06b/cenc.mpd",
+          "drm": {
+            "kid": "b7905c23e4544d1cb19e110c2c31acc3",
+            "key": "81ef593bc93049369572a9812c1f6955"
+          }
+        },
+        {
+          "code": "WOMEWILL87",
           "title": "WILLOW HD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        },
-        {
-          "code": "WOMEWILLXF",
-          "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mwlueryhck/out/v1/c4f180fd53004d80999910f8e2d9cf7d/cenc.mpd",
-          "drm": {
-            "kid": "cdca888620514236db847b1ca52773b8",
-            "key": "460dff34d4ffa3a814a4e1ad083f4993"
-          }
-        },
-        {
-          "code": "WOMEWILLXF2",
-          "title": "WILLOW ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mwlueryhck/out/v1/c4f180fd53004d80999910f8e2d9cf7d/cenc.mpd",
-          "drm": {
-            "kid": "cdca888620514236db847b1ca52773b8",
-            "key": "460dff34d4ffa3a814a4e1ad083f4993"
-          }
-        },
-        {
-          "code": "WOMEEURO",
-          "title": "EUROSPORTS FHD",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
           }
         }
       ]
