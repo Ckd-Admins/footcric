@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T09:07:59+05:30",
-  "generated_at_india": "04-11-2026 09:07:59 AM IST",
-  "total": 24,
-  "ok": 24,
+  "generated_at": "2026-11-04T10:12:11+05:30",
+  "generated_at_india": "04-11-2026 10:12:11 AM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -462,54 +462,16 @@
       ]
     },
     {
-      "event_id": 50076,
-      "event_title": "Montréal Canadiens vs Winnipeg Jets",
-      "event_time": "2026-11-04 00:00",
-      "event_time_raw": "2026-11-04 00:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "MOWITSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "drm": {
-            "kid": "85b277daf5aae05833fe43a68f587968",
-            "key": "d52d7e9bc0bcd98787efd547ac91eca0"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50077,
-      "event_title": "New York Rangers vs St. Louis Blues",
-      "event_time": "2026-11-04 00:00",
-      "event_time_raw": "2026-11-04 00:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NESTPREM",
-          "title": "PREMIER SPORRS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50086,
-      "event_title": "Internacional vs Coritiba",
-      "event_time": "2026-11-04 00:30",
-      "event_time_raw": "2026-11-04 00:30",
+      "event_title": "Flamengo vs Grêmio",
+      "event_time": "2026-11-04 22:30",
+      "event_time_raw": "2026-11-04 22:30",
       "category": "Brasileirão",
       "stream_count": 1,
       "streams": [
         {
-          "code": "INCOPREM",
-          "title": "PREMIERER BR",
+          "code": "FLGRPREM",
+          "title": "PREMIERER BR FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
           "drm": {
             "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
@@ -520,19 +482,47 @@
     },
     {
       "event_id": 50087,
-      "event_title": "Chapecoense vs Mirassol",
-      "event_time": "2026-11-03 22:30",
-      "event_time_raw": "2026-11-03 22:30",
+      "event_title": "Botafogo vs Atlético Mineiro",
+      "event_time": "2026-11-05 00:30",
+      "event_time_raw": "2026-11-05 00:30",
       "category": "Brasileirão",
       "stream_count": 1,
       "streams": [
         {
-          "code": "CHMIPREM",
-          "title": "PREMIERER BR",
+          "code": "BOATPREM",
+          "title": "PREMIERER BR FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
           "drm": {
             "kid": "9dc40460c93087aea84d6315f08ecb64",
             "key": "f69c8d4624fddff4ca89bd0b31bdc4a7"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50088,
+      "event_title": "São Paulo vs Corinthians",
+      "event_time": "2026-11-05 00:30",
+      "event_time_raw": "2026-11-05 00:30",
+      "category": "Brasileirão",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "SOCOPREM",
+          "title": "PREMIER SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        },
+        {
+          "code": "SOCOPREMZR",
+          "title": "PREMIERER BR FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+          "drm": {
+            "kid": "e23365c2ad97870c871712b73f0d6195",
+            "key": "58709c714320bb862dbd07270df81c94"
           }
         }
       ]

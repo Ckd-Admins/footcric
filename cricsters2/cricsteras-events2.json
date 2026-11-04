@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T09:07:59+05:30",
-  "generated_at_india": "04-11-2026 09:07:59 AM IST",
-  "total": 24,
+  "generated_at": "2026-11-04T10:12:11+05:30",
+  "generated_at_india": "04-11-2026 10:12:11 AM IST",
+  "total": 23,
   "events": [
     {
       "event_id": 50002,
@@ -103,36 +103,28 @@
       "stream_count": 4
     },
     {
-      "event_id": 50076,
-      "event_title": "Montréal Canadiens vs Winnipeg Jets",
-      "event_time": "2026-11-04 00:00",
-      "event_time_raw": "2026-11-04 00:00",
-      "category": "NHL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50077,
-      "event_title": "New York Rangers vs St. Louis Blues",
-      "event_time": "2026-11-04 00:00",
-      "event_time_raw": "2026-11-04 00:00",
-      "category": "NHL",
-      "stream_count": 1
-    },
-    {
       "event_id": 50086,
-      "event_title": "Internacional vs Coritiba",
-      "event_time": "2026-11-04 00:30",
-      "event_time_raw": "2026-11-04 00:30",
+      "event_title": "Flamengo vs Grêmio",
+      "event_time": "2026-11-04 22:30",
+      "event_time_raw": "2026-11-04 22:30",
       "category": "Brasileirão",
       "stream_count": 1
     },
     {
       "event_id": 50087,
-      "event_title": "Chapecoense vs Mirassol",
-      "event_time": "2026-11-03 22:30",
-      "event_time_raw": "2026-11-03 22:30",
+      "event_title": "Botafogo vs Atlético Mineiro",
+      "event_time": "2026-11-05 00:30",
+      "event_time_raw": "2026-11-05 00:30",
       "category": "Brasileirão",
       "stream_count": 1
+    },
+    {
+      "event_id": 50088,
+      "event_title": "São Paulo vs Corinthians",
+      "event_time": "2026-11-05 00:30",
+      "event_time_raw": "2026-11-05 00:30",
+      "category": "Brasileirão",
+      "stream_count": 2
     },
     {
       "event_id": 50089,
