@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T01:20:00+05:30",
-  "generated_at_india": "05-11-2026 01:20:00 AM IST",
-  "total": 24,
-  "ok": 24,
+  "generated_at": "2026-11-05T02:13:09+05:30",
+  "generated_at_india": "05-11-2026 02:13:09 AM IST",
+  "total": 28,
+  "ok": 28,
   "failed": 0,
   "events": [
     {
-      "event_id": "15",
+      "event_id": "17",
       "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "12",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "4",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "8",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "04 Nov, 03:30 pm",
       "event_time_raw": 1793786400000,
@@ -166,13 +166,22 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "23",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
       "category": "Football",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "UCUCGOLA",
+          "title": "GOLAZO SHOW",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/htqkbztz1l/out/v1/87095d82ecbf4de7ad3f5ad789f1f060/cenc.mpd",
+          "drm": {
+            "kid": "d470693cba80fbeec8e909f80ed70edc",
+            "key": "8f436dc5b928988a18d011a3b99a58b5"
+          }
+        },
         {
           "code": "UCUCDAZN",
           "title": "DAZN SPORTS DE",
@@ -194,15 +203,15 @@
       ]
     },
     {
-      "event_id": "23",
-      "event_title": "Championship - Cardiff City vs West Ham United",
+      "event_id": "27",
+      "event_title": "Championship - Wrexham vs Middlesbrough",
       "event_time": "05 Nov, 01:15 am",
       "event_time_raw": 1793821500000,
       "category": "Football",
       "stream_count": 1,
       "streams": [
         {
-          "code": "CAWEPARA",
+          "code": "WRMIPARA",
           "title": "PARAMOUNT+ FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n1lhb2ffmr/out/v1/fd2157164ff14b08aee352dd0f295309/cenc.mpd",
           "drm": {
@@ -213,51 +222,22 @@
       ]
     },
     {
-      "event_id": "16",
-      "event_title": "UEFA Champions League - SK Slavia Praha vs Arsenal",
-      "event_time": "05 Nov, 01:30 am",
-      "event_time_raw": 1793822400000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "SKARTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "17",
-      "event_title": "UEFA Champions League - Borussia Dortmund vs Real Betis",
-      "event_time": "05 Nov, 01:30 am",
-      "event_time_raw": 1793822400000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "BORETNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "drm": {
-            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
-            "key": "552a78d1aeb74f1650d68255c5749408"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "18",
+      "event_id": "1",
       "event_title": "UEFA Champions League - RB Leipzig vs Manchester City",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 4,
       "streams": [
+        {
+          "code": "RBMAPARA",
+          "title": "PARAMOUNT+ - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8voca0kgn8/out/v1/eaeb2407695a4e38aab2ec1bd9603dd9/cenc.mpd",
+          "drm": {
+            "kid": "1860d02f5859d73845201900268d231c",
+            "key": "700f2448ab0999bd2bc233a04c561d46"
+          }
+        },
         {
           "code": "RBMATNTS",
           "title": "TNT SPORTS FHD",
@@ -266,11 +246,314 @@
             "kid": "f3df7843080ae743bf865dc5fdf64c68",
             "key": "567c863bc12eb74788ea74888c042e1b"
           }
+        },
+        {
+          "code": "RBMAPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bkksxyoatu/out/v1/3a200f1388e64601810e77d248d539bc/cenc.mpd",
+          "drm": {
+            "kid": "70b527424e2853177f33a7e23a404998",
+            "key": "c25b49129a1dd6b14b3ab94ca070b72e"
+          }
+        },
+        {
+          "code": "RBMADAZN",
+          "title": "DAZN DE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ncceucfcrw/out/v1/979b060296954c2b8d173b04481fd767/cenc.mpd",
+          "drm": {
+            "kid": "5d3f3429e47c011b33c90469366ed19e",
+            "key": "22aeb1655c535fa117a2645d66959922"
+          }
         }
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "2",
+      "event_title": "UEFA Champions League - SK Slavia Praha vs Arsenal",
+      "event_time": "05 Nov, 01:30 am",
+      "event_time_raw": 1793822400000,
+      "category": "Football",
+      "stream_count": 5,
+      "streams": [
+        {
+          "code": "SKARPARA",
+          "title": "PARAMOUNT+ - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymeumajbnz/out/v1/0c52d1e9c59346e783fca2b5cd02762f/cenc.mpd",
+          "drm": {
+            "kid": "284fb360031b922b7c44697e042f9109",
+            "key": "4ebb11445096fa3b030580d985433bf9"
+          }
+        },
+        {
+          "code": "SKARTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "SKARDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zvn93joghj/out/v1/3e6fd3525aef47a0827ad25d4b1eafc3/cenc.mpd",
+          "drm": {
+            "kid": "e6b846f1025ac88b970d2ee03c85ad14",
+            "key": "15167e2a38eb3ab78eea15100425f9cc"
+          }
+        },
+        {
+          "code": "SKARTNTB",
+          "title": "TNT BRASIL",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
+          "drm": {
+            "kid": "83a4bc2c011e2c72b35b7b5f2d35560d",
+            "key": "01bd0115c83d3493449181ba68998ab1"
+          }
+        },
+        {
+          "code": "SKARPRIM",
+          "title": "PRIME VIDEO - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "18",
+      "event_title": "UEFA Champions League - Borussia Dortmund vs Real Betis",
+      "event_time": "05 Nov, 01:30 am",
+      "event_time_raw": 1793822400000,
+      "category": "Football",
+      "stream_count": 6,
+      "streams": [
+        {
+          "code": "BOREPARA",
+          "title": "PARAMOUNT+ - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/shjayahvpp/out/v1/a971b8fc52b44a1398237689dc61930c/cenc.mpd",
+          "drm": {
+            "kid": "58434b280dc5da2a0c2a0dd1ea4f48c1",
+            "key": "0367f18e8b0ea8fede8ee6cb3b82d33a"
+          }
+        },
+        {
+          "code": "BORETNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "drm": {
+            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
+            "key": "552a78d1aeb74f1650d68255c5749408"
+          }
+        },
+        {
+          "code": "BOREPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0vx98ay1lb/out/v1/d07d82c064f64707a06a346cf0a68aec/cenc.mpd",
+          "drm": {
+            "kid": "5179ee0d1758a6d33f607816ed0859a3",
+            "key": "629388cbf031a99953425a8db5e157ab"
+          }
+        },
+        {
+          "code": "BOREVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qacdpbrjpj/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd",
+          "drm": {
+            "kid": "770497afe3f251ba88eda041403d9acc",
+            "key": "8f251ded5d35388c6afc98ef9882fb40"
+          }
+        },
+        {
+          "code": "BORETNTB",
+          "title": "TNT BRASIL",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m0dk7evbbv/out/v1/2280611214d549bab3108a7ec929c99a/cenc.mpd",
+          "drm": {
+            "kid": "09a695c21528e0853371b882814c3aac",
+            "key": "805bb374cfeebf82408b6850ecda7d14"
+          }
+        },
+        {
+          "code": "BOREDAZN",
+          "title": "DAZN DE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/p9e7ygthvj/out/v1/c6e578e510f340b29c16febf3c470572/cenc.mpd",
+          "drm": {
+            "kid": "874b7df0e3c0b86b0e056c8398d64f66",
+            "key": "674ce96dacc3b24d099c9e0dfe179c70"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "19",
+      "event_title": "UEFA Champions League - FC Porto vs SSC Napoli",
+      "event_time": "05 Nov, 01:30 am",
+      "event_time_raw": 1793822400000,
+      "category": "Football",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "FCSSPARA",
+          "title": "PARAMOUNT+ - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hp8rapp5tf/out/v1/27de1189595849a98cce002e679063ba/cenc.mpd",
+          "drm": {
+            "kid": "55d6c128b456acb1d0acd5e17f4c0ae7",
+            "key": "7cc673c958ec7bbacbfe242ebce8ceaa"
+          }
+        },
+        {
+          "code": "FCSSDAZN",
+          "title": "DAZN DE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymtnpmw1z2/out/v1/b673df0f81c342f6b1684494ad908ffe/cenc.mpd",
+          "drm": {
+            "kid": "4f7fd79e857cefefb63370d487dc6777",
+            "key": "417f1bd8e20424493509e566e6f3657c"
+          }
+        },
+        {
+          "code": "FCSSPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dbaurfydof/out/v1/4b729bd9c7bf4f538326b9096f71dc35/cenc.mpd",
+          "drm": {
+            "kid": "605cec5d4d0c9b9adc5b1da537582b4f",
+            "key": "e8687e2457e5ce2060fc52d5b39efa04"
+          }
+        },
+        {
+          "code": "FCSSVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ofniszbiz0/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd",
+          "drm": {
+            "kid": "5b30e453507e0b2080bad89fea8cb27f",
+            "key": "158fb33a914c7a3e02d017f5dec52c03"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "20",
+      "event_title": "UEFA Champions League - Viking FK vs Sabah FK",
+      "event_time": "05 Nov, 01:30 am",
+      "event_time_raw": 1793822400000,
+      "category": "Football",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "VISAPARA",
+          "title": "PARAMOUNT+ - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pcfkzhzk0s/out/v1/374e618bd90e4c64845f11bd7f56832f/cenc.mpd",
+          "drm": {
+            "kid": "e60b8609a832e0e89e24e20360799b32",
+            "key": "4372ab7df1035676ca2664e982eaad11"
+          }
+        },
+        {
+          "code": "VISADAZN",
+          "title": "DAZN DE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lrcgrcxnei/out/v1/5f6299a26a16446a96cc315d927c5a8e/cenc.mpd",
+          "drm": {
+            "kid": "fd1bcd8052fb5010a9f75d156266ea95",
+            "key": "3f3c03707998694db1c9cbb97550da6c"
+          }
+        },
+        {
+          "code": "VISAVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wnj1sg9ucp/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
+          "drm": {
+            "kid": "4be3ef3f08c462098111934a936c6f32",
+            "key": "c0ce1f708bbae793401f1a7d42a31329"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "21",
+      "event_title": "UEFA Champions League - RC Lens vs Como",
+      "event_time": "05 Nov, 01:30 am",
+      "event_time_raw": 1793822400000,
+      "category": "Football",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "RCCOPARA",
+          "title": "PARAMOUNT+ - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dpo3zmxuhz/out/v1/ea52ff20c9ef46cd91433e7183ea50c6/cenc.mpd",
+          "drm": {
+            "kid": "c609b1f56b17276d3526bc297ba8dd10",
+            "key": "390c9205242b5132df2bc9d1fb7f38e1"
+          }
+        },
+        {
+          "code": "RCCOVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sjwfufyzxv/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
+          "drm": {
+            "kid": "0971a5f78e9033d86be231fef3ddcbf6",
+            "key": "b6edfceb7d6df0b02b7923a92e62a171"
+          }
+        },
+        {
+          "code": "RCCODAZN",
+          "title": "DAZN DE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lphpuuizz5/out/v1/d1b411fc45e84dbebb331ce387733d67/cenc.mpd",
+          "drm": {
+            "kid": "9e4b09f3c59b42b79e6dc16c1691052e",
+            "key": "f798767c242f008883e5a3207c98e8da"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "22",
+      "event_title": "UEFA Champions League - PSV Eindhoven vs Club Brugge KV",
+      "event_time": "05 Nov, 01:30 am",
+      "event_time_raw": 1793822400000,
+      "category": "Football",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "PSCLPARA",
+          "title": "PARAMOUNT+ - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/d1ous3srq7/out/v1/6c950f35b0fc453a92532bb355de70e1/cenc.mpd",
+          "drm": {
+            "kid": "fb49bd892b824f28fad679dd7ad71e8c",
+            "key": "cd9842c07299c799b409629ba7ac0a98"
+          }
+        },
+        {
+          "code": "PSCLVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/r9udn69u5v/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd",
+          "drm": {
+            "kid": "c912a6919c685ebd52c139fe14542a93",
+            "key": "d49e2a62049ae3b71b79ebb9db44510b"
+          }
+        },
+        {
+          "code": "PSCLPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/y3th6vjorn/out/v1/7a9ccc6d6f1e4fc3abe851fac45936a2/cenc.mpd",
+          "drm": {
+            "kid": "334c272e7990a300f968c6842e0b31aa",
+            "key": "17f15f267b0d4773dc441eb88fb10636"
+          }
+        },
+        {
+          "code": "PSCLDAZN",
+          "title": "DAZN DE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k0a1eycdh3/out/v1/ed168d6fa20248819a7748ec0057e615/cenc.mpd",
+          "drm": {
+            "kid": "c4b4702e7e9301c95458ffb46b6caf9f",
+            "key": "7f37e9920a2bf4752a83d26bc48b81ed"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "28",
       "event_title": "Championship - Bristol City vs Wolverhampton",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -298,7 +581,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "26",
       "event_title": "Campeonato Brasileiro Série A - Flamengo vs Grêmio",
       "event_time": "05 Nov, 04:00 am",
       "event_time_raw": 1793831400000,
@@ -317,7 +600,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "5",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -354,7 +637,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "24",
       "event_title": "Campeonato Brasileiro Série A - São Paulo vs Corinthians",
       "event_time": "05 Nov, 06:00 am",
       "event_time_raw": 1793838600000,
@@ -382,7 +665,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "25",
       "event_title": "Campeonato Brasileiro Série A - Botafogo vs Atlético Mineiro",
       "event_time": "05 Nov, 06:00 am",
       "event_time_raw": 1793838600000,
@@ -401,7 +684,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "14",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "05 Nov, 09:00 am",
       "event_time_raw": 1793849400000,
@@ -429,7 +712,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "13",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "05 Nov, 10:30 am",
       "event_time_raw": 1793854800000,
@@ -457,7 +740,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "10",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "05 Nov, 11:30 am",
       "event_time_raw": 1793858400000,
@@ -494,7 +777,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "11",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "05 Nov, 12:15 pm",
       "event_time_raw": 1793861100000,
@@ -522,7 +805,7 @@
       ]
     },
     {
-      "event_id": "1",
+      "event_id": "3",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "05 Nov, 05:00 pm",
       "event_time_raw": 1793878200000,
@@ -559,7 +842,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "6",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -578,7 +861,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "15",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -633,7 +916,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "7",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -652,7 +935,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "16",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
@@ -716,7 +999,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "9",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
