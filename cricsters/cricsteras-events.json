@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T21:17:30+05:30",
-  "generated_at_india": "04-11-2026 09:17:30 PM IST",
+  "generated_at": "2026-11-04T22:17:11+05:30",
+  "generated_at_india": "04-11-2026 10:17:11 PM IST",
   "total": 25,
   "events": [
     {
@@ -15,7 +15,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "11",
+      "event_id": "10",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -31,14 +31,6 @@
       "stream_count": 7
     },
     {
-      "event_id": "6",
-      "event_title": "HYPE - Colby Covington vs Raul Rosas Jr.",
-      "event_time": "04 Nov, 12:00 am",
-      "event_time_raw": 1793730600000,
-      "category": "Boxing",
-      "stream_count": 1
-    },
-    {
       "event_id": "21",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "04 Nov, 12:40 am",
@@ -47,7 +39,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "7",
+      "event_id": "6",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "04 Nov, 03:30 pm",
       "event_time_raw": 1793786400000,
@@ -151,7 +143,15 @@
       "stream_count": 2
     },
     {
-      "event_id": "9",
+      "event_id": "11",
+      "event_title": "Test Series - Afghanistan vs Zimbabwe",
+      "event_time": "05 Nov, 10:30 am",
+      "event_time_raw": 1793854800000,
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
+      "event_id": "8",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "05 Nov, 11:30 am",
       "event_time_raw": 1793858400000,
@@ -159,7 +159,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "10",
+      "event_id": "9",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "05 Nov, 12:15 pm",
       "event_time_raw": 1793861100000,
@@ -199,7 +199,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "8",
+      "event_id": "7",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
