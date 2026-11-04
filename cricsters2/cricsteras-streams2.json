@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-04T23:10:46+05:30",
-  "generated_at_india": "04-11-2026 11:10:46 PM IST",
+  "generated_at": "2026-11-05T00:11:50+05:30",
+  "generated_at_india": "05-11-2026 00:11:50 AM IST",
   "total": 21,
   "ok": 21,
   "failed": 0,
@@ -571,7 +571,7 @@
       "event_time": "2026-11-04 17:45",
       "event_time_raw": "2026-11-04 17:45",
       "category": "UCL",
-      "stream_count": 4,
+      "stream_count": 6,
       "streams": [
         {
           "code": "AEREPARA",
@@ -592,6 +592,15 @@
           }
         },
         {
+          "code": "AEREPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mdwszwnwl8/out/v1/7dae84dc172a435798fab72a8cd99828/cenc.mpd",
+          "drm": {
+            "kid": "e9aa556dbdf0cba2f898cbcc26e2ae0e",
+            "key": "e5e197eabb61007501d905521fa620d0"
+          }
+        },
+        {
           "code": "AEREDAZN",
           "title": "DAZN SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sgxlaurrkw/out/v1/c3f667057bc84a78b2df646b097fb1eb/cenc.mpd",
@@ -608,6 +617,15 @@
             "kid": "8423baa4631c12837510e853dcad96d6",
             "key": "1032cc040f378fdcec68c45ccbdb7215"
           }
+        },
+        {
+          "code": "AEREHBOM",
+          "title": "HBO MAX BRAZIL",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
+          "drm": {
+            "kid": "83a4bc2c011e2c72b35b7b5f2d35560d",
+            "key": "01bd0115c83d3493449181ba68998ab1"
+          }
         }
       ]
     },
@@ -617,7 +635,7 @@
       "event_time": "2026-11-04 17:45",
       "event_time_raw": "2026-11-04 17:45",
       "category": "UCL",
-      "stream_count": 2,
+      "stream_count": 6,
       "streams": [
         {
           "code": "FELIPARA",
@@ -635,6 +653,42 @@
           "drm": {
             "kid": "69a5aa835a061ce64a630d1046727e40",
             "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "FELIPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hve6te3gra/out/v1/c852d0c20b0c4009a6320557da063330/cenc.mpd",
+          "drm": {
+            "kid": "196d7adbb90349cc7b8fa41a4205a287",
+            "key": "56e77fe45183734a76ab51d67efefa96"
+          }
+        },
+        {
+          "code": "FELIDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m4hzilar79/out/v1/89daf1d02da540d79fad24952ec7a8df/cenc.mpd",
+          "drm": {
+            "kid": "d8102ff81175e6be48e14f62803ba7d5",
+            "key": "7933876f7d2d1bcb66f43030e1ad926c"
+          }
+        },
+        {
+          "code": "FELIVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lho2ni3olb/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd",
+          "drm": {
+            "kid": "2453950127dfcbf10a57b540a2691b1e",
+            "key": "4eb4220aeb59cb8ca47c0bbd3cac9e6e"
+          }
+        },
+        {
+          "code": "FELIHBOM",
+          "title": "HBO MAX BRZIL",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m0dk7evbbv/out/v1/2280611214d549bab3108a7ec929c99a/cenc.mpd",
+          "drm": {
+            "kid": "09a695c21528e0853371b882814c3aac",
+            "key": "805bb374cfeebf82408b6850ecda7d14"
           }
         }
       ]
