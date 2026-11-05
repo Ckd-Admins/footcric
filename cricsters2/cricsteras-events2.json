@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T07:26:39+05:30",
-  "generated_at_india": "05-11-2026 07:26:39 AM IST",
+  "generated_at": "2026-11-05T08:15:24+05:30",
+  "generated_at_india": "05-11-2026 08:15:24 AM IST",
   "total": 21,
   "events": [
     {
@@ -144,35 +144,35 @@
     },
     {
       "event_id": 50090,
-      "event_title": "Borussia Dortmund vs Real Betis",
-      "event_time": "2026-11-04 20:00",
-      "event_time_raw": "2026-11-04 20:00",
-      "category": "UCL",
-      "stream_count": 6
+      "event_title": "AZ Alkmaar vs Juventus",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Europa",
+      "stream_count": 1
     },
     {
       "event_id": 50091,
-      "event_title": "RB Leipzig vs Manchester City",
-      "event_time": "2026-11-04 20:00",
-      "event_time_raw": "2026-11-04 20:00",
-      "category": "UCL",
-      "stream_count": 4
+      "event_title": "Celtic vs Beşiktaş JK",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Europa",
+      "stream_count": 1
     },
     {
       "event_id": 50092,
-      "event_title": "SK Slavia Praha vs Arsenal",
-      "event_time": "2026-11-04 20:00",
-      "event_time_raw": "2026-11-04 20:00",
-      "category": "UCL",
-      "stream_count": 4
+      "event_title": "Sunderland vs Dinamo Zagreb",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Europa",
+      "stream_count": 1
     },
     {
-      "event_id": 50093,
-      "event_title": "FC Porto vs SSC Napoli",
-      "event_time": "2026-11-04 20:00",
-      "event_time_raw": "2026-11-04 20:00",
-      "category": "UCL",
-      "stream_count": 4
+      "event_id": 50100,
+      "event_title": "Getafe vs Brighton",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Conference",
+      "stream_count": 1
     }
   ],
   "raw_data": ""
