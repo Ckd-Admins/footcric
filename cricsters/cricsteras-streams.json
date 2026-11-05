@@ -2,31 +2,12 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T03:08:23+05:30",
-  "generated_at_india": "06-11-2026 03:08:23 AM IST",
+  "generated_at": "2026-11-06T04:10:04+05:30",
+  "generated_at_india": "06-11-2026 04:10:04 AM IST",
   "total": 34,
   "ok": 34,
   "failed": 0,
   "events": [
-    {
-      "event_id": "14",
-      "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
-      "event_time": "01 Nov, 07:53 am",
-      "event_time_raw": 1793499780000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "HKHKPLAY",
-          "title": "PlayZ TV",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zftvs8ttph/out/v1/d43af91e5e4545328277170da4067922/cenc.mpd",
-          "drm": {
-            "kid": "b60700acb269f428bb828c21a125f149",
-            "key": "c80c0baea9477553e545fec46cb50e9c"
-          }
-        }
-      ]
-    },
     {
       "event_id": "3",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
@@ -101,7 +82,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "14",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -305,7 +286,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "15",
       "event_title": "UEFA Conference League - AS Monaco vs FC Nordsjælland",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
@@ -324,7 +305,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "UEFA Conference League - FC Twente vs Pafos FC",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
@@ -343,7 +324,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "UEFA Conference League - Panathinaikos FC vs CSKA Sofia",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
@@ -371,7 +352,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "UEFA Conference League - Riga FC vs FK Jablonec",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
@@ -399,7 +380,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "UEFA Conference League - FC København vs FC Iberia 1999",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
@@ -418,7 +399,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "UEFA Conference League - Getafe vs Brighton & Hove Albion",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
@@ -446,7 +427,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "UEFA Conference League - Universitatea Craiova vs KF Egnatia",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
@@ -474,7 +455,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "UEFA Conference League - FC Lugano vs FK Kauno Žalgiris",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
@@ -493,7 +474,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "UEFA Conference League - Sint-Truidense VV vs SK Brann",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
@@ -512,7 +493,7 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "25",
       "event_title": "UEFA Europa League - Bayer 04 Leverkusen vs Olympique de Marseille",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
@@ -540,7 +521,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "26",
       "event_title": "UEFA Europa League - Celtic vs Beşiktaş JK",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
@@ -577,7 +558,7 @@
       ]
     },
     {
-      "event_id": "28",
+      "event_id": "27",
       "event_title": "UEFA Europa League - Hapoel Be'er Sheva vs OFI Crete",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
@@ -685,15 +666,24 @@
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "TOFCPARA",
           "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/akajzz6215/out/v1/e2f33a8b77f0470daca509ea269c1f7d/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/d8lnxo72zs/out/v1/d0f365c1016d45f78ef16643a9dbfe32/cenc.mpd",
           "drm": {
-            "kid": "483bfd76c8f2cfa0825a01f8f5023be6",
-            "key": "d25d1f4c8626872b5e12041c05ed52d9"
+            "kid": "211e6df089b09beac238161235a6085a",
+            "key": "d922a9b2a0777dffc7b77fa0cc7c0ff8"
+          }
+        },
+        {
+          "code": "TOFCVIXS",
+          "title": "VIX SPANISH - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jhtmehvr0u/out/v1/e97fce33fc064131b6dec095e0a0ab71/cenc.mpd",
+          "drm": {
+            "kid": "79e7d09a48a385367bd65c1b35ab4cc3",
+            "key": "0e7772297dfb6775c71b3414f0832875"
           }
         }
       ]
@@ -709,19 +699,19 @@
         {
           "code": "AZJUPARA",
           "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/d8lnxo72zs/out/v1/d0f365c1016d45f78ef16643a9dbfe32/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vwpp4as84x/out/v1/cd53f1a66a95454ba2f7356bf68801e4/cenc.mpd",
           "drm": {
-            "kid": "211e6df089b09beac238161235a6085a",
-            "key": "d922a9b2a0777dffc7b77fa0cc7c0ff8"
+            "kid": "7c82327f6d67acbd1aadb9102ac8abd7",
+            "key": "cc3947fbf235fdb0ebe20b2200b0cf46"
           }
         },
         {
-          "code": "AZJUVIXS",
-          "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jhtmehvr0u/out/v1/e97fce33fc064131b6dec095e0a0ab71/cenc.mpd",
+          "code": "AZJUTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
           "drm": {
-            "kid": "79e7d09a48a385367bd65c1b35ab4cc3",
-            "key": "0e7772297dfb6775c71b3414f0832875"
+            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
+            "key": "552a78d1aeb74f1650d68255c5749408"
           }
         }
       ]
@@ -732,24 +722,52 @@
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
       "category": "Football",
-      "stream_count": 2,
+      "stream_count": 1,
       "streams": [
         {
           "code": "BELEPARA",
-          "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vwpp4as84x/out/v1/cd53f1a66a95454ba2f7356bf68801e4/cenc.mpd",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/788hmvfgsj/out/v1/7e6c62aa8cdb4a67bedecf748137aab1/cenc.mpd",
           "drm": {
-            "kid": "7c82327f6d67acbd1aadb9102ac8abd7",
-            "key": "cc3947fbf235fdb0ebe20b2200b0cf46"
+            "kid": "aa63ecc4a90ca669d8824f9224a692d4",
+            "key": "7c4d919ff5ba82507c586e20e3ca0a78"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "28",
+      "event_title": "Campeonato Brasileiro Série A - Palmeiras vs Remo",
+      "event_time": "06 Nov, 04:00 am",
+      "event_time_raw": 1793917800000,
+      "category": "Football",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "PAREPREM",
+          "title": "PREMIER SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm": {
+            "kid": "1444f4235529f183f0a5a486befe9cdb",
+            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
           }
         },
         {
-          "code": "BELETNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "code": "PARESPOR",
+          "title": "SportDigital FussBall",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
           "drm": {
-            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
-            "key": "552a78d1aeb74f1650d68255c5749408"
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        },
+        {
+          "code": "PAREPREMED",
+          "title": "PREMIERE BR - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "drm": {
+            "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
+            "key": "fa38aaa865a57eda7c77444697ba8ed3"
           }
         }
       ]
@@ -783,7 +801,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "06 Nov, 11:30 am",
       "event_time_raw": 1793944800000,
