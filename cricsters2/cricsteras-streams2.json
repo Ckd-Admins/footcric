@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T08:15:24+05:30",
-  "generated_at_india": "05-11-2026 08:15:24 AM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-11-05T09:11:23+05:30",
+  "generated_at_india": "05-11-2026 09:11:23 AM IST",
+  "total": 25,
+  "ok": 25,
   "failed": 0,
   "events": [
     {
@@ -186,8 +186,8 @@
     {
       "event_id": 50007,
       "event_title": "Afghanistan vs Zimbabwe",
-      "event_time": "2026-11-05 05:00",
-      "event_time_raw": "2026-11-05 05:00",
+      "event_time": "2026-11-05 06:00",
+      "event_time_raw": "2026-11-05 06:00",
       "category": "Cricket",
       "stream_count": 4,
       "streams": [
@@ -341,6 +341,34 @@
       ]
     },
     {
+      "event_id": 50013,
+      "event_title": "Baltimore Ravens vs Jacksonville Jaguars",
+      "event_time": "2026-11-06 01:15",
+      "event_time_raw": "2026-11-06 01:15",
+      "category": "NFL",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "BAJATSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm": {
+            "kid": "14eeabf30c14b7fbf3008c03099ce011",
+            "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          }
+        },
+        {
+          "code": "BAJATSN3",
+          "title": "TSN3 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "drm": {
+            "kid": "d3250252765347a0c2603c6cb4869f8c",
+            "key": "0c19319460da7e9ed816db46ce839b37"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50023,
       "event_title": "NFL REDZONE",
       "event_time": "2026-11-08 17:55",
@@ -399,8 +427,8 @@
     {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
-      "event_time": "2026-11-03 11:15",
-      "event_time_raw": "2026-11-03 11:15",
+      "event_time": "2026-11-05 06:45",
+      "event_time_raw": "2026-11-05 06:45",
       "category": "NPL",
       "stream_count": 2,
       "streams": [
@@ -427,20 +455,11 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-04 08:10",
-      "event_time_raw": "2026-11-04 08:10",
+      "event_time": "2026-11-05 04:30",
+      "event_time_raw": "2026-11-05 04:30",
       "category": "WBBL",
       "stream_count": 4,
       "streams": [
-        {
-          "code": "WOMEWILL",
-          "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/h5r6pyxcdd/out/v1/d68cf08eacb74c349b644466b5c9e06b/cenc.mpd",
-          "drm": {
-            "kid": "b7905c23e4544d1cb19e110c2c31acc3",
-            "key": "81ef593bc93049369572a9812c1f6955"
-          }
-        },
         {
           "code": "WOMEFANC",
           "title": "FANCODE FHD",
@@ -448,6 +467,15 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "WOMEWILL",
+          "title": "WILLOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/h5r6pyxcdd/out/v1/d68cf08eacb74c349b644466b5c9e06b/cenc.mpd",
+          "drm": {
+            "kid": "b7905c23e4544d1cb19e110c2c31acc3",
+            "key": "81ef593bc93049369572a9812c1f6955"
           }
         },
         {
@@ -466,25 +494,6 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50076,
-      "event_title": "Florida Panthers vs Chicago Blackhawks",
-      "event_time": "2026-11-05 00:30",
-      "event_time_raw": "2026-11-05 00:30",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "FLCHPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
           }
         }
       ]
@@ -646,6 +655,82 @@
           "drm": {
             "kid": "f3df7843080ae743bf865dc5fdf64c68",
             "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50109,
+      "event_title": "AC Milan vs Ferencváros TC",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ACFETNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "drm": {
+            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
+            "key": "552a78d1aeb74f1650d68255c5749408"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50110,
+      "event_title": "AC Sparta Praha vs Bournemouth",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ACBOTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50111,
+      "event_title": "Crystal Palace vs TSG Hoffenheim",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CRTSTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50117,
+      "event_title": "Thun vs Heart of Midlothian",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "THHETNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm": {
+            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+            "key": "643e5474d9edd87c7d9091c8c97994ca"
           }
         }
       ]
