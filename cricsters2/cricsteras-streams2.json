@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T13:39:57+05:30",
-  "generated_at_india": "05-11-2026 01:39:57 PM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-11-05T15:16:45+05:30",
+  "generated_at_india": "05-11-2026 03:16:45 PM IST",
+  "total": 26,
+  "ok": 26,
   "failed": 0,
   "events": [
     {
@@ -379,47 +379,57 @@
       ]
     },
     {
+      "event_id": 50064,
+      "event_title": "Nepal Premier League",
+      "event_time": "2026-11-05 06:45",
+      "event_time_raw": "2026-11-05 06:45",
+      "category": "NPL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NEPANPLL",
+          "title": "NPL LIVE FHD",
+          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
       "event_time": "2026-11-05 08:10",
       "event_time_raw": "2026-11-05 08:10",
       "category": "WBBL",
-      "stream_count": 4,
+      "stream_count": 3,
       "streams": [
         {
-          "code": "WOMEFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
           "code": "WOMEWILL",
-          "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
           "drm": {
-            "kid": "edbd9d6a45038d8031f8acda793333db",
-            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
+            "kid": "b2c92cec93ed53bbc297d9ab55ae4c72",
+            "key": "6dfa3680190db85be7659d6faaac5d91"
           }
         },
         {
-          "code": "WOMEWILL23",
-          "title": "WILLOW ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
+          "code": "WOMEWILLMV",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
           "drm": {
-            "kid": "edbd9d6a45038d8031f8acda793333db",
-            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
+            "kid": "b2c92cec93ed53bbc297d9ab55ae4c72",
+            "key": "6dfa3680190db85be7659d6faaac5d91"
           }
         },
         {
-          "code": "WOMEWILL87",
-          "title": "WILLOW HD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "code": "WOMEEURO",
+          "title": "EUROSPORTS FHD",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
           "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
           }
         }
       ]
