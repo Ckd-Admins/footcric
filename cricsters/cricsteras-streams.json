@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T09:16:29+05:30",
-  "generated_at_india": "05-11-2026 09:16:29 AM IST",
+  "generated_at": "2026-11-05T10:19:52+05:30",
+  "generated_at_india": "05-11-2026 10:19:52 AM IST",
   "total": 25,
   "ok": 25,
   "failed": 0,
@@ -185,7 +185,7 @@
         {
           "code": "WRMIPARA",
           "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n1lhb2ffmr/out/v1/fd2157164ff14b08aee352dd0f295309/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n1lhb2ffmr/out/v1/fd2157164ff14b08aee352dd0f295309/cenc.mpd",
           "drm": {
             "kid": "1c6a422a997d250d93eba4656ca35ee0",
             "key": "280cb26b9073a5175e88992f85291699"
@@ -277,7 +277,7 @@
         {
           "code": "FCSSDAZN",
           "title": "DAZN DE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymtnpmw1z2/out/v1/b673df0f81c342f6b1684494ad908ffe/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ymtnpmw1z2/out/v1/b673df0f81c342f6b1684494ad908ffe/cenc.mpd",
           "drm": {
             "kid": "4f7fd79e857cefefb63370d487dc6777",
             "key": "417f1bd8e20424493509e566e6f3657c"
@@ -323,7 +323,7 @@
         {
           "code": "VISADAZN",
           "title": "DAZN DE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lrcgrcxnei/out/v1/5f6299a26a16446a96cc315d927c5a8e/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lrcgrcxnei/out/v1/5f6299a26a16446a96cc315d927c5a8e/cenc.mpd",
           "drm": {
             "kid": "fd1bcd8052fb5010a9f75d156266ea95",
             "key": "3f3c03707998694db1c9cbb97550da6c"
@@ -369,7 +369,7 @@
         {
           "code": "RCCODAZN",
           "title": "DAZN DE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lphpuuizz5/out/v1/d1b411fc45e84dbebb331ce387733d67/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lphpuuizz5/out/v1/d1b411fc45e84dbebb331ce387733d67/cenc.mpd",
           "drm": {
             "kid": "9e4b09f3c59b42b79e6dc16c1691052e",
             "key": "f798767c242f008883e5a3207c98e8da"
@@ -415,7 +415,7 @@
         {
           "code": "PSCLDAZN",
           "title": "DAZN DE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k0a1eycdh3/out/v1/ed168d6fa20248819a7748ec0057e615/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0a1eycdh3/out/v1/ed168d6fa20248819a7748ec0057e615/cenc.mpd",
           "drm": {
             "kid": "c4b4702e7e9301c95458ffb46b6caf9f",
             "key": "7f37e9920a2bf4752a83d26bc48b81ed"
