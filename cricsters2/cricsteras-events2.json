@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T16:19:17+05:30",
-  "generated_at_india": "05-11-2026 04:19:17 PM IST",
-  "total": 26,
+  "generated_at": "2026-11-05T17:13:49+05:30",
+  "generated_at_india": "05-11-2026 05:13:49 PM IST",
+  "total": 27,
   "events": [
     {
       "event_id": 50002,
@@ -125,6 +125,14 @@
       "event_time_raw": "2026-11-05 00:30",
       "category": "Brasileirão",
       "stream_count": 2
+    },
+    {
+      "event_id": 50089,
+      "event_title": "Indian Super League",
+      "event_time": "2026-11-05 11:30",
+      "event_time_raw": "2026-11-05 11:30",
+      "category": "ISL",
+      "stream_count": 1
     },
     {
       "event_id": 50090,

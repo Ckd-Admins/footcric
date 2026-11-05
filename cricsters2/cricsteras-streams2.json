@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T16:19:17+05:30",
-  "generated_at_india": "05-11-2026 04:19:17 PM IST",
-  "total": 26,
-  "ok": 26,
+  "generated_at": "2026-11-05T17:13:49+05:30",
+  "generated_at_india": "05-11-2026 05:13:49 PM IST",
+  "total": 27,
+  "ok": 27,
   "failed": 0,
   "events": [
     {
@@ -496,6 +496,25 @@
           "drm": {
             "kid": "e23365c2ad97870c871712b73f0d6195",
             "key": "58709c714320bb862dbd07270df81c94"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50089,
+      "event_title": "Indian Super League",
+      "event_time": "2026-11-05 11:30",
+      "event_time_raw": "2026-11-05 11:30",
+      "category": "ISL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "INDIPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jcgi1p1cip/out/v1/ba8c64b8009848af820813e215842743/cenc.mpd",
+          "drm": {
+            "kid": "695d15cbde11cb7493656822f071cf0d",
+            "key": "80094f09d12c9946bd55c23f4609c475"
           }
         }
       ]
