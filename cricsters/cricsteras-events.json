@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T12:28:09+05:30",
-  "generated_at_india": "05-11-2026 00:28:09 PM IST",
-  "total": 18,
+  "generated_at": "2026-11-05T13:48:59+05:30",
+  "generated_at_india": "05-11-2026 01:48:59 PM IST",
+  "total": 17,
   "events": [
     {
       "event_id": "12",
@@ -55,28 +55,28 @@
       "stream_count": 2
     },
     {
-      "event_id": "14",
-      "event_title": "Women's Big Bash League - Adelaide Strikers Women vs Brisbane Heat Women",
-      "event_time": "05 Nov, 10:10 am",
-      "event_time_raw": 1793853600000,
-      "category": "Cricket",
-      "stream_count": 3
-    },
-    {
-      "event_id": "16",
+      "event_id": "15",
       "event_title": "U19 Asia Cup - Sri Lanka Under-19 vs Malaysia Under-19",
       "event_time": "05 Nov, 10:30 am",
       "event_time_raw": 1793854800000,
       "category": "Cricket",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "U19 Asia Cup - Bangladesh Under-19 vs Afghanistan Under-19",
       "event_time": "05 Nov, 10:30 am",
       "event_time_raw": 1793854800000,
       "category": "Cricket",
-      "stream_count": 1
+      "stream_count": 3
+    },
+    {
+      "event_id": "2",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "05 Nov, 11:30 am",
+      "event_time_raw": 1793858400000,
+      "category": "Snooker",
+      "stream_count": 3
     },
     {
       "event_id": "9",
@@ -87,7 +87,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "05 Nov, 11:30 am",
       "event_time_raw": 1793858400000,
@@ -95,20 +95,12 @@
       "stream_count": 2
     },
     {
-      "event_id": "15",
+      "event_id": "14",
       "event_title": "Women's Big Bash League - Sydney Thunder Women vs Perth Scorchers Women",
       "event_time": "05 Nov, 01:40 pm",
       "event_time_raw": 1793866200000,
       "category": "Cricket",
-      "stream_count": 4
-    },
-    {
-      "event_id": "2",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "05 Nov, 05:00 pm",
-      "event_time_raw": 1793878200000,
-      "category": "Snooker",
-      "stream_count": 3
+      "stream_count": 5
     },
     {
       "event_id": "5",
