@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T07:29:08+05:30",
-  "generated_at_india": "05-11-2026 07:29:08 AM IST",
+  "generated_at": "2026-11-05T08:23:41+05:30",
+  "generated_at_india": "05-11-2026 08:23:41 AM IST",
   "total": 27,
   "ok": 27,
   "failed": 0,
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "11",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "3",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "7",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "04 Nov, 03:30 pm",
       "event_time_raw": 1793786400000,
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "23",
       "event_title": "Championship - Wrexham vs Middlesbrough",
       "event_time": "05 Nov, 01:15 am",
       "event_time_raw": 1793821500000,
@@ -259,7 +259,7 @@
         {
           "code": "BOREVIXE",
           "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qacdpbrjpj/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qacdpbrjpj/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd",
           "drm": {
             "kid": "770497afe3f251ba88eda041403d9acc",
             "key": "8f251ded5d35388c6afc98ef9882fb40"
@@ -323,7 +323,7 @@
         {
           "code": "FCSSVIXE",
           "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ofniszbiz0/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ofniszbiz0/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd",
           "drm": {
             "kid": "5b30e453507e0b2080bad89fea8cb27f",
             "key": "158fb33a914c7a3e02d017f5dec52c03"
@@ -360,7 +360,7 @@
         {
           "code": "VISAVIXE",
           "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wnj1sg9ucp/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnj1sg9ucp/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
           "drm": {
             "kid": "4be3ef3f08c462098111934a936c6f32",
             "key": "c0ce1f708bbae793401f1a7d42a31329"
@@ -425,7 +425,7 @@
         {
           "code": "PSCLVIXE",
           "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/r9udn69u5v/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9udn69u5v/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd",
           "drm": {
             "kid": "c912a6919c685ebd52c139fe14542a93",
             "key": "d49e2a62049ae3b71b79ebb9db44510b"
@@ -452,7 +452,7 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "24",
       "event_title": "Championship - Bristol City vs Wolverhampton",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -480,7 +480,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "22",
       "event_title": "Campeonato Brasileiro Série A - Flamengo vs Grêmio",
       "event_time": "05 Nov, 04:00 am",
       "event_time_raw": 1793831400000,
@@ -499,7 +499,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "4",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -536,54 +536,7 @@
       ]
     },
     {
-      "event_id": "22",
-      "event_title": "Campeonato Brasileiro Série A - São Paulo vs Corinthians",
-      "event_time": "05 Nov, 06:00 am",
-      "event_time_raw": 1793838600000,
-      "category": "Football",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "SOCOPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        },
-        {
-          "code": "SOCOPREMZR",
-          "title": "PREMIERER BR FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
-          "drm": {
-            "kid": "e23365c2ad97870c871712b73f0d6195",
-            "key": "58709c714320bb862dbd07270df81c94"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "23",
-      "event_title": "Campeonato Brasileiro Série A - Botafogo vs Atlético Mineiro",
-      "event_time": "05 Nov, 06:00 am",
-      "event_time_raw": 1793838600000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "BOATPREM",
-          "title": "PREMIERER BR FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-          "drm": {
-            "kid": "9dc40460c93087aea84d6315f08ecb64",
-            "key": "f69c8d4624fddff4ca89bd0b31bdc4a7"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "27",
+      "event_id": "25",
       "event_title": "NBA - Denver Nuggets vs Toronto Raptors",
       "event_time": "05 Nov, 07:30 am",
       "event_time_raw": 1793844000000,
@@ -602,7 +555,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "1",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "05 Nov, 09:00 am",
       "event_time_raw": 1793849400000,
@@ -630,7 +583,53 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "26",
+      "event_title": "Women's Big Bash League - Adelaide Strikers Women vs Brisbane Heat Women",
+      "event_time": "05 Nov, 10:10 am",
+      "event_time_raw": 1793853600000,
+      "category": "Cricket",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "ADBRWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
+          "drm": {
+            "kid": "c3bbeb16c18d825f04b51b17b67baf5a",
+            "key": "f744722c08e3d13fecfa59de5436cce7"
+          }
+        },
+        {
+          "code": "ADBRFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "ADBRWILLKX",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        },
+        {
+          "code": "ADBREURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "12",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "05 Nov, 10:30 am",
       "event_time_raw": 1793854800000,
@@ -658,7 +657,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "9",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "05 Nov, 11:30 am",
       "event_time_raw": 1793858400000,
@@ -695,7 +694,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "10",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "05 Nov, 12:15 pm",
       "event_time_raw": 1793861100000,
@@ -723,7 +722,53 @@
       ]
     },
     {
-      "event_id": "1",
+      "event_id": "27",
+      "event_title": "Women's Big Bash League - Sydney Thunder Women vs Perth Scorchers Women",
+      "event_time": "05 Nov, 01:40 pm",
+      "event_time_raw": 1793866200000,
+      "category": "Cricket",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "SYPEWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
+          "drm": {
+            "kid": "c3bbeb16c18d825f04b51b17b67baf5a",
+            "key": "f744722c08e3d13fecfa59de5436cce7"
+          }
+        },
+        {
+          "code": "SYPEFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "SYPEWILLJ7",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        },
+        {
+          "code": "SYPEEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "2",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "05 Nov, 05:00 pm",
       "event_time_raw": 1793878200000,
@@ -760,7 +805,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "5",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -834,7 +879,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "6",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -917,7 +962,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "8",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
