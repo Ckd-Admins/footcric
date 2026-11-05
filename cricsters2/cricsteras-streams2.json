@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T18:17:24+05:30",
-  "generated_at_india": "05-11-2026 06:17:24 PM IST",
-  "total": 27,
-  "ok": 27,
+  "generated_at": "2026-11-05T19:35:17+05:30",
+  "generated_at_india": "05-11-2026 07:35:17 PM IST",
+  "total": 24,
+  "ok": 24,
   "failed": 0,
   "events": [
     {
@@ -435,76 +435,10 @@
       ]
     },
     {
-      "event_id": 50086,
-      "event_title": "Flamengo vs Grêmio",
-      "event_time": "2026-11-04 22:30",
-      "event_time_raw": "2026-11-04 22:30",
-      "category": "Brasileirão",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "FLGRPREM",
-          "title": "PREMIERER BR FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "drm": {
-            "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-            "key": "fa38aaa865a57eda7c77444697ba8ed3"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50087,
-      "event_title": "Botafogo vs Atlético Mineiro",
-      "event_time": "2026-11-05 00:30",
-      "event_time_raw": "2026-11-05 00:30",
-      "category": "Brasileirão",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "BOATPREM",
-          "title": "PREMIERER BR FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-          "drm": {
-            "kid": "9dc40460c93087aea84d6315f08ecb64",
-            "key": "f69c8d4624fddff4ca89bd0b31bdc4a7"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50088,
-      "event_title": "São Paulo vs Corinthians",
-      "event_time": "2026-11-05 00:30",
-      "event_time_raw": "2026-11-05 00:30",
-      "category": "Brasileirão",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "SOCOPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        },
-        {
-          "code": "SOCOPREMZR",
-          "title": "PREMIERER BR FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
-          "drm": {
-            "kid": "e23365c2ad97870c871712b73f0d6195",
-            "key": "58709c714320bb862dbd07270df81c94"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50089,
       "event_title": "Indian Super League",
-      "event_time": "2026-11-05 11:30",
-      "event_time_raw": "2026-11-05 11:30",
+      "event_time": "2026-11-05 14:00",
+      "event_time_raw": "2026-11-05 14:00",
       "category": "ISL",
       "stream_count": 1,
       "streams": [
