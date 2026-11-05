@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T10:16:10+05:30",
-  "generated_at_india": "05-11-2026 10:16:10 AM IST",
+  "generated_at": "2026-11-05T11:17:12+05:30",
+  "generated_at_india": "05-11-2026 11:17:12 AM IST",
   "total": 26,
   "events": [
     {
@@ -44,7 +44,7 @@
       "event_time": "2026-11-05 06:00",
       "event_time_raw": "2026-11-05 06:00",
       "category": "Cricket",
-      "stream_count": 4
+      "stream_count": 2
     },
     {
       "event_id": 50008,
@@ -84,14 +84,6 @@
       "event_time": "2026-11-08 17:55",
       "event_time_raw": "2026-11-08 17:55",
       "category": "NFL",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50061,
-      "event_title": "Denver Nuggets vs Toronto Raptors",
-      "event_time": "2026-11-05 02:00",
-      "event_time_raw": "2026-11-05 02:00",
-      "category": "NBA",
       "stream_count": 2
     },
     {
@@ -212,7 +204,15 @@
       "event_time": "2026-11-05 05:00",
       "event_time_raw": "2026-11-05 05:00",
       "category": "Asia Cup",
-      "stream_count": 2
+      "stream_count": 3
+    },
+    {
+      "event_id": 50135,
+      "event_title": "Sri Lanka U-19 vs Malaysia U-19",
+      "event_time": "2026-11-05 05:00",
+      "event_time_raw": "2026-11-05 05:00",
+      "category": "Asia Cup",
+      "stream_count": 3
     }
   ],
   "raw_data": ""

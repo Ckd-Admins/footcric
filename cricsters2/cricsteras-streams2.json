@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T10:16:10+05:30",
-  "generated_at_india": "05-11-2026 10:16:10 AM IST",
+  "generated_at": "2026-11-05T11:17:12+05:30",
+  "generated_at_india": "05-11-2026 11:17:12 AM IST",
   "total": 26,
   "ok": 26,
   "failed": 0,
@@ -189,42 +189,24 @@
       "event_time": "2026-11-05 06:00",
       "event_time_raw": "2026-11-05 06:00",
       "category": "Cricket",
-      "stream_count": 4,
+      "stream_count": 2,
       "streams": [
         {
           "code": "AFZIWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1ezgg5lj3v/out/v1/e6092692ffac4419aab30cecd66d3470/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vnbdbmfdnk/out/v1/b3a014fa36bb47e2a7d8edffa6bccc1c/cenc.mpd",
           "drm": {
-            "kid": "468c69668fb1f8433921d80485af81dc",
-            "key": "fdc96b10b6e9cdcc3c5904afb6bff82d"
+            "kid": "4a4c70f4416d322e37111794d0a396b6",
+            "key": "d23a4f2e632c458e7e1981d3fe41d852"
           }
         },
         {
-          "code": "AFZIFANC",
-          "title": "FANCODE - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        },
-        {
-          "code": "AFZIWILLUE",
+          "code": "AFZIWILLAX",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1ezgg5lj3v/out/v1/e6092692ffac4419aab30cecd66d3470/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vnbdbmfdnk/out/v1/b3a014fa36bb47e2a7d8edffa6bccc1c/cenc.mpd",
           "drm": {
-            "kid": "468c69668fb1f8433921d80485af81dc",
-            "key": "fdc96b10b6e9cdcc3c5904afb6bff82d"
-          }
-        },
-        {
-          "code": "AFZIWILLP9",
-          "title": "WILLOW HD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
+            "kid": "4a4c70f4416d322e37111794d0a396b6",
+            "key": "d23a4f2e632c458e7e1981d3fe41d852"
           }
         }
       ]
@@ -392,34 +374,6 @@
           "drm": {
             "kid": "85f340146e46533b39d1415d90746352",
             "key": "448aafcc613ddfd448f14d9275eda19b"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50061,
-      "event_title": "Denver Nuggets vs Toronto Raptors",
-      "event_time": "2026-11-05 02:00",
-      "event_time_raw": "2026-11-05 02:00",
-      "category": "NBA",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "DETOTSN4",
-          "title": "TSN4 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
-          }
-        },
-        {
-          "code": "DETOTSN5",
-          "title": "TSN5 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
           }
         }
       ]
@@ -741,11 +695,11 @@
       "event_time": "2026-11-05 05:00",
       "event_time_raw": "2026-11-05 05:00",
       "category": "Asia Cup",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "BAAFWILL",
-          "title": "WILLOW FHD",
+          "title": "WILLOW - FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ogpf7dcbdo/out/v1/5543130d26ac4278b19c08667548deaa/cenc.mpd",
           "drm": {
             "kid": "fae761b0c5ef67a59615821085ad7973",
@@ -753,12 +707,58 @@
           }
         },
         {
-          "code": "BAAFWILLNN",
-          "title": "WILLOW ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ogpf7dcbdo/out/v1/5543130d26ac4278b19c08667548deaa/cenc.mpd",
+          "code": "BAAFPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/asrhszykzd/out/v1/dc6cc8173af4474e8dcd393adb429278/cenc.mpd",
           "drm": {
-            "kid": "fae761b0c5ef67a59615821085ad7973",
-            "key": "0f7a54848617f4c747a2a3315ebef545"
+            "kid": "74ea2277355a796a7b81fc5ae0850b8b",
+            "key": "9e5fc3413f079d3624873bb524453396"
+          }
+        },
+        {
+          "code": "BAAFWILLPO",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qyp1du4zue/out/v1/625ab75f4b1e48e49180b189310fde8b/cenc.mpd",
+          "drm": {
+            "kid": "a16f4890e1a9a95d009f657f9d6837bb",
+            "key": "e6e66c827c8a8c7d212db25ee49652e2"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50135,
+      "event_title": "Sri Lanka U-19 vs Malaysia U-19",
+      "event_time": "2026-11-05 05:00",
+      "event_time_raw": "2026-11-05 05:00",
+      "category": "Asia Cup",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "SRMAWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u37d1f9bgv/out/v1/a1941624205347d4a54b57c43d6beab1/cenc.mpd",
+          "drm": {
+            "kid": "c0e32a565b4d079ce824ba8820ccb885",
+            "key": "44d48862571d9efe14c24921e1d390c2"
+          }
+        },
+        {
+          "code": "SRMAPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd",
+          "drm": {
+            "kid": "5cd681d10936d933856b49b576c4b625",
+            "key": "7bda25b95f83caf6ee993441b484ace5"
+          }
+        },
+        {
+          "code": "SRMAWILLLR",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u37d1f9bgv/out/v1/a1941624205347d4a54b57c43d6beab1/cenc.mpd",
+          "drm": {
+            "kid": "c0e32a565b4d079ce824ba8820ccb885",
+            "key": "44d48862571d9efe14c24921e1d390c2"
           }
         }
       ]
