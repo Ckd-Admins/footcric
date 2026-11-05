@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T19:35:17+05:30",
-  "generated_at_india": "05-11-2026 07:35:17 PM IST",
-  "total": 24,
-  "ok": 24,
+  "generated_at": "2026-11-05T21:15:47+05:30",
+  "generated_at_india": "05-11-2026 09:15:47 PM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -445,10 +445,10 @@
         {
           "code": "INDIPRIM",
           "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jcgi1p1cip/out/v1/ba8c64b8009848af820813e215842743/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bzxlubr5do/out/v1/5e11cf9c4c574bdead34d2fd73b2bc91/cenc.mpd",
           "drm": {
-            "kid": "695d15cbde11cb7493656822f071cf0d",
-            "key": "80094f09d12c9946bd55c23f4609c475"
+            "kid": "0018708b148a535ce471118814221bf8",
+            "key": "9b44705ad89f7b3e91ccaa9b2f2a2b0f"
           }
         }
       ]
@@ -620,80 +620,6 @@
           "drm": {
             "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
             "key": "643e5474d9edd87c7d9091c8c97994ca"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50134,
-      "event_title": "Bangladesh U-19 vs Afghanistan U-19",
-      "event_time": "2026-11-05 05:00",
-      "event_time_raw": "2026-11-05 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "BAAFWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ogpf7dcbdo/out/v1/5543130d26ac4278b19c08667548deaa/cenc.mpd",
-          "drm": {
-            "kid": "fae761b0c5ef67a59615821085ad7973",
-            "key": "0f7a54848617f4c747a2a3315ebef545"
-          }
-        },
-        {
-          "code": "BAAFPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/asrhszykzd/out/v1/dc6cc8173af4474e8dcd393adb429278/cenc.mpd",
-          "drm": {
-            "kid": "74ea2277355a796a7b81fc5ae0850b8b",
-            "key": "9e5fc3413f079d3624873bb524453396"
-          }
-        },
-        {
-          "code": "BAAFWILLPO",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qyp1du4zue/out/v1/625ab75f4b1e48e49180b189310fde8b/cenc.mpd",
-          "drm": {
-            "kid": "a16f4890e1a9a95d009f657f9d6837bb",
-            "key": "e6e66c827c8a8c7d212db25ee49652e2"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50135,
-      "event_title": "Sri Lanka U-19 vs Malaysia U-19",
-      "event_time": "2026-11-05 05:00",
-      "event_time_raw": "2026-11-05 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SRMAWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u37d1f9bgv/out/v1/a1941624205347d4a54b57c43d6beab1/cenc.mpd",
-          "drm": {
-            "kid": "c0e32a565b4d079ce824ba8820ccb885",
-            "key": "44d48862571d9efe14c24921e1d390c2"
-          }
-        },
-        {
-          "code": "SRMAPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd",
-          "drm": {
-            "kid": "5cd681d10936d933856b49b576c4b625",
-            "key": "7bda25b95f83caf6ee993441b484ace5"
-          }
-        },
-        {
-          "code": "SRMAWILLLR",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u37d1f9bgv/out/v1/a1941624205347d4a54b57c43d6beab1/cenc.mpd",
-          "drm": {
-            "kid": "c0e32a565b4d079ce824ba8820ccb885",
-            "key": "44d48862571d9efe14c24921e1d390c2"
           }
         }
       ]
