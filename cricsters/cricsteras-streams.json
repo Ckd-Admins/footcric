@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T06:15:53+05:30",
-  "generated_at_india": "05-11-2026 06:15:53 AM IST",
-  "total": 29,
-  "ok": 29,
+  "generated_at": "2026-11-05T07:29:08+05:30",
+  "generated_at_india": "05-11-2026 07:29:08 AM IST",
+  "total": 27,
+  "ok": 27,
   "failed": 0,
   "events": [
     {
-      "event_id": "17",
+      "event_id": "15",
       "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "10",
       "event_title": "T20 International - Afghanistan vs Zimbabwe",
       "event_time": "01 Nov, 08:00 pm",
       "event_time_raw": 1793543400000,
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "2",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "6",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "04 Nov, 03:30 pm",
       "event_time_raw": 1793786400000,
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "21",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "25",
       "event_title": "Championship - Wrexham vs Middlesbrough",
       "event_time": "05 Nov, 01:15 am",
       "event_time_raw": 1793821500000,
@@ -222,108 +222,7 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "UEFA Champions League - RB Leipzig vs Manchester City",
-      "event_time": "05 Nov, 01:30 am",
-      "event_time_raw": 1793822400000,
-      "category": "Football",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "RBMAPARA",
-          "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8voca0kgn8/out/v1/eaeb2407695a4e38aab2ec1bd9603dd9/cenc.mpd",
-          "drm": {
-            "kid": "1860d02f5859d73845201900268d231c",
-            "key": "700f2448ab0999bd2bc233a04c561d46"
-          }
-        },
-        {
-          "code": "RBMATNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm": {
-            "kid": "f3df7843080ae743bf865dc5fdf64c68",
-            "key": "567c863bc12eb74788ea74888c042e1b"
-          }
-        },
-        {
-          "code": "RBMAPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bkksxyoatu/out/v1/3a200f1388e64601810e77d248d539bc/cenc.mpd",
-          "drm": {
-            "kid": "70b527424e2853177f33a7e23a404998",
-            "key": "c25b49129a1dd6b14b3ab94ca070b72e"
-          }
-        },
-        {
-          "code": "RBMADAZN",
-          "title": "DAZN DE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ncceucfcrw/out/v1/979b060296954c2b8d173b04481fd767/cenc.mpd",
-          "drm": {
-            "kid": "5d3f3429e47c011b33c90469366ed19e",
-            "key": "22aeb1655c535fa117a2645d66959922"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "2",
-      "event_title": "UEFA Champions League - SK Slavia Praha vs Arsenal",
-      "event_time": "05 Nov, 01:30 am",
-      "event_time_raw": 1793822400000,
-      "category": "Football",
-      "stream_count": 5,
-      "streams": [
-        {
-          "code": "SKARPARA",
-          "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymeumajbnz/out/v1/0c52d1e9c59346e783fca2b5cd02762f/cenc.mpd",
-          "drm": {
-            "kid": "284fb360031b922b7c44697e042f9109",
-            "key": "4ebb11445096fa3b030580d985433bf9"
-          }
-        },
-        {
-          "code": "SKARTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "SKARDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zvn93joghj/out/v1/3e6fd3525aef47a0827ad25d4b1eafc3/cenc.mpd",
-          "drm": {
-            "kid": "e6b846f1025ac88b970d2ee03c85ad14",
-            "key": "15167e2a38eb3ab78eea15100425f9cc"
-          }
-        },
-        {
-          "code": "SKARTNTB",
-          "title": "TNT BRASIL",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
-          "drm": {
-            "kid": "83a4bc2c011e2c72b35b7b5f2d35560d",
-            "key": "01bd0115c83d3493449181ba68998ab1"
-          }
-        },
-        {
-          "code": "SKARPRIM",
-          "title": "PRIME VIDEO - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "18",
+      "event_id": "16",
       "event_title": "UEFA Champions League - Borussia Dortmund vs Real Betis",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -387,7 +286,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "17",
       "event_title": "UEFA Champions League - FC Porto vs SSC Napoli",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -433,7 +332,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "18",
       "event_title": "UEFA Champions League - Viking FK vs Sabah FK",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -470,7 +369,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "19",
       "event_title": "UEFA Champions League - RC Lens vs Como",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -489,7 +388,7 @@
         {
           "code": "RCCOVIXE",
           "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sjwfufyzxv/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sjwfufyzxv/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
           "drm": {
             "kid": "0971a5f78e9033d86be231fef3ddcbf6",
             "key": "b6edfceb7d6df0b02b7923a92e62a171"
@@ -507,7 +406,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "20",
       "event_title": "UEFA Champions League - PSV Eindhoven vs Club Brugge KV",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -553,7 +452,7 @@
       ]
     },
     {
-      "event_id": "28",
+      "event_id": "26",
       "event_title": "Championship - Bristol City vs Wolverhampton",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -581,7 +480,7 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "24",
       "event_title": "Campeonato Brasileiro Série A - Flamengo vs Grêmio",
       "event_time": "05 Nov, 04:00 am",
       "event_time_raw": 1793831400000,
@@ -600,7 +499,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "3",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -610,10 +509,10 @@
         {
           "code": "DYDYTSNS",
           "title": "TSN SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd",
           "drm": {
-            "kid": "85b277daf5aae05833fe43a68f587968",
-            "key": "d52d7e9bc0bcd98787efd547ac91eca0"
+            "kid": "66e14add60c30be992503fa9a0ae5e20",
+            "key": "8c736ae52ce3cab1e918d5f9e8ed6c62"
           }
         },
         {
@@ -637,7 +536,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "22",
       "event_title": "Campeonato Brasileiro Série A - São Paulo vs Corinthians",
       "event_time": "05 Nov, 06:00 am",
       "event_time_raw": 1793838600000,
@@ -665,7 +564,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "23",
       "event_title": "Campeonato Brasileiro Série A - Botafogo vs Atlético Mineiro",
       "event_time": "05 Nov, 06:00 am",
       "event_time_raw": 1793838600000,
@@ -684,7 +583,7 @@
       ]
     },
     {
-      "event_id": "29",
+      "event_id": "27",
       "event_title": "NBA - Denver Nuggets vs Toronto Raptors",
       "event_time": "05 Nov, 07:30 am",
       "event_time_raw": 1793844000000,
@@ -703,7 +602,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "12",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "05 Nov, 09:00 am",
       "event_time_raw": 1793849400000,
@@ -731,7 +630,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "11",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "05 Nov, 10:30 am",
       "event_time_raw": 1793854800000,
@@ -759,7 +658,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "8",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "05 Nov, 11:30 am",
       "event_time_raw": 1793858400000,
@@ -796,7 +695,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "9",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "05 Nov, 12:15 pm",
       "event_time_raw": 1793861100000,
@@ -824,7 +723,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "1",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "05 Nov, 05:00 pm",
       "event_time_raw": 1793878200000,
@@ -861,7 +760,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "4",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -880,7 +779,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "13",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -935,7 +834,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "5",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -954,7 +853,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "14",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
@@ -1018,7 +917,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "7",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
