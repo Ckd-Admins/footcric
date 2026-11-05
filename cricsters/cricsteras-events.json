@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T15:21:19+05:30",
-  "generated_at_india": "05-11-2026 03:21:19 PM IST",
-  "total": 16,
+  "generated_at": "2026-11-05T16:22:55+05:30",
+  "generated_at_india": "05-11-2026 04:22:55 PM IST",
+  "total": 17,
   "events": [
     {
       "event_id": "12",
@@ -77,6 +77,14 @@
       "event_time_raw": 1793858400000,
       "category": "Tennis",
       "stream_count": 3
+    },
+    {
+      "event_id": "17",
+      "event_title": "Test Series - Afghanistan vs Zimbabwe",
+      "event_time": "05 Nov, 11:30 am",
+      "event_time_raw": 1793858400000,
+      "category": "Cricket",
+      "stream_count": 2
     },
     {
       "event_id": "14",

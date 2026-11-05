@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T15:21:19+05:30",
-  "generated_at_india": "05-11-2026 03:21:19 PM IST",
-  "total": 16,
-  "ok": 16,
+  "generated_at": "2026-11-05T16:22:55+05:30",
+  "generated_at_india": "05-11-2026 04:22:55 PM IST",
+  "total": 17,
+  "ok": 17,
   "failed": 0,
   "events": [
     {
@@ -337,6 +337,34 @@
           "drm": {
             "kid": "11223344556677889900112233445566",
             "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "17",
+      "event_title": "Test Series - Afghanistan vs Zimbabwe",
+      "event_time": "05 Nov, 11:30 am",
+      "event_time_raw": 1793858400000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "AFZIWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd",
+          "drm": {
+            "kid": "502b22d3cada61e1dd3c24e4dc37b128",
+            "key": "edbeec19a62d033903fe6436abfb9fd6"
+          }
+        },
+        {
+          "code": "AFZIFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]
