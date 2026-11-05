@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T10:19:52+05:30",
-  "generated_at_india": "05-11-2026 10:19:52 AM IST",
+  "generated_at": "2026-11-05T11:21:48+05:30",
+  "generated_at_india": "05-11-2026 11:21:48 AM IST",
   "total": 25,
   "ok": 25,
   "failed": 0,
@@ -148,7 +148,7 @@
         {
           "code": "UCUCGOLA",
           "title": "GOLAZO SHOW",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/htqkbztz1l/out/v1/87095d82ecbf4de7ad3f5ad789f1f060/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/htqkbztz1l/out/v1/87095d82ecbf4de7ad3f5ad789f1f060/cenc.mpd",
           "drm": {
             "kid": "d470693cba80fbeec8e909f80ed70edc",
             "key": "8f436dc5b928988a18d011a3b99a58b5"
@@ -204,7 +204,7 @@
         {
           "code": "BOREPARA",
           "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/shjayahvpp/out/v1/a971b8fc52b44a1398237689dc61930c/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/shjayahvpp/out/v1/a971b8fc52b44a1398237689dc61930c/cenc.mpd",
           "drm": {
             "kid": "58434b280dc5da2a0c2a0dd1ea4f48c1",
             "key": "0367f18e8b0ea8fede8ee6cb3b82d33a"
@@ -249,7 +249,7 @@
         {
           "code": "BOREDAZN",
           "title": "DAZN DE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/p9e7ygthvj/out/v1/c6e578e510f340b29c16febf3c470572/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/p9e7ygthvj/out/v1/c6e578e510f340b29c16febf3c470572/cenc.mpd",
           "drm": {
             "kid": "874b7df0e3c0b86b0e056c8398d64f66",
             "key": "674ce96dacc3b24d099c9e0dfe179c70"
@@ -268,7 +268,7 @@
         {
           "code": "FCSSPARA",
           "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hp8rapp5tf/out/v1/27de1189595849a98cce002e679063ba/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hp8rapp5tf/out/v1/27de1189595849a98cce002e679063ba/cenc.mpd",
           "drm": {
             "kid": "55d6c128b456acb1d0acd5e17f4c0ae7",
             "key": "7cc673c958ec7bbacbfe242ebce8ceaa"
@@ -314,7 +314,7 @@
         {
           "code": "VISAPARA",
           "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pcfkzhzk0s/out/v1/374e618bd90e4c64845f11bd7f56832f/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pcfkzhzk0s/out/v1/374e618bd90e4c64845f11bd7f56832f/cenc.mpd",
           "drm": {
             "kid": "e60b8609a832e0e89e24e20360799b32",
             "key": "4372ab7df1035676ca2664e982eaad11"
@@ -351,7 +351,7 @@
         {
           "code": "RCCOPARA",
           "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dpo3zmxuhz/out/v1/ea52ff20c9ef46cd91433e7183ea50c6/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dpo3zmxuhz/out/v1/ea52ff20c9ef46cd91433e7183ea50c6/cenc.mpd",
           "drm": {
             "kid": "c609b1f56b17276d3526bc297ba8dd10",
             "key": "390c9205242b5132df2bc9d1fb7f38e1"
@@ -388,7 +388,7 @@
         {
           "code": "PSCLPARA",
           "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/d1ous3srq7/out/v1/6c950f35b0fc453a92532bb355de70e1/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d1ous3srq7/out/v1/6c950f35b0fc453a92532bb355de70e1/cenc.mpd",
           "drm": {
             "kid": "fb49bd892b824f28fad679dd7ad71e8c",
             "key": "cd9842c07299c799b409629ba7ac0a98"
@@ -508,25 +508,6 @@
       ]
     },
     {
-      "event_id": "25",
-      "event_title": "NHL - Florida Panthers vs Chicago Blackhawks",
-      "event_time": "05 Nov, 06:00 am",
-      "event_time_raw": 1793838600000,
-      "category": "Hockey",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "FLCHPREM",
-          "title": "PREMIER SPORTS AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "22",
       "event_title": "NBA - Denver Nuggets vs Toronto Raptors",
       "event_time": "05 Nov, 07:30 am",
@@ -546,20 +527,39 @@
       ]
     },
     {
+      "event_id": "25",
+      "event_title": "NHL - Seattle Kraken vs Calgary Flames",
+      "event_time": "05 Nov, 08:30 am",
+      "event_time_raw": 1793847600000,
+      "category": "Hockey",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SECAPREM",
+          "title": "PREMIER SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "23",
       "event_title": "Women's Big Bash League - Adelaide Strikers Women vs Brisbane Heat Women",
       "event_time": "05 Nov, 10:10 am",
       "event_time_raw": 1793853600000,
       "category": "Cricket",
-      "stream_count": 4,
+      "stream_count": 3,
       "streams": [
         {
           "code": "ADBRWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
           "drm": {
-            "kid": "c3bbeb16c18d825f04b51b17b67baf5a",
-            "key": "f744722c08e3d13fecfa59de5436cce7"
+            "kid": "edbd9d6a45038d8031f8acda793333db",
+            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
           }
         },
         {
@@ -578,15 +578,6 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        },
-        {
-          "code": "ADBREURO",
-          "title": "EUROSPORT - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
           }
         }
       ]
