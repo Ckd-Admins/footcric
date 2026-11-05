@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T00:13:22+05:30",
-  "generated_at_india": "06-11-2026 00:13:22 AM IST",
-  "total": 28,
-  "ok": 28,
+  "generated_at": "2026-11-06T01:15:47+05:30",
+  "generated_at_india": "06-11-2026 01:15:47 AM IST",
+  "total": 27,
+  "ok": 27,
   "failed": 0,
   "events": [
     {
@@ -616,25 +616,6 @@
           "drm": {
             "kid": "f3df7843080ae743bf865dc5fdf64c68",
             "key": "567c863bc12eb74788ea74888c042e1b"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "28",
-      "event_title": "UEFA Europa League - Levski Sofia vs Jagiellonia Białystok",
-      "event_time": "05 Nov, 11:15 pm",
-      "event_time_raw": 1793900700000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "LEJAPARA",
-          "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/l2spbseatd/out/v1/635b814d8f6744e687e7c6e5836cc98d/cenc.mpd",
-          "drm": {
-            "kid": "7e4ce5a88be80835c52c0a6356b3c8dc",
-            "key": "b9c19d4f01b26367c7c596bfb7dd3c0b"
           }
         }
       ]
