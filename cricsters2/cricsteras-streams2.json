@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T22:24:31+05:30",
-  "generated_at_india": "05-11-2026 10:24:31 PM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-11-05T23:16:46+05:30",
+  "generated_at_india": "05-11-2026 11:16:46 PM IST",
+  "total": 35,
+  "ok": 35,
   "failed": 0,
   "events": [
     {
@@ -554,8 +554,17 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 1,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "ACFEPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gjwox7cwln/out/v1/5fba5e319b6145be89f1aeed9809da67/cenc.mpd",
+          "drm": {
+            "kid": "32f0e8f183ded0094d5604e0ace91c7d",
+            "key": "5a7b1b43bc5f22a0b6cebfbb37061d0d"
+          }
+        },
         {
           "code": "ACFETNTS",
           "title": "TNT SPORTS FHD",
@@ -563,6 +572,15 @@
           "drm": {
             "kid": "fa34fa8c90336dd528c7a23871cad1fe",
             "key": "552a78d1aeb74f1650d68255c5749408"
+          }
+        },
+        {
+          "code": "ACFEVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tkzhoqblsr/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd",
+          "drm": {
+            "kid": "0edb8672085f6eebca8d9ad0bc6c0ae2",
+            "key": "fbfb8f246782de88232996ccc0661f35"
           }
         }
       ]
@@ -573,8 +591,17 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "ACBOPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4yyn48ljzo/out/v1/29dbc0ae10784ac0991aef8dbadb55d2/cenc.mpd",
+          "drm": {
+            "kid": "2981867a69057dec17b299840e94db61",
+            "key": "2400cbe82c2ed5583d775088d36253c3"
+          }
+        },
         {
           "code": "ACBOTNTS",
           "title": "TNT SPORTS FHD",
@@ -592,8 +619,17 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 1,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "CRTSPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w2ey1q9gaf/out/v1/8ce3b7b66741494d8a856fe9bd4fc8e6/cenc.mpd",
+          "drm": {
+            "kid": "fbe03b9c2b09471fb95a507d0cfc5bf5",
+            "key": "b927761040ee854d56ebcf9ef0cc1c96"
+          }
+        },
         {
           "code": "CRTSTNTS",
           "title": "TNT SPORTS FHD",
@@ -601,6 +637,110 @@
           "drm": {
             "kid": "69a5aa835a061ce64a630d1046727e40",
             "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "CRTSVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xo9iurlevw/out/v1/beb2768ac7d0435bab70ce5cd6231ad7/cenc.mpd",
+          "drm": {
+            "kid": "1bd501f2fad8ab5c614dfcebca9e38ee",
+            "key": "7d2d82c02caf3363bb127a2a615b7fd6"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50112,
+      "event_title": "Real Sociedad vs Olympique Lyonnais",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "REOLPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/h6mo5bpd5n/out/v1/a4d434eece594688b12804ab3e1aea33/cenc.mpd",
+          "drm": {
+            "kid": "cd461b580b23b4c19ccbd9f3ceb9b617",
+            "key": "a6561abc7565f87ee5251f7b2bb5b0b8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50113,
+      "event_title": "RSC Anderlecht vs Red Bull Salzburg",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "RSREPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ds21dm3dru/out/v1/da169a4aec3441edb6996d52bc4e8a67/cenc.mpd",
+          "drm": {
+            "kid": "0485a1b5a70b288bd73e35976fba9cc1",
+            "key": "fb83277816e3acfb98737f0b409caf8a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50114,
+      "event_title": "NEC Nijmegen vs Omonia Nicosia",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NEOMPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oqj2ywlm68/out/v1/532aca7bd8d64091a4ef8d1889445f77/cenc.mpd",
+          "drm": {
+            "kid": "5f3ce660a6b9af7df9f03512663ba248",
+            "key": "5a84f1c0aaa2e558beaeda705d318a02"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50115,
+      "event_title": "Lillestrøm SK vs FC Viktoria Plzeň",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LIFCPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/aqysg9efuv/out/v1/c7821fafb039407590a94494094c163c/cenc.mpd",
+          "drm": {
+            "kid": "5f01136d9beda63e5c2bc998e0706890",
+            "key": "0ac25eb618b72f40780815898bffa4dc"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50116,
+      "event_title": "Levski Sofia vs Jagiellonia Białystok",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LEJAPARA",
+          "title": "PARAMOUNT+  FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/l2spbseatd/out/v1/635b814d8f6744e687e7c6e5836cc98d/cenc.mpd",
+          "drm": {
+            "kid": "7e4ce5a88be80835c52c0a6356b3c8dc",
+            "key": "b9c19d4f01b26367c7c596bfb7dd3c0b"
           }
         }
       ]
@@ -611,8 +751,17 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Conference",
-      "stream_count": 1,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "THHEPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oqj2ywlm68/out/v1/532aca7bd8d64091a4ef8d1889445f77/cenc.mpd",
+          "drm": {
+            "kid": "5f3ce660a6b9af7df9f03512663ba248",
+            "key": "5a84f1c0aaa2e558beaeda705d318a02"
+          }
+        },
         {
           "code": "THHETNTS",
           "title": "TNT SPORTS FHD",
@@ -620,6 +769,194 @@
           "drm": {
             "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
             "key": "643e5474d9edd87c7d9091c8c97994ca"
+          }
+        },
+        {
+          "code": "THHEVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/o1ph5fi1hn/out/v1/5d42e59ea86d400e93409185d674194c/cenc.mpd",
+          "drm": {
+            "kid": "b75345fe9b3f632975fdbb4ac2b2c5ba",
+            "key": "0dc82106d7df83e4070a8f6d1aed08d9"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50118,
+      "event_title": "Midtjylland vs AFC Ajax",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "MIAFPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xfueirxvtf/out/v1/8ea33ebd12a745339a2b65f8c25fcfec/cenc.mpd",
+          "drm": {
+            "kid": "06050120989b4c3d1502f6fd7509a405",
+            "key": "c968ad7ed5be43a1e0dc0e32986f89f1"
+          }
+        },
+        {
+          "code": "MIAFVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mvzbdkzisi/out/v1/f6966293221c45ed8f84623aef615fde/cenc.mpd",
+          "drm": {
+            "kid": "ad8c3b93d27bf50a1d86fcf4f004390d",
+            "key": "08969073a9536e3c65a2a678cb34fc26"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50119,
+      "event_title": "Atalanta vs FC Kairat Almaty",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "ATFCPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i70mdrnquo/out/v1/7412edea6c1e44d1adf4e93b996c57a3/cenc.mpd",
+          "drm": {
+            "kid": "57a412a62ca5a4af41eccef2602f3b16",
+            "key": "373012da58104d2e3e62659671b63e31"
+          }
+        },
+        {
+          "code": "ATFCVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/djm3eri7n5/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
+          "drm": {
+            "kid": "8a0f7bfdb91dc750d08f8747c880aaa2",
+            "key": "e8edf4f3ea25af49a1528514d64a2d78"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50120,
+      "event_title": "AGF vs Sporting Braga",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "AGSPPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jl1ut4wo0c/out/v1/957d3147b67c487c8c2c50f676dc81fc/cenc.mpd",
+          "drm": {
+            "kid": "59a4c8d8546cb98fbdf6223dba813df0",
+            "key": "48b1618847af706f56c9b838ad1e4438"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50121,
+      "event_title": "Crvena zvezda vs Inter",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CRINPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/34run0kw9x/out/v1/eb7d5bef4437432680fdeff29f41930c/cenc.mpd",
+          "drm": {
+            "kid": "74d7d035ce435fa7c3afaa7034cc6a32",
+            "key": "fafb4c57201e353de27a251ae714c169"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50122,
+      "event_title": "Kuopion Palloseura vs KAA Gent",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "KUKAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lpeympxnxi/out/v1/c48033b199ce48a38a8f92b7d5ef3fa3/cenc.mpd",
+          "drm": {
+            "kid": "0c1105c2fabfaad95e12e39229aa838f",
+            "key": "77d3a215cc2fc84f3ee999e92e178a96"
+          }
+        },
+        {
+          "code": "KUKAVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3u04kmrbdu/out/v1/3bb7be9163524e72bc8ec72519235803/cenc.mpd",
+          "drm": {
+            "kid": "3556da62840a4e6accfbcfb006a8e04f",
+            "key": "f993d00d27ab85213f9b3dc53d73ca63"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50124,
+      "event_title": "Mjällby vs Borac",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "MJBOPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jl1ut4wo0c/out/v1/957d3147b67c487c8c2c50f676dc81fc/cenc.mpd",
+          "drm": {
+            "kid": "59a4c8d8546cb98fbdf6223dba813df0",
+            "key": "48b1618847af706f56c9b838ad1e4438"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50125,
+      "event_title": "Trabzonspor vs SC Freiburg",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "TRSCPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xfueirxvtf/out/v1/8ea33ebd12a745339a2b65f8c25fcfec/cenc.mpd",
+          "drm": {
+            "kid": "06050120989b4c3d1502f6fd7509a405",
+            "key": "c968ad7ed5be43a1e0dc0e32986f89f1"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50126,
+      "event_title": "Golazo Show",
+      "event_time": "2026-11-05 17:40",
+      "event_time_raw": "2026-11-05 17:40",
+      "category": "UEFA Europa",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "GOLAGOLA",
+          "title": "GOLAZO SHOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ql07y2x0fs/out/v1/0ca1c0e93a214892bdf485039946da27/cenc.mpd",
+          "drm": {
+            "kid": "d5c1a0585bc5519e61aff334810f2290",
+            "key": "e6ccaf87453280fa6acd60fd1d9da0db"
           }
         }
       ]

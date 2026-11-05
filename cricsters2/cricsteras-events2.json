@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T22:24:31+05:30",
-  "generated_at_india": "05-11-2026 10:24:31 PM IST",
-  "total": 22,
+  "generated_at": "2026-11-05T23:16:46+05:30",
+  "generated_at_india": "05-11-2026 11:16:46 PM IST",
+  "total": 35,
   "events": [
     {
       "event_id": 50002,
@@ -156,7 +156,7 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 1
+      "stream_count": 3
     },
     {
       "event_id": 50110,
@@ -164,11 +164,51 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50111,
       "event_title": "Crystal Palace vs TSG Hoffenheim",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50112,
+      "event_title": "Real Sociedad vs Olympique Lyonnais",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50113,
+      "event_title": "RSC Anderlecht vs Red Bull Salzburg",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50114,
+      "event_title": "NEC Nijmegen vs Omonia Nicosia",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50115,
+      "event_title": "Lillestrøm SK vs FC Viktoria Plzeň",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Europa",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50116,
+      "event_title": "Levski Sofia vs Jagiellonia Białystok",
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
@@ -180,6 +220,70 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Conference",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50118,
+      "event_title": "Midtjylland vs AFC Ajax",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50119,
+      "event_title": "Atalanta vs FC Kairat Almaty",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50120,
+      "event_title": "AGF vs Sporting Braga",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50121,
+      "event_title": "Crvena zvezda vs Inter",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50122,
+      "event_title": "Kuopion Palloseura vs KAA Gent",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50124,
+      "event_title": "Mjällby vs Borac",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50125,
+      "event_title": "Trabzonspor vs SC Freiburg",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50126,
+      "event_title": "Golazo Show",
+      "event_time": "2026-11-05 17:40",
+      "event_time_raw": "2026-11-05 17:40",
+      "category": "UEFA Europa",
       "stream_count": 1
     }
   ],
