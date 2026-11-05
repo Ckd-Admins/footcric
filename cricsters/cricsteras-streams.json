@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T16:22:55+05:30",
-  "generated_at_india": "05-11-2026 04:22:55 PM IST",
-  "total": 17,
-  "ok": 17,
+  "generated_at": "2026-11-05T17:17:59+05:30",
+  "generated_at_india": "05-11-2026 05:17:59 PM IST",
+  "total": 16,
+  "ok": 16,
   "failed": 0,
   "events": [
     {
@@ -175,99 +175,6 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
-      "event_time": "05 Nov, 09:00 am",
-      "event_time_raw": 1793849400000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "BAWEFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        },
-        {
-          "code": "BAWEFANCTZ",
-          "title": "FANCODE HD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-          "drm": {
-            "kid": "5318e462b9e0677487cb87837f0bbdb1",
-            "key": "4fa0fb973b95738306005f2e8591bf8e"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "15",
-      "event_title": "U19 Asia Cup - Sri Lanka Under-19 vs Malaysia Under-19",
-      "event_time": "05 Nov, 10:30 am",
-      "event_time_raw": 1793854800000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "SRMAWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u37d1f9bgv/out/v1/a1941624205347d4a54b57c43d6beab1/cenc.mpd",
-          "drm": {
-            "kid": "c0e32a565b4d079ce824ba8820ccb885",
-            "key": "44d48862571d9efe14c24921e1d390c2"
-          }
-        },
-        {
-          "code": "SRMAPRIM",
-          "title": "PRIME VIDEO - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd",
-          "drm": {
-            "kid": "5cd681d10936d933856b49b576c4b625",
-            "key": "7bda25b95f83caf6ee993441b484ace5"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "16",
-      "event_title": "U19 Asia Cup - Bangladesh Under-19 vs Afghanistan Under-19",
-      "event_time": "05 Nov, 10:30 am",
-      "event_time_raw": 1793854800000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "BAAFWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd",
-          "drm": {
-            "kid": "a16f4890e1a9a95d009f657f9d6837bb",
-            "key": "e6e66c827c8a8c7d212db25ee49652e2"
-          }
-        },
-        {
-          "code": "BAAFPRIM",
-          "title": "PRIME VIDEO -AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/asrhszykzd/out/v1/dc6cc8173af4474e8dcd393adb429278/cenc.mpd",
-          "drm": {
-            "kid": "74ea2277355a796a7b81fc5ae0850b8b",
-            "key": "9e5fc3413f079d3624873bb524453396"
-          }
-        },
-        {
-          "code": "BAAFWILLPO",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qyp1du4zue/out/v1/625ab75f4b1e48e49180b189310fde8b/cenc.mpd",
-          "drm": {
-            "kid": "a16f4890e1a9a95d009f657f9d6837bb",
-            "key": "e6e66c827c8a8c7d212db25ee49652e2"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "2",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "05 Nov, 11:30 am",
@@ -342,7 +249,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "14",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "05 Nov, 11:30 am",
       "event_time_raw": 1793858400000,
@@ -365,61 +272,6 @@
           "drm": {
             "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
             "key": "22a1444b3da18e139191665b3d652835"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "14",
-      "event_title": "Women's Big Bash League - Sydney Thunder Women vs Perth Scorchers Women",
-      "event_time": "05 Nov, 01:40 pm",
-      "event_time_raw": 1793866200000,
-      "category": "Cricket",
-      "stream_count": 5,
-      "streams": [
-        {
-          "code": "SYPEWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
-          "drm": {
-            "kid": "b2c92cec93ed53bbc297d9ab55ae4c72",
-            "key": "6dfa3680190db85be7659d6faaac5d91"
-          }
-        },
-        {
-          "code": "SYPEWILLJ7",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        },
-        {
-          "code": "SYPEWILL6H",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
-          "drm": {
-            "kid": "edbd9d6a45038d8031f8acda793333db",
-            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
-          }
-        },
-        {
-          "code": "SYPEEURO",
-          "title": "EUROSPORT - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
-          }
-        },
-        {
-          "code": "SYPEFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]
@@ -457,6 +309,72 @@
           "drm": {
             "kid": "59f50679c9e60963bd0cb6640992aaaa",
             "key": "8685817c4d31f322e08940feeae2855a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "15",
+      "event_title": "UEFA Europa League - AC Milan vs Ferencváros TC",
+      "event_time": "05 Nov, 11:15 pm",
+      "event_time_raw": 1793900700000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ACFETNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "drm": {
+            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
+            "key": "552a78d1aeb74f1650d68255c5749408"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "16",
+      "event_title": "UEFA Europa League - Crystal Palace vs TSG Hoffenheim",
+      "event_time": "05 Nov, 11:15 pm",
+      "event_time_raw": 1793900700000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CRTSTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "1",
+      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
+      "event_time": "06 Nov, 09:00 am",
+      "event_time_raw": 1793935800000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "BAWEFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
+          }
+        },
+        {
+          "code": "BAWEFANCTZ",
+          "title": "FANCODE HD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+          "drm": {
+            "kid": "5318e462b9e0677487cb87837f0bbdb1",
+            "key": "4fa0fb973b95738306005f2e8591bf8e"
           }
         }
       ]
