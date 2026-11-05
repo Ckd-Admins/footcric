@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T23:16:46+05:30",
-  "generated_at_india": "05-11-2026 11:16:46 PM IST",
-  "total": 35,
+  "generated_at": "2026-11-06T00:08:01+05:30",
+  "generated_at_india": "06-11-2026 00:08:01 AM IST",
+  "total": 36,
   "events": [
     {
       "event_id": 50002,
@@ -156,7 +156,7 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 3
+      "stream_count": 4
     },
     {
       "event_id": 50110,
@@ -164,7 +164,7 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": 50111,
@@ -172,7 +172,7 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 3
+      "stream_count": 4
     },
     {
       "event_id": 50112,
@@ -180,7 +180,7 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 1
+      "stream_count": 3
     },
     {
       "event_id": 50113,
@@ -188,7 +188,7 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50114,
@@ -196,7 +196,7 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50115,
@@ -204,7 +204,7 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50116,
@@ -212,7 +212,7 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Europa",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50117,
@@ -244,7 +244,7 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Conference",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50121,
@@ -263,12 +263,20 @@
       "stream_count": 2
     },
     {
+      "event_id": 50123,
+      "event_title": "Lincoln vs HNK Hajduk Split",
+      "event_time": "2026-11-05 17:45",
+      "event_time_raw": "2026-11-05 17:45",
+      "category": "UEFA Conference",
+      "stream_count": 2
+    },
+    {
       "event_id": 50124,
       "event_title": "Mjällby vs Borac",
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Conference",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50125,
@@ -276,7 +284,7 @@
       "event_time": "2026-11-05 17:45",
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Conference",
-      "stream_count": 1
+      "stream_count": 3
     },
     {
       "event_id": 50126,
