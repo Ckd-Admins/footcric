@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T01:11:39+05:30",
-  "generated_at_india": "06-11-2026 01:11:39 AM IST",
-  "total": 36,
+  "generated_at": "2026-11-06T02:05:54+05:30",
+  "generated_at_india": "06-11-2026 02:05:54 AM IST",
+  "total": 37,
   "events": [
     {
       "event_id": 50002,
@@ -41,8 +41,8 @@
     {
       "event_id": 50007,
       "event_title": "Afghanistan vs Zimbabwe",
-      "event_time": "2026-11-05 06:00",
-      "event_time_raw": "2026-11-05 06:00",
+      "event_time": "2026-11-06 06:00",
+      "event_time_raw": "2026-11-06 06:00",
       "category": "Cricket",
       "stream_count": 2
     },
@@ -76,7 +76,7 @@
       "event_time": "2026-11-06 01:15",
       "event_time_raw": "2026-11-06 01:15",
       "category": "NFL",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": 50023,
@@ -85,6 +85,14 @@
       "event_time_raw": "2026-11-08 17:55",
       "category": "NFL",
       "stream_count": 2
+    },
+    {
+      "event_id": 50044,
+      "event_title": "Golden State Warriors vs Miami Heat",
+      "event_time": "2026-11-06 03:00",
+      "event_time_raw": "2026-11-06 03:00",
+      "category": "NBA",
+      "stream_count": 1
     },
     {
       "event_id": 50064,
@@ -97,17 +105,41 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-05 08:10",
-      "event_time_raw": "2026-11-05 08:10",
+      "event_time": "2026-11-06 08:10",
+      "event_time_raw": "2026-11-06 08:10",
       "category": "WBBL",
       "stream_count": 3
     },
     {
+      "event_id": 50080,
+      "event_title": "New York Rangers vs Philadelphia Flyers",
+      "event_time": "2026-11-06 00:00",
+      "event_time_raw": "2026-11-06 00:00",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50083,
+      "event_title": "Winnipeg Jets vs Vancouver Canucks",
+      "event_time": "2026-11-06 00:00",
+      "event_time_raw": "2026-11-06 00:00",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50086,
+      "event_title": "Palmeiras vs Remo",
+      "event_time": "2026-11-05 22:30",
+      "event_time_raw": "2026-11-05 22:30",
+      "category": "Brasileirão",
+      "stream_count": 3
+    },
+    {
       "event_id": 50089,
-      "event_title": "Indian Super League",
-      "event_time": "2026-11-05 14:00",
-      "event_time_raw": "2026-11-05 14:00",
-      "category": "ISL",
+      "event_title": "Colorado Avalanche vs Nashville Predators",
+      "event_time": "2026-11-06 02:30",
+      "event_time_raw": "2026-11-06 02:30",
+      "category": "NHL",
       "stream_count": 1
     },
     {
@@ -116,7 +148,7 @@
       "event_time": "2026-11-05 20:00",
       "event_time_raw": "2026-11-05 20:00",
       "category": "UEFA Europa",
-      "stream_count": 1
+      "stream_count": 3
     },
     {
       "event_id": 50091,
@@ -124,7 +156,7 @@
       "event_time": "2026-11-05 20:00",
       "event_time_raw": "2026-11-05 20:00",
       "category": "UEFA Europa",
-      "stream_count": 1
+      "stream_count": 4
     },
     {
       "event_id": 50092,
@@ -132,15 +164,63 @@
       "event_time": "2026-11-05 20:00",
       "event_time_raw": "2026-11-05 20:00",
       "category": "UEFA Europa",
-      "stream_count": 1
+      "stream_count": 3
+    },
+    {
+      "event_id": 50093,
+      "event_title": "Bayer Leverkusen vs Olympique Marseille",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Europa",
+      "stream_count": 3
     },
     {
       "event_id": 50094,
       "event_title": "Bangladesh vs West Indies",
-      "event_time": "2026-11-05 03:30",
-      "event_time_raw": "2026-11-05 03:30",
+      "event_time": "2026-11-06 03:30",
+      "event_time_raw": "2026-11-06 03:30",
       "category": "Cricket",
       "stream_count": 1
+    },
+    {
+      "event_id": 50095,
+      "event_title": "Benfica vs Lech Poznań",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Europa",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50096,
+      "event_title": "Celta Vigo vs Royale USG",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Europa",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50097,
+      "event_title": "Hapoel Be'er Sheva vs OFI Crete",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Europa",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50098,
+      "event_title": "SK Sturm Graz vs NK Celje",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Europa",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50099,
+      "event_title": "Torreense vs FC Ararat-Armenia",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Europa",
+      "stream_count": 2
     },
     {
       "event_id": 50100,
@@ -148,143 +228,71 @@
       "event_time": "2026-11-05 20:00",
       "event_time_raw": "2026-11-05 20:00",
       "category": "UEFA Conference",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50109,
-      "event_title": "AC Milan vs Ferencváros TC",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
-      "category": "UEFA Europa",
-      "stream_count": 4
-    },
-    {
-      "event_id": 50110,
-      "event_title": "AC Sparta Praha vs Bournemouth",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
-      "category": "UEFA Europa",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50111,
-      "event_title": "Crystal Palace vs TSG Hoffenheim",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
-      "category": "UEFA Europa",
-      "stream_count": 4
-    },
-    {
-      "event_id": 50112,
-      "event_title": "Real Sociedad vs Olympique Lyonnais",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
-      "category": "UEFA Europa",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50113,
-      "event_title": "RSC Anderlecht vs Red Bull Salzburg",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
-      "category": "UEFA Europa",
       "stream_count": 2
     },
     {
-      "event_id": 50114,
-      "event_title": "NEC Nijmegen vs Omonia Nicosia",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
-      "category": "UEFA Europa",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50115,
-      "event_title": "Lillestrøm SK vs FC Viktoria Plzeň",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
-      "category": "UEFA Europa",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50116,
-      "event_title": "Levski Sofia vs Jagiellonia Białystok",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
-      "category": "UEFA Europa",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50117,
-      "event_title": "Thun vs Heart of Midlothian",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
-      "category": "UEFA Conference",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50118,
-      "event_title": "Midtjylland vs AFC Ajax",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
+      "event_id": 50101,
+      "event_title": "AS Monaco vs Nordsjælland",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
       "category": "UEFA Conference",
       "stream_count": 2
     },
     {
-      "event_id": 50119,
-      "event_title": "Atalanta vs FC Kairat Almaty",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
-      "category": "UEFA Conference",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50120,
-      "event_title": "AGF vs Sporting Braga",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
-      "category": "UEFA Conference",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50121,
-      "event_title": "Crvena zvezda vs Inter",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
+      "event_id": 50102,
+      "event_title": "FC København vs FC Iberia 1999",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
       "category": "UEFA Conference",
       "stream_count": 1
     },
     {
-      "event_id": 50122,
-      "event_title": "Kuopion Palloseura vs KAA Gent",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
+      "event_id": 50103,
+      "event_title": "FC Twente vs Pafos FC",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Conference",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50104,
+      "event_title": "Lugano vs Kauno Žalgiris",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Conference",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50105,
+      "event_title": "Panathinaikos FC vs CSKA Sofia",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
+      "category": "UEFA Conference",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50106,
+      "event_title": "Riga FC vs FK Jablonec",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
       "category": "UEFA Conference",
       "stream_count": 2
     },
     {
-      "event_id": 50123,
-      "event_title": "Lincoln vs HNK Hajduk Split",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
+      "event_id": 50107,
+      "event_title": "Sint-Truidense VV vs SK Brann",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
       "category": "UEFA Conference",
-      "stream_count": 2
+      "stream_count": 1
     },
     {
-      "event_id": 50124,
-      "event_title": "Mjällby vs Borac",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
+      "event_id": 50108,
+      "event_title": "Universitatea Craiova vs KF Egnatia",
+      "event_time": "2026-11-05 20:00",
+      "event_time_raw": "2026-11-05 20:00",
       "category": "UEFA Conference",
       "stream_count": 2
-    },
-    {
-      "event_id": 50125,
-      "event_title": "Trabzonspor vs SC Freiburg",
-      "event_time": "2026-11-05 17:45",
-      "event_time_raw": "2026-11-05 17:45",
-      "category": "UEFA Conference",
-      "stream_count": 3
     },
     {
       "event_id": 50126,
@@ -292,7 +300,7 @@
       "event_time": "2026-11-05 17:40",
       "event_time_raw": "2026-11-05 17:40",
       "category": "UEFA Europa",
-      "stream_count": 1
+      "stream_count": 2
     }
   ],
   "raw_data": ""
