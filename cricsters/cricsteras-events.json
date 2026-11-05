@@ -2,12 +2,12 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T17:17:59+05:30",
-  "generated_at_india": "05-11-2026 05:17:59 PM IST",
-  "total": 16,
+  "generated_at": "2026-11-05T18:22:59+05:30",
+  "generated_at_india": "05-11-2026 06:22:59 PM IST",
+  "total": 18,
   "events": [
     {
-      "event_id": "12",
+      "event_id": "13",
       "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
@@ -23,7 +23,7 @@
       "stream_count": 7
     },
     {
-      "event_id": "13",
+      "event_id": "14",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -39,14 +39,6 @@
       "stream_count": 3
     },
     {
-      "event_id": "2",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "05 Nov, 11:30 am",
-      "event_time_raw": 1793858400000,
-      "category": "Snooker",
-      "stream_count": 3
-    },
-    {
       "event_id": "9",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "05 Nov, 11:30 am",
@@ -55,10 +47,18 @@
       "stream_count": 3
     },
     {
-      "event_id": "14",
+      "event_id": "16",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "05 Nov, 11:30 am",
       "event_time_raw": 1793858400000,
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
+      "event_id": "10",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "05 Nov, 12:15 pm",
+      "event_time_raw": 1793861100000,
       "category": "Cricket",
       "stream_count": 2
     },
@@ -71,7 +71,23 @@
       "stream_count": 3
     },
     {
+      "event_id": "2",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "05 Nov, 05:00 pm",
+      "event_time_raw": 1793878200000,
+      "category": "Snooker",
+      "stream_count": 3
+    },
+    {
       "event_id": "15",
+      "event_title": "Indian Super League - Churchill Brothers SC vs NorthEast United FC",
+      "event_time": "05 Nov, 05:00 pm",
+      "event_time_raw": 1793878200000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "17",
       "event_title": "UEFA Europa League - AC Milan vs Ferencváros TC",
       "event_time": "05 Nov, 11:15 pm",
       "event_time_raw": 1793900700000,
@@ -79,7 +95,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "16",
+      "event_id": "18",
       "event_title": "UEFA Europa League - Crystal Palace vs TSG Hoffenheim",
       "event_time": "05 Nov, 11:15 pm",
       "event_time_raw": 1793900700000,
@@ -103,7 +119,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "10",
+      "event_id": "11",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -119,7 +135,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "11",
+      "event_id": "12",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
