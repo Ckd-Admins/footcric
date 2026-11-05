@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T09:11:23+05:30",
-  "generated_at_india": "05-11-2026 09:11:23 AM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-11-05T10:16:10+05:30",
+  "generated_at_india": "05-11-2026 10:16:10 AM IST",
+  "total": 26,
+  "ok": 26,
   "failed": 0,
   "events": [
     {
@@ -461,6 +461,15 @@
       "stream_count": 4,
       "streams": [
         {
+          "code": "WOMEWILL",
+          "title": "WILLOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
+          "drm": {
+            "kid": "edbd9d6a45038d8031f8acda793333db",
+            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
+          }
+        },
+        {
           "code": "WOMEFANC",
           "title": "FANCODE FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
@@ -470,21 +479,12 @@
           }
         },
         {
-          "code": "WOMEWILL",
-          "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/h5r6pyxcdd/out/v1/d68cf08eacb74c349b644466b5c9e06b/cenc.mpd",
-          "drm": {
-            "kid": "b7905c23e4544d1cb19e110c2c31acc3",
-            "key": "81ef593bc93049369572a9812c1f6955"
-          }
-        },
-        {
-          "code": "WOMEWILLTV",
+          "code": "WOMEWILL23",
           "title": "WILLOW ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/h5r6pyxcdd/out/v1/d68cf08eacb74c349b644466b5c9e06b/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
           "drm": {
-            "kid": "b7905c23e4544d1cb19e110c2c31acc3",
-            "key": "81ef593bc93049369572a9812c1f6955"
+            "kid": "edbd9d6a45038d8031f8acda793333db",
+            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
           }
         },
         {
@@ -731,6 +731,34 @@
           "drm": {
             "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
             "key": "643e5474d9edd87c7d9091c8c97994ca"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50134,
+      "event_title": "Bangladesh U-19 vs Afghanistan U-19",
+      "event_time": "2026-11-05 05:00",
+      "event_time_raw": "2026-11-05 05:00",
+      "category": "Asia Cup",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "BAAFWILL",
+          "title": "WILLOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ogpf7dcbdo/out/v1/5543130d26ac4278b19c08667548deaa/cenc.mpd",
+          "drm": {
+            "kid": "fae761b0c5ef67a59615821085ad7973",
+            "key": "0f7a54848617f4c747a2a3315ebef545"
+          }
+        },
+        {
+          "code": "BAAFWILLNN",
+          "title": "WILLOW ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ogpf7dcbdo/out/v1/5543130d26ac4278b19c08667548deaa/cenc.mpd",
+          "drm": {
+            "kid": "fae761b0c5ef67a59615821085ad7973",
+            "key": "0f7a54848617f4c747a2a3315ebef545"
           }
         }
       ]

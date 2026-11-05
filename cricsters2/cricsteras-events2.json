@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T09:11:23+05:30",
-  "generated_at_india": "05-11-2026 09:11:23 AM IST",
-  "total": 25,
+  "generated_at": "2026-11-05T10:16:10+05:30",
+  "generated_at_india": "05-11-2026 10:16:10 AM IST",
+  "total": 26,
   "events": [
     {
       "event_id": 50002,
@@ -205,6 +205,14 @@
       "event_time_raw": "2026-11-05 17:45",
       "category": "UEFA Conference",
       "stream_count": 1
+    },
+    {
+      "event_id": 50134,
+      "event_title": "Bangladesh U-19 vs Afghanistan U-19",
+      "event_time": "2026-11-05 05:00",
+      "event_time_raw": "2026-11-05 05:00",
+      "category": "Asia Cup",
+      "stream_count": 2
     }
   ],
   "raw_data": ""
