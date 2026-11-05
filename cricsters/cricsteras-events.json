@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T13:48:59+05:30",
-  "generated_at_india": "05-11-2026 01:48:59 PM IST",
-  "total": 17,
+  "generated_at": "2026-11-05T15:21:19+05:30",
+  "generated_at_india": "05-11-2026 03:21:19 PM IST",
+  "total": 16,
   "events": [
     {
       "event_id": "12",
@@ -21,14 +21,6 @@
       "event_time_raw": 1793563200000,
       "category": "Motorsport",
       "stream_count": 7
-    },
-    {
-      "event_id": "7",
-      "event_title": "Paris OPEN - ATP vs ATP",
-      "event_time": "04 Nov, 03:30 pm",
-      "event_time_raw": 1793786400000,
-      "category": "Tennis",
-      "stream_count": 3
     },
     {
       "event_id": "13",
@@ -87,20 +79,20 @@
       "stream_count": 3
     },
     {
-      "event_id": "17",
-      "event_title": "Test Series - Afghanistan vs Zimbabwe",
-      "event_time": "05 Nov, 11:30 am",
-      "event_time_raw": 1793858400000,
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
       "event_id": "14",
       "event_title": "Women's Big Bash League - Sydney Thunder Women vs Perth Scorchers Women",
       "event_time": "05 Nov, 01:40 pm",
       "event_time_raw": 1793866200000,
       "category": "Cricket",
       "stream_count": 5
+    },
+    {
+      "event_id": "7",
+      "event_title": "Paris OPEN - ATP vs ATP",
+      "event_time": "05 Nov, 03:30 pm",
+      "event_time_raw": 1793872800000,
+      "category": "Tennis",
+      "stream_count": 3
     },
     {
       "event_id": "5",

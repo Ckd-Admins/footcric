@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T13:48:59+05:30",
-  "generated_at_india": "05-11-2026 01:48:59 PM IST",
-  "total": 17,
-  "ok": 17,
+  "generated_at": "2026-11-05T15:21:19+05:30",
+  "generated_at_india": "05-11-2026 03:21:19 PM IST",
+  "total": 16,
+  "ok": 16,
   "failed": 0,
   "events": [
     {
@@ -96,43 +96,6 @@
           "drm": {
             "kid": "69021095220f3c0eae9bc24215fd692b",
             "key": "eb58cfe0458ed0b48f7351fa3393ad59"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "7",
-      "event_title": "Paris OPEN - ATP vs ATP",
-      "event_time": "04 Nov, 03:30 pm",
-      "event_time_raw": 1793786400000,
-      "category": "Tennis",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "ATATBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        },
-        {
-          "code": "ATATTSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        },
-        {
-          "code": "ATATTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
           }
         }
       ]
@@ -379,34 +342,6 @@
       ]
     },
     {
-      "event_id": "17",
-      "event_title": "Test Series - Afghanistan vs Zimbabwe",
-      "event_time": "05 Nov, 11:30 am",
-      "event_time_raw": 1793858400000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "AFZIWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd",
-          "drm": {
-            "kid": "502b22d3cada61e1dd3c24e4dc37b128",
-            "key": "edbeec19a62d033903fe6436abfb9fd6"
-          }
-        },
-        {
-          "code": "AFZIFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "14",
       "event_title": "Women's Big Bash League - Sydney Thunder Women vs Perth Scorchers Women",
       "event_time": "05 Nov, 01:40 pm",
@@ -417,10 +352,10 @@
         {
           "code": "SYPEWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vs0vobhvhe/out/v1/0704db5bfdf34b50bd44a02bda1984e7/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
           "drm": {
-            "kid": "755296074254464e7c3aaee0f9189f0a",
-            "key": "ed96b2f0b70c789daa69b64c1195ff3a"
+            "kid": "b2c92cec93ed53bbc297d9ab55ae4c72",
+            "key": "6dfa3680190db85be7659d6faaac5d91"
           }
         },
         {
@@ -457,6 +392,43 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "7",
+      "event_title": "Paris OPEN - ATP vs ATP",
+      "event_time": "05 Nov, 03:30 pm",
+      "event_time_raw": 1793872800000,
+      "category": "Tennis",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "ATATBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "ATATTSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        },
+        {
+          "code": "ATATTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
           }
         }
       ]
