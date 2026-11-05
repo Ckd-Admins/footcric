@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T08:23:41+05:30",
-  "generated_at_india": "05-11-2026 08:23:41 AM IST",
-  "total": 27,
-  "ok": 27,
+  "generated_at": "2026-11-05T09:16:29+05:30",
+  "generated_at_india": "05-11-2026 09:16:29 AM IST",
+  "total": 25,
+  "ok": 25,
   "failed": 0,
   "events": [
     {
-      "event_id": "15",
+      "event_id": "12",
       "event_title": "Hong Kong Super 6 Women - HK SUPER 6 W vs HK SUPER 6 W",
       "event_time": "01 Nov, 07:53 am",
       "event_time_raw": 1793499780000,
@@ -28,35 +28,7 @@
       ]
     },
     {
-      "event_id": "11",
-      "event_title": "T20 International - Afghanistan vs Zimbabwe",
-      "event_time": "01 Nov, 08:00 pm",
-      "event_time_raw": 1793543400000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "AFZIWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1ezgg5lj3v/out/v1/e6092692ffac4419aab30cecd66d3470/cenc.mpd",
-          "drm": {
-            "kid": "468c69668fb1f8433921d80485af81dc",
-            "key": "fdc96b10b6e9cdcc3c5904afb6bff82d"
-          }
-        },
-        {
-          "code": "AFZIFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "3",
+      "event_id": "2",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "02 Nov, 01:30 am",
       "event_time_raw": 1793563200000,
@@ -129,7 +101,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "6",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "04 Nov, 03:30 pm",
       "event_time_raw": 1793786400000,
@@ -166,7 +138,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "18",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -203,7 +175,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "20",
       "event_title": "Championship - Wrexham vs Middlesbrough",
       "event_time": "05 Nov, 01:15 am",
       "event_time_raw": 1793821500000,
@@ -222,7 +194,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "13",
       "event_title": "UEFA Champions League - Borussia Dortmund vs Real Betis",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -286,7 +258,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "14",
       "event_title": "UEFA Champions League - FC Porto vs SSC Napoli",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -332,7 +304,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "15",
       "event_title": "UEFA Champions League - Viking FK vs Sabah FK",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -369,7 +341,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "16",
       "event_title": "UEFA Champions League - RC Lens vs Como",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -406,7 +378,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "17",
       "event_title": "UEFA Champions League - PSV Eindhoven vs Club Brugge KV",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -452,7 +424,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "21",
       "event_title": "Championship - Bristol City vs Wolverhampton",
       "event_time": "05 Nov, 01:30 am",
       "event_time_raw": 1793822400000,
@@ -480,7 +452,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "19",
       "event_title": "Campeonato Brasileiro Série A - Flamengo vs Grêmio",
       "event_time": "05 Nov, 04:00 am",
       "event_time_raw": 1793831400000,
@@ -499,7 +471,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "3",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -537,6 +509,25 @@
     },
     {
       "event_id": "25",
+      "event_title": "NHL - Florida Panthers vs Chicago Blackhawks",
+      "event_time": "05 Nov, 06:00 am",
+      "event_time_raw": 1793838600000,
+      "category": "Hockey",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FLCHPREM",
+          "title": "PREMIER SPORTS AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm": {
+            "kid": "1444f4235529f183f0a5a486befe9cdb",
+            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "22",
       "event_title": "NBA - Denver Nuggets vs Toronto Raptors",
       "event_time": "05 Nov, 07:30 am",
       "event_time_raw": 1793844000000,
@@ -555,35 +546,7 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
-      "event_time": "05 Nov, 09:00 am",
-      "event_time_raw": 1793849400000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "BAWEFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        },
-        {
-          "code": "BAWEFANCTZ",
-          "title": "FANCODE HD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-          "drm": {
-            "kid": "5318e462b9e0677487cb87837f0bbdb1",
-            "key": "4fa0fb973b95738306005f2e8591bf8e"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "26",
+      "event_id": "23",
       "event_title": "Women's Big Bash League - Adelaide Strikers Women vs Brisbane Heat Women",
       "event_time": "05 Nov, 10:10 am",
       "event_time_raw": 1793853600000,
@@ -629,35 +592,7 @@
       ]
     },
     {
-      "event_id": "12",
-      "event_title": "Test Series - Afghanistan vs Zimbabwe",
-      "event_time": "05 Nov, 10:30 am",
-      "event_time_raw": 1793854800000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "AFZIWILL8Y",
-          "title": "WILLOW - AQ",
-          "url": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1ezgg5lj3v/out/v1/e6092692ffac4419aab30cecd66d3470/cenc.mpd",
-          "drm": {
-            "kid": "468c69668fb1f8433921d80485af81dc",
-            "key": "fdc96b10b6e9cdcc3c5904afb6bff82d"
-          }
-        },
-        {
-          "code": "AFZIFANC0T",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "9",
+      "event_id": "8",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "05 Nov, 11:30 am",
       "event_time_raw": 1793858400000,
@@ -694,7 +629,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "9",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "05 Nov, 12:15 pm",
       "event_time_raw": 1793861100000,
@@ -722,7 +657,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "24",
       "event_title": "Women's Big Bash League - Sydney Thunder Women vs Perth Scorchers Women",
       "event_time": "05 Nov, 01:40 pm",
       "event_time_raw": 1793866200000,
@@ -768,7 +703,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "1",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "05 Nov, 05:00 pm",
       "event_time_raw": 1793878200000,
@@ -805,7 +740,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "4",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -824,7 +759,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "10",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -879,7 +814,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "5",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -898,7 +833,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "11",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
@@ -962,7 +897,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "7",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
