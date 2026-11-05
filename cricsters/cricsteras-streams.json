@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T23:23:27+05:30",
-  "generated_at_india": "05-11-2026 11:23:27 PM IST",
+  "generated_at": "2026-11-06T00:13:22+05:30",
+  "generated_at_india": "06-11-2026 00:13:22 AM IST",
   "total": 28,
   "ok": 28,
   "failed": 0,
@@ -515,7 +515,7 @@
       "event_time": "05 Nov, 11:15 pm",
       "event_time_raw": 1793900700000,
       "category": "Football",
-      "stream_count": 3,
+      "stream_count": 4,
       "streams": [
         {
           "code": "ACFEPARA",
@@ -533,6 +533,15 @@
           "drm": {
             "kid": "fa34fa8c90336dd528c7a23871cad1fe",
             "key": "552a78d1aeb74f1650d68255c5749408"
+          }
+        },
+        {
+          "code": "ACFESKYG",
+          "title": "SKY GERMAN FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cckuiwhetl/out/v1/f1ada3a4d6464aa986a0167121f4ebc6/cenc.mpd",
+          "drm": {
+            "kid": "adcea552d3c8a4b0b0dbdca678515855",
+            "key": "2e31fe3f9a810b2d2ad67e6b5bca051e"
           }
         },
         {
