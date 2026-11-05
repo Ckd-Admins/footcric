@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T06:07:04+05:30",
-  "generated_at_india": "05-11-2026 06:07:04 AM IST",
-  "total": 24,
-  "ok": 24,
+  "generated_at": "2026-11-05T07:26:39+05:30",
+  "generated_at_india": "05-11-2026 07:26:39 AM IST",
+  "total": 21,
+  "ok": 21,
   "failed": 0,
   "events": [
     {
@@ -772,144 +772,6 @@
           "drm": {
             "kid": "5b30e453507e0b2080bad89fea8cb27f",
             "key": "158fb33a914c7a3e02d017f5dec52c03"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50094,
-      "event_title": "PSV Eindhoven vs Club Brugge",
-      "event_time": "2026-11-04 20:00",
-      "event_time_raw": "2026-11-04 20:00",
-      "category": "UCL",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "PSCLPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/d1ous3srq7/out/v1/6c950f35b0fc453a92532bb355de70e1/cenc.mpd",
-          "drm": {
-            "kid": "fb49bd892b824f28fad679dd7ad71e8c",
-            "key": "cd9842c07299c799b409629ba7ac0a98"
-          }
-        },
-        {
-          "code": "PSCLPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/y3th6vjorn/out/v1/7a9ccc6d6f1e4fc3abe851fac45936a2/cenc.mpd",
-          "drm": {
-            "kid": "334c272e7990a300f968c6842e0b31aa",
-            "key": "17f15f267b0d4773dc441eb88fb10636"
-          }
-        },
-        {
-          "code": "PSCLDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k0a1eycdh3/out/v1/ed168d6fa20248819a7748ec0057e615/cenc.mpd",
-          "drm": {
-            "kid": "c4b4702e7e9301c95458ffb46b6caf9f",
-            "key": "7f37e9920a2bf4752a83d26bc48b81ed"
-          }
-        },
-        {
-          "code": "PSCLVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/r9udn69u5v/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd",
-          "drm": {
-            "kid": "c912a6919c685ebd52c139fe14542a93",
-            "key": "d49e2a62049ae3b71b79ebb9db44510b"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50095,
-      "event_title": "RC Lens vs Como",
-      "event_time": "2026-11-04 20:00",
-      "event_time_raw": "2026-11-04 20:00",
-      "category": "UCL",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "RCCOPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dpo3zmxuhz/out/v1/ea52ff20c9ef46cd91433e7183ea50c6/cenc.mpd",
-          "drm": {
-            "kid": "c609b1f56b17276d3526bc297ba8dd10",
-            "key": "390c9205242b5132df2bc9d1fb7f38e1"
-          }
-        },
-        {
-          "code": "RCCOPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ndc5q7xrdi/out/v1/0eaae29490a342ab9f98fb5a773a02e2/cenc.mpd",
-          "drm": {
-            "kid": "5d745d9fa3b4e61a2d000528b30d6936",
-            "key": "4eda3c78f484d4efe408baee3afa19fa"
-          }
-        },
-        {
-          "code": "RCCODAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lphpuuizz5/out/v1/d1b411fc45e84dbebb331ce387733d67/cenc.mpd",
-          "drm": {
-            "kid": "9e4b09f3c59b42b79e6dc16c1691052e",
-            "key": "f798767c242f008883e5a3207c98e8da"
-          }
-        },
-        {
-          "code": "RCCOVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sjwfufyzxv/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
-          "drm": {
-            "kid": "0971a5f78e9033d86be231fef3ddcbf6",
-            "key": "b6edfceb7d6df0b02b7923a92e62a171"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50096,
-      "event_title": "Viking vs Sabah",
-      "event_time": "2026-11-04 20:00",
-      "event_time_raw": "2026-11-04 20:00",
-      "category": "UCL",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "VISAPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pcfkzhzk0s/out/v1/374e618bd90e4c64845f11bd7f56832f/cenc.mpd",
-          "drm": {
-            "kid": "e60b8609a832e0e89e24e20360799b32",
-            "key": "4372ab7df1035676ca2664e982eaad11"
-          }
-        },
-        {
-          "code": "VISAPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bolpzl4bhy/out/v1/4a628200c43b4392ae4c229f9681c6be/cenc.mpd",
-          "drm": {
-            "kid": "6f9db4767fc068998e97bb0b81a472af",
-            "key": "69eed2a1450edfea00df23eb206688e9"
-          }
-        },
-        {
-          "code": "VISADAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lrcgrcxnei/out/v1/5f6299a26a16446a96cc315d927c5a8e/cenc.mpd",
-          "drm": {
-            "kid": "fd1bcd8052fb5010a9f75d156266ea95",
-            "key": "3f3c03707998694db1c9cbb97550da6c"
-          }
-        },
-        {
-          "code": "VISAVIXE",
-          "title": "ViX ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wnj1sg9ucp/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
-          "drm": {
-            "kid": "4be3ef3f08c462098111934a936c6f32",
-            "key": "c0ce1f708bbae793401f1a7d42a31329"
           }
         }
       ]
