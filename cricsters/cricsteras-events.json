@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T01:15:47+05:30",
-  "generated_at_india": "06-11-2026 01:15:47 AM IST",
-  "total": 27,
+  "generated_at": "2026-11-06T02:10:14+05:30",
+  "generated_at_india": "06-11-2026 02:10:14 AM IST",
+  "total": 34,
   "events": [
     {
       "event_id": "14",
@@ -68,95 +68,151 @@
       "event_time": "05 Nov, 11:00 pm",
       "event_time_raw": 1793899800000,
       "category": "Football",
-      "stream_count": 2
+      "stream_count": 1
     },
     {
       "event_id": "16",
-      "event_title": "UEFA Conference League - Lincoln Red Imps vs HNK Hajduk Split",
-      "event_time": "05 Nov, 11:15 pm",
-      "event_time_raw": 1793900700000,
+      "event_title": "UEFA Conference League - AS Monaco vs FC Nordsjælland",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
       "category": "Football",
-      "stream_count": 2
+      "stream_count": 1
     },
     {
       "event_id": "17",
-      "event_title": "UEFA Conference League - FK Crvena zvezda vs Inter Club d'Escaldes",
-      "event_time": "05 Nov, 11:15 pm",
-      "event_time_raw": 1793900700000,
+      "event_title": "UEFA Conference League - FC Twente vs Pafos FC",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
       "category": "Football",
       "stream_count": 1
     },
     {
       "event_id": "18",
-      "event_title": "UEFA Conference League - Trabzonspor vs SC Freiburg",
-      "event_time": "05 Nov, 11:15 pm",
-      "event_time_raw": 1793900700000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "19",
-      "event_title": "UEFA Conference League - Atalanta vs FC Kairat Almaty",
-      "event_time": "05 Nov, 11:15 pm",
-      "event_time_raw": 1793900700000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "20",
-      "event_title": "UEFA Conference League - FC Thun vs Heart of Midlothian",
-      "event_time": "05 Nov, 11:15 pm",
-      "event_time_raw": 1793900700000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "21",
-      "event_title": "UEFA Conference League - AGF vs Sporting Braga",
-      "event_time": "05 Nov, 11:15 pm",
-      "event_time_raw": 1793900700000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "23",
-      "event_title": "UEFA Conference League - Kuopion Palloseura vs KAA Gent",
-      "event_time": "05 Nov, 11:15 pm",
-      "event_time_raw": 1793900700000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "25",
-      "event_title": "UEFA Europa League - AC Milan vs Ferencváros TC",
-      "event_time": "05 Nov, 11:15 pm",
-      "event_time_raw": 1793900700000,
-      "category": "Football",
-      "stream_count": 4
-    },
-    {
-      "event_id": "26",
-      "event_title": "UEFA Europa League - Crystal Palace vs TSG Hoffenheim",
-      "event_time": "05 Nov, 11:15 pm",
-      "event_time_raw": 1793900700000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "27",
-      "event_title": "UEFA Europa League - AC Sparta Praha vs Bournemouth",
-      "event_time": "05 Nov, 11:15 pm",
-      "event_time_raw": 1793900700000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "22",
       "event_title": "UEFA Conference League - Panathinaikos FC vs CSKA Sofia",
       "event_time": "06 Nov, 01:30 am",
       "event_time_raw": 1793908800000,
       "category": "Football",
       "stream_count": 2
+    },
+    {
+      "event_id": "19",
+      "event_title": "UEFA Conference League - Riga FC vs FK Jablonec",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "20",
+      "event_title": "UEFA Conference League - FC København vs FC Iberia 1999",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "21",
+      "event_title": "UEFA Conference League - Getafe vs Brighton & Hove Albion",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "22",
+      "event_title": "UEFA Conference League - Universitatea Craiova vs KF Egnatia",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "23",
+      "event_title": "UEFA Conference League - FC Lugano vs FK Kauno Žalgiris",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "24",
+      "event_title": "UEFA Conference League - Sint-Truidense VV vs SK Brann",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "26",
+      "event_title": "UEFA Europa League - Bayer 04 Leverkusen vs Olympique de Marseille",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "27",
+      "event_title": "UEFA Europa League - Celtic vs Beşiktaş JK",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 3
+    },
+    {
+      "event_id": "28",
+      "event_title": "UEFA Europa League - Hapoel Be'er Sheva vs OFI Crete",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "29",
+      "event_title": "UEFA Europa League - SK Sturm Graz vs NK Celje",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "30",
+      "event_title": "UEFA Europa League - Sunderland vs GNK Dinamo Zagreb",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 3
+    },
+    {
+      "event_id": "31",
+      "event_title": "UEFA Europa League - Celta Vigo vs Royale Union Saint-Gilloise",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "32",
+      "event_title": "UEFA Europa League - Torreense vs FC Ararat-Armenia",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "33",
+      "event_title": "UEFA Europa League - AZ Alkmaar vs Juventus",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "34",
+      "event_title": "UEFA Europa League - Benfica vs Lech Poznań",
+      "event_time": "06 Nov, 01:30 am",
+      "event_time_raw": 1793908800000,
+      "category": "Football",
+      "stream_count": 1
     },
     {
       "event_id": "1",
@@ -167,7 +223,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "06 Nov, 11:30 am",
       "event_time_raw": 1793944800000,
