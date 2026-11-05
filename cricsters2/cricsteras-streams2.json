@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T12:23:09+05:30",
-  "generated_at_india": "05-11-2026 00:23:09 PM IST",
+  "generated_at": "2026-11-05T13:39:57+05:30",
+  "generated_at_india": "05-11-2026 01:39:57 PM IST",
   "total": 25,
   "ok": 25,
   "failed": 0,
@@ -379,50 +379,13 @@
       ]
     },
     {
-      "event_id": 50064,
-      "event_title": "Nepal Premier League",
-      "event_time": "2026-11-05 06:45",
-      "event_time_raw": "2026-11-05 06:45",
-      "category": "NPL",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "NEPAFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "NEPAFANC6G",
-          "title": "FANCODE - SD",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "drm": {
-            "kid": "286eb7dc538143790fa9913639531920",
-            "key": "e3f5cb08d14d9e9c08438c673819540f"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-05 04:30",
-      "event_time_raw": "2026-11-05 04:30",
+      "event_time": "2026-11-05 08:10",
+      "event_time_raw": "2026-11-05 08:10",
       "category": "WBBL",
       "stream_count": 4,
       "streams": [
-        {
-          "code": "WOMEWILL",
-          "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
-          "drm": {
-            "kid": "edbd9d6a45038d8031f8acda793333db",
-            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
-          }
-        },
         {
           "code": "WOMEFANC",
           "title": "FANCODE FHD",
@@ -430,6 +393,15 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "WOMEWILL",
+          "title": "WILLOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
+          "drm": {
+            "kid": "edbd9d6a45038d8031f8acda793333db",
+            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
           }
         },
         {
@@ -571,6 +543,25 @@
           "drm": {
             "kid": "69a5aa835a061ce64a630d1046727e40",
             "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50094,
+      "event_title": "Bangladesh vs West Indies",
+      "event_time": "2026-11-05 03:30",
+      "event_time_raw": "2026-11-05 03:30",
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BAWEFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]
