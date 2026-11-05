@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-05T18:22:59+05:30",
-  "generated_at_india": "05-11-2026 06:22:59 PM IST",
+  "generated_at": "2026-11-05T19:40:57+05:30",
+  "generated_at_india": "05-11-2026 07:40:57 PM IST",
   "total": 18,
   "ok": 18,
   "failed": 0,
@@ -212,34 +212,6 @@
       ]
     },
     {
-      "event_id": "16",
-      "event_title": "Test Series - Afghanistan vs Zimbabwe",
-      "event_time": "05 Nov, 11:30 am",
-      "event_time_raw": 1793858400000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "AFZIWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd",
-          "drm": {
-            "kid": "502b22d3cada61e1dd3c24e4dc37b128",
-            "key": "edbeec19a62d033903fe6436abfb9fd6"
-          }
-        },
-        {
-          "code": "AFZIFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "10",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "05 Nov, 12:15 pm",
@@ -342,26 +314,7 @@
       ]
     },
     {
-      "event_id": "15",
-      "event_title": "Indian Super League - Churchill Brothers SC vs NorthEast United FC",
-      "event_time": "05 Nov, 05:00 pm",
-      "event_time_raw": 1793878200000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CHNOSONY",
-          "title": "SONY X PRIME",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jcgi1p1cip/out/v1/ba8c64b8009848af820813e215842743/cenc.mpd",
-          "drm": {
-            "kid": "695d15cbde11cb7493656822f071cf0d",
-            "key": "80094f09d12c9946bd55c23f4609c475"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "UEFA Europa League - AC Milan vs Ferencváros TC",
       "event_time": "05 Nov, 11:15 pm",
       "event_time_raw": 1793900700000,
@@ -380,7 +333,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "UEFA Europa League - Crystal Palace vs TSG Hoffenheim",
       "event_time": "05 Nov, 11:15 pm",
       "event_time_raw": 1793900700000,
@@ -394,6 +347,25 @@
           "drm": {
             "kid": "69a5aa835a061ce64a630d1046727e40",
             "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "18",
+      "event_title": "UEFA Europa League - AC Sparta Praha vs Bournemouth",
+      "event_time": "05 Nov, 11:15 pm",
+      "event_time_raw": 1793900700000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ACBOTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
           }
         }
       ]
@@ -422,6 +394,34 @@
           "drm": {
             "kid": "5318e462b9e0677487cb87837f0bbdb1",
             "key": "4fa0fb973b95738306005f2e8591bf8e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "15",
+      "event_title": "Test Series - Afghanistan vs Zimbabwe",
+      "event_time": "06 Nov, 11:30 am",
+      "event_time_raw": 1793944800000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "AFZIWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd",
+          "drm": {
+            "kid": "502b22d3cada61e1dd3c24e4dc37b128",
+            "key": "edbeec19a62d033903fe6436abfb9fd6"
+          }
+        },
+        {
+          "code": "AFZIFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]
