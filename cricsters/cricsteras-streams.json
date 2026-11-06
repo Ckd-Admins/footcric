@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T11:20:00+05:30",
-  "generated_at_india": "06-11-2026 11:20:00 AM IST",
+  "generated_at": "2026-11-06T12:27:52+05:30",
+  "generated_at_india": "06-11-2026 00:27:52 PM IST",
   "total": 20,
   "ok": 20,
   "failed": 0,
@@ -156,43 +156,6 @@
       ]
     },
     {
-      "event_id": "9",
-      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
-      "event_time": "05 Nov, 11:30 am",
-      "event_time_raw": 1793858400000,
-      "category": "Tennis",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "WTWTBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "WTWTTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        },
-        {
-          "code": "WTWTSPOR",
-          "title": "SPORT 1 CZ - AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "7",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "05 Nov, 03:30 pm",
@@ -225,43 +188,6 @@
           "drm": {
             "kid": "59f50679c9e60963bd0cb6640992aaaa",
             "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "2",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "05 Nov, 05:00 pm",
-      "event_time_raw": 1793878200000,
-      "category": "Snooker",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SNSNTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "SNSNEURO",
-          "title": "EUROSPORT EN - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
-          "drm": {
-            "kid": "8c17752768447a2ff801b87f7a390781",
-            "key": "90375b77c0f6d271caef3c8accd4f1ae"
-          }
-        },
-        {
-          "code": "SNSNEUROAU",
-          "title": "EUROSPORT CZ - AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
           }
         }
       ]
@@ -319,7 +245,7 @@
       "event_time": "06 Nov, 10:30 am",
       "event_time_raw": 1793941200000,
       "category": "Cricket",
-      "stream_count": 4,
+      "stream_count": 3,
       "streams": [
         {
           "code": "PAUNWILL",
@@ -346,15 +272,6 @@
           "drm": {
             "kid": "1dcfabc6b441908d78cc7106e30e906f",
             "key": "8e086929f79491b9a2076d0d04eb7317"
-          }
-        },
-        {
-          "code": "PAUNWILLXQ",
-          "title": "WILLOW SPORTS AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
         }
       ]
@@ -397,6 +314,89 @@
       ]
     },
     {
+      "event_id": "2",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "06 Nov, 11:30 am",
+      "event_time_raw": 1793944800000,
+      "category": "Snooker",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "SNSNTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm": {
+            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+            "key": "643e5474d9edd87c7d9091c8c97994ca"
+          }
+        },
+        {
+          "code": "SNSNEURO",
+          "title": "EUROSPORT EN - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
+          "drm": {
+            "kid": "8c17752768447a2ff801b87f7a390781",
+            "key": "90375b77c0f6d271caef3c8accd4f1ae"
+          }
+        },
+        {
+          "code": "SNSNEUROAU",
+          "title": "EUROSPORT CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "9",
+      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
+      "event_time": "06 Nov, 11:30 am",
+      "event_time_raw": 1793944800000,
+      "category": "Tennis",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "WTWTBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        },
+        {
+          "code": "WTWTTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
+          }
+        },
+        {
+          "code": "WTWTSPOR",
+          "title": "SPORT 1 CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        },
+        {
+          "code": "WTWTSTAN",
+          "title": "STAN SPORTS AQ (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/c8224360c67d482dae7aa55ab06fe665/index.mpd",
+          "drm": {
+            "kid": "53715efceaf14abb8dcd18af8ec23f8b",
+            "key": "866a29b613ed7173e824073bf54b2c75"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "15",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "06 Nov, 11:30 am",
@@ -407,19 +407,19 @@
         {
           "code": "AFZIWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd",
           "drm": {
-            "kid": "502b22d3cada61e1dd3c24e4dc37b128",
-            "key": "edbeec19a62d033903fe6436abfb9fd6"
+            "kid": "cf6092dc6444b182d9ef6fde4152ff7d",
+            "key": "2a868d1944e597930dde32f183a0c6bf"
           }
         },
         {
-          "code": "AFZIFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "code": "AFZIWILLES",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
         }
       ]

@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T11:20:00+05:30",
-  "generated_at_india": "06-11-2026 11:20:00 AM IST",
+  "generated_at": "2026-11-06T12:27:52+05:30",
+  "generated_at_india": "06-11-2026 00:27:52 PM IST",
   "total": 20,
   "events": [
     {
@@ -31,27 +31,11 @@
       "stream_count": 3
     },
     {
-      "event_id": "9",
-      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
-      "event_time": "05 Nov, 11:30 am",
-      "event_time_raw": 1793858400000,
-      "category": "Tennis",
-      "stream_count": 3
-    },
-    {
       "event_id": "7",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "05 Nov, 03:30 pm",
       "event_time_raw": 1793872800000,
       "category": "Tennis",
-      "stream_count": 3
-    },
-    {
-      "event_id": "2",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "05 Nov, 05:00 pm",
-      "event_time_raw": 1793878200000,
-      "category": "Snooker",
       "stream_count": 3
     },
     {
@@ -76,7 +60,7 @@
       "event_time": "06 Nov, 10:30 am",
       "event_time_raw": 1793941200000,
       "category": "Cricket",
-      "stream_count": 4
+      "stream_count": 3
     },
     {
       "event_id": "17",
@@ -85,6 +69,22 @@
       "event_time_raw": 1793941200000,
       "category": "Cricket",
       "stream_count": 3
+    },
+    {
+      "event_id": "2",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "06 Nov, 11:30 am",
+      "event_time_raw": 1793944800000,
+      "category": "Snooker",
+      "stream_count": 3
+    },
+    {
+      "event_id": "9",
+      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
+      "event_time": "06 Nov, 11:30 am",
+      "event_time_raw": 1793944800000,
+      "category": "Tennis",
+      "stream_count": 4
     },
     {
       "event_id": "15",
