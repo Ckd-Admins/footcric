@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T06:05:17+05:30",
-  "generated_at_india": "06-11-2026 06:05:17 AM IST",
-  "total": 37,
+  "generated_at": "2026-11-06T07:26:18+05:30",
+  "generated_at_india": "06-11-2026 07:26:18 AM IST",
+  "total": 24,
   "events": [
     {
       "event_id": 50002,
@@ -144,35 +144,35 @@
     },
     {
       "event_id": 50090,
-      "event_title": "AZ Alkmaar vs Juventus",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Europa",
+      "event_title": "Nottingham Forest vs Manchester City",
+      "event_time": "2026-11-07 17:30",
+      "event_time_raw": "2026-11-07 17:30",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 3
     },
     {
       "event_id": 50091,
-      "event_title": "Celtic vs Beşiktaş JK",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Europa",
-      "stream_count": 4
+      "event_title": "Valencia vs Real Madrid",
+      "event_time": "2026-11-07 20:00",
+      "event_time_raw": "2026-11-07 20:00",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 3
     },
     {
       "event_id": 50092,
-      "event_title": "Sunderland vs Dinamo Zagreb",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Europa",
+      "event_title": "Paris Saint-Germain vs Troyes",
+      "event_time": "2026-11-07 20:05",
+      "event_time_raw": "2026-11-07 20:05",
+      "category": "Ligue 1 🇫🇷",
       "stream_count": 3
     },
     {
       "event_id": 50093,
-      "event_title": "Bayer Leverkusen vs Olympique Marseille",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Europa",
-      "stream_count": 3
+      "event_title": "AS Roma vs Sassuolo",
+      "event_time": "2026-11-07 19:45",
+      "event_time_raw": "2026-11-07 19:45",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 2
     },
     {
       "event_id": 50094,
@@ -183,124 +183,20 @@
       "stream_count": 1
     },
     {
-      "event_id": 50095,
-      "event_title": "Benfica vs Lech Poznań",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Europa",
-      "stream_count": 1
-    },
-    {
       "event_id": 50096,
-      "event_title": "Celta Vigo vs Royale USG",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Europa",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50097,
-      "event_title": "Hapoel Be'er Sheva vs OFI Crete",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Europa",
+      "event_title": "Leeds United vs Tottenham Hotspur",
+      "event_time": "2026-11-07 12:30",
+      "event_time_raw": "2026-11-07 12:30",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 2
     },
     {
       "event_id": 50098,
-      "event_title": "SK Sturm Graz vs NK Celje",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Europa",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50099,
-      "event_title": "Torreense vs FC Ararat-Armenia",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Europa",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50100,
-      "event_title": "Getafe vs Brighton",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Conference",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50101,
-      "event_title": "AS Monaco vs Nordsjælland",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Conference",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50102,
-      "event_title": "FC København vs FC Iberia 1999",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Conference",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50103,
-      "event_title": "FC Twente vs Pafos FC",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Conference",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50104,
-      "event_title": "Lugano vs Kauno Žalgiris",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Conference",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50105,
-      "event_title": "Panathinaikos FC vs CSKA Sofia",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Conference",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50106,
-      "event_title": "Riga FC vs FK Jablonec",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Conference",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50107,
-      "event_title": "Sint-Truidense VV vs SK Brann",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Conference",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50108,
-      "event_title": "Universitatea Craiova vs KF Egnatia",
-      "event_time": "2026-11-05 20:00",
-      "event_time_raw": "2026-11-05 20:00",
-      "category": "UEFA Conference",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50126,
-      "event_title": "Golazo Show",
-      "event_time": "2026-11-05 17:40",
-      "event_time_raw": "2026-11-05 17:40",
-      "category": "UEFA Europa",
-      "stream_count": 2
+      "event_title": "Osasuna vs Athletic Club",
+      "event_time": "2026-11-07 17:30",
+      "event_time_raw": "2026-11-07 17:30",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 3
     }
   ],
   "raw_data": ""
