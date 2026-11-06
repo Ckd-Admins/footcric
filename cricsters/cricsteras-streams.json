@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T15:22:58+05:30",
-  "generated_at_india": "06-11-2026 03:22:58 PM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-11-06T16:23:55+05:30",
+  "generated_at_india": "06-11-2026 04:23:55 PM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
@@ -240,43 +240,6 @@
       ]
     },
     {
-      "event_id": "18",
-      "event_title": "U19 Asia Cup - India Under-19 vs Nepal Under-19",
-      "event_time": "06 Nov, 10:30 am",
-      "event_time_raw": 1793941200000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "INNEWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4skycp0em/out/v1/ff0967ee82ad427abee362dc40a4f60f/cenc.mpd",
-          "drm": {
-            "kid": "5d52529b6ff19eca2315013244513b68",
-            "key": "ba5c7dfad287aab538463d9da6811a8c"
-          }
-        },
-        {
-          "code": "INNESONY",
-          "title": "SONYLIV PPV AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/evcwvvskwy/out/v1/646f7a7c35594dd4947ff7c030d20c39/cenc.mpd",
-          "drm": {
-            "kid": "01e7554c8d5b1fb6c77f214754f37fde",
-            "key": "cc17f51040f551dcbf45dea424c80fa3"
-          }
-        },
-        {
-          "code": "INNEWILL5I",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4skycp0em/out/v1/ff0967ee82ad427abee362dc40a4f60f/cenc.mpd",
-          "drm": {
-            "kid": "5d52529b6ff19eca2315013244513b68",
-            "key": "ba5c7dfad287aab538463d9da6811a8c"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "2",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "06 Nov, 11:30 am",
@@ -416,7 +379,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "Women's Big Bash League - Melbourne Stars Women vs Sydney Sixers Women",
       "event_time": "06 Nov, 01:40 pm",
       "event_time_raw": 1793952600000,
@@ -439,43 +402,6 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "7",
-      "event_title": "Paris OPEN - ATP vs ATP",
-      "event_time": "06 Nov, 03:30 pm",
-      "event_time_raw": 1793959200000,
-      "category": "Tennis",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "ATATBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        },
-        {
-          "code": "ATATTSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        },
-        {
-          "code": "ATATTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
           }
         }
       ]
@@ -518,10 +444,10 @@
         {
           "code": "MOMOAUVI",
           "title": "AUVIO SPORTS - AQ",
-          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/f16d0e74.isml/.mpd?t=2026-11-01T06:25:00.000",
+          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/d26ebc8f.isml/.mpd?t=2026-11-06T09:50:00.000",
           "drm": {
-            "kid": "815f7024454b45d9a34b11523831a300",
-            "key": "6b6af2bcc622c669da7bd342de887a91"
+            "kid": "745c7539fc0546d5ab6b512b7971453b",
+            "key": "b6d4028917b4d390bc28b08c6fd8734b"
           }
         },
         {
@@ -531,6 +457,43 @@
           "drm": {
             "kid": "7eea72d6075245a99ee3255603d58853",
             "key": "6848ef60575579bf4d415db1032153ed"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "7",
+      "event_title": "Paris OPEN - ATP vs ATP",
+      "event_time": "06 Nov, 04:00 pm",
+      "event_time_raw": 1793961000000,
+      "category": "Tennis",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "ATATBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "ATATTSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        },
+        {
+          "code": "ATATTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
           }
         }
       ]
@@ -610,7 +573,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "Women's Big Bash League - Melbourne Renegades Women vs Adelaide Strikers Women",
       "event_time": "07 Nov, 10:10 am",
       "event_time_raw": 1794026400000,
@@ -665,7 +628,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Hobart Hurricanes Women",
       "event_time": "07 Nov, 01:40 pm",
       "event_time_raw": 1794039000000,
