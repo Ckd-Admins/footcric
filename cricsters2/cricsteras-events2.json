@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T18:15:33+05:30",
-  "generated_at_india": "06-11-2026 06:15:33 PM IST",
-  "total": 37,
+  "generated_at": "2026-11-06T19:28:55+05:30",
+  "generated_at_india": "06-11-2026 07:28:55 PM IST",
+  "total": 38,
   "events": [
     {
       "event_id": 50002,
@@ -292,6 +292,14 @@
       "event_time": "2026-11-06 17:30",
       "event_time_raw": "2026-11-06 17:30",
       "category": "2. Bundesliga",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50122,
+      "event_title": "FC Goa vs Bengaluru FC",
+      "event_time": "2026-11-06 14:00",
+      "event_time_raw": "2026-11-06 14:00",
+      "category": "ISL",
       "stream_count": 1
     },
     {

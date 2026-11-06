@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T18:15:33+05:30",
-  "generated_at_india": "06-11-2026 06:15:33 PM IST",
-  "total": 37,
-  "ok": 37,
+  "generated_at": "2026-11-06T19:28:55+05:30",
+  "generated_at_india": "06-11-2026 07:28:55 PM IST",
+  "total": 38,
+  "ok": 38,
   "failed": 0,
   "events": [
     {
@@ -1156,6 +1156,25 @@
           "drm": {
             "kid": "0b42be2664d7e811d04f3e504e0924c5",
             "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50122,
+      "event_title": "FC Goa vs Bengaluru FC",
+      "event_time": "2026-11-06 14:00",
+      "event_time_raw": "2026-11-06 14:00",
+      "category": "ISL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FCBEPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sxig280kfu/out/v1/1d42bf15f0d74aa68535deefc79f9086/cenc.mpd",
+          "drm": {
+            "kid": "1cf4f357d5b189fc905c8c256e4ca8c6",
+            "key": "de885c6da99744114d0b9569e8d37343"
           }
         }
       ]
