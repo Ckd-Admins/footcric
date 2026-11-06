@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T21:10:05+05:30",
-  "generated_at_india": "06-11-2026 09:10:05 PM IST",
+  "generated_at": "2026-11-06T22:12:43+05:30",
+  "generated_at_india": "06-11-2026 10:12:43 PM IST",
   "total": 26,
   "events": [
     {
@@ -39,14 +39,6 @@
       "stream_count": 4
     },
     {
-      "event_id": "11",
-      "event_title": "MotoGP - MotoGP vs MotoGP",
-      "event_time": "06 Nov, 03:30 pm",
-      "event_time_raw": 1793959200000,
-      "category": "Motorsport",
-      "stream_count": 6
-    },
-    {
       "event_id": "7",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "06 Nov, 04:00 pm",
@@ -71,12 +63,20 @@
       "stream_count": 1
     },
     {
+      "event_id": "11",
+      "event_title": "MotoGP - MotoGP vs MotoGP",
+      "event_time": "06 Nov, 07:30 pm",
+      "event_time_raw": 1793973600000,
+      "category": "Motorsport",
+      "stream_count": 6
+    },
+    {
       "event_id": "3",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "06 Nov, 09:00 pm",
       "event_time_raw": 1793979000000,
       "category": "Motorsport",
-      "stream_count": 7
+      "stream_count": 9
     },
     {
       "event_id": "24",
