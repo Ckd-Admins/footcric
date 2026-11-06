@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T13:43:45+05:30",
-  "generated_at_india": "06-11-2026 01:43:45 PM IST",
-  "total": 20,
+  "generated_at": "2026-11-06T15:22:58+05:30",
+  "generated_at_india": "06-11-2026 03:22:58 PM IST",
+  "total": 21,
   "events": [
     {
       "event_id": "3",
@@ -15,7 +15,7 @@
       "stream_count": 7
     },
     {
-      "event_id": "14",
+      "event_id": "15",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -28,14 +28,6 @@
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
       "category": "WWE",
-      "stream_count": 3
-    },
-    {
-      "event_id": "7",
-      "event_title": "Paris OPEN - ATP vs ATP",
-      "event_time": "05 Nov, 03:30 pm",
-      "event_time_raw": 1793872800000,
-      "category": "Tennis",
       "stream_count": 3
     },
     {
@@ -55,7 +47,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "U19 Asia Cup - Pakistan Under-19 vs United Arab Emirates Under-19",
       "event_time": "06 Nov, 10:30 am",
       "event_time_raw": 1793941200000,
@@ -63,7 +55,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "U19 Asia Cup - India Under-19 vs Nepal Under-19",
       "event_time": "06 Nov, 10:30 am",
       "event_time_raw": 1793941200000,
@@ -87,7 +79,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "15",
+      "event_id": "16",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "06 Nov, 11:30 am",
       "event_time_raw": 1793944800000,
@@ -95,7 +87,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "11",
+      "event_id": "12",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "06 Nov, 12:15 pm",
       "event_time_raw": 1793947500000,
@@ -103,12 +95,28 @@
       "stream_count": 2
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "Women's Big Bash League - Melbourne Stars Women vs Sydney Sixers Women",
       "event_time": "06 Nov, 01:40 pm",
       "event_time_raw": 1793952600000,
       "category": "Cricket",
       "stream_count": 2
+    },
+    {
+      "event_id": "7",
+      "event_title": "Paris OPEN - ATP vs ATP",
+      "event_time": "06 Nov, 03:30 pm",
+      "event_time_raw": 1793959200000,
+      "category": "Tennis",
+      "stream_count": 3
+    },
+    {
+      "event_id": "11",
+      "event_title": "MotoGP - MotoGP vs MotoGP",
+      "event_time": "06 Nov, 03:30 pm",
+      "event_time_raw": 1793959200000,
+      "category": "Motorsport",
+      "stream_count": 5
     },
     {
       "event_id": "5",
@@ -119,7 +127,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "12",
+      "event_id": "13",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -127,7 +135,7 @@
       "stream_count": 5
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "Women's Big Bash League - Melbourne Renegades Women vs Adelaide Strikers Women",
       "event_time": "07 Nov, 10:10 am",
       "event_time_raw": 1794026400000,
@@ -135,7 +143,7 @@
       "stream_count": 5
     },
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Hobart Hurricanes Women",
       "event_time": "07 Nov, 01:40 pm",
       "event_time_raw": 1794039000000,
@@ -151,7 +159,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "13",
+      "event_id": "14",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
