@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T06:13:56+05:30",
-  "generated_at_india": "06-11-2026 06:13:56 AM IST",
+  "generated_at": "2026-11-06T07:29:03+05:30",
+  "generated_at_india": "06-11-2026 07:29:03 AM IST",
   "total": 34,
   "ok": 34,
   "failed": 0,
@@ -334,7 +334,7 @@
         {
           "code": "PACSPARA",
           "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jl1ut4wo0c/out/v1/957d3147b67c487c8c2c50f676dc81fc/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jl1ut4wo0c/out/v1/957d3147b67c487c8c2c50f676dc81fc/cenc.mpd",
           "drm": {
             "kid": "59a4c8d8546cb98fbdf6223dba813df0",
             "key": "48b1618847af706f56c9b838ad1e4438"
@@ -446,7 +446,7 @@
         {
           "code": "UNKFVIXS",
           "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qifsdadm3b/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qifsdadm3b/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd",
           "drm": {
             "kid": "cd2acbe60f6fbdc0102b4a49767c256b",
             "key": "34526c737b51a163bcf22d6f579cce15"
@@ -596,7 +596,7 @@
         {
           "code": "SKNKVIXS",
           "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zicne0ell0/out/v1/1d9a97d2cc44482d9bad7d8692907cb6/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zicne0ell0/out/v1/1d9a97d2cc44482d9bad7d8692907cb6/cenc.mpd",
           "drm": {
             "kid": "604c03f268a308e7aef347a1dbefc0bf",
             "key": "5e86c7e7ef4a3e1484eeda870e71cfad"
