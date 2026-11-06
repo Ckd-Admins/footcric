@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T01:14:15+05:30",
-  "generated_at_india": "07-11-2026 01:14:15 AM IST",
+  "generated_at": "2026-11-07T02:09:00+05:30",
+  "generated_at_india": "07-11-2026 02:09:00 AM IST",
   "total": 26,
   "ok": 26,
   "failed": 0,
@@ -439,7 +439,7 @@
       "event_time": "07 Nov, 01:15 am",
       "event_time_raw": 1793994300000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "OXLETNTS",
@@ -448,6 +448,15 @@
           "drm": {
             "kid": "69a5aa835a061ce64a630d1046727e40",
             "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "OXLESTAN",
+          "title": "STAN SPORTS AQ (AUS)",
+          "url": "https://live01-stan.akamaized.net/out/v1/1684510e1067458a9590ba05bf4740d9/index.mpd",
+          "drm": {
+            "kid": "91bdbb96405a4afabc7708ade29060da",
+            "key": "74c5648f48b8588f7a3491c09ff48915"
           }
         }
       ]
@@ -551,7 +560,7 @@
       "event_time": "07 Nov, 01:30 am",
       "event_time_raw": 1793995200000,
       "category": "Football",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "EVCOSKYS",
@@ -570,6 +579,15 @@
             "kid": "42f72c025dd53039244adc13b7e31dad",
             "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
           }
+        },
+        {
+          "code": "EVCOSTAN",
+          "title": "STAN SPORTS AQ (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/4a6ff2d3970a490381f945ae00f8127b/index.mpd",
+          "drm": {
+            "kid": "ac1daa8467344f5abe715b7fbf28b324",
+            "key": "69e2628901efdba0b1eb620d725f0fe4"
+          }
         }
       ]
     },
@@ -579,7 +597,7 @@
       "event_time": "07 Nov, 01:30 am",
       "event_time_raw": 1793995200000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "DEBOBEIN",
@@ -588,6 +606,15 @@
           "drm": {
             "kid": "7995c724a13748ed970840a8ab5bb9b3",
             "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        },
+        {
+          "code": "DEBOCBSS",
+          "title": "CBS SPORTS AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
           }
         }
       ]
@@ -741,7 +768,7 @@
         {
           "code": "AFZIWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd",
           "drm": {
             "kid": "cf6092dc6444b182d9ef6fde4152ff7d",
             "key": "2a868d1944e597930dde32f183a0c6bf"
