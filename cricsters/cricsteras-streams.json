@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T05:06:57+05:30",
-  "generated_at_india": "06-11-2026 05:06:57 AM IST",
+  "generated_at": "2026-11-06T06:13:56+05:30",
+  "generated_at_india": "06-11-2026 06:13:56 AM IST",
   "total": 34,
   "ok": 34,
   "failed": 0,
@@ -343,7 +343,7 @@
         {
           "code": "PACSVIXS",
           "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sc9thp18af/out/v1/bdab973002a441e59ec79082d0492fb6/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sc9thp18af/out/v1/bdab973002a441e59ec79082d0492fb6/cenc.mpd",
           "drm": {
             "kid": "839967a68a42fc284435b5b632e1b053",
             "key": "f8be7d48ed049df913b2f58199e1c2da"
