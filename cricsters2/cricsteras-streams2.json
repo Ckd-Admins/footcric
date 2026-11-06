@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T13:34:38+05:30",
-  "generated_at_india": "06-11-2026 01:34:38 PM IST",
+  "generated_at": "2026-11-06T15:19:26+05:30",
+  "generated_at_india": "06-11-2026 03:19:26 PM IST",
   "total": 37,
   "ok": 37,
   "failed": 0,
@@ -476,7 +476,7 @@
       "event_time": "2026-11-06 08:10",
       "event_time_raw": "2026-11-06 08:10",
       "category": "WBBL",
-      "stream_count": 3,
+      "stream_count": 2,
       "streams": [
         {
           "code": "WOMEWILL",
@@ -488,21 +488,12 @@
           }
         },
         {
-          "code": "WOMEWILLTO",
+          "code": "WOMEWILLR0",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8olzdbvmki/out/v1/87acc8ed30fd4274a871695e19f65173/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vyjgbcddti/out/v1/afd9c25f5179456fb3caf61ccbde2652/cenc.mpd",
           "drm": {
-            "kid": "85295bac45989531613c25de420c9dc4",
-            "key": "8fc2a783132a80143cd695640ea8dd66"
-          }
-        },
-        {
-          "code": "WOMEEURO",
-          "title": "EUROSPORTS FHD",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
+            "kid": "2fcc4db0b53bea0a25def717c67cfe57",
+            "key": "71ba2e8f5ea6cd6ad995206b300f051a"
           }
         }
       ]
