@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T07:26:18+05:30",
-  "generated_at_india": "06-11-2026 07:26:18 AM IST",
-  "total": 24,
+  "generated_at": "2026-11-06T08:13:51+05:30",
+  "generated_at_india": "06-11-2026 08:13:51 AM IST",
+  "total": 37,
   "events": [
     {
       "event_id": 50002,
@@ -57,10 +57,10 @@
     {
       "event_id": 50009,
       "event_title": "ONE Friday Fights",
-      "event_time": "2026-11-06 12:30",
-      "event_time_raw": "2026-11-06 12:30",
+      "event_time": "2026-11-06 13:30",
+      "event_time_raw": "2026-11-06 13:30",
       "category": "Boxing",
-      "stream_count": 3
+      "stream_count": 4
     },
     {
       "event_id": 50011,
@@ -197,6 +197,110 @@
       "event_time_raw": "2026-11-07 17:30",
       "category": "LaLiga 🇪🇸",
       "stream_count": 3
+    },
+    {
+      "event_id": 50099,
+      "event_title": "Espanyol vs Deportivo de A Coruña",
+      "event_time": "2026-11-07 15:15",
+      "event_time_raw": "2026-11-07 15:15",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50100,
+      "event_title": "Málaga CF vs Real Racing Club",
+      "event_time": "2026-11-07 13:00",
+      "event_time_raw": "2026-11-07 13:00",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 4
+    },
+    {
+      "event_id": 50101,
+      "event_title": "Parma vs Bologna",
+      "event_time": "2026-11-07 17:00",
+      "event_time_raw": "2026-11-07 17:00",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50106,
+      "event_title": "Borussia Dortmund vs Elversberg",
+      "event_time": "2026-11-07 14:30",
+      "event_time_raw": "2026-11-07 14:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50109,
+      "event_title": "Toulouse vs RC Strasbourg",
+      "event_time": "2026-11-06 19:45",
+      "event_time_raw": "2026-11-06 19:45",
+      "category": "Ligue 1 🇫🇷",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50110,
+      "event_title": "AJ Auxerre vs Paris FC",
+      "event_time": "2026-11-07 18:00",
+      "event_time_raw": "2026-11-07 18:00",
+      "category": "Ligue 1 🇫🇷",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50111,
+      "event_title": "Everton vs Coventry City",
+      "event_time": "2026-11-06 20:00",
+      "event_time_raw": "2026-11-06 20:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50112,
+      "event_title": "Sevilla vs Deportivo Alavés",
+      "event_time": "2026-11-06 20:00",
+      "event_time_raw": "2026-11-06 20:00",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50113,
+      "event_title": "Venezia vs Udinese",
+      "event_time": "2026-11-06 19:45",
+      "event_time_raw": "2026-11-06 19:45",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50116,
+      "event_title": "Derby County vs Bolton Wanderers",
+      "event_time": "2026-11-06 20:00",
+      "event_time_raw": "2026-11-06 20:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50117,
+      "event_title": "Oxford City vs Leicester City",
+      "event_time": "2026-11-06 19:45",
+      "event_time_raw": "2026-11-06 19:45",
+      "category": "FA Cup",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50119,
+      "event_title": "Eintracht Braunschweig vs Energie Cottbus",
+      "event_time": "2026-11-06 17:30",
+      "event_time_raw": "2026-11-06 17:30",
+      "category": "2. Bundesliga",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50120,
+      "event_title": "Dynamo Dresden vs Greuther Fürth",
+      "event_time": "2026-11-06 17:30",
+      "event_time_raw": "2026-11-06 17:30",
+      "category": "2. Bundesliga",
+      "stream_count": 1
     }
   ],
   "raw_data": ""
