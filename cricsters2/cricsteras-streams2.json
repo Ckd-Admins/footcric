@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T01:11:26+05:30",
-  "generated_at_india": "07-11-2026 01:11:26 AM IST",
+  "generated_at": "2026-11-07T02:04:43+05:30",
+  "generated_at_india": "07-11-2026 02:04:43 AM IST",
   "total": 37,
   "ok": 37,
   "failed": 0,
@@ -11,8 +11,8 @@
     {
       "event_id": 50002,
       "event_title": "Formula 1 -  Brazil Grand Prix",
-      "event_time": "2026-11-06 19:00",
-      "event_time_raw": "2026-11-06 19:00",
+      "event_time": "2026-11-07 14:30",
+      "event_time_raw": "2026-11-07 14:30",
       "category": "F1",
       "stream_count": 6,
       "streams": [
@@ -75,8 +75,8 @@
     {
       "event_id": 50003,
       "event_title": "MotoGP - Grand Prix of Qatar",
-      "event_time": "2026-11-06 12:45",
-      "event_time_raw": "2026-11-06 12:45",
+      "event_time": "2026-11-07 11:00",
+      "event_time_raw": "2026-11-07 11:00",
       "category": "MotoGP",
       "stream_count": 6,
       "streams": [
@@ -488,6 +488,34 @@
       ]
     },
     {
+      "event_id": 50044,
+      "event_title": "Charlotte Hornets vs Boston Celtics",
+      "event_time": "2026-11-07 00:00",
+      "event_time_raw": "2026-11-07 00:00",
+      "category": "NBA",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "CHBOTSN4",
+          "title": "TSN4 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "drm": {
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
+          }
+        },
+        {
+          "code": "CHBOTSN5",
+          "title": "TSN5 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-06 06:45",
@@ -564,23 +592,14 @@
     },
     {
       "event_id": 50086,
-      "event_title": "Palmeiras vs Remo",
-      "event_time": "2026-11-05 22:30",
-      "event_time_raw": "2026-11-05 22:30",
+      "event_title": "Vitória vs Fluminense",
+      "event_time": "2026-11-06 23:00",
+      "event_time_raw": "2026-11-06 23:00",
       "category": "Brasileirão",
-      "stream_count": 3,
+      "stream_count": 2,
       "streams": [
         {
-          "code": "PAREPREM",
-          "title": "PREMIER SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-          }
-        },
-        {
-          "code": "PAREPREMED",
+          "code": "VIFLPREM",
           "title": "PREMIERER BR FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
           "drm": {
@@ -589,31 +608,12 @@
           }
         },
         {
-          "code": "PARESPOR",
-          "title": "SportDigital Fussball",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "code": "VIFLSPOR",
+          "title": "SporTV BR FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
           "drm": {
-            "kid": "0ad4080cdff8c60b1233b22087f0b340",
-            "key": "285f129c5eca01dd08a5d5a14ad801c8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50089,
-      "event_title": "Colorado Avalanche vs Nashville Predators",
-      "event_time": "2026-11-06 02:30",
-      "event_time_raw": "2026-11-06 02:30",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CONAPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+            "kid": "51c0ef23b17297e5c01cd7f36dd0a6ce",
+            "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
           }
         }
       ]
