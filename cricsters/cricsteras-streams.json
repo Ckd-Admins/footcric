@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T07:29:03+05:30",
-  "generated_at_india": "06-11-2026 07:29:03 AM IST",
+  "generated_at": "2026-11-06T08:20:54+05:30",
+  "generated_at_india": "06-11-2026 08:20:54 AM IST",
   "total": 34,
   "ok": 34,
   "failed": 0,
@@ -296,7 +296,7 @@
         {
           "code": "ASFCVIXS",
           "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8ljjix3usw/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ljjix3usw/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
           "drm": {
             "kid": "a7ed87c718ce47b65761f77720bf08eb",
             "key": "4c46fd4f60010a4dc00fd0f3e5639058"
@@ -371,7 +371,7 @@
         {
           "code": "RIFKVIXS",
           "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/69vfkahxgr/out/v1/dd4c2935bbd1458e96fea050cffb6de3/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/69vfkahxgr/out/v1/dd4c2935bbd1458e96fea050cffb6de3/cenc.mpd",
           "drm": {
             "kid": "3556da62840a4e6accfbcfb006a8e04f",
             "key": "f993d00d27ab85213f9b3dc53d73ca63"
@@ -512,7 +512,7 @@
         {
           "code": "BAOLVIXS",
           "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5n7dlhgnbw/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5n7dlhgnbw/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd",
           "drm": {
             "kid": "d983a21988946fe4db6f5d368eb5883b",
             "key": "33200f92d2939fd42c76b9334fd07ebc"
@@ -549,7 +549,7 @@
         {
           "code": "CEBEVIXS",
           "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yczhfduxi5/out/v1/c22699bcc6df411098d4969c11e9c388/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yczhfduxi5/out/v1/c22699bcc6df411098d4969c11e9c388/cenc.mpd",
           "drm": {
             "kid": "6c68cf9c54f358cbc080ce329b786719",
             "key": "97eeda31acf438172e4c1b2f6d721330"
@@ -680,7 +680,7 @@
         {
           "code": "TOFCVIXS",
           "title": "VIX SPANISH - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jhtmehvr0u/out/v1/e97fce33fc064131b6dec095e0a0ab71/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhtmehvr0u/out/v1/e97fce33fc064131b6dec095e0a0ab71/cenc.mpd",
           "drm": {
             "kid": "79e7d09a48a385367bd65c1b35ab4cc3",
             "key": "0e7772297dfb6775c71b3414f0832875"
