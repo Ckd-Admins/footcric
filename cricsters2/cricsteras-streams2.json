@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T10:14:26+05:30",
-  "generated_at_india": "06-11-2026 10:14:26 AM IST",
-  "total": 39,
-  "ok": 39,
+  "generated_at": "2026-11-06T11:15:56+05:30",
+  "generated_at_india": "06-11-2026 11:15:56 AM IST",
+  "total": 38,
+  "ok": 38,
   "failed": 0,
   "events": [
     {
@@ -194,10 +194,10 @@
         {
           "code": "AFZIWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vnbdbmfdnk/out/v1/b3a014fa36bb47e2a7d8edffa6bccc1c/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/naqeacglkx/out/v1/d3197710933d4610b479589d2a134aa4/cenc.mpd",
           "drm": {
-            "kid": "4a4c70f4416d322e37111794d0a396b6",
-            "key": "d23a4f2e632c458e7e1981d3fe41d852"
+            "kid": "9bc30487e93c8157dc7644f99ebf7ee3",
+            "key": "a534870453db4ff8da2227536875876d"
           }
         },
         {
@@ -369,6 +369,61 @@
       ]
     },
     {
+      "event_id": 50019,
+      "event_title": "ATP Paris & WTA Hong Kong",
+      "event_time": "2026-11-06 06:00",
+      "event_time_raw": "2026-11-06 06:00",
+      "category": "Tennis",
+      "stream_count": 5,
+      "streams": [
+        {
+          "code": "ATPPATPP",
+          "title": "ATP PARIS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "ATPPTSN5",
+          "title": "TSN5 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        },
+        {
+          "code": "ATPPSKYS",
+          "title": "SKY SPORT TENNIS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd",
+          "drm": {
+            "kid": "e8d550a86ee5c31e6b62f5fa287db43d",
+            "key": "11184b37c42d384033b966dbea535b4f"
+          }
+        },
+        {
+          "code": "ATPPTENN",
+          "title": "TENNIS CHANNEL 2",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
+          }
+        },
+        {
+          "code": "ATPPWTAH",
+          "title": "WTA HONG KONG",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50023,
       "event_title": "NFL REDZONE",
       "event_time": "2026-11-08 17:55",
@@ -467,44 +522,6 @@
           "drm": {
             "kid": "12ed56d780abcfebcd23aa27e4ac5015",
             "key": "6784567890abcfebcd23aa27e4ac2814"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50080,
-      "event_title": "New York Rangers vs Philadelphia Flyers",
-      "event_time": "2026-11-06 00:00",
-      "event_time_raw": "2026-11-06 00:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NEPHPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50083,
-      "event_title": "Winnipeg Jets vs Vancouver Canucks",
-      "event_time": "2026-11-06 00:00",
-      "event_time_raw": "2026-11-06 00:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "WIVATSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "drm": {
-            "kid": "d3250252765347a0c2603c6cb4869f8c",
-            "key": "0c19319460da7e9ed816db46ce839b37"
           }
         }
       ]
@@ -1131,7 +1148,7 @@
       "event_time": "2026-11-06 05:00",
       "event_time_raw": "2026-11-06 05:00",
       "category": "Asia Cup",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "INNEWILL",
@@ -1140,6 +1157,15 @@
           "drm": {
             "kid": "39f2978b8816539cbb927e85d1c7f53b",
             "key": "a8f0c750c8369efff8adff4ff1fa34bc"
+          }
+        },
+        {
+          "code": "INNESONY",
+          "title": "SonyLiv PRIME FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/evcwvvskwy/out/v1/646f7a7c35594dd4947ff7c030d20c39/cenc.mpd",
+          "drm": {
+            "kid": "01e7554c8d5b1fb6c77f214754f37fde",
+            "key": "cc17f51040f551dcbf45dea424c80fa3"
           }
         },
         {
@@ -1159,15 +1185,24 @@
       "event_time": "2026-11-06 05:00",
       "event_time_raw": "2026-11-06 05:00",
       "category": "Asia Cup",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "PAUNWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/71mchywgg1/out/v1/547f3757799448068622aba786153c76/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
           "drm": {
-            "kid": "b722cff7260a0045ffb7c5a88119e810",
-            "key": "ad8e3a57a402fd4858721659a88b711f"
+            "kid": "1dcfabc6b441908d78cc7106e30e906f",
+            "key": "8e086929f79491b9a2076d0d04eb7317"
+          }
+        },
+        {
+          "code": "PAUNSONY",
+          "title": "SonyLiv PRIME FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fhmymymkrb/out/v1/63a3f37439d848cf828763d9a3104a61/cenc.mpd",
+          "drm": {
+            "kid": "894a711509fd4cd9f746368eb6c5fd38",
+            "key": "d77f5b857e3e1f1d53900ed6d586cb78"
           }
         },
         {

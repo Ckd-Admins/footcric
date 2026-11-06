@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T10:14:26+05:30",
-  "generated_at_india": "06-11-2026 10:14:26 AM IST",
-  "total": 39,
+  "generated_at": "2026-11-06T11:15:56+05:30",
+  "generated_at_india": "06-11-2026 11:15:56 AM IST",
+  "total": 38,
   "events": [
     {
       "event_id": 50002,
@@ -79,6 +79,14 @@
       "stream_count": 3
     },
     {
+      "event_id": 50019,
+      "event_title": "ATP Paris & WTA Hong Kong",
+      "event_time": "2026-11-06 06:00",
+      "event_time_raw": "2026-11-06 06:00",
+      "category": "Tennis",
+      "stream_count": 5
+    },
+    {
       "event_id": 50023,
       "event_title": "NFL REDZONE",
       "event_time": "2026-11-08 17:55",
@@ -109,22 +117,6 @@
       "event_time_raw": "2026-11-06 08:10",
       "category": "WBBL",
       "stream_count": 3
-    },
-    {
-      "event_id": 50080,
-      "event_title": "New York Rangers vs Philadelphia Flyers",
-      "event_time": "2026-11-06 00:00",
-      "event_time_raw": "2026-11-06 00:00",
-      "category": "NHL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50083,
-      "event_title": "Winnipeg Jets vs Vancouver Canucks",
-      "event_time": "2026-11-06 00:00",
-      "event_time_raw": "2026-11-06 00:00",
-      "category": "NHL",
-      "stream_count": 1
     },
     {
       "event_id": 50086,
@@ -308,7 +300,7 @@
       "event_time": "2026-11-06 05:00",
       "event_time_raw": "2026-11-06 05:00",
       "category": "Asia Cup",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": 50124,
@@ -316,7 +308,7 @@
       "event_time": "2026-11-06 05:00",
       "event_time_raw": "2026-11-06 05:00",
       "category": "Asia Cup",
-      "stream_count": 2
+      "stream_count": 3
     }
   ],
   "raw_data": ""
