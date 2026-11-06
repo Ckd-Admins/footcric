@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T09:10:25+05:30",
-  "generated_at_india": "06-11-2026 09:10:25 AM IST",
-  "total": 37,
-  "ok": 37,
+  "generated_at": "2026-11-06T10:14:26+05:30",
+  "generated_at_india": "06-11-2026 10:14:26 AM IST",
+  "total": 39,
+  "ok": 39,
   "failed": 0,
   "events": [
     {
@@ -1121,6 +1121,62 @@
           "drm": {
             "kid": "0b42be2664d7e811d04f3e504e0924c5",
             "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50123,
+      "event_title": "India Under-19 vs Nepal Under-19",
+      "event_time": "2026-11-06 05:00",
+      "event_time_raw": "2026-11-06 05:00",
+      "category": "Asia Cup",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "INNEWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qe8hdfrv3t/out/v1/a973ce68e36546cd9e82beff760626f9/cenc.mpd",
+          "drm": {
+            "kid": "39f2978b8816539cbb927e85d1c7f53b",
+            "key": "a8f0c750c8369efff8adff4ff1fa34bc"
+          }
+        },
+        {
+          "code": "INNEWILL5I",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4skycp0em/out/v1/ff0967ee82ad427abee362dc40a4f60f/cenc.mpd",
+          "drm": {
+            "kid": "5d52529b6ff19eca2315013244513b68",
+            "key": "ba5c7dfad287aab538463d9da6811a8c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50124,
+      "event_title": "Pakistan Under-19 vs United Arab Emirates Under-19",
+      "event_time": "2026-11-06 05:00",
+      "event_time_raw": "2026-11-06 05:00",
+      "category": "Asia Cup",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "PAUNWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/71mchywgg1/out/v1/547f3757799448068622aba786153c76/cenc.mpd",
+          "drm": {
+            "kid": "b722cff7260a0045ffb7c5a88119e810",
+            "key": "ad8e3a57a402fd4858721659a88b711f"
+          }
+        },
+        {
+          "code": "PAUNWILLYP",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
+          "drm": {
+            "kid": "1dcfabc6b441908d78cc7106e30e906f",
+            "key": "8e086929f79491b9a2076d0d04eb7317"
           }
         }
       ]
