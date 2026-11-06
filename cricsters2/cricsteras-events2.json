@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T00:08:22+05:30",
-  "generated_at_india": "07-11-2026 00:08:22 AM IST",
+  "generated_at": "2026-11-07T01:11:26+05:30",
+  "generated_at_india": "07-11-2026 01:11:26 AM IST",
   "total": 37,
   "events": [
     {
@@ -12,7 +12,7 @@
       "event_time": "2026-11-06 19:00",
       "event_time_raw": "2026-11-06 19:00",
       "category": "F1",
-      "stream_count": 4
+      "stream_count": 6
     },
     {
       "event_id": 50003,
@@ -263,6 +263,14 @@
       "stream_count": 2
     },
     {
+      "event_id": 50114,
+      "event_title": "Hamburger vs Borussia M'gladbach",
+      "event_time": "2026-11-06 19:30",
+      "event_time_raw": "2026-11-06 19:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 2
+    },
+    {
       "event_id": 50116,
       "event_title": "Derby County vs Bolton Wanderers",
       "event_time": "2026-11-06 20:00",
@@ -292,14 +300,6 @@
       "event_time": "2026-11-06 17:30",
       "event_time_raw": "2026-11-06 17:30",
       "category": "2. Bundesliga",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50122,
-      "event_title": "FC Goa vs Bengaluru FC",
-      "event_time": "2026-11-06 14:00",
-      "event_time_raw": "2026-11-06 14:00",
-      "category": "ISL",
       "stream_count": 1
     }
   ],
