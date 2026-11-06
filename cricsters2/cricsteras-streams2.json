@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T20:19:29+05:30",
-  "generated_at_india": "06-11-2026 08:19:29 PM IST",
-  "total": 38,
-  "ok": 38,
+  "generated_at": "2026-11-06T21:06:00+05:30",
+  "generated_at_india": "06-11-2026 09:06:00 PM IST",
+  "total": 37,
+  "ok": 37,
   "failed": 0,
   "events": [
     {
@@ -1175,43 +1175,6 @@
           "drm": {
             "kid": "1cf4f357d5b189fc905c8c256e4ca8c6",
             "key": "de885c6da99744114d0b9569e8d37343"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50124,
-      "event_title": "Pakistan Under-19 vs United Arab Emirates Under-19",
-      "event_time": "2026-11-06 05:00",
-      "event_time_raw": "2026-11-06 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "PAUNWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
-          "drm": {
-            "kid": "1dcfabc6b441908d78cc7106e30e906f",
-            "key": "8e086929f79491b9a2076d0d04eb7317"
-          }
-        },
-        {
-          "code": "PAUNSONY",
-          "title": "SonyLiv PRIME FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fhmymymkrb/out/v1/63a3f37439d848cf828763d9a3104a61/cenc.mpd",
-          "drm": {
-            "kid": "894a711509fd4cd9f746368eb6c5fd38",
-            "key": "d77f5b857e3e1f1d53900ed6d586cb78"
-          }
-        },
-        {
-          "code": "PAUNWILLYP",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
-          "drm": {
-            "kid": "1dcfabc6b441908d78cc7106e30e906f",
-            "key": "8e086929f79491b9a2076d0d04eb7317"
           }
         }
       ]
