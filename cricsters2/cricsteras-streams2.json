@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T16:20:26+05:30",
-  "generated_at_india": "06-11-2026 04:20:26 PM IST",
+  "generated_at": "2026-11-06T17:11:37+05:30",
+  "generated_at_india": "06-11-2026 05:11:37 PM IST",
   "total": 37,
   "ok": 37,
   "failed": 0,
@@ -60,15 +60,24 @@
       "event_time": "2026-11-06 12:45",
       "event_time_raw": "2026-11-06 12:45",
       "category": "MotoGP",
-      "stream_count": 4,
+      "stream_count": 6,
       "streams": [
         {
           "code": "GRANTNTS",
-          "title": "TNT SPORTS",
+          "title": "TNT SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
           "drm": {
             "kid": "f3df7843080ae743bf865dc5fdf64c68",
             "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        },
+        {
+          "code": "GRANSKYS",
+          "title": "SKY SPORTS MIX",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "drm": {
+            "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
+            "key": "a883237ef30932b731f71aa59a0805c0"
           }
         },
         {
@@ -78,6 +87,15 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "GRANSKYT",
+          "title": "SKY TOP EVENT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm": {
+            "kid": "368bd4ebe301406897324bc777650411",
+            "key": "69d27c2c2b7de927d67aacc973259901"
           }
         },
         {
@@ -499,6 +517,34 @@
       ]
     },
     {
+      "event_id": 50077,
+      "event_title": "Minnesota Wild vs San Jose Sharks",
+      "event_time": "2026-11-07 01:00",
+      "event_time_raw": "2026-11-07 01:00",
+      "category": "NHL",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "MISAPREM",
+          "title": "PREMIER SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm": {
+            "kid": "1444f4235529f183f0a5a486befe9cdb",
+            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+          }
+        },
+        {
+          "code": "MISASKYS",
+          "title": "SKY SPORTS MIX",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "drm": {
+            "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
+            "key": "a883237ef30932b731f71aa59a0805c0"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50086,
       "event_title": "Palmeiras vs Remo",
       "event_time": "2026-11-05 22:30",
@@ -696,8 +742,8 @@
     {
       "event_id": 50094,
       "event_title": "Bangladesh vs West Indies",
-      "event_time": "2026-11-06 03:30",
-      "event_time_raw": "2026-11-06 03:30",
+      "event_time": "2026-11-07 03:30",
+      "event_time_raw": "2026-11-07 03:30",
       "category": "Cricket",
       "stream_count": 1,
       "streams": [
@@ -1110,43 +1156,6 @@
           "drm": {
             "kid": "0b42be2664d7e811d04f3e504e0924c5",
             "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50123,
-      "event_title": "India Under-19 vs Nepal Under-19",
-      "event_time": "2026-11-06 05:00",
-      "event_time_raw": "2026-11-06 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "INNEWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qe8hdfrv3t/out/v1/a973ce68e36546cd9e82beff760626f9/cenc.mpd",
-          "drm": {
-            "kid": "39f2978b8816539cbb927e85d1c7f53b",
-            "key": "a8f0c750c8369efff8adff4ff1fa34bc"
-          }
-        },
-        {
-          "code": "INNESONY",
-          "title": "SonyLiv PRIME FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/evcwvvskwy/out/v1/646f7a7c35594dd4947ff7c030d20c39/cenc.mpd",
-          "drm": {
-            "kid": "01e7554c8d5b1fb6c77f214754f37fde",
-            "key": "cc17f51040f551dcbf45dea424c80fa3"
-          }
-        },
-        {
-          "code": "INNEWILL5I",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4skycp0em/out/v1/ff0967ee82ad427abee362dc40a4f60f/cenc.mpd",
-          "drm": {
-            "kid": "5d52529b6ff19eca2315013244513b68",
-            "key": "ba5c7dfad287aab538463d9da6811a8c"
           }
         }
       ]
