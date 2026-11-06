@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T10:19:29+05:30",
-  "generated_at_india": "06-11-2026 10:19:29 AM IST",
-  "total": 39,
+  "generated_at": "2026-11-06T11:20:00+05:30",
+  "generated_at_india": "06-11-2026 11:20:00 AM IST",
+  "total": 20,
   "events": [
     {
       "event_id": "3",
@@ -63,158 +63,6 @@
       "stream_count": 1
     },
     {
-      "event_id": "15",
-      "event_title": "UEFA Conference League - AS Monaco vs FC Nordsjælland",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "16",
-      "event_title": "UEFA Conference League - FC Twente vs Pafos FC",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "17",
-      "event_title": "UEFA Conference League - Panathinaikos FC vs CSKA Sofia",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "18",
-      "event_title": "UEFA Conference League - Riga FC vs FK Jablonec",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "19",
-      "event_title": "UEFA Conference League - FC København vs FC Iberia 1999",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "20",
-      "event_title": "UEFA Conference League - Getafe vs Brighton & Hove Albion",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "21",
-      "event_title": "UEFA Conference League - Universitatea Craiova vs KF Egnatia",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "22",
-      "event_title": "UEFA Conference League - FC Lugano vs FK Kauno Žalgiris",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "23",
-      "event_title": "UEFA Conference League - Sint-Truidense VV vs SK Brann",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "25",
-      "event_title": "UEFA Europa League - Bayer 04 Leverkusen vs Olympique de Marseille",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "26",
-      "event_title": "UEFA Europa League - Celtic vs Beşiktaş JK",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "27",
-      "event_title": "UEFA Europa League - Hapoel Be'er Sheva vs OFI Crete",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "29",
-      "event_title": "UEFA Europa League - SK Sturm Graz vs NK Celje",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "30",
-      "event_title": "UEFA Europa League - Sunderland vs GNK Dinamo Zagreb",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "31",
-      "event_title": "UEFA Europa League - Celta Vigo vs Royale Union Saint-Gilloise",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "32",
-      "event_title": "UEFA Europa League - Torreense vs FC Ararat-Armenia",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "33",
-      "event_title": "UEFA Europa League - AZ Alkmaar vs Juventus",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "34",
-      "event_title": "UEFA Europa League - Benfica vs Lech Poznań",
-      "event_time": "06 Nov, 01:30 am",
-      "event_time_raw": 1793908800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "28",
-      "event_title": "Campeonato Brasileiro Série A - Palmeiras vs Remo",
-      "event_time": "06 Nov, 04:00 am",
-      "event_time_raw": 1793917800000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
       "event_id": "1",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "06 Nov, 09:00 am",
@@ -223,23 +71,23 @@
       "stream_count": 2
     },
     {
-      "event_id": "35",
+      "event_id": "16",
       "event_title": "U19 Asia Cup - Pakistan Under-19 vs United Arab Emirates Under-19",
       "event_time": "06 Nov, 10:30 am",
       "event_time_raw": 1793941200000,
       "category": "Cricket",
-      "stream_count": 2
+      "stream_count": 4
     },
     {
-      "event_id": "36",
+      "event_id": "17",
       "event_title": "U19 Asia Cup - India Under-19 vs Nepal Under-19",
       "event_time": "06 Nov, 10:30 am",
       "event_time_raw": 1793941200000,
       "category": "Cricket",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
-      "event_id": "24",
+      "event_id": "15",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "06 Nov, 11:30 am",
       "event_time_raw": 1793944800000,
@@ -252,10 +100,10 @@
       "event_time": "06 Nov, 12:15 pm",
       "event_time_raw": 1793947500000,
       "category": "Cricket",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
-      "event_id": "39",
+      "event_id": "20",
       "event_title": "Women's Big Bash League - Melbourne Stars Women vs Sydney Sixers Women",
       "event_time": "06 Nov, 01:40 pm",
       "event_time_raw": 1793952600000,
@@ -279,7 +127,7 @@
       "stream_count": 5
     },
     {
-      "event_id": "38",
+      "event_id": "19",
       "event_title": "Women's Big Bash League - Melbourne Renegades Women vs Adelaide Strikers Women",
       "event_time": "07 Nov, 10:10 am",
       "event_time_raw": 1794026400000,
@@ -287,7 +135,7 @@
       "stream_count": 5
     },
     {
-      "event_id": "37",
+      "event_id": "18",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Hobart Hurricanes Women",
       "event_time": "07 Nov, 01:40 pm",
       "event_time_raw": 1794039000000,
