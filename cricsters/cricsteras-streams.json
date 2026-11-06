@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T09:14:10+05:30",
-  "generated_at_india": "06-11-2026 09:14:10 AM IST",
-  "total": 34,
-  "ok": 34,
+  "generated_at": "2026-11-06T10:19:29+05:30",
+  "generated_at_india": "06-11-2026 10:19:29 AM IST",
+  "total": 39,
+  "ok": 39,
   "failed": 0,
   "events": [
     {
@@ -409,7 +409,7 @@
         {
           "code": "GEBRPARA",
           "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/o6sgtmvfoi/out/v1/28695d60295149fe9e168ee109923c88/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6sgtmvfoi/out/v1/28695d60295149fe9e168ee109923c88/cenc.mpd",
           "drm": {
             "kid": "e29ee069eac1f10e328f3852df89afb9",
             "key": "e37f22a777470d33405c44c8b9a60ae1"
@@ -503,7 +503,7 @@
         {
           "code": "BAOLPARA",
           "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/im0krv2x9u/out/v1/20c3852ff7ba48a5b311cda53df8ce02/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/im0krv2x9u/out/v1/20c3852ff7ba48a5b311cda53df8ce02/cenc.mpd",
           "drm": {
             "kid": "051b33e83772198362b8ffee58b9b9e7",
             "key": "e886201e680d03d9df53df2b7e9c371a"
@@ -615,7 +615,7 @@
         {
           "code": "SUGNPARA",
           "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yja6lt0sxk/out/v1/838313643893472bb0282a10a03fb029/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yja6lt0sxk/out/v1/838313643893472bb0282a10a03fb029/cenc.mpd",
           "drm": {
             "kid": "c89affa6555bc889a9fcb34132c2ba8f",
             "key": "14a745ff642c706ca2cfbbe67ebe7421"
@@ -699,7 +699,7 @@
         {
           "code": "AZJUPARA",
           "title": "PARAMOUNT+ - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vwpp4as84x/out/v1/cd53f1a66a95454ba2f7356bf68801e4/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vwpp4as84x/out/v1/cd53f1a66a95454ba2f7356bf68801e4/cenc.mpd",
           "drm": {
             "kid": "7c82327f6d67acbd1aadb9102ac8abd7",
             "key": "cc3947fbf235fdb0ebe20b2200b0cf46"
@@ -801,6 +801,62 @@
       ]
     },
     {
+      "event_id": "35",
+      "event_title": "U19 Asia Cup - Pakistan Under-19 vs United Arab Emirates Under-19",
+      "event_time": "06 Nov, 10:30 am",
+      "event_time_raw": 1793941200000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "PAUNWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
+          "drm": {
+            "kid": "1dcfabc6b441908d78cc7106e30e906f",
+            "key": "8e086929f79491b9a2076d0d04eb7317"
+          }
+        },
+        {
+          "code": "PAUNWILLYP",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
+          "drm": {
+            "kid": "1dcfabc6b441908d78cc7106e30e906f",
+            "key": "8e086929f79491b9a2076d0d04eb7317"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "36",
+      "event_title": "U19 Asia Cup - India Under-19 vs Nepal Under-19",
+      "event_time": "06 Nov, 10:30 am",
+      "event_time_raw": 1793941200000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "INNEWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4skycp0em/out/v1/ff0967ee82ad427abee362dc40a4f60f/cenc.mpd",
+          "drm": {
+            "kid": "5d52529b6ff19eca2315013244513b68",
+            "key": "ba5c7dfad287aab538463d9da6811a8c"
+          }
+        },
+        {
+          "code": "INNEWILL5I",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4skycp0em/out/v1/ff0967ee82ad427abee362dc40a4f60f/cenc.mpd",
+          "drm": {
+            "kid": "5d52529b6ff19eca2315013244513b68",
+            "key": "ba5c7dfad287aab538463d9da6811a8c"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "24",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "06 Nov, 11:30 am",
@@ -852,6 +908,61 @@
           "drm": {
             "kid": "286eb7dc538143790fa9913639531920",
             "key": "e3f5cb08d14d9e9c08438c673819540f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "39",
+      "event_title": "Women's Big Bash League - Melbourne Stars Women vs Sydney Sixers Women",
+      "event_time": "06 Nov, 01:40 pm",
+      "event_time_raw": 1793952600000,
+      "category": "Cricket",
+      "stream_count": 5,
+      "streams": [
+        {
+          "code": "MESYWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+          "drm": {
+            "kid": "b2c92cec93ed53bbc297d9ab55ae4c72",
+            "key": "6dfa3680190db85be7659d6faaac5d91"
+          }
+        },
+        {
+          "code": "MESYWILLJP",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        },
+        {
+          "code": "MESYWILLZA",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
+          "drm": {
+            "kid": "edbd9d6a45038d8031f8acda793333db",
+            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
+          }
+        },
+        {
+          "code": "MESYEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
+          }
+        },
+        {
+          "code": "MESYFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]
@@ -926,6 +1037,116 @@
           "drm": {
             "kid": "6df39bfdcc3293c5018e97607998cae3",
             "key": "794ada809851b50c0e8a7568f92971e0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "38",
+      "event_title": "Women's Big Bash League - Melbourne Renegades Women vs Adelaide Strikers Women",
+      "event_time": "07 Nov, 10:10 am",
+      "event_time_raw": 1794026400000,
+      "category": "Cricket",
+      "stream_count": 5,
+      "streams": [
+        {
+          "code": "MEADWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+          "drm": {
+            "kid": "b2c92cec93ed53bbc297d9ab55ae4c72",
+            "key": "6dfa3680190db85be7659d6faaac5d91"
+          }
+        },
+        {
+          "code": "MEADWILLS6",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        },
+        {
+          "code": "MEADWILLKQ",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
+          "drm": {
+            "kid": "edbd9d6a45038d8031f8acda793333db",
+            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
+          }
+        },
+        {
+          "code": "MEADEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
+          }
+        },
+        {
+          "code": "MEADFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "37",
+      "event_title": "Women's Big Bash League - Brisbane Heat Women vs Hobart Hurricanes Women",
+      "event_time": "07 Nov, 01:40 pm",
+      "event_time_raw": 1794039000000,
+      "category": "Cricket",
+      "stream_count": 5,
+      "streams": [
+        {
+          "code": "BRHOWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+          "drm": {
+            "kid": "b2c92cec93ed53bbc297d9ab55ae4c72",
+            "key": "6dfa3680190db85be7659d6faaac5d91"
+          }
+        },
+        {
+          "code": "BRHOWILLCK",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        },
+        {
+          "code": "BRHOWILL6G",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
+          "drm": {
+            "kid": "edbd9d6a45038d8031f8acda793333db",
+            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
+          }
+        },
+        {
+          "code": "BRHOEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
+          }
+        },
+        {
+          "code": "BRHOFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]
