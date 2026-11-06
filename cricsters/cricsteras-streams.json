@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T12:27:52+05:30",
-  "generated_at_india": "06-11-2026 00:27:52 PM IST",
+  "generated_at": "2026-11-06T13:43:45+05:30",
+  "generated_at_india": "06-11-2026 01:43:45 PM IST",
   "total": 20,
   "ok": 20,
   "failed": 0,
@@ -430,25 +430,19 @@
       "event_time": "06 Nov, 12:15 pm",
       "event_time_raw": 1793947500000,
       "category": "Cricket",
-      "stream_count": 3,
+      "stream_count": 2,
       "streams": [
         {
-          "code": "NPNPFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "code": "NPNPNPLL",
+          "title": "NPL LIVE - AQ",
+          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         },
         {
-          "code": "NPNPNPLL",
-          "title": "NPL LIVE - AQ",
-          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
-          "drm": null
-        },
-        {
-          "code": "NPNPFANCZ9",
+          "code": "NPNPFANC",
           "title": "FANCODE SD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
           "drm": {
@@ -464,42 +458,15 @@
       "event_time": "06 Nov, 01:40 pm",
       "event_time_raw": 1793952600000,
       "category": "Cricket",
-      "stream_count": 5,
+      "stream_count": 2,
       "streams": [
         {
           "code": "MESYWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/eeoqajsbsl/out/v1/836e6b3d718349e7af279aed4d3fdae6/cenc.mpd",
           "drm": {
-            "kid": "b2c92cec93ed53bbc297d9ab55ae4c72",
-            "key": "6dfa3680190db85be7659d6faaac5d91"
-          }
-        },
-        {
-          "code": "MESYWILLJP",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        },
-        {
-          "code": "MESYWILLZA",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
-          "drm": {
-            "kid": "edbd9d6a45038d8031f8acda793333db",
-            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
-          }
-        },
-        {
-          "code": "MESYEURO",
-          "title": "EUROSPORT - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
+            "kid": "2fcc4db0b53bea0a25def717c67cfe57",
+            "key": "71ba2e8f5ea6cd6ad995206b300f051a"
           }
         },
         {
