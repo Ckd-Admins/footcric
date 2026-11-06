@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T19:32:29+05:30",
-  "generated_at_india": "06-11-2026 07:32:29 PM IST",
-  "total": 27,
-  "ok": 27,
+  "generated_at": "2026-11-06T21:10:05+05:30",
+  "generated_at_india": "06-11-2026 09:10:05 PM IST",
+  "total": 26,
+  "ok": 26,
   "failed": 0,
   "events": [
     {
@@ -102,43 +102,6 @@
       ]
     },
     {
-      "event_id": "17",
-      "event_title": "U19 Asia Cup - Pakistan Under-19 vs United Arab Emirates Under-19",
-      "event_time": "06 Nov, 10:30 am",
-      "event_time_raw": 1793941200000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "PAUNWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
-          "drm": {
-            "kid": "1dcfabc6b441908d78cc7106e30e906f",
-            "key": "8e086929f79491b9a2076d0d04eb7317"
-          }
-        },
-        {
-          "code": "PAUNSONY",
-          "title": "SONYLIV PPV AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fhmymymkrb/out/v1/63a3f37439d848cf828763d9a3104a61/cenc.mpd",
-          "drm": {
-            "kid": "894a711509fd4cd9f746368eb6c5fd38",
-            "key": "d77f5b857e3e1f1d53900ed6d586cb78"
-          }
-        },
-        {
-          "code": "PAUNWILLYP",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
-          "drm": {
-            "kid": "1dcfabc6b441908d78cc7106e30e906f",
-            "key": "8e086929f79491b9a2076d0d04eb7317"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "9",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "06 Nov, 11:30 am",
@@ -180,62 +143,6 @@
           "drm": {
             "kid": "6fad43b9cc0247e18c3fc2f345173cbb",
             "key": "d372703be5ad52e06fc4a8e45da78800"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "16",
-      "event_title": "Test Series - Afghanistan vs Zimbabwe",
-      "event_time": "06 Nov, 11:30 am",
-      "event_time_raw": 1793944800000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "AFZIWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd",
-          "drm": {
-            "kid": "cf6092dc6444b182d9ef6fde4152ff7d",
-            "key": "2a868d1944e597930dde32f183a0c6bf"
-          }
-        },
-        {
-          "code": "AFZIWILLES",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "12",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "06 Nov, 12:15 pm",
-      "event_time_raw": 1793947500000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "NPNPNPLL",
-          "title": "NPL LIVE - AQ",
-          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "NPNPFANC",
-          "title": "FANCODE SD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "drm": {
-            "kid": "286eb7dc538143790fa9913639531920",
-            "key": "e3f5cb08d14d9e9c08438c673819540f"
           }
         }
       ]
@@ -406,21 +313,21 @@
       "stream_count": 7,
       "streams": [
         {
-          "code": "FOFOTSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        },
-        {
           "code": "FOFOFANC",
           "title": "FANCODE - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
           "drm": {
             "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
             "key": "22a1444b3da18e139191665b3d652835"
+          }
+        },
+        {
+          "code": "FOFOTSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
           }
         },
         {
@@ -471,7 +378,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "2. Bundesliga - SG Dynamo Dresden vs SpVgg Greuther Fürth",
       "event_time": "06 Nov, 11:00 pm",
       "event_time_raw": 1793986200000,
@@ -490,7 +397,7 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "25",
       "event_title": "2. Bundesliga - Eintracht Braunschweig vs Energie Cottbus",
       "event_time": "06 Nov, 11:00 pm",
       "event_time_raw": 1793986200000,
@@ -509,7 +416,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "FA Cup - Oxford City vs Leicester City",
       "event_time": "07 Nov, 01:15 am",
       "event_time_raw": 1793994300000,
@@ -528,7 +435,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "Serie A - Venezia vs Udinese",
       "event_time": "07 Nov, 01:15 am",
       "event_time_raw": 1793994300000,
@@ -556,7 +463,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "26",
       "event_title": "Ligue 1 - Toulouse vs RC Strasbourg",
       "event_time": "07 Nov, 01:15 am",
       "event_time_raw": 1793994300000,
@@ -584,7 +491,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "LaLiga - Sevilla vs Deportivo Alavés",
       "event_time": "07 Nov, 01:30 am",
       "event_time_raw": 1793995200000,
@@ -621,7 +528,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "Premier League - Everton vs Coventry City",
       "event_time": "07 Nov, 01:30 am",
       "event_time_raw": 1793995200000,
@@ -649,7 +556,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "Championship - Derby County vs Bolton Wanderers",
       "event_time": "07 Nov, 01:30 am",
       "event_time_raw": 1793995200000,
@@ -751,7 +658,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "Women's Big Bash League - Melbourne Renegades Women vs Adelaide Strikers Women",
       "event_time": "07 Nov, 10:10 am",
       "event_time_raw": 1794026400000,
@@ -806,7 +713,63 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "16",
+      "event_title": "Test Series - Afghanistan vs Zimbabwe",
+      "event_time": "07 Nov, 11:30 am",
+      "event_time_raw": 1794031200000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "AFZIWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd",
+          "drm": {
+            "kid": "cf6092dc6444b182d9ef6fde4152ff7d",
+            "key": "2a868d1944e597930dde32f183a0c6bf"
+          }
+        },
+        {
+          "code": "AFZIWILLES",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "12",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "07 Nov, 12:15 pm",
+      "event_time_raw": 1794033900000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "NPNPNPLL",
+          "title": "NPL LIVE - AQ",
+          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "NPNPFANC",
+          "title": "FANCODE SD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "drm": {
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "17",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Hobart Hurricanes Women",
       "event_time": "07 Nov, 01:40 pm",
       "event_time_raw": 1794039000000,

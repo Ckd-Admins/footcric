@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T19:32:29+05:30",
-  "generated_at_india": "06-11-2026 07:32:29 PM IST",
-  "total": 27,
+  "generated_at": "2026-11-06T21:10:05+05:30",
+  "generated_at_india": "06-11-2026 09:10:05 PM IST",
+  "total": 26,
   "events": [
     {
       "event_id": "15",
@@ -31,36 +31,12 @@
       "stream_count": 1
     },
     {
-      "event_id": "17",
-      "event_title": "U19 Asia Cup - Pakistan Under-19 vs United Arab Emirates Under-19",
-      "event_time": "06 Nov, 10:30 am",
-      "event_time_raw": 1793941200000,
-      "category": "Cricket",
-      "stream_count": 3
-    },
-    {
       "event_id": "9",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "06 Nov, 11:30 am",
       "event_time_raw": 1793944800000,
       "category": "Tennis",
       "stream_count": 4
-    },
-    {
-      "event_id": "16",
-      "event_title": "Test Series - Afghanistan vs Zimbabwe",
-      "event_time": "06 Nov, 11:30 am",
-      "event_time_raw": 1793944800000,
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
-      "event_id": "12",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "06 Nov, 12:15 pm",
-      "event_time_raw": 1793947500000,
-      "category": "Cricket",
-      "stream_count": 2
     },
     {
       "event_id": "11",
@@ -103,7 +79,7 @@
       "stream_count": 7
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "2. Bundesliga - SG Dynamo Dresden vs SpVgg Greuther Fürth",
       "event_time": "06 Nov, 11:00 pm",
       "event_time_raw": 1793986200000,
@@ -111,7 +87,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "26",
+      "event_id": "25",
       "event_title": "2. Bundesliga - Eintracht Braunschweig vs Energie Cottbus",
       "event_time": "06 Nov, 11:00 pm",
       "event_time_raw": 1793986200000,
@@ -119,7 +95,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "FA Cup - Oxford City vs Leicester City",
       "event_time": "07 Nov, 01:15 am",
       "event_time_raw": 1793994300000,
@@ -127,7 +103,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "Serie A - Venezia vs Udinese",
       "event_time": "07 Nov, 01:15 am",
       "event_time_raw": 1793994300000,
@@ -135,7 +111,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "27",
+      "event_id": "26",
       "event_title": "Ligue 1 - Toulouse vs RC Strasbourg",
       "event_time": "07 Nov, 01:15 am",
       "event_time_raw": 1793994300000,
@@ -143,7 +119,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "LaLiga - Sevilla vs Deportivo Alavés",
       "event_time": "07 Nov, 01:30 am",
       "event_time_raw": 1793995200000,
@@ -151,7 +127,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "Premier League - Everton vs Coventry City",
       "event_time": "07 Nov, 01:30 am",
       "event_time_raw": 1793995200000,
@@ -159,7 +135,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "Championship - Derby County vs Bolton Wanderers",
       "event_time": "07 Nov, 01:30 am",
       "event_time_raw": 1793995200000,
@@ -183,7 +159,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "Women's Big Bash League - Melbourne Renegades Women vs Adelaide Strikers Women",
       "event_time": "07 Nov, 10:10 am",
       "event_time_raw": 1794026400000,
@@ -191,7 +167,23 @@
       "stream_count": 5
     },
     {
-      "event_id": "18",
+      "event_id": "16",
+      "event_title": "Test Series - Afghanistan vs Zimbabwe",
+      "event_time": "07 Nov, 11:30 am",
+      "event_time_raw": 1794031200000,
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
+      "event_id": "12",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "07 Nov, 12:15 pm",
+      "event_time_raw": 1794033900000,
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
+      "event_id": "17",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Hobart Hurricanes Women",
       "event_time": "07 Nov, 01:40 pm",
       "event_time_raw": 1794039000000,
