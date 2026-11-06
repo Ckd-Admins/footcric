@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T11:15:56+05:30",
-  "generated_at_india": "06-11-2026 11:15:56 AM IST",
-  "total": 38,
+  "generated_at": "2026-11-06T12:22:44+05:30",
+  "generated_at_india": "06-11-2026 00:22:44 PM IST",
+  "total": 37,
   "events": [
     {
       "event_id": 50002,
@@ -93,14 +93,6 @@
       "event_time_raw": "2026-11-08 17:55",
       "category": "NFL",
       "stream_count": 2
-    },
-    {
-      "event_id": 50044,
-      "event_title": "Golden State Warriors vs Miami Heat",
-      "event_time": "2026-11-06 03:00",
-      "event_time_raw": "2026-11-06 03:00",
-      "category": "NBA",
-      "stream_count": 1
     },
     {
       "event_id": 50064,

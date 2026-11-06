@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-06T11:15:56+05:30",
-  "generated_at_india": "06-11-2026 11:15:56 AM IST",
-  "total": 38,
-  "ok": 38,
+  "generated_at": "2026-11-06T12:22:44+05:30",
+  "generated_at_india": "06-11-2026 00:22:44 PM IST",
+  "total": 37,
+  "ok": 37,
   "failed": 0,
   "events": [
     {
@@ -201,12 +201,12 @@
           }
         },
         {
-          "code": "AFZIWILLAX",
+          "code": "AFZIWILLS3",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vnbdbmfdnk/out/v1/b3a014fa36bb47e2a7d8edffa6bccc1c/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/luldqqjdgc/out/v1/819f4b259e5248c089feb5934af92890/cenc.mpd",
           "drm": {
-            "kid": "4a4c70f4416d322e37111794d0a396b6",
-            "key": "d23a4f2e632c458e7e1981d3fe41d852"
+            "kid": "cf6092dc6444b182d9ef6fde4152ff7d",
+            "key": "2a868d1944e597930dde32f183a0c6bf"
           }
         }
       ]
@@ -447,25 +447,6 @@
           "drm": {
             "kid": "85f340146e46533b39d1415d90746352",
             "key": "448aafcc613ddfd448f14d9275eda19b"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50044,
-      "event_title": "Golden State Warriors vs Miami Heat",
-      "event_time": "2026-11-06 03:00",
-      "event_time_raw": "2026-11-06 03:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "GOMITSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
           }
         }
       ]
