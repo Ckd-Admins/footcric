@@ -2,17 +2,17 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T01:53:07+05:30",
-  "generated_at_india": "08-11-2026 01:53:07 AM IST",
-  "total": 44,
-  "ok": 44,
+  "generated_at": "2026-11-08T02:53:50+05:30",
+  "generated_at_india": "08-11-2026 02:53:50 AM IST",
+  "total": 27,
+  "ok": 27,
   "failed": 0,
   "events": [
     {
       "event_id": 50002,
       "event_title": "Formula 1 -  Brazil Grand Prix",
-      "event_time": "2026-11-07 17:55",
-      "event_time_raw": "2026-11-07 17:55",
+      "event_time": "2026-11-08 16:55",
+      "event_time_raw": "2026-11-08 16:55",
       "category": "F1",
       "stream_count": 6,
       "streams": [
@@ -142,42 +142,15 @@
       "event_time": "2026-11-07 22:00",
       "event_time_raw": "2026-11-07 22:00",
       "category": "UFC",
-      "stream_count": 5,
+      "stream_count": 2,
       "streams": [
-        {
-          "code": "UFBRPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cd5hufwg7w/out/v1/52491b8acfa14499b0a88ee8832a0787/cenc.mpd?",
-          "drm": {
-            "kid": "de1b507bc71689e4b0d2e41332084daf",
-            "key": "0d24dbce556b49baf5348090a59f8e5e"
-          }
-        },
         {
           "code": "UFBRTNTS",
           "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "drm": {
-            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-            "key": "643e5474d9edd87c7d9091c8c97994ca"
-          }
-        },
-        {
-          "code": "UFBRPARAL1",
-          "title": "PARAMOUNT+ ES",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/iciyxuqbci/out/v1/03a3f0fde12a4fb99557eae7774c9989/cenc.mpd?",
-          "drm": {
-            "kid": "80f3ef6e7b3f81a120750f8eb45a5363",
-            "key": "2874a2addc99f260ef6ccf1d37699e79"
-          }
-        },
-        {
-          "code": "UFBRPARA2K",
-          "title": "PARAMOUNT+ PT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zxnjfzuj7s/out/v1/823821d93c1a4250860fd079bf2f7998/cenc.mpd",
-          "drm": {
-            "kid": "325424c12306beff75ef379b6d778974",
-            "key": "78d8e8f415823e9ddf0d209567102c7f"
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
           }
         },
         {
@@ -508,38 +481,76 @@
       ]
     },
     {
-      "event_id": 50090,
-      "event_title": "Nottingham Forest vs Manchester City",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "event_id": 50076,
+      "event_title": "Seattle Kraken vs New York Rangers",
+      "event_time": "2026-11-07 22:00",
+      "event_time_raw": "2026-11-07 22:00",
+      "category": "NHL",
       "stream_count": 3,
       "streams": [
         {
-          "code": "NOMANBCS",
-          "title": "NBC SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
+          "code": "SENEPREM",
+          "title": "PREMIER SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
           "drm": {
-            "kid": "36a385124dcdfb2f0969935065e03afa",
-            "key": "ccecd65514dff22eae493b975ccf9a9e"
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
           }
         },
         {
-          "code": "NOMAFUBO",
-          "title": "FUBO SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+          "code": "SENESKYS",
+          "title": "SKY SPORTS MIX",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
           "drm": {
-            "kid": "42f72c025dd53039244adc13b7e31dad",
-            "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
+            "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
+            "key": "a883237ef30932b731f71aa59a0805c0"
           }
         },
         {
-          "code": "NOMASKYS",
-          "title": "SKY SPORTS PL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
+          "code": "SENESKYT",
+          "title": "SKY TOP EVENT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
           "drm": {
-            "kid": "1106fb025da5b31657618344099c6c14",
-            "key": "788284538616a73b56214e90196a6e0f"
+            "kid": "368bd4ebe301406897324bc777650411",
+            "key": "69d27c2c2b7de927d67aacc973259901"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50079,
+      "event_title": "Toronto Maple Leafs vs Montréal Canadiens",
+      "event_time": "2026-11-08 00:00",
+      "event_time_raw": "2026-11-08 00:00",
+      "category": "NHL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "TOMOPREM",
+          "title": "PREMIER SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50082,
+      "event_title": "Minnesota Wild vs Tampa Bay Lightning",
+      "event_time": "2026-11-08 01:00",
+      "event_time_raw": "2026-11-08 01:00",
+      "category": "NHL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "MITAPREM",
+          "title": "PREMIER SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm": {
+            "kid": "1444f4235529f183f0a5a486befe9cdb",
+            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
           }
         }
       ]
@@ -757,334 +768,20 @@
       ]
     },
     {
-      "event_id": 50096,
-      "event_title": "Leeds United vs Tottenham Hotspur",
-      "event_time": "2026-11-07 12:30",
-      "event_time_raw": "2026-11-07 12:30",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "LETOTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "LETOSKYE",
-          "title": "SKY EPL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd",
-          "drm": {
-            "kid": "1106fb025da5b31657618344099c6c14",
-            "key": "788284538616a73b56214e90196a6e0f"
-          }
-        },
-        {
-          "code": "LETOFUBO",
-          "title": "FUBO SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-          "drm": {
-            "kid": "42f72c025dd53039244adc13b7e31dad",
-            "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50097,
-      "event_title": "Fulham vs Newcastle United",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "FUNESKYS",
-          "title": "SKY SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yd0huk04ob/out/v1/bc2ed690e3134c4c82a7c51b7174b5ae/cenc.mpd",
-          "drm": {
-            "kid": "09d34ac8d64803c1f8b1bddada99d638",
-            "key": "752ab3efc7eb3601c8d3c6b5a89ffa39"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50098,
-      "event_title": "Osasuna vs Athletic Club",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 5,
-      "streams": [
-        {
-          "code": "OSATDAZN",
-          "title": "DAZN ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xxeg8rmdzh/out/v1/65c35bcbe3284ec0a36c0b8dfa3061b6/cenc.mpd?",
-          "drm": {
-            "kid": "e1d4aa3a79a326fe42bc566c7a50afa8",
-            "key": "195651be924446ca0902f667b610e3ff"
-          }
-        },
-        {
-          "code": "OSATPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        },
-        {
-          "code": "OSATBEIN",
-          "title": "beIN ENGLISH FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "OSATFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "OSATCAZE",
-          "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
-          "drm": {
-            "kid": "ba6aca5a550163c38d06646bb50f04e7",
-            "key": "516c3b471fce48a5b7a2e5ee7dd505f2"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50099,
-      "event_title": "Espanyol vs Deportivo de A Coruña",
-      "event_time": "2026-11-07 15:15",
-      "event_time_raw": "2026-11-07 15:15",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "ESDEDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4z7q1lwrby/out/v1/00524dd3cabf40e286e7cee4efac26a1/cenc.mpd",
-          "drm": {
-            "kid": "75bd9f8b4f59099e267457961fd3108f",
-            "key": "ec3f44beaceabcc0fc81640ceaa3407a"
-          }
-        },
-        {
-          "code": "ESDEBEIN",
-          "title": "beIN ENGLISH FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "ESDESPOR",
-          "title": "D Sports FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "drm": {
-            "kid": "f836853d8eac19446ed9535f5fc568b1",
-            "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
-          }
-        },
-        {
-          "code": "ESDECAZE",
-          "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
-          "drm": {
-            "kid": "ba6aca5a550163c38d06646bb50f04e7",
-            "key": "516c3b471fce48a5b7a2e5ee7dd505f2"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50101,
-      "event_title": "Parma vs Bologna",
-      "event_time": "2026-11-07 17:00",
-      "event_time_raw": "2026-11-07 17:00",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 5,
-      "streams": [
-        {
-          "code": "PABOPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vj8fod7wtf/out/v1/820c64e1fa1040ab9457f5f8c6eef049/cenc.mpd?",
-          "drm": {
-            "kid": "78890ec65ba32c44c950c9b2983e98e0",
-            "key": "1c075b2f4f26c1ee85502e3caebd8830"
-          }
-        },
-        {
-          "code": "PABODAZN",
-          "title": "DAZN ITALIAN FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/chgemku7j2/out/v1/01a941d9b4544c85843d4fd046193a07/cenc.mpd?",
-          "drm": {
-            "kid": "3cab879732fb4ba028c83b3be8816638",
-            "key": "81919805a79e04b19094931bcc7c6b18"
-          }
-        },
-        {
-          "code": "PABOPEAC",
-          "title": "PEACOCK TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vj8fod7wtf/out/v1/820c64e1fa1040ab9457f5f8c6eef049/cenc.mpd",
-          "drm": {
-            "kid": "78890ec65ba32c44c950c9b2983e98e0",
-            "key": "1c075b2f4f26c1ee85502e3caebd8830"
-          }
-        },
-        {
-          "code": "PABOCBSN",
-          "title": "CBS NETWORK FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        },
-        {
-          "code": "PABOSPOR",
-          "title": "SPORT 1 CZ",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50102,
-      "event_title": "Torino vs Lecce",
-      "event_time": "2026-11-07 14:00",
-      "event_time_raw": "2026-11-07 14:00",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "TOLEPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lk35uqe5hp/out/v1/8e3bc19493fa48969d3632289611d484/cenc.mpd",
-          "drm": {
-            "kid": "2586c0d06d8887a499f9998f65d3654a",
-            "key": "942cd5a24bd02c1c2ab9e0986f74cf2f"
-          }
-        },
-        {
-          "code": "TOLEPEAC",
-          "title": "PEACOCK TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5uaduhh4kl/out/v1/978d2369e73e41a5ad2d88126242fe72/cenc.mpd",
-          "drm": {
-            "kid": "2586c0d06d8887a499f9998f65d3654a",
-            "key": "942cd5a24bd02c1c2ab9e0986f74cf2f"
-          }
-        },
-        {
-          "code": "TOLEDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/v0yibu8wb3/out/v1/0a825c67fdcb4a0eb7c2fd772cd7b82c/cenc.mpd",
-          "drm": {
-            "kid": "ee8f6f1474b95d8bdcd3dcd855794e68",
-            "key": "faf92aa5129c0216167e36c865927b50"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50103,
-      "event_title": "Cagliari vs Frosinone",
-      "event_time": "2026-11-07 14:00",
-      "event_time_raw": "2026-11-07 14:00",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "CAFRPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bdcgyalvay/out/v1/c81e08a081824b08b9d9ea680e494b53/cenc.mpd",
-          "drm": {
-            "kid": "9644dcd60302e7261e76e6f4bd052782",
-            "key": "6fd8de55b1f4ff98ce540b08bea9b403"
-          }
-        },
-        {
-          "code": "CAFRPEAC",
-          "title": "PEACOCK TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jgr1ktffa3/out/v1/49844b8b8ebe4e3da711236747246598/cenc.mpd",
-          "drm": {
-            "kid": "9644dcd60302e7261e76e6f4bd052782",
-            "key": "6fd8de55b1f4ff98ce540b08bea9b403"
-          }
-        },
-        {
-          "code": "CAFRDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xdgimhxuss/out/v1/ab2788c43b084dd98efd6b2d44f341b2/cenc.mpd",
-          "drm": {
-            "kid": "dbe5961afc25dca3045d284329a2d49a",
-            "key": "323aa34081722a599096a63a61828cae"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50104,
-      "event_title": "VfB Stuttgart vs Werder Bremen",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "VFWEPEAC",
-          "title": "PEACOCK TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/shlerkxipf/out/v1/712bf92a40f34997af7f6572aa552eb6/cenc.mpd?",
-          "drm": {
-            "kid": "ec917a8418223b90d7b4b387681f0a78",
-            "key": "2ecd677d041ae55c39dcc68ba065b234"
-          }
-        },
-        {
-          "code": "VFWESKYB",
-          "title": "SKY BUNDESLIGA FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n59gzaiyg6/out/v1/eea6111c001f40d09881242cf50a4dd8/cenc.mpd",
-          "drm": {
-            "kid": "28c270de72ed2ffab8b477c2f3d35c61",
-            "key": "dfe35a85f9ba6326a2f9f8514bac99b8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50109,
-      "event_title": "Washington Capitals vs Florida Panthers",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "NHL",
+      "event_title": "Inter Miami vs Charlotte FC",
+      "event_time": "2026-11-07 21:00",
+      "event_time_raw": "2026-11-07 21:00",
+      "category": "MLS 🇺🇸",
       "stream_count": 1,
       "streams": [
         {
-          "code": "WAFLSKYS",
-          "title": "SKY SPORTS MIX",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "code": "INCHAPPL",
+          "title": "APPLE TV+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yhz0lgqlnn/out/v1/0131e1d23a24411bb37bab68f0168bcd/cenc.mpd?",
           "drm": {
-            "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
-            "key": "a883237ef30932b731f71aa59a0805c0"
+            "kid": "0194eec42d648ee69b4ee849004121f6",
+            "key": "d553ec96f9386209029095d415e5e901"
           }
         }
       ]
@@ -1207,251 +904,6 @@
           "drm": {
             "kid": "2d4b27eb4f9c1897509e00d0d4642b1b",
             "key": "acde30f8827c2fe94077f0609125aed4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50117,
-      "event_title": "Altrincham FC vs Notts County",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "FA Cup",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "ALNOTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50118,
-      "event_title": "Aberdeen vs Hibernian",
-      "event_time": "2026-11-07 17:45",
-      "event_time_raw": "2026-11-07 17:45",
-      "category": "Scottish Premiership",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "ABHIBEIN",
-          "title": "beIN ENGLISH FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "drm": {
-            "kid": "7995c724a13748ed970840a8ab5bb9b3",
-            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-          }
-        },
-        {
-          "code": "ABHISPOR",
-          "title": "SportDigital Fussball",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
-          "drm": {
-            "kid": "0ad4080cdff8c60b1233b22087f0b340",
-            "key": "285f129c5eca01dd08a5d5a14ad801c8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50122,
-      "event_title": "Galatasaray vs Amedspor",
-      "event_time": "2026-11-07 16:00",
-      "event_time_raw": "2026-11-07 16:00",
-      "category": "Super Lig",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "GAAMBEIN",
-          "title": "beIN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
-          "drm": {
-            "kid": "27759a440e8ad821b800b3de00cd5851",
-            "key": "1b8743adee559f27845f55e8b4d639fe"
-          }
-        },
-        {
-          "code": "GAAMBEINK6",
-          "title": "beIN ENGLISH FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd",
-          "drm": {
-            "kid": "74cbe15488783fab07ff8c702fabafcd",
-            "key": "bb607803a49c2d6104f845e7886c971c"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50126,
-      "event_title": "Birmingham City vs Swansea City",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "BISWPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9gvzth7hm8/out/v1/3081336e7e1942348518f9e9ed6e7335/cenc.mpd",
-          "drm": {
-            "kid": "8a43e0307d35ee998538d727c547ed89",
-            "key": "6b209a23caf17807e80c0670b573c052"
-          }
-        },
-        {
-          "code": "BISWBEIN",
-          "title": "beIN ENGLISH FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "drm": {
-            "kid": "7995c724a13748ed970840a8ab5bb9b3",
-            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50127,
-      "event_title": "Watford vs Middlesbrough",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "WAMIPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/skb3attrzy/out/v1/d1e636cbe85148788138f225bd6f8b83/cenc.mpd",
-          "drm": {
-            "kid": "1c2dcc968064d2493bfbd7231fcbe362",
-            "key": "f10128e1b1c65fd1039eb7ac49125d64"
-          }
-        },
-        {
-          "code": "WAMICBSN",
-          "title": "CBS NETWORK FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50128,
-      "event_title": "Charlton Athletic vs Sheffield United",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CHSHPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/22h786togr/out/v1/fbe8d1279f774747ade3d885e30bc75a/cenc.mpd",
-          "drm": {
-            "kid": "ef80abb6ec5080512a98462c37e1d4c8",
-            "key": "a68e77e7e7a82b31cfd0a0fd4d4d1abc"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50129,
-      "event_title": "Blackburn Rovers vs West Ham United",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "BLWEPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/snsskxvtx6/out/v1/d03c989306884a7fb57c464849c677f2/cenc.mpd",
-          "drm": {
-            "kid": "f398e33ebe7eda534d3bd80b041f9310",
-            "key": "497411a777d659e6d256a8989dd65f36"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50130,
-      "event_title": "West Bromwich vs Millwall",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "WEMIPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/69l2l4hgiy/out/v1/0fa831fdd02f46e7b827773416b15567/cenc.mpd",
-          "drm": {
-            "kid": "3421eae2b6fce89959fe13bf4b613f79",
-            "key": "7ce195c737344a6cb9ee6a1260ffc11a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50131,
-      "event_title": "Leganés vs Albacete Balompié",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "LaLiga 2",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "LEALLALI",
-          "title": "Laliga Hypermotion ES",
-          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50132,
-      "event_title": "Córdoba vs AD Ceuta",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "LaLiga 2",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CRADLALI",
-          "title": "Laliga Hypermotion ES",
-          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
-          "drm": {
-            "kid": "5fc8da8b94c447468ffe392157f8c75e",
-            "key": "333b934fdde4c1ee87e7f1c5dac4cb8f"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50133,
-      "event_title": "Cádiz vs Real Oviedo",
-      "event_time": "2026-11-07 15:15",
-      "event_time_raw": "2026-11-07 15:15",
-      "category": "LaLiga 2",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CDRELALI",
-          "title": "Laliga Hypermotion ES",
-          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
           }
         }
       ]

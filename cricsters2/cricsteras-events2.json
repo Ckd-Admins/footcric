@@ -2,15 +2,15 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T01:53:07+05:30",
-  "generated_at_india": "08-11-2026 01:53:07 AM IST",
-  "total": 44,
+  "generated_at": "2026-11-08T02:53:50+05:30",
+  "generated_at_india": "08-11-2026 02:53:50 AM IST",
+  "total": 27,
   "events": [
     {
       "event_id": 50002,
       "event_title": "Formula 1 -  Brazil Grand Prix",
-      "event_time": "2026-11-07 17:55",
-      "event_time_raw": "2026-11-07 17:55",
+      "event_time": "2026-11-08 16:55",
+      "event_time_raw": "2026-11-08 16:55",
       "category": "F1",
       "stream_count": 6
     },
@@ -28,7 +28,7 @@
       "event_time": "2026-11-07 22:00",
       "event_time_raw": "2026-11-07 22:00",
       "category": "UFC",
-      "stream_count": 5
+      "stream_count": 2
     },
     {
       "event_id": 50006,
@@ -111,12 +111,28 @@
       "stream_count": 3
     },
     {
-      "event_id": 50090,
-      "event_title": "Nottingham Forest vs Manchester City",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "event_id": 50076,
+      "event_title": "Seattle Kraken vs New York Rangers",
+      "event_time": "2026-11-07 22:00",
+      "event_time_raw": "2026-11-07 22:00",
+      "category": "NHL",
       "stream_count": 3
+    },
+    {
+      "event_id": 50079,
+      "event_title": "Toronto Maple Leafs vs Montréal Canadiens",
+      "event_time": "2026-11-08 00:00",
+      "event_time_raw": "2026-11-08 00:00",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50082,
+      "event_title": "Minnesota Wild vs Tampa Bay Lightning",
+      "event_time": "2026-11-08 01:00",
+      "event_time_raw": "2026-11-08 01:00",
+      "category": "NHL",
+      "stream_count": 1
     },
     {
       "event_id": 50091,
@@ -159,75 +175,11 @@
       "stream_count": 2
     },
     {
-      "event_id": 50096,
-      "event_title": "Leeds United vs Tottenham Hotspur",
-      "event_time": "2026-11-07 12:30",
-      "event_time_raw": "2026-11-07 12:30",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50097,
-      "event_title": "Fulham vs Newcastle United",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50098,
-      "event_title": "Osasuna vs Athletic Club",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 5
-    },
-    {
-      "event_id": 50099,
-      "event_title": "Espanyol vs Deportivo de A Coruña",
-      "event_time": "2026-11-07 15:15",
-      "event_time_raw": "2026-11-07 15:15",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 4
-    },
-    {
-      "event_id": 50101,
-      "event_title": "Parma vs Bologna",
-      "event_time": "2026-11-07 17:00",
-      "event_time_raw": "2026-11-07 17:00",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 5
-    },
-    {
-      "event_id": 50102,
-      "event_title": "Torino vs Lecce",
-      "event_time": "2026-11-07 14:00",
-      "event_time_raw": "2026-11-07 14:00",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50103,
-      "event_title": "Cagliari vs Frosinone",
-      "event_time": "2026-11-07 14:00",
-      "event_time_raw": "2026-11-07 14:00",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 3
-    },
-    {
       "event_id": 50104,
-      "event_title": "VfB Stuttgart vs Werder Bremen",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50109,
-      "event_title": "Washington Capitals vs Florida Panthers",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "NHL",
+      "event_title": "Inter Miami vs Charlotte FC",
+      "event_time": "2026-11-07 21:00",
+      "event_time_raw": "2026-11-07 21:00",
+      "category": "MLS 🇺🇸",
       "stream_count": 1
     },
     {
@@ -268,94 +220,6 @@
       "event_time": "2026-11-07 19:30",
       "event_time_raw": "2026-11-07 19:30",
       "category": "2. Bundesliga",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50117,
-      "event_title": "Altrincham FC vs Notts County",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "FA Cup",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50118,
-      "event_title": "Aberdeen vs Hibernian",
-      "event_time": "2026-11-07 17:45",
-      "event_time_raw": "2026-11-07 17:45",
-      "category": "Scottish Premiership",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50122,
-      "event_title": "Galatasaray vs Amedspor",
-      "event_time": "2026-11-07 16:00",
-      "event_time_raw": "2026-11-07 16:00",
-      "category": "Super Lig",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50126,
-      "event_title": "Birmingham City vs Swansea City",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50127,
-      "event_title": "Watford vs Middlesbrough",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50128,
-      "event_title": "Charlton Athletic vs Sheffield United",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50129,
-      "event_title": "Blackburn Rovers vs West Ham United",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50130,
-      "event_title": "West Bromwich vs Millwall",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50131,
-      "event_title": "Leganés vs Albacete Balompié",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "LaLiga 2",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50132,
-      "event_title": "Córdoba vs AD Ceuta",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "LaLiga 2",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50133,
-      "event_title": "Cádiz vs Real Oviedo",
-      "event_time": "2026-11-07 15:15",
-      "event_time_raw": "2026-11-07 15:15",
-      "category": "LaLiga 2",
       "stream_count": 1
     }
   ],
