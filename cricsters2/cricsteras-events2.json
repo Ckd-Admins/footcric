@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T19:10:12+05:30",
-  "generated_at_india": "07-11-2026 07:10:12 PM IST",
-  "total": 44,
+  "generated_at": "2026-11-07T20:00:36+05:30",
+  "generated_at_india": "07-11-2026 08:00:36 PM IST",
+  "total": 49,
   "events": [
     {
       "event_id": 50002,
@@ -207,8 +207,40 @@
       "stream_count": 1
     },
     {
+      "event_id": 50102,
+      "event_title": "Torino vs Lecce",
+      "event_time": "2026-11-07 14:00",
+      "event_time_raw": "2026-11-07 14:00",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50103,
+      "event_title": "Cagliari vs Frosinone",
+      "event_time": "2026-11-07 14:00",
+      "event_time_raw": "2026-11-07 14:00",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50105,
+      "event_title": "Mainz vs Bayern München",
+      "event_time": "2026-11-07 14:30",
+      "event_time_raw": "2026-11-07 14:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 1
+    },
+    {
       "event_id": 50106,
       "event_title": "Borussia Dortmund vs Elversberg",
+      "event_time": "2026-11-07 14:30",
+      "event_time_raw": "2026-11-07 14:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50107,
+      "event_title": "RB Leipzig vs Augsburg",
       "event_time": "2026-11-07 14:30",
       "event_time_raw": "2026-11-07 14:30",
       "category": "Bundesliga 🇩🇪",
@@ -340,6 +372,14 @@
       "event_time": "2026-11-07 12:30",
       "event_time_raw": "2026-11-07 12:30",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50140,
+      "event_title": "Bundesliga Conference",
+      "event_time": "2026-11-07 14:25",
+      "event_time_raw": "2026-11-07 14:25",
+      "category": "Bundesliga 🇩🇪",
       "stream_count": 1
     },
     {
