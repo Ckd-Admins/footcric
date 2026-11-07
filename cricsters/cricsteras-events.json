@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T07:19:59+05:30",
-  "generated_at_india": "07-11-2026 07:19:59 AM IST",
-  "total": 26,
+  "generated_at": "2026-11-07T08:09:47+05:30",
+  "generated_at_india": "07-11-2026 08:09:47 AM IST",
+  "total": 19,
   "events": [
     {
       "event_id": "15",
@@ -79,70 +79,6 @@
       "stream_count": 7
     },
     {
-      "event_id": "20",
-      "event_title": "LaLiga 2 - CD Castellón vs Eibar",
-      "event_time": "07 Nov, 01:00 am",
-      "event_time_raw": 1793993400000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "25",
-      "event_title": "Bundesliga - Hamburger SV vs Borussia M'gladbach",
-      "event_time": "07 Nov, 01:00 am",
-      "event_time_raw": 1793993400000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "19",
-      "event_title": "FA Cup - Oxford City vs Leicester City",
-      "event_time": "07 Nov, 01:15 am",
-      "event_time_raw": 1793994300000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "23",
-      "event_title": "Serie A - Venezia vs Udinese",
-      "event_time": "07 Nov, 01:15 am",
-      "event_time_raw": 1793994300000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "26",
-      "event_title": "Ligue 1 - Toulouse vs RC Strasbourg",
-      "event_time": "07 Nov, 01:15 am",
-      "event_time_raw": 1793994300000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "21",
-      "event_title": "LaLiga - Sevilla vs Deportivo Alavés",
-      "event_time": "07 Nov, 01:30 am",
-      "event_time_raw": 1793995200000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "22",
-      "event_title": "Premier League - Everton vs Coventry City",
-      "event_time": "07 Nov, 01:30 am",
-      "event_time_raw": 1793995200000,
-      "category": "Football",
-      "stream_count": 3
-    },
-    {
-      "event_id": "24",
-      "event_title": "Championship - Derby County vs Bolton Wanderers",
-      "event_time": "07 Nov, 01:30 am",
-      "event_time_raw": 1793995200000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
       "event_id": "1",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
@@ -189,6 +125,14 @@
       "event_time_raw": 1794039000000,
       "category": "Cricket",
       "stream_count": 5
+    },
+    {
+      "event_id": "19",
+      "event_title": "LaLiga 2 - Cádiz vs Real Oviedo",
+      "event_time": "07 Nov, 08:45 pm",
+      "event_time_raw": 1794064500000,
+      "category": "Football",
+      "stream_count": 1
     },
     {
       "event_id": "7",
