@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T16:03:25+05:30",
-  "generated_at_india": "07-11-2026 04:03:25 PM IST",
-  "total": 20,
+  "generated_at": "2026-11-07T16:57:01+05:30",
+  "generated_at_india": "07-11-2026 04:57:01 PM IST",
+  "total": 21,
   "events": [
     {
       "event_id": "15",
@@ -31,14 +31,6 @@
       "stream_count": 1
     },
     {
-      "event_id": "8",
-      "event_title": "Paris OPEN - ATP vs ATP",
-      "event_time": "06 Nov, 04:00 pm",
-      "event_time_raw": 1793961000000,
-      "category": "Tennis",
-      "stream_count": 3
-    },
-    {
       "event_id": "6",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
@@ -63,22 +55,6 @@
       "stream_count": 5
     },
     {
-      "event_id": "2",
-      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
-      "event_time": "07 Nov, 09:00 am",
-      "event_time_raw": 1794022200000,
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
-      "event_id": "3",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "07 Nov, 11:30 am",
-      "event_time_raw": 1794031200000,
-      "category": "Snooker",
-      "stream_count": 3
-    },
-    {
       "event_id": "10",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "07 Nov, 11:30 am",
@@ -95,20 +71,12 @@
       "stream_count": 2
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Hobart Hurricanes Women",
       "event_time": "07 Nov, 01:40 pm",
       "event_time_raw": 1794039000000,
       "category": "Cricket",
       "stream_count": 2
-    },
-    {
-      "event_id": "18",
-      "event_title": "World Cup - New Zealand vs Tonga",
-      "event_time": "07 Nov, 02:35 pm",
-      "event_time_raw": 1794042300000,
-      "category": "Rugby",
-      "stream_count": 1
     },
     {
       "event_id": "12",
@@ -119,6 +87,14 @@
       "stream_count": 6
     },
     {
+      "event_id": "8",
+      "event_title": "Paris OPEN - ATP vs ATP",
+      "event_time": "07 Nov, 04:30 pm",
+      "event_time_raw": 1794049200000,
+      "category": "Tennis",
+      "stream_count": 4
+    },
+    {
       "event_id": "13",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "07 Nov, 04:45 pm",
@@ -127,7 +103,31 @@
       "stream_count": 2
     },
     {
+      "event_id": "3",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "07 Nov, 05:00 pm",
+      "event_time_raw": 1794051000000,
+      "category": "Snooker",
+      "stream_count": 3
+    },
+    {
+      "event_id": "17",
+      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
+      "event_time": "07 Nov, 05:00 pm",
+      "event_time_raw": 1794051000000,
+      "category": "Cricket",
+      "stream_count": 1
+    },
+    {
       "event_id": "19",
+      "event_title": "Premier League - Leeds United vs Tottenham Hotspur",
+      "event_time": "07 Nov, 06:00 pm",
+      "event_time_raw": 1794054600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "20",
       "event_title": "LaLiga 2 - Cádiz vs Real Oviedo",
       "event_time": "07 Nov, 08:45 pm",
       "event_time_raw": 1794064500000,
@@ -135,12 +135,20 @@
       "stream_count": 1
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "LaLiga 2 - Leganés vs Albacete Balompié",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
       "category": "Football",
       "stream_count": 1
+    },
+    {
+      "event_id": "2",
+      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
+      "event_time": "08 Nov, 09:00 am",
+      "event_time_raw": 1794108600000,
+      "category": "Cricket",
+      "stream_count": 2
     },
     {
       "event_id": "7",

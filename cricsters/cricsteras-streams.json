@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T16:03:25+05:30",
-  "generated_at_india": "07-11-2026 04:03:25 PM IST",
-  "total": 20,
-  "ok": 20,
+  "generated_at": "2026-11-07T16:57:01+05:30",
+  "generated_at_india": "07-11-2026 04:57:01 PM IST",
+  "total": 21,
+  "ok": 21,
   "failed": 0,
   "events": [
     {
@@ -97,43 +97,6 @@
           "drm": {
             "kid": "d5c1a0585bc5519e61aff334810f2290",
             "key": "e6ccaf87453280fa6acd60fd1d9da0db"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "8",
-      "event_title": "Paris OPEN - ATP vs ATP",
-      "event_time": "06 Nov, 04:00 pm",
-      "event_time_raw": 1793961000000,
-      "category": "Tennis",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "ATATBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        },
-        {
-          "code": "ATATTSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        },
-        {
-          "code": "ATATTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
           }
         }
       ]
@@ -286,71 +249,6 @@
       ]
     },
     {
-      "event_id": "2",
-      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
-      "event_time": "07 Nov, 09:00 am",
-      "event_time_raw": 1794022200000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "BAWEFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        },
-        {
-          "code": "BAWEFANCTZ",
-          "title": "FANCODE HD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-          "drm": {
-            "kid": "5318e462b9e0677487cb87837f0bbdb1",
-            "key": "4fa0fb973b95738306005f2e8591bf8e"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "3",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "07 Nov, 11:30 am",
-      "event_time_raw": 1794031200000,
-      "category": "Snooker",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SNSNTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm": {
-            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-            "key": "643e5474d9edd87c7d9091c8c97994ca"
-          }
-        },
-        {
-          "code": "SNSNEURO",
-          "title": "EUROSPORT EN - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
-          "drm": {
-            "kid": "8c17752768447a2ff801b87f7a390781",
-            "key": "90375b77c0f6d271caef3c8accd4f1ae"
-          }
-        },
-        {
-          "code": "SNSNEUROAU",
-          "title": "EUROSPORT CZ - AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "10",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "07 Nov, 11:30 am",
@@ -361,7 +259,7 @@
         {
           "code": "WTWTBEIN",
           "title": "BEIN SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
           "drm": {
             "kid": "0b42be2664d7e811d04f3e504e0924c5",
             "key": "ae24090123b8c72ac5404dc152847cb8"
@@ -425,7 +323,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Hobart Hurricanes Women",
       "event_time": "07 Nov, 01:40 pm",
       "event_time_raw": 1794039000000,
@@ -448,25 +346,6 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "18",
-      "event_title": "World Cup - New Zealand vs Tonga",
-      "event_time": "07 Nov, 02:35 pm",
-      "event_time_raw": 1794042300000,
-      "category": "Rugby",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NETOPREM",
-          "title": "PREMIER SPORTS AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
           }
         }
       ]
@@ -536,6 +415,52 @@
       ]
     },
     {
+      "event_id": "8",
+      "event_title": "Paris OPEN - ATP vs ATP",
+      "event_time": "07 Nov, 04:30 pm",
+      "event_time_raw": 1794049200000,
+      "category": "Tennis",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "ATATBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "ATATTSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        },
+        {
+          "code": "ATATSKYT",
+          "title": "SKY TENNIS AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd",
+          "drm": {
+            "kid": "e8d550a86ee5c31e6b62f5fa287db43d",
+            "key": "11184b37c42d384033b966dbea535b4f"
+          }
+        },
+        {
+          "code": "ATATTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "13",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "07 Nov, 04:45 pm",
@@ -564,7 +489,82 @@
       ]
     },
     {
+      "event_id": "3",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "07 Nov, 05:00 pm",
+      "event_time_raw": 1794051000000,
+      "category": "Snooker",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "SNSNTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm": {
+            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+            "key": "643e5474d9edd87c7d9091c8c97994ca"
+          }
+        },
+        {
+          "code": "SNSNEURO",
+          "title": "EUROSPORT EN - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
+          "drm": {
+            "kid": "8c17752768447a2ff801b87f7a390781",
+            "key": "90375b77c0f6d271caef3c8accd4f1ae"
+          }
+        },
+        {
+          "code": "SNSNEUROAU",
+          "title": "EUROSPORT CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "17",
+      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
+      "event_time": "07 Nov, 05:00 pm",
+      "event_time_raw": 1794051000000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ABABWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u5yu46v8qv/out/v1/ba3ef04be3ff4351bcee7c1c3f7f6043/cenc.mpd",
+          "drm": {
+            "kid": "14959da8f9875554b690371dac4e2e5f",
+            "key": "bad6682edf4b318c0ba3501758fe8cb9"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "19",
+      "event_title": "Premier League - Leeds United vs Tottenham Hotspur",
+      "event_time": "07 Nov, 06:00 pm",
+      "event_time_raw": 1794054600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LETOTNTS",
+          "title": "TNT SPORTS AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "20",
       "event_title": "LaLiga 2 - Cádiz vs Real Oviedo",
       "event_time": "07 Nov, 08:45 pm",
       "event_time_raw": 1794064500000,
@@ -583,7 +583,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "LaLiga 2 - Leganés vs Albacete Balompié",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -597,6 +597,34 @@
           "drm": {
             "kid": "a88617e904504ee291f49f0e60a51d49",
             "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "2",
+      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
+      "event_time": "08 Nov, 09:00 am",
+      "event_time_raw": 1794108600000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "BAWEFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
+          }
+        },
+        {
+          "code": "BAWEFANCTZ",
+          "title": "FANCODE HD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+          "drm": {
+            "kid": "5318e462b9e0677487cb87837f0bbdb1",
+            "key": "4fa0fb973b95738306005f2e8591bf8e"
           }
         }
       ]
