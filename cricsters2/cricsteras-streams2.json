@@ -2,17 +2,17 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T20:55:22+05:30",
-  "generated_at_india": "07-11-2026 08:55:22 PM IST",
-  "total": 51,
-  "ok": 51,
+  "generated_at": "2026-11-07T21:55:11+05:30",
+  "generated_at_india": "07-11-2026 09:55:11 PM IST",
+  "total": 48,
+  "ok": 48,
   "failed": 0,
   "events": [
     {
       "event_id": 50002,
       "event_title": "Formula 1 -  Brazil Grand Prix",
-      "event_time": "2026-11-07 14:30",
-      "event_time_raw": "2026-11-07 14:30",
+      "event_time": "2026-11-07 17:55",
+      "event_time_raw": "2026-11-07 17:55",
       "category": "F1",
       "stream_count": 6,
       "streams": [
@@ -489,19 +489,19 @@
         {
           "code": "ABUDWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/egzixgijjb/out/v1/c4b8c2327e9c4e23986fe79829ee3daf/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
           "drm": {
-            "kid": "e83ab9dc8f48a1c573c35fb8eca23423",
-            "key": "4b67016b2e7b226d62d8e4d73694a598"
+            "kid": "c36580b91d6530ceba196d7254d67b94",
+            "key": "af9da5c72e1aa9472a3b8ef852c0f330"
           }
         },
         {
-          "code": "ABUDWILL0S",
+          "code": "ABUDWILLAD",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/egzixgijjb/out/v1/c4b8c2327e9c4e23986fe79829ee3daf/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
           "drm": {
-            "kid": "e83ab9dc8f48a1c573c35fb8eca23423",
-            "key": "4b67016b2e7b226d62d8e4d73694a598"
+            "kid": "c36580b91d6530ceba196d7254d67b94",
+            "key": "af9da5c72e1aa9472a3b8ef852c0f330"
           }
         }
       ]
@@ -916,61 +916,6 @@
       ]
     },
     {
-      "event_id": 50100,
-      "event_title": "Málaga CF vs Real Racing Club",
-      "event_time": "2026-11-07 13:00",
-      "event_time_raw": "2026-11-07 13:00",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 5,
-      "streams": [
-        {
-          "code": "MLREDAZN",
-          "title": "DAZN ESPANOL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/j7rrs31foe/out/v1/7eca9af515d9417fb46df6e3e31482a4/cenc.mpd",
-          "drm": {
-            "kid": "bcd57c63f88ea1f103c83ee0d677edfc",
-            "key": "d3e400add2860e6300aa070e11e4bba3"
-          }
-        },
-        {
-          "code": "MLREPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-          }
-        },
-        {
-          "code": "MLREBEIN",
-          "title": "beIN ENGLISH FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "MLREFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "MLRESPOR",
-          "title": "D Sports FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "drm": {
-            "kid": "f836853d8eac19446ed9535f5fc568b1",
-            "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50101,
       "event_title": "Parma vs Bologna",
       "event_time": "2026-11-07 17:00",
@@ -1340,7 +1285,7 @@
       "event_time": "2026-11-07 16:00",
       "event_time_raw": "2026-11-07 16:00",
       "category": "Super Lig",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "GAAMBEIN",
@@ -1349,6 +1294,15 @@
           "drm": {
             "kid": "27759a440e8ad821b800b3de00cd5851",
             "key": "1b8743adee559f27845f55e8b4d639fe"
+          }
+        },
+        {
+          "code": "GAAMBEINK6",
+          "title": "beIN ENGLISH FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd",
+          "drm": {
+            "kid": "74cbe15488783fab07ff8c702fabafcd",
+            "key": "bb607803a49c2d6104f845e7886c971c"
           }
         }
       ]
@@ -1524,25 +1478,6 @@
       ]
     },
     {
-      "event_id": 50134,
-      "event_title": "Burgos vs Celta Fortuna",
-      "event_time": "2026-11-07 13:00",
-      "event_time_raw": "2026-11-07 13:00",
-      "category": "LaLiga 2",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "BUCELALI",
-          "title": "Laliga Hypermotion ES",
-          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50140,
       "event_title": "Bundesliga Conference",
       "event_time": "2026-11-07 14:25",
@@ -1557,25 +1492,6 @@
           "drm": {
             "kid": "0b39b0aa00bf3d58afc144366c724ffc",
             "key": "e7e50e2ed11cb7fb5394458feb87d9f8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50141,
-      "event_title": "Indian Super League",
-      "event_time": "2026-11-07 14:00",
-      "event_time_raw": "2026-11-07 14:00",
-      "category": "ISL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "INDIPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/2mcjiqw0dq/out/v1/e38753669d0249ff9a90bd7eba519aef/cenc.mpd",
-          "drm": {
-            "kid": "b7258d3c40420a02b5922e244d59b3c1",
-            "key": "231193fb3bc8be46e4fa5ae61bb460e8"
           }
         }
       ]

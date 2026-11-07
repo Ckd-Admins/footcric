@@ -2,15 +2,15 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T20:55:22+05:30",
-  "generated_at_india": "07-11-2026 08:55:22 PM IST",
-  "total": 51,
+  "generated_at": "2026-11-07T21:55:11+05:30",
+  "generated_at_india": "07-11-2026 09:55:11 PM IST",
+  "total": 48,
   "events": [
     {
       "event_id": 50002,
       "event_title": "Formula 1 -  Brazil Grand Prix",
-      "event_time": "2026-11-07 14:30",
-      "event_time_raw": "2026-11-07 14:30",
+      "event_time": "2026-11-07 17:55",
+      "event_time_raw": "2026-11-07 17:55",
       "category": "F1",
       "stream_count": 6
     },
@@ -207,14 +207,6 @@
       "stream_count": 4
     },
     {
-      "event_id": 50100,
-      "event_title": "Málaga CF vs Real Racing Club",
-      "event_time": "2026-11-07 13:00",
-      "event_time_raw": "2026-11-07 13:00",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 5
-    },
-    {
       "event_id": 50101,
       "event_title": "Parma vs Bologna",
       "event_time": "2026-11-07 17:00",
@@ -324,7 +316,7 @@
       "event_time": "2026-11-07 16:00",
       "event_time_raw": "2026-11-07 16:00",
       "category": "Super Lig",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50126,
@@ -391,27 +383,11 @@
       "stream_count": 1
     },
     {
-      "event_id": 50134,
-      "event_title": "Burgos vs Celta Fortuna",
-      "event_time": "2026-11-07 13:00",
-      "event_time_raw": "2026-11-07 13:00",
-      "category": "LaLiga 2",
-      "stream_count": 1
-    },
-    {
       "event_id": 50140,
       "event_title": "Bundesliga Conference",
       "event_time": "2026-11-07 14:25",
       "event_time_raw": "2026-11-07 14:25",
       "category": "Bundesliga 🇩🇪",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50141,
-      "event_title": "Indian Super League",
-      "event_time": "2026-11-07 14:00",
-      "event_time_raw": "2026-11-07 14:00",
-      "category": "ISL",
       "stream_count": 1
     }
   ],
