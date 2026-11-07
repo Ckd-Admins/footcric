@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T22:54:09+05:30",
-  "generated_at_india": "07-11-2026 10:54:09 PM IST",
-  "total": 43,
+  "generated_at": "2026-11-07T23:55:23+05:30",
+  "generated_at_india": "07-11-2026 11:55:23 PM IST",
+  "total": 45,
   "events": [
     {
       "event_id": 50002,
@@ -168,10 +168,10 @@
     },
     {
       "event_id": 50095,
-      "event_title": "Arsenal vs Hull City",
-      "event_time": "2026-11-07 15:00",
-      "event_time_raw": "2026-11-07 15:00",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "event_title": "Buatsi vs Hutchinson",
+      "event_time": "2026-11-07 17:30",
+      "event_time_raw": "2026-11-07 17:30",
+      "category": "Boxing",
       "stream_count": 2
     },
     {
@@ -196,7 +196,7 @@
       "event_time": "2026-11-07 17:30",
       "event_time_raw": "2026-11-07 17:30",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 4
+      "stream_count": 5
     },
     {
       "event_id": 50099,
@@ -229,6 +229,22 @@
       "event_time_raw": "2026-11-07 14:00",
       "category": "Serie A 🇮🇹",
       "stream_count": 3
+    },
+    {
+      "event_id": 50104,
+      "event_title": "VfB Stuttgart vs Werder Bremen",
+      "event_time": "2026-11-07 17:30",
+      "event_time_raw": "2026-11-07 17:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50109,
+      "event_title": "Washington Capitals vs Florida Panthers",
+      "event_time": "2026-11-07 17:30",
+      "event_time_raw": "2026-11-07 17:30",
+      "category": "NHL",
+      "stream_count": 1
     },
     {
       "event_id": 50110,
