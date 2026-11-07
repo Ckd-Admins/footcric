@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T13:21:17+05:30",
-  "generated_at_india": "07-11-2026 01:21:17 PM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-11-07T14:11:38+05:30",
+  "generated_at_india": "07-11-2026 02:11:38 PM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
@@ -378,52 +378,6 @@
       ]
     },
     {
-      "event_id": "18",
-      "event_title": "Women's Big Bash League - Melbourne Renegades Women vs Adelaide Strikers Women",
-      "event_time": "07 Nov, 10:10 am",
-      "event_time_raw": 1794026400000,
-      "category": "Cricket",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "MEADWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd",
-          "drm": {
-            "kid": "8034d996508ff5f2f3017d9e2a03d3e6",
-            "key": "ce2d564ec40cf4a6423afcc93e28f2be"
-          }
-        },
-        {
-          "code": "MEADWILLS6",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        },
-        {
-          "code": "MEADEURO",
-          "title": "EUROSPORT - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
-          }
-        },
-        {
-          "code": "MEADFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "3",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "07 Nov, 11:30 am",
@@ -563,39 +517,20 @@
       ]
     },
     {
-      "event_id": "19",
-      "event_title": "World Cup, Women - New Zealand vs Samoa",
-      "event_time": "07 Nov, 12:15 pm",
-      "event_time_raw": 1794033900000,
-      "category": "Rugby",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NESAPREM",
-          "title": "PREMIER SPORTS AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "17",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Hobart Hurricanes Women",
       "event_time": "07 Nov, 01:40 pm",
       "event_time_raw": 1794039000000,
       "category": "Cricket",
-      "stream_count": 5,
+      "stream_count": 3,
       "streams": [
         {
           "code": "BRHOWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wmf2tyed3f/out/v1/4de89ed1f9e14660a76b85a983013ff8/cenc.mpd",
           "drm": {
-            "kid": "b2c92cec93ed53bbc297d9ab55ae4c72",
-            "key": "6dfa3680190db85be7659d6faaac5d91"
+            "kid": "3d676f46dd6709ea6260baa6b5b7624d",
+            "key": "ec4601cd1af441689732ebe634d008c4"
           }
         },
         {
@@ -608,36 +543,37 @@
           }
         },
         {
-          "code": "BRHOWILL6G",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
+          "code": "BRHOWILLXJ",
+          "title": "WILLOW S2",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wmf2tyed3f/out/v1/4de89ed1f9e14660a76b85a983013ff8/cenc.mpd",
           "drm": {
-            "kid": "edbd9d6a45038d8031f8acda793333db",
-            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
-          }
-        },
-        {
-          "code": "BRHOEURO",
-          "title": "EUROSPORT - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
-          }
-        },
-        {
-          "code": "BRHOFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
+            "kid": "3d676f46dd6709ea6260baa6b5b7624d",
+            "key": "ec4601cd1af441689732ebe634d008c4"
           }
         }
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "18",
+      "event_title": "World Cup - New Zealand vs Tonga",
+      "event_time": "07 Nov, 02:35 pm",
+      "event_time_raw": 1794042300000,
+      "category": "Rugby",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NETOPREM",
+          "title": "PREMIER SPORTS AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "19",
       "event_title": "LaLiga 2 - Cádiz vs Real Oviedo",
       "event_time": "07 Nov, 08:45 pm",
       "event_time_raw": 1794064500000,
@@ -656,7 +592,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "LaLiga 2 - Leganés vs Albacete Balompié",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,

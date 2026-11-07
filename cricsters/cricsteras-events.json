@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T13:21:17+05:30",
-  "generated_at_india": "07-11-2026 01:21:17 PM IST",
-  "total": 21,
+  "generated_at": "2026-11-07T14:11:38+05:30",
+  "generated_at_india": "07-11-2026 02:11:38 PM IST",
+  "total": 20,
   "events": [
     {
       "event_id": "15",
@@ -79,14 +79,6 @@
       "stream_count": 2
     },
     {
-      "event_id": "18",
-      "event_title": "Women's Big Bash League - Melbourne Renegades Women vs Adelaide Strikers Women",
-      "event_time": "07 Nov, 10:10 am",
-      "event_time_raw": 1794026400000,
-      "category": "Cricket",
-      "stream_count": 4
-    },
-    {
       "event_id": "3",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "07 Nov, 11:30 am",
@@ -119,23 +111,23 @@
       "stream_count": 2
     },
     {
-      "event_id": "19",
-      "event_title": "World Cup, Women - New Zealand vs Samoa",
-      "event_time": "07 Nov, 12:15 pm",
-      "event_time_raw": 1794033900000,
-      "category": "Rugby",
-      "stream_count": 1
-    },
-    {
       "event_id": "17",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Hobart Hurricanes Women",
       "event_time": "07 Nov, 01:40 pm",
       "event_time_raw": 1794039000000,
       "category": "Cricket",
-      "stream_count": 5
+      "stream_count": 3
     },
     {
-      "event_id": "20",
+      "event_id": "18",
+      "event_title": "World Cup - New Zealand vs Tonga",
+      "event_time": "07 Nov, 02:35 pm",
+      "event_time_raw": 1794042300000,
+      "category": "Rugby",
+      "stream_count": 1
+    },
+    {
+      "event_id": "19",
       "event_title": "LaLiga 2 - Cádiz vs Real Oviedo",
       "event_time": "07 Nov, 08:45 pm",
       "event_time_raw": 1794064500000,
@@ -143,7 +135,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "LaLiga 2 - Leganés vs Albacete Balompié",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
