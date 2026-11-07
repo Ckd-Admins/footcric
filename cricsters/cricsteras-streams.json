@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T20:03:58+05:30",
-  "generated_at_india": "07-11-2026 08:03:58 PM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-11-07T20:58:09+05:30",
+  "generated_at_india": "07-11-2026 08:58:09 PM IST",
+  "total": 24,
+  "ok": 24,
   "failed": 0,
   "events": [
     {
-      "event_id": "16",
+      "event_id": "18",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "8",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "14",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "05 Nov, 11:00 pm",
       "event_time_raw": 1793899800000,
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "9",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "4",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -176,12 +176,12 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "15",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "07 Nov, 03:00 pm",
       "event_time_raw": 1794043800000,
       "category": "Motorsport",
-      "stream_count": 6,
+      "stream_count": 5,
       "streams": [
         {
           "code": "MOMOFANC",
@@ -222,25 +222,16 @@
         {
           "code": "MOMOAUVI",
           "title": "AUVIO SPORTS - AQ",
-          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/edf969e9.isml/.mpd?t=2026-11-07T13:35:00.000",
+          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/1848c8da/ac5bbcb5.isml/.mpd?t=2026-11-07T14:35:00.000",
           "drm": {
-            "kid": "33d2367b7cad445488ae32c8e90e3074",
-            "key": "94c16f15275f8f4eab1685c39138d1f5"
-          }
-        },
-        {
-          "code": "MOMOSPOT",
-          "title": "SPOTV - AQ",
-          "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-          "drm": {
-            "kid": "7eea72d6075245a99ee3255603d58853",
-            "key": "6848ef60575579bf4d415db1032153ed"
+            "kid": "3d50f369b1ea47dd9f2f91d8403a5f87",
+            "key": "8a5680baf3e64d47a584c769019b03c9"
           }
         }
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "11",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "07 Nov, 04:30 pm",
       "event_time_raw": 1794049200000,
@@ -286,7 +277,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "16",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "07 Nov, 04:45 pm",
       "event_time_raw": 1794050100000,
@@ -314,7 +305,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "6",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "07 Nov, 05:00 pm",
       "event_time_raw": 1794051000000,
@@ -351,7 +342,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "20",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "07 Nov, 05:00 pm",
       "event_time_raw": 1794051000000,
@@ -379,7 +370,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "21",
       "event_title": "Indian Super League - Inter Kashi FC vs Sporting Delhi",
       "event_time": "07 Nov, 05:00 pm",
       "event_time_raw": 1794051000000,
@@ -398,62 +389,7 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "Premier League - Leeds United vs Tottenham Hotspur",
-      "event_time": "07 Nov, 06:00 pm",
-      "event_time_raw": 1794054600000,
-      "category": "Football",
-      "stream_count": 5,
-      "streams": [
-        {
-          "code": "LETOTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "LETOSKYS",
-          "title": "SKY SPORTS EPL - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd",
-          "drm": {
-            "kid": "1106fb025da5b31657618344099c6c14",
-            "key": "788284538616a73b56214e90196a6e0f"
-          }
-        },
-        {
-          "code": "LETOFUBO",
-          "title": "FUBO SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-          "drm": {
-            "kid": "42f72c025dd53039244adc13b7e31dad",
-            "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
-          }
-        },
-        {
-          "code": "LETOSTAN",
-          "title": "STAN SPORTS AQ (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/faf1eeee985a4e3099e1c62f70271da6/index.mpd",
-          "drm": {
-            "kid": "e76748f1d44a418a93d25843a50687bf",
-            "key": "c54ea25587b909ccc27bb411b1f0b506"
-          }
-        },
-        {
-          "code": "LETOSTAN95",
-          "title": "STAN SPORTS 4K (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/f2f145ab9ef64a999de3eed271274dc2/index.mpd",
-          "drm": {
-            "kid": "565fa34204ec48f7b7e9078a09148104",
-            "key": "ae6673a238fa993e4a8d6e5e3a02c253"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "11",
+      "event_id": "13",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "07 Nov, 07:00 pm",
       "event_time_raw": 1794058200000,
@@ -499,7 +435,44 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "3",
+      "event_title": "Bundesliga - 1. FSV Mainz 05 vs FC Bayern München",
+      "event_time": "07 Nov, 08:00 pm",
+      "event_time_raw": 1794061800000,
+      "category": "Football",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "1FCPEAC",
+          "title": "PEACOCK TV - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/na2zo0qmkg/out/v1/08320d9893444121bbc1ce32de192736/cenc.mpd",
+          "drm": {
+            "kid": "68b6bf4f863f49ffad6f1c09b33544b4",
+            "key": "6d39a5c0706f657c3c57da2ef042b67f"
+          }
+        },
+        {
+          "code": "1FCSKYS",
+          "title": "SKY SPORT DE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
+          "drm": {
+            "kid": "368bd4ebe301406897324bc777650411",
+            "key": "69d27c2c2b7de927d67aacc973259901"
+          }
+        },
+        {
+          "code": "1FCSHAH",
+          "title": "SHAHID AR/EN - AQ",
+          "url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
+          "drm": {
+            "kid": "50a7f3afc00a40b38face4db639d0e4c",
+            "key": "ad7000691326064706281a700b7d6714"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "7",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "07 Nov, 08:00 pm",
       "event_time_raw": 1794061800000,
@@ -572,35 +545,63 @@
       ]
     },
     {
-      "event_id": "21",
-      "event_title": "Bundesliga - 1. FSV Mainz 05 vs FC Bayern München",
-      "event_time": "07 Nov, 08:00 pm",
-      "event_time_raw": 1794061800000,
+      "event_id": "1",
+      "event_title": "Premier League - Arsenal vs Hull City",
+      "event_time": "07 Nov, 08:30 pm",
+      "event_time_raw": 1794063600000,
       "category": "Football",
       "stream_count": 2,
       "streams": [
         {
-          "code": "1FCSKYS",
-          "title": "SKY SPORT DE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
+          "code": "ARHUPEAC",
+          "title": "PEACOCK TV - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/igr5elwsmu/out/v1/fd08479ed632421dae63f6c9d2705b3d/cenc.mpd",
           "drm": {
-            "kid": "368bd4ebe301406897324bc777650411",
-            "key": "69d27c2c2b7de927d67aacc973259901"
+            "kid": "f0ab82e649db67c77f045022194c3cb2",
+            "key": "5e21bae323c1278656e6c93a70928aea"
           }
         },
         {
-          "code": "1FCSHAH",
-          "title": "SHAHID AR/EN - AQ",
-          "url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
+          "code": "ARHUSKYS",
+          "title": "SKY SPORTS PL DE",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wnj8aqoogh/out/v1/b427d030aa6c40b1ab5acccc70497a2f/cenc.mpd",
           "drm": {
-            "kid": "50a7f3afc00a40b38face4db639d0e4c",
-            "key": "ad7000691326064706281a700b7d6714"
+            "kid": "1106fb025da5b31657618344099c6c14",
+            "key": "788284538616a73b56214e90196a6e0f"
           }
         }
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "2",
+      "event_title": "Premier League - Fulham vs Newcastle United",
+      "event_time": "07 Nov, 08:30 pm",
+      "event_time_raw": 1794063600000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "FUNESKYS",
+          "title": "SKY SPORT DE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yd0huk04ob/out/v1/bc2ed690e3134c4c82a7c51b7174b5ae/cenc.mpd",
+          "drm": {
+            "kid": "09d34ac8d64803c1f8b1bddada99d638",
+            "key": "752ab3efc7eb3601c8d3c6b5a89ffa39"
+          }
+        },
+        {
+          "code": "FUNESTAN",
+          "title": "STAN SPORTS AQ (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/db92519e3c0b4fb5affad9ad3810985e/index.mpd",
+          "drm": {
+            "kid": "f82e2ae313bd4129b7cccf7e623c324e",
+            "key": "acc1bd0cc89c1504679f1a2773f246da"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "22",
       "event_title": "LaLiga 2 - Cádiz vs Real Oviedo",
       "event_time": "07 Nov, 08:45 pm",
       "event_time_raw": 1794064500000,
@@ -619,7 +620,53 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "23",
+      "event_title": "LaLiga - Espanyol vs Deportivo de A Coruña",
+      "event_time": "07 Nov, 08:45 pm",
+      "event_time_raw": 1794064500000,
+      "category": "Football",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "ESDEBEIN",
+          "title": "beIN ENGLISH - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        },
+        {
+          "code": "ESDEDAZN",
+          "title": "DAZN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4z7q1lwrby/out/v1/00524dd3cabf40e286e7cee4efac26a1/cenc.mpd",
+          "drm": {
+            "kid": "75bd9f8b4f59099e267457961fd3108f",
+            "key": "ec3f44beaceabcc0fc81640ceaa3407a"
+          }
+        },
+        {
+          "code": "ESDESPOR",
+          "title": "D SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "drm": {
+            "kid": "f836853d8eac19446ed9535f5fc568b1",
+            "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+          }
+        },
+        {
+          "code": "ESDECAZT",
+          "title": "CazéTV - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "drm": {
+            "kid": "34475edab991ad5e92548aebd710410a",
+            "key": "501b209cccd323ac00bf5ac15b406cb4"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "24",
       "event_title": "LaLiga 2 - Leganés vs Albacete Balompié",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -638,7 +685,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "5",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "08 Nov, 09:00 am",
       "event_time_raw": 1794108600000,
@@ -666,7 +713,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "19",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "08 Nov, 11:30 am",
       "event_time_raw": 1794117600000,
@@ -694,7 +741,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "10",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -713,7 +760,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "17",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
@@ -777,7 +824,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "12",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
