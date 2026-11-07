@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T20:58:09+05:30",
-  "generated_at_india": "07-11-2026 08:58:09 PM IST",
-  "total": 24,
-  "ok": 24,
+  "generated_at": "2026-11-07T21:58:32+05:30",
+  "generated_at_india": "07-11-2026 09:58:32 PM IST",
+  "total": 25,
+  "ok": 25,
   "failed": 0,
   "events": [
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "15",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "05 Nov, 11:00 pm",
       "event_time_raw": 1793899800000,
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "16",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "07 Nov, 03:00 pm",
       "event_time_raw": 1794043800000,
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "12",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "07 Nov, 04:30 pm",
       "event_time_raw": 1794049200000,
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "07 Nov, 04:45 pm",
       "event_time_raw": 1794050100000,
@@ -342,7 +342,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "07 Nov, 05:00 pm",
       "event_time_raw": 1794051000000,
@@ -352,10 +352,10 @@
         {
           "code": "ABABWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u5yu46v8qv/out/v1/ba3ef04be3ff4351bcee7c1c3f7f6043/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
           "drm": {
-            "kid": "14959da8f9875554b690371dac4e2e5f",
-            "key": "bad6682edf4b318c0ba3501758fe8cb9"
+            "kid": "c36580b91d6530ceba196d7254d67b94",
+            "key": "af9da5c72e1aa9472a3b8ef852c0f330"
           }
         },
         {
@@ -370,7 +370,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "22",
       "event_title": "Indian Super League - Inter Kashi FC vs Sporting Delhi",
       "event_time": "07 Nov, 05:00 pm",
       "event_time_raw": 1794051000000,
@@ -389,7 +389,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "14",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "07 Nov, 07:00 pm",
       "event_time_raw": 1794058200000,
@@ -601,7 +601,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "23",
       "event_title": "LaLiga 2 - Cádiz vs Real Oviedo",
       "event_time": "07 Nov, 08:45 pm",
       "event_time_raw": 1794064500000,
@@ -620,7 +620,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "24",
       "event_title": "LaLiga - Espanyol vs Deportivo de A Coruña",
       "event_time": "07 Nov, 08:45 pm",
       "event_time_raw": 1794064500000,
@@ -666,7 +666,26 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "11",
+      "event_title": "Zuffa Boxing 12 - Billam Smith vs Clarke",
+      "event_time": "07 Nov, 09:30 pm",
+      "event_time_raw": 1794067200000,
+      "category": "Boxing",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BICLPARA",
+          "title": "PARAMOUNT + EN ES DE- AQ",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qjw5huliqp/out/v1/b68629829d994f718bb4c990554b1583/cenc.mpd",
+          "drm": {
+            "kid": "37ba370f4b542627f36993fdc52cd9a9",
+            "key": "9da45295e70757ad55c292ec24f2b833"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "25",
       "event_title": "LaLiga 2 - Leganés vs Albacete Balompié",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -713,7 +732,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "08 Nov, 11:30 am",
       "event_time_raw": 1794117600000,
@@ -760,7 +779,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
@@ -824,7 +843,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "13",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
