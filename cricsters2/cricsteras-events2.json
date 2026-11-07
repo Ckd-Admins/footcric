@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T07:16:31+05:30",
-  "generated_at_india": "07-11-2026 07:16:31 AM IST",
-  "total": 29,
+  "generated_at": "2026-11-07T08:06:15+05:30",
+  "generated_at_india": "07-11-2026 08:06:15 AM IST",
+  "total": 42,
   "events": [
     {
       "event_id": 50002,
@@ -237,6 +237,110 @@
       "event_time_raw": "2026-11-07 18:00",
       "category": "Ligue 1 🇫🇷",
       "stream_count": 2
+    },
+    {
+      "event_id": 50111,
+      "event_title": "Sporting CP vs Moreirense",
+      "event_time": "2026-11-07 20:30",
+      "event_time_raw": "2026-11-07 20:30",
+      "category": "Liga Portugal",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50113,
+      "event_title": "Peterborough United vs Reading",
+      "event_time": "2026-11-07 20:00",
+      "event_time_raw": "2026-11-07 20:00",
+      "category": "FA Cup",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50114,
+      "event_title": "St. Mirren vs Rangers",
+      "event_time": "2026-11-07 20:00",
+      "event_time_raw": "2026-11-07 20:00",
+      "category": "Scottish Premiership",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50117,
+      "event_title": "Altrincham FC vs Notts County",
+      "event_time": "2026-11-07 17:30",
+      "event_time_raw": "2026-11-07 17:30",
+      "category": "FA Cup",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50118,
+      "event_title": "Aberdeen vs Hibernian",
+      "event_time": "2026-11-07 17:45",
+      "event_time_raw": "2026-11-07 17:45",
+      "category": "Scottish Premiership",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50122,
+      "event_title": "Galatasaray vs Amedspor",
+      "event_time": "2026-11-07 16:00",
+      "event_time_raw": "2026-11-07 16:00",
+      "category": "Super Lig",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50126,
+      "event_title": "Birmingham City vs Swansea City",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50127,
+      "event_title": "Watford vs Middlesbrough",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50131,
+      "event_title": "Leganés vs Albacete Balompié",
+      "event_time": "2026-11-07 17:30",
+      "event_time_raw": "2026-11-07 17:30",
+      "category": "LaLiga 2",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50132,
+      "event_title": "Córdoba vs AD Ceuta",
+      "event_time": "2026-11-07 17:30",
+      "event_time_raw": "2026-11-07 17:30",
+      "category": "LaLiga 2",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50133,
+      "event_title": "Cádiz vs Real Oviedo",
+      "event_time": "2026-11-07 15:15",
+      "event_time_raw": "2026-11-07 15:15",
+      "category": "LaLiga 2",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50134,
+      "event_title": "Burgos vs Celta Fortuna",
+      "event_time": "2026-11-07 13:00",
+      "event_time_raw": "2026-11-07 13:00",
+      "category": "LaLiga 2",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50135,
+      "event_title": "Wrexham vs Wolverhampton",
+      "event_time": "2026-11-07 12:30",
+      "event_time_raw": "2026-11-07 12:30",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
     }
   ],
   "raw_data": ""

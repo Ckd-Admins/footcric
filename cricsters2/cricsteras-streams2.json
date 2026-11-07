@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T07:16:31+05:30",
-  "generated_at_india": "07-11-2026 07:16:31 AM IST",
-  "total": 29,
-  "ok": 29,
+  "generated_at": "2026-11-07T08:06:15+05:30",
+  "generated_at_india": "07-11-2026 08:06:15 AM IST",
+  "total": 42,
+  "ok": 42,
   "failed": 0,
   "events": [
     {
@@ -258,10 +258,10 @@
         {
           "code": "NEINWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1xyi7lfzjb/out/v1/c2421551360249a1a4ea2ea8c8a7c1ad/cenc.mpd",
           "drm": {
-            "kid": "7ef90352c28904be995275bc47f74c04",
-            "key": "af5e36ddef7584474601c19b4ae5935a"
+            "kid": "d1be89e5a60d67f753be9b35a803c8b9",
+            "key": "f8e35aafae8c3f3dd92dac7be4642a8b"
           }
         },
         {
@@ -274,12 +274,12 @@
           }
         },
         {
-          "code": "NEINPRIMRD",
+          "code": "NEINPRIMA2",
           "title": "PRIME VIDEO (HINDI)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ppmrp8tlzz/out/v1/cf829370483b4212ac7d5e3009c514b1/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kuptqxvclu/out/v1/5f434a56da684ce58ef04a955faeb1d7/cenc.mpd",
           "drm": {
-            "kid": "952fb91696308da86bee7cd24edf0b58",
-            "key": "bf359214ab3ac848738bdf014ace21b3"
+            "kid": "8e3eef73bb953c9da96600b47e2190d1",
+            "key": "f1dbf72267c0bb24aa5fa2ab61987df8"
           }
         },
         {
@@ -292,12 +292,12 @@
           }
         },
         {
-          "code": "NEINWILLQC",
+          "code": "NEINWILL7P",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4dwybz2taj/out/v1/c90ad7bb77af498083f47bf86b7999b7/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1xyi7lfzjb/out/v1/c2421551360249a1a4ea2ea8c8a7c1ad/cenc.mpd",
           "drm": {
-            "kid": "6a028d5592b0e81f9c4fd4de4df6d5c7",
-            "key": "9378d2ddd738b2d0b7a85ba65b643a7f"
+            "kid": "d1be89e5a60d67f753be9b35a803c8b9",
+            "key": "f8e35aafae8c3f3dd92dac7be4642a8b"
           }
         }
       ]
@@ -996,6 +996,280 @@
           "drm": {
             "kid": "34475edab991ad5e92548aebd710410a",
             "key": "501b209cccd323ac00bf5ac15b406cb4"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50111,
+      "event_title": "Sporting CP vs Moreirense",
+      "event_time": "2026-11-07 20:30",
+      "event_time_raw": "2026-11-07 20:30",
+      "category": "Liga Portugal",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "SPMOSPOR",
+          "title": "SportDigital Fussball",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm": {
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        },
+        {
+          "code": "SPMOSPORCH",
+          "title": "D Sports FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "drm": {
+            "kid": "f836853d8eac19446ed9535f5fc568b1",
+            "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50113,
+      "event_title": "Peterborough United vs Reading",
+      "event_time": "2026-11-07 20:00",
+      "event_time_raw": "2026-11-07 20:00",
+      "category": "FA Cup",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "PERETNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "PERETNT2",
+          "title": "TNT2 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50114,
+      "event_title": "St. Mirren vs Rangers",
+      "event_time": "2026-11-07 20:00",
+      "event_time_raw": "2026-11-07 20:00",
+      "category": "Scottish Premiership",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "STRABEIN",
+          "title": "beIN ENGLISH FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50117,
+      "event_title": "Altrincham FC vs Notts County",
+      "event_time": "2026-11-07 17:30",
+      "event_time_raw": "2026-11-07 17:30",
+      "category": "FA Cup",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ALNOTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50118,
+      "event_title": "Aberdeen vs Hibernian",
+      "event_time": "2026-11-07 17:45",
+      "event_time_raw": "2026-11-07 17:45",
+      "category": "Scottish Premiership",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "ABHIBEIN",
+          "title": "beIN ENGLISH FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        },
+        {
+          "code": "ABHISPOR",
+          "title": "SportDigital Fussball",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm": {
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50122,
+      "event_title": "Galatasaray vs Amedspor",
+      "event_time": "2026-11-07 16:00",
+      "event_time_raw": "2026-11-07 16:00",
+      "category": "Super Lig",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "GAAMBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+          "drm": {
+            "kid": "27759a440e8ad821b800b3de00cd5851",
+            "key": "1b8743adee559f27845f55e8b4d639fe"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50126,
+      "event_title": "Birmingham City vs Swansea City",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BISWBEIN",
+          "title": "beIN ENGLISH FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50127,
+      "event_title": "Watford vs Middlesbrough",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "WAMICBSN",
+          "title": "CBS NETWORK FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50131,
+      "event_title": "Leganés vs Albacete Balompié",
+      "event_time": "2026-11-07 17:30",
+      "event_time_raw": "2026-11-07 17:30",
+      "category": "LaLiga 2",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LEALLALI",
+          "title": "Laliga Hypermotion ES",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm": {
+            "kid": "a88617e904504ee291f49f0e60a51d49",
+            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50132,
+      "event_title": "Córdoba vs AD Ceuta",
+      "event_time": "2026-11-07 17:30",
+      "event_time_raw": "2026-11-07 17:30",
+      "category": "LaLiga 2",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CRADLALI",
+          "title": "Laliga Hypermotion ES",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+          "drm": {
+            "kid": "5fc8da8b94c447468ffe392157f8c75e",
+            "key": "333b934fdde4c1ee87e7f1c5dac4cb8f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50133,
+      "event_title": "Cádiz vs Real Oviedo",
+      "event_time": "2026-11-07 15:15",
+      "event_time_raw": "2026-11-07 15:15",
+      "category": "LaLiga 2",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CDRELALI",
+          "title": "Laliga Hypermotion ES",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm": {
+            "kid": "a88617e904504ee291f49f0e60a51d49",
+            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50134,
+      "event_title": "Burgos vs Celta Fortuna",
+      "event_time": "2026-11-07 13:00",
+      "event_time_raw": "2026-11-07 13:00",
+      "category": "LaLiga 2",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BUCELALI",
+          "title": "Laliga Hypermotion ES",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm": {
+            "kid": "a88617e904504ee291f49f0e60a51d49",
+            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50135,
+      "event_title": "Wrexham vs Wolverhampton",
+      "event_time": "2026-11-07 12:30",
+      "event_time_raw": "2026-11-07 12:30",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "WRWOBEIN",
+          "title": "beIN ENGLISH FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
           }
         }
       ]
