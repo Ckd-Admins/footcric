@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T17:59:51+05:30",
-  "generated_at_india": "07-11-2026 05:59:51 PM IST",
+  "generated_at": "2026-11-07T19:10:12+05:30",
+  "generated_at_india": "07-11-2026 07:10:12 PM IST",
   "total": 44,
   "ok": 44,
   "failed": 0,
@@ -856,8 +856,17 @@
       "event_time": "2026-11-07 13:00",
       "event_time_raw": "2026-11-07 13:00",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 4,
+      "stream_count": 5,
       "streams": [
+        {
+          "code": "MLREDAZN",
+          "title": "DAZN ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/j7rrs31foe/out/v1/7eca9af515d9417fb46df6e3e31482a4/cenc.mpd",
+          "drm": {
+            "kid": "bcd57c63f88ea1f103c83ee0d677edfc",
+            "key": "d3e400add2860e6300aa070e11e4bba3"
+          }
+        },
         {
           "code": "MLREPREM",
           "title": "PREMIER SPORTS FHD",
@@ -877,21 +886,21 @@
           }
         },
         {
+          "code": "MLREFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
           "code": "MLRESPOR",
           "title": "D Sports FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
           "drm": {
             "kid": "f836853d8eac19446ed9535f5fc568b1",
             "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
-          }
-        },
-        {
-          "code": "MLRECAZE",
-          "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-          "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
           }
         }
       ]
