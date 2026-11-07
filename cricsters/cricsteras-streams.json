@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T18:06:29+05:30",
-  "generated_at_india": "07-11-2026 06:06:29 PM IST",
+  "generated_at": "2026-11-07T19:12:51+05:30",
+  "generated_at_india": "07-11-2026 07:12:51 PM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -249,52 +249,6 @@
       ]
     },
     {
-      "event_id": "11",
-      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
-      "event_time": "07 Nov, 11:30 am",
-      "event_time_raw": 1794031200000,
-      "category": "Tennis",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "WTWTBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "WTWTTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        },
-        {
-          "code": "WTWTSPOR",
-          "title": "SPORT 1 CZ - AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        },
-        {
-          "code": "WTWTSTAN",
-          "title": "STAN SPORTS AQ (AUS)",
-          "url": "https://live01-stan.akamaized.net/out/v1/a4280e33c1924748920f45dba13e6909/index.mpd",
-          "drm": {
-            "kid": "3b720cc5ad6249a0a13386daf40676ad",
-            "key": "578cd1a00c1269e91f2d03349af5b069"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "17",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "07 Nov, 11:30 am",
@@ -406,10 +360,10 @@
         {
           "code": "ATATTSNS",
           "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
           "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
+            "kid": "d3250252765347a0c2603c6cb4869f8c",
+            "key": "0c19319460da7e9ed816db46ce839b37"
           }
         },
         {
@@ -588,7 +542,7 @@
       "event_time": "07 Nov, 06:00 pm",
       "event_time_raw": 1794054600000,
       "category": "Football",
-      "stream_count": 4,
+      "stream_count": 5,
       "streams": [
         {
           "code": "LETOTNTS",
@@ -624,6 +578,61 @@
           "drm": {
             "kid": "e76748f1d44a418a93d25843a50687bf",
             "key": "c54ea25587b909ccc27bb411b1f0b506"
+          }
+        },
+        {
+          "code": "LETOSTAN95",
+          "title": "STAN SPORTS 4K (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/f2f145ab9ef64a999de3eed271274dc2/index.mpd",
+          "drm": {
+            "kid": "565fa34204ec48f7b7e9078a09148104",
+            "key": "ae6673a238fa993e4a8d6e5e3a02c253"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "11",
+      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
+      "event_time": "07 Nov, 07:00 pm",
+      "event_time_raw": 1794058200000,
+      "category": "Tennis",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "WTWTBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        },
+        {
+          "code": "WTWTTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
+          }
+        },
+        {
+          "code": "WTWTSPOR",
+          "title": "SPORT 1 CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        },
+        {
+          "code": "WTWTSTAN",
+          "title": "STAN SPORTS AQ (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/18efa9ad72de42bdb59a17e5bb8349b6/index.mpd",
+          "drm": {
+            "kid": "66ccc23f78fa4f73bc0cfe80b4b9ffce",
+            "key": "9e6c544b791aafa3c450abcda223b81c"
           }
         }
       ]
