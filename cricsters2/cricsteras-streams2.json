@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T21:55:11+05:30",
-  "generated_at_india": "07-11-2026 09:55:11 PM IST",
-  "total": 48,
-  "ok": 48,
+  "generated_at": "2026-11-07T22:54:09+05:30",
+  "generated_at_india": "07-11-2026 10:54:09 PM IST",
+  "total": 43,
+  "ok": 43,
   "failed": 0,
   "events": [
     {
@@ -75,8 +75,8 @@
     {
       "event_id": 50003,
       "event_title": "MotoGP - Grand Prix of Qatar",
-      "event_time": "2026-11-07 11:00",
-      "event_time_raw": "2026-11-07 11:00",
+      "event_time": "2026-11-08 16:00",
+      "event_time_raw": "2026-11-08 16:00",
       "category": "MotoGP",
       "stream_count": 6,
       "streams": [
@@ -608,21 +608,21 @@
           }
         },
         {
-          "code": "NOMASKYS",
-          "title": "SKY SPORTS PL FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd",
-          "drm": {
-            "kid": "1106fb025da5b31657618344099c6c14",
-            "key": "788284538616a73b56214e90196a6e0f"
-          }
-        },
-        {
           "code": "NOMAFUBO",
           "title": "FUBO SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
           "drm": {
             "kid": "42f72c025dd53039244adc13b7e31dad",
             "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
+          }
+        },
+        {
+          "code": "NOMASKYS",
+          "title": "SKY SPORTS PL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
+          "drm": {
+            "kid": "1106fb025da5b31657618344099c6c14",
+            "key": "788284538616a73b56214e90196a6e0f"
           }
         }
       ]
@@ -838,7 +838,7 @@
       "event_time": "2026-11-07 17:30",
       "event_time_raw": "2026-11-07 17:30",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 3,
+      "stream_count": 4,
       "streams": [
         {
           "code": "OSATPREM",
@@ -859,12 +859,21 @@
           }
         },
         {
+          "code": "OSATFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
           "code": "OSATCAZE",
           "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
           "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
+            "kid": "ba6aca5a550163c38d06646bb50f04e7",
+            "key": "516c3b471fce48a5b7a2e5ee7dd505f2"
           }
         }
       ]
@@ -921,8 +930,35 @@
       "event_time": "2026-11-07 17:00",
       "event_time_raw": "2026-11-07 17:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 1,
+      "stream_count": 5,
       "streams": [
+        {
+          "code": "PABOPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vj8fod7wtf/out/v1/820c64e1fa1040ab9457f5f8c6eef049/cenc.mpd?",
+          "drm": {
+            "kid": "78890ec65ba32c44c950c9b2983e98e0",
+            "key": "1c075b2f4f26c1ee85502e3caebd8830"
+          }
+        },
+        {
+          "code": "PABODAZN",
+          "title": "DAZN ITALIAN FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/chgemku7j2/out/v1/01a941d9b4544c85843d4fd046193a07/cenc.mpd?",
+          "drm": {
+            "kid": "3cab879732fb4ba028c83b3be8816638",
+            "key": "81919805a79e04b19094931bcc7c6b18"
+          }
+        },
+        {
+          "code": "PABOPEAC",
+          "title": "PEACOCK TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vj8fod7wtf/out/v1/820c64e1fa1040ab9457f5f8c6eef049/cenc.mpd",
+          "drm": {
+            "kid": "78890ec65ba32c44c950c9b2983e98e0",
+            "key": "1c075b2f4f26c1ee85502e3caebd8830"
+          }
+        },
         {
           "code": "PABOCBSN",
           "title": "CBS NETWORK FHD",
@@ -930,6 +966,15 @@
           "drm": {
             "kid": "d9623774ac5c8c351aafe97c5fe70267",
             "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        },
+        {
+          "code": "PABOSPOR",
+          "title": "SPORT 1 CZ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
           }
         }
       ]
@@ -1004,127 +1049,6 @@
           "drm": {
             "kid": "dbe5961afc25dca3045d284329a2d49a",
             "key": "323aa34081722a599096a63a61828cae"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50105,
-      "event_title": "Mainz vs Bayern München",
-      "event_time": "2026-11-07 14:30",
-      "event_time_raw": "2026-11-07 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "MABAPEAC",
-          "title": "PEACOCK TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/na2zo0qmkg/out/v1/08320d9893444121bbc1ce32de192736/cenc.mpd",
-          "drm": {
-            "kid": "68b6bf4f863f49ffad6f1c09b33544b4",
-            "key": "6d39a5c0706f657c3c57da2ef042b67f"
-          }
-        },
-        {
-          "code": "MABASKYS",
-          "title": "SKY SPORTS DE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
-          "drm": {
-            "kid": "368bd4ebe301406897324bc777650411",
-            "key": "69d27c2c2b7de927d67aacc973259901"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50106,
-      "event_title": "Borussia Dortmund vs Elversberg",
-      "event_time": "2026-11-07 14:30",
-      "event_time_raw": "2026-11-07 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "BOELPEAC",
-          "title": "PEACOCK TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bqvpo0dbhn/out/v1/b5045f6bffd04d5d99d6918bb2450c63/cenc.mpd",
-          "drm": {
-            "kid": "a6cb6545663a788b31097762d04d1eae",
-            "key": "913e70d7380d473e4e31e838d1ef4c6e"
-          }
-        },
-        {
-          "code": "BOELSKYS",
-          "title": "SKY SPORT DE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3rm596wqdw/out/v1/9ba0ea722ef141b782c21d021ba45786/cenc.mpd",
-          "drm": {
-            "kid": "42650c79c7a241e79d18488fef3d75da",
-            "key": "42c319fd698c3914b7bfbaa38d08e41e"
-          }
-        },
-        {
-          "code": "BOELCAZE",
-          "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-          "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50107,
-      "event_title": "RB Leipzig vs Augsburg",
-      "event_time": "2026-11-07 14:30",
-      "event_time_raw": "2026-11-07 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "RBAUPEAC",
-          "title": "PEACOCK TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kevwxr5kzz/out/v1/88f1f2d6b1aa423da350d32f29286c97/cenc.mpd",
-          "drm": {
-            "kid": "8a650b8c677114ae6c166fde76b8f7b5",
-            "key": "a6e66101e9acaa338ccc516624413359"
-          }
-        },
-        {
-          "code": "RBAUSKYS",
-          "title": "SKY SPORTS DE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w1ad3vckry/out/v1/33ce68a8d21949da84e49f2695e51980/cenc.mpd",
-          "drm": {
-            "kid": "5e0ee93e86d783f011561f18ff8f34e6",
-            "key": "b570eceee332c7e50f87fca1f51e0966"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50108,
-      "event_title": "SC Paderborn vs Eintracht Frankfurt",
-      "event_time": "2026-11-07 14:30",
-      "event_time_raw": "2026-11-07 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "SCEIPEAC",
-          "title": "PEACOCK TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oqymjvhuld/out/v1/538614f3e2714dc0ad99ac7905570e97/cenc.mpd",
-          "drm": {
-            "kid": "b96213572690354511dd6dfd1401a8b2",
-            "key": "4d35d3c8323c67efd107e3c11c70ed54"
-          }
-        },
-        {
-          "code": "SCEISKYS",
-          "title": "SKY SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ubiowncrej/out/v1/def874d66d3b4dfa99c354ee7d0855c0/cenc.mpd",
-          "drm": {
-            "kid": "f38ce843871b3e5aa97b8461a093a424",
-            "key": "b51d62eeec9c136513c12ea7ec291f6f"
           }
         }
       ]
@@ -1473,25 +1397,6 @@
           "drm": {
             "kid": "a88617e904504ee291f49f0e60a51d49",
             "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50140,
-      "event_title": "Bundesliga Conference",
-      "event_time": "2026-11-07 14:25",
-      "event_time_raw": "2026-11-07 14:25",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "BUNDDAZN",
-          "title": "DAZN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qkqzzycucy/out/v1/354851cb1eae488286a374ae6943cca0/cenc.mpd",
-          "drm": {
-            "kid": "0b39b0aa00bf3d58afc144366c724ffc",
-            "key": "e7e50e2ed11cb7fb5394458feb87d9f8"
           }
         }
       ]

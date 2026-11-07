@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T21:55:11+05:30",
-  "generated_at_india": "07-11-2026 09:55:11 PM IST",
-  "total": 48,
+  "generated_at": "2026-11-07T22:54:09+05:30",
+  "generated_at_india": "07-11-2026 10:54:09 PM IST",
+  "total": 43,
   "events": [
     {
       "event_id": 50002,
@@ -17,8 +17,8 @@
     {
       "event_id": 50003,
       "event_title": "MotoGP - Grand Prix of Qatar",
-      "event_time": "2026-11-07 11:00",
-      "event_time_raw": "2026-11-07 11:00",
+      "event_time": "2026-11-08 16:00",
+      "event_time_raw": "2026-11-08 16:00",
       "category": "MotoGP",
       "stream_count": 6
     },
@@ -196,7 +196,7 @@
       "event_time": "2026-11-07 17:30",
       "event_time_raw": "2026-11-07 17:30",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 3
+      "stream_count": 4
     },
     {
       "event_id": 50099,
@@ -212,7 +212,7 @@
       "event_time": "2026-11-07 17:00",
       "event_time_raw": "2026-11-07 17:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 1
+      "stream_count": 5
     },
     {
       "event_id": 50102,
@@ -229,38 +229,6 @@
       "event_time_raw": "2026-11-07 14:00",
       "category": "Serie A 🇮🇹",
       "stream_count": 3
-    },
-    {
-      "event_id": 50105,
-      "event_title": "Mainz vs Bayern München",
-      "event_time": "2026-11-07 14:30",
-      "event_time_raw": "2026-11-07 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50106,
-      "event_title": "Borussia Dortmund vs Elversberg",
-      "event_time": "2026-11-07 14:30",
-      "event_time_raw": "2026-11-07 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50107,
-      "event_title": "RB Leipzig vs Augsburg",
-      "event_time": "2026-11-07 14:30",
-      "event_time_raw": "2026-11-07 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50108,
-      "event_title": "SC Paderborn vs Eintracht Frankfurt",
-      "event_time": "2026-11-07 14:30",
-      "event_time_raw": "2026-11-07 14:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 2
     },
     {
       "event_id": 50110,
@@ -380,14 +348,6 @@
       "event_time": "2026-11-07 15:15",
       "event_time_raw": "2026-11-07 15:15",
       "category": "LaLiga 2",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50140,
-      "event_title": "Bundesliga Conference",
-      "event_time": "2026-11-07 14:25",
-      "event_time_raw": "2026-11-07 14:25",
-      "category": "Bundesliga 🇩🇪",
       "stream_count": 1
     }
   ],
