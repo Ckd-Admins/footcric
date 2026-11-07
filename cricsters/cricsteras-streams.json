@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T15:08:05+05:30",
-  "generated_at_india": "07-11-2026 03:08:05 PM IST",
+  "generated_at": "2026-11-07T16:03:25+05:30",
+  "generated_at_india": "07-11-2026 04:03:25 PM IST",
   "total": 20,
   "ok": 20,
   "failed": 0,
@@ -153,70 +153,6 @@
           "drm": {
             "kid": "308006101c8fd0262c0f529319b9c127",
             "key": "37683aadc75b1450efa82d62c647984d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "12",
-      "event_title": "MotoGP - MotoGP vs MotoGP",
-      "event_time": "06 Nov, 07:30 pm",
-      "event_time_raw": 1793973600000,
-      "category": "Motorsport",
-      "stream_count": 6,
-      "streams": [
-        {
-          "code": "MOMOFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "MOMOTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm": {
-            "kid": "f3df7843080ae743bf865dc5fdf64c68",
-            "key": "567c863bc12eb74788ea74888c042e1b"
-          }
-        },
-        {
-          "code": "MOMOSKYS",
-          "title": "SKY SPORTS MIX",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "drm": {
-            "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
-            "key": "a883237ef30932b731f71aa59a0805c0"
-          }
-        },
-        {
-          "code": "MOMOMOTO",
-          "title": "MotoGP - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
-          "drm": {
-            "kid": "e03f302ec4dabcccca82cc9f76731ec9",
-            "key": "53ea1027d2bf2893a552cf15bc0366de"
-          }
-        },
-        {
-          "code": "MOMOAUVI",
-          "title": "AUVIO SPORTS - AQ",
-          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/d26ebc8f.isml/.mpd?t=2026-11-06T09:50:00.000",
-          "drm": {
-            "kid": "745c7539fc0546d5ab6b512b7971453b",
-            "key": "b6d4028917b4d390bc28b08c6fd8734b"
-          }
-        },
-        {
-          "code": "MOMOSPOT",
-          "title": "SPOTV - AQ",
-          "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-          "drm": {
-            "kid": "7eea72d6075245a99ee3255603d58853",
-            "key": "6848ef60575579bf4d415db1032153ed"
           }
         }
       ]
@@ -425,7 +361,7 @@
         {
           "code": "WTWTBEIN",
           "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
           "drm": {
             "kid": "0b42be2664d7e811d04f3e504e0924c5",
             "key": "ae24090123b8c72ac5404dc152847cb8"
@@ -531,6 +467,70 @@
           "drm": {
             "kid": "1a5df53609ebc9857898c490f4724918",
             "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "12",
+      "event_title": "MotoGP - MotoGP vs MotoGP",
+      "event_time": "07 Nov, 03:00 pm",
+      "event_time_raw": 1794043800000,
+      "category": "Motorsport",
+      "stream_count": 6,
+      "streams": [
+        {
+          "code": "MOMOFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "MOMOTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm": {
+            "kid": "f3df7843080ae743bf865dc5fdf64c68",
+            "key": "567c863bc12eb74788ea74888c042e1b"
+          }
+        },
+        {
+          "code": "MOMOSKYS",
+          "title": "SKY SPORTS MIX",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "drm": {
+            "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
+            "key": "a883237ef30932b731f71aa59a0805c0"
+          }
+        },
+        {
+          "code": "MOMOMOTO",
+          "title": "MotoGP - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
+          "drm": {
+            "kid": "e03f302ec4dabcccca82cc9f76731ec9",
+            "key": "53ea1027d2bf2893a552cf15bc0366de"
+          }
+        },
+        {
+          "code": "MOMOAUVI",
+          "title": "AUVIO SPORTS - AQ",
+          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/e17dc603.isml/.mpd?t=2026-11-07T09:20:00.000",
+          "drm": {
+            "kid": "763a0857301342ba983f5d438a5d0350",
+            "key": "3da9ec03a40123f989c456107bbaa339"
+          }
+        },
+        {
+          "code": "MOMOSPOT",
+          "title": "SPOTV - AQ",
+          "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+          "drm": {
+            "kid": "7eea72d6075245a99ee3255603d58853",
+            "key": "6848ef60575579bf4d415db1032153ed"
           }
         }
       ]

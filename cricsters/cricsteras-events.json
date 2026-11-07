@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T15:08:05+05:30",
-  "generated_at_india": "07-11-2026 03:08:05 PM IST",
+  "generated_at": "2026-11-07T16:03:25+05:30",
+  "generated_at_india": "07-11-2026 04:03:25 PM IST",
   "total": 20,
   "events": [
     {
@@ -45,14 +45,6 @@
       "event_time_raw": 1793971800000,
       "category": "Mixed Martial Arts",
       "stream_count": 1
-    },
-    {
-      "event_id": "12",
-      "event_title": "MotoGP - MotoGP vs MotoGP",
-      "event_time": "06 Nov, 07:30 pm",
-      "event_time_raw": 1793973600000,
-      "category": "Motorsport",
-      "stream_count": 6
     },
     {
       "event_id": "4",
@@ -117,6 +109,14 @@
       "event_time_raw": 1794042300000,
       "category": "Rugby",
       "stream_count": 1
+    },
+    {
+      "event_id": "12",
+      "event_title": "MotoGP - MotoGP vs MotoGP",
+      "event_time": "07 Nov, 03:00 pm",
+      "event_time_raw": 1794043800000,
+      "category": "Motorsport",
+      "stream_count": 6
     },
     {
       "event_id": "13",
