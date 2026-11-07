@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T09:10:33+05:30",
-  "generated_at_india": "07-11-2026 09:10:33 AM IST",
-  "total": 19,
-  "ok": 19,
+  "generated_at": "2026-11-07T10:11:57+05:30",
+  "generated_at_india": "07-11-2026 10:11:57 AM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
@@ -466,15 +466,15 @@
       "event_time": "07 Nov, 10:10 am",
       "event_time_raw": 1794026400000,
       "category": "Cricket",
-      "stream_count": 5,
+      "stream_count": 4,
       "streams": [
         {
           "code": "MEADWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd",
           "drm": {
-            "kid": "b2c92cec93ed53bbc297d9ab55ae4c72",
-            "key": "6dfa3680190db85be7659d6faaac5d91"
+            "kid": "8034d996508ff5f2f3017d9e2a03d3e6",
+            "key": "ce2d564ec40cf4a6423afcc93e28f2be"
           }
         },
         {
@@ -484,15 +484,6 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        },
-        {
-          "code": "MEADWILLKQ",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd",
-          "drm": {
-            "kid": "edbd9d6a45038d8031f8acda793333db",
-            "key": "837f1272ecc58bd183c3adbbd64bf2ab"
           }
         },
         {
@@ -636,6 +627,25 @@
       "streams": [
         {
           "code": "CDRELALI",
+          "title": "LALIGA HYPEMOTION ES - AQ",
+          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm": {
+            "kid": "a88617e904504ee291f49f0e60a51d49",
+            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "20",
+      "event_title": "LaLiga 2 - Leganés vs Albacete Balompié",
+      "event_time": "07 Nov, 11:00 pm",
+      "event_time_raw": 1794072600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LEALLALI",
           "title": "LALIGA HYPEMOTION ES - AQ",
           "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
           "drm": {
