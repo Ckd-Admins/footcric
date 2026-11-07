@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T00:59:53+05:30",
-  "generated_at_india": "08-11-2026 00:59:53 AM IST",
-  "total": 45,
+  "generated_at": "2026-11-08T01:53:07+05:30",
+  "generated_at_india": "08-11-2026 01:53:07 AM IST",
+  "total": 44,
   "events": [
     {
       "event_id": 50002,
@@ -41,18 +41,10 @@
     {
       "event_id": 50007,
       "event_title": "Afghanistan vs Zimbabwe",
-      "event_time": "2026-11-07 06:00",
-      "event_time_raw": "2026-11-07 06:00",
+      "event_time": "2026-11-08 06:00",
+      "event_time_raw": "2026-11-08 06:00",
       "category": "Cricket",
       "stream_count": 2
-    },
-    {
-      "event_id": 50008,
-      "event_title": "New Zealand vs India",
-      "event_time": "2026-11-07 03:00",
-      "event_time_raw": "2026-11-07 03:00",
-      "category": "Cricket",
-      "stream_count": 5
     },
     {
       "event_id": 50009,
@@ -97,8 +89,8 @@
     {
       "event_id": 50033,
       "event_title": "Abu Dhabi T10 League",
-      "event_time": "2026-11-07 11:30",
-      "event_time_raw": "2026-11-07 11:30",
+      "event_time": "2026-11-08 11:30",
+      "event_time_raw": "2026-11-08 11:30",
       "category": "Cricket",
       "stream_count": 2
     },
@@ -113,18 +105,10 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-07 08:10",
-      "event_time_raw": "2026-11-07 08:10",
+      "event_time": "2026-11-08 02:40",
+      "event_time_raw": "2026-11-08 02:40",
       "category": "WBBL",
       "stream_count": 3
-    },
-    {
-      "event_id": 50077,
-      "event_title": "Minnesota Wild vs San Jose Sharks",
-      "event_time": "2026-11-07 01:00",
-      "event_time_raw": "2026-11-07 01:00",
-      "category": "NHL",
-      "stream_count": 2
     },
     {
       "event_id": 50090,
@@ -140,7 +124,7 @@
       "event_time": "2026-11-07 20:00",
       "event_time_raw": "2026-11-07 20:00",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 3
+      "stream_count": 5
     },
     {
       "event_id": 50092,
@@ -148,7 +132,7 @@
       "event_time": "2026-11-07 20:05",
       "event_time_raw": "2026-11-07 20:05",
       "category": "Ligue 1 🇫🇷",
-      "stream_count": 3
+      "stream_count": 4
     },
     {
       "event_id": 50093,
@@ -156,7 +140,7 @@
       "event_time": "2026-11-07 19:45",
       "event_time_raw": "2026-11-07 19:45",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2
+      "stream_count": 6
     },
     {
       "event_id": 50094,
@@ -276,6 +260,14 @@
       "event_time": "2026-11-07 20:00",
       "event_time_raw": "2026-11-07 20:00",
       "category": "Scottish Premiership",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50116,
+      "event_title": "Hertha BSC vs VfL Wolfsburg",
+      "event_time": "2026-11-07 19:30",
+      "event_time_raw": "2026-11-07 19:30",
+      "category": "2. Bundesliga",
       "stream_count": 1
     },
     {
