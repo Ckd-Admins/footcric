@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T16:53:33+05:30",
-  "generated_at_india": "07-11-2026 04:53:33 PM IST",
-  "total": 42,
+  "generated_at": "2026-11-07T17:59:51+05:30",
+  "generated_at_india": "07-11-2026 05:59:51 PM IST",
+  "total": 44,
   "events": [
     {
       "event_id": 50002,
@@ -172,7 +172,7 @@
       "event_time": "2026-11-07 12:30",
       "event_time_raw": "2026-11-07 12:30",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": 50098,
@@ -321,6 +321,22 @@
     {
       "event_id": 50135,
       "event_title": "Wrexham vs Wolverhampton",
+      "event_time": "2026-11-07 12:30",
+      "event_time_raw": "2026-11-07 12:30",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50136,
+      "event_title": "Bristol City vs Norwich City",
+      "event_time": "2026-11-07 12:30",
+      "event_time_raw": "2026-11-07 12:30",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50137,
+      "event_title": "Portsmouth vs Stoke City",
       "event_time": "2026-11-07 12:30",
       "event_time_raw": "2026-11-07 12:30",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
