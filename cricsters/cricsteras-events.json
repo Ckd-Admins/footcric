@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T19:12:51+05:30",
-  "generated_at_india": "07-11-2026 07:12:51 PM IST",
-  "total": 23,
+  "generated_at": "2026-11-07T20:03:58+05:30",
+  "generated_at_india": "07-11-2026 08:03:58 PM IST",
+  "total": 22,
   "events": [
     {
       "event_id": "16",
@@ -39,28 +39,12 @@
       "stream_count": 1
     },
     {
-      "event_id": "5",
-      "event_title": "Formula 1 - Formula 1 vs Formula 1",
-      "event_time": "07 Nov, 12:15 am",
-      "event_time_raw": 1793990700000,
-      "category": "Motorsport",
-      "stream_count": 7
-    },
-    {
       "event_id": "2",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
       "category": "Cricket",
       "stream_count": 5
-    },
-    {
-      "event_id": "17",
-      "event_title": "Test Series - Afghanistan vs Zimbabwe",
-      "event_time": "07 Nov, 11:30 am",
-      "event_time_raw": 1794031200000,
-      "category": "Cricket",
-      "stream_count": 2
     },
     {
       "event_id": "13",
@@ -103,26 +87,10 @@
       "stream_count": 2
     },
     {
-      "event_id": "21",
+      "event_id": "19",
       "event_title": "Indian Super League - Inter Kashi FC vs Sporting Delhi",
       "event_time": "07 Nov, 05:00 pm",
       "event_time_raw": 1794051000000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "19",
-      "event_title": "2. Bundesliga - VfL Osnabrück vs 1. FC Kaiserslautern",
-      "event_time": "07 Nov, 05:30 pm",
-      "event_time_raw": 1794052800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "20",
-      "event_title": "2. Bundesliga - Holstein Kiel vs Arminia Bielefeld",
-      "event_time": "07 Nov, 05:30 pm",
-      "event_time_raw": 1794052800000,
       "category": "Football",
       "stream_count": 1
     },
@@ -143,7 +111,23 @@
       "stream_count": 4
     },
     {
-      "event_id": "22",
+      "event_id": "5",
+      "event_title": "Formula 1 - Formula 1 vs Formula 1",
+      "event_time": "07 Nov, 08:00 pm",
+      "event_time_raw": 1794061800000,
+      "category": "Motorsport",
+      "stream_count": 7
+    },
+    {
+      "event_id": "21",
+      "event_title": "Bundesliga - 1. FSV Mainz 05 vs FC Bayern München",
+      "event_time": "07 Nov, 08:00 pm",
+      "event_time_raw": 1794061800000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "20",
       "event_title": "LaLiga 2 - Cádiz vs Real Oviedo",
       "event_time": "07 Nov, 08:45 pm",
       "event_time_raw": 1794064500000,
@@ -151,7 +135,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "LaLiga 2 - Leganés vs Albacete Balompié",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -163,6 +147,14 @@
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "08 Nov, 09:00 am",
       "event_time_raw": 1794108600000,
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
+      "event_id": "17",
+      "event_title": "Test Series - Afghanistan vs Zimbabwe",
+      "event_time": "08 Nov, 11:30 am",
+      "event_time_raw": 1794117600000,
       "category": "Cricket",
       "stream_count": 2
     },

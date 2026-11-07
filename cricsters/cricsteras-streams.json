@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T19:12:51+05:30",
-  "generated_at_india": "07-11-2026 07:12:51 PM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-11-07T20:03:58+05:30",
+  "generated_at_india": "07-11-2026 08:03:58 PM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -121,79 +121,6 @@
       ]
     },
     {
-      "event_id": "5",
-      "event_title": "Formula 1 - Formula 1 vs Formula 1",
-      "event_time": "07 Nov, 12:15 am",
-      "event_time_raw": 1793990700000,
-      "category": "Motorsport",
-      "stream_count": 7,
-      "streams": [
-        {
-          "code": "FOFOFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        },
-        {
-          "code": "FOFOSKYS",
-          "title": "SKY SPORTS F1 DE AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd",
-          "drm": {
-            "kid": "0d7d09d646a2a4edd51b87563abe77a3",
-            "key": "a1e63461298a129daa947f42cbad4aa2"
-          }
-        },
-        {
-          "code": "FOFOTSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        },
-        {
-          "code": "FOFOSPOR",
-          "title": "Sportv 3 BR - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-          "drm": {
-            "kid": "902e5ec0e3d05e665daa32fc23f4f59e",
-            "key": "7b2322a273843921a43e2c61dac7cae3"
-          }
-        },
-        {
-          "code": "FOFOCANA",
-          "title": "CANAL5 FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm": {
-            "kid": "d695093ea3e66d75a4d213a3e2cbf360",
-            "key": "01be3f645e89a067d2786c295f68dde4"
-          }
-        },
-        {
-          "code": "FOFOAUVI",
-          "title": "AUVIO SPORTS - AQ",
-          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/939644a5.isml/.mpd?t=2026-10-31T20:48:00.000",
-          "drm": {
-            "kid": "6cf9630821f943379833e75b82c02561",
-            "key": "734821c0e5174457fd185a4f6658932d"
-          }
-        },
-        {
-          "code": "FOFOELEV",
-          "title": "ELEVEN SPORTS",
-          "url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-          "drm": {
-            "kid": "69021095220f3c0eae9bc24215fd692b",
-            "key": "eb58cfe0458ed0b48f7351fa3393ad59"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "2",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
@@ -249,34 +176,6 @@
       ]
     },
     {
-      "event_id": "17",
-      "event_title": "Test Series - Afghanistan vs Zimbabwe",
-      "event_time": "07 Nov, 11:30 am",
-      "event_time_raw": 1794031200000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "AFZIWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
-          "drm": {
-            "kid": "8e9af61f4a7f6d5a8f27cd3b85cc9a1d",
-            "key": "bafb7bbc65820a0d0a5f77a990db7b76"
-          }
-        },
-        {
-          "code": "AFZIWILLES",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "13",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "07 Nov, 03:00 pm",
@@ -323,10 +222,10 @@
         {
           "code": "MOMOAUVI",
           "title": "AUVIO SPORTS - AQ",
-          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/e17dc603.isml/.mpd?t=2026-11-07T09:20:00.000",
+          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/edf969e9.isml/.mpd?t=2026-11-07T13:35:00.000",
           "drm": {
-            "kid": "763a0857301342ba983f5d438a5d0350",
-            "key": "3da9ec03a40123f989c456107bbaa339"
+            "kid": "33d2367b7cad445488ae32c8e90e3074",
+            "key": "94c16f15275f8f4eab1685c39138d1f5"
           }
         },
         {
@@ -480,7 +379,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "19",
       "event_title": "Indian Super League - Inter Kashi FC vs Sporting Delhi",
       "event_time": "07 Nov, 05:00 pm",
       "event_time_raw": 1794051000000,
@@ -494,44 +393,6 @@
           "drm": {
             "kid": "b7258d3c40420a02b5922e244d59b3c1",
             "key": "231193fb3bc8be46e4fa5ae61bb460e8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "19",
-      "event_title": "2. Bundesliga - VfL Osnabrück vs 1. FC Kaiserslautern",
-      "event_time": "07 Nov, 05:30 pm",
-      "event_time_raw": 1794052800000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "VF1SHAH",
-          "title": "SHAHID AR/EN - AQ",
-          "url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
-          "drm": {
-            "kid": "50a7f3afc00a40b38face4db639d0e4c",
-            "key": "ad7000691326064706281a700b7d6714"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "20",
-      "event_title": "2. Bundesliga - Holstein Kiel vs Arminia Bielefeld",
-      "event_time": "07 Nov, 05:30 pm",
-      "event_time_raw": 1794052800000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "HOARSHAH",
-          "title": "SHAHID AR/EN - AQ",
-          "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
-          "drm": {
-            "kid": "ab081a704aad41829b1123b09b6ecafd",
-            "key": "dd51609092fff15e68b91debf5d591f9"
           }
         }
       ]
@@ -638,7 +499,108 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "5",
+      "event_title": "Formula 1 - Formula 1 vs Formula 1",
+      "event_time": "07 Nov, 08:00 pm",
+      "event_time_raw": 1794061800000,
+      "category": "Motorsport",
+      "stream_count": 7,
+      "streams": [
+        {
+          "code": "FOFOFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
+          }
+        },
+        {
+          "code": "FOFOSKYS",
+          "title": "SKY SPORTS F1 DE AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd",
+          "drm": {
+            "kid": "0d7d09d646a2a4edd51b87563abe77a3",
+            "key": "a1e63461298a129daa947f42cbad4aa2"
+          }
+        },
+        {
+          "code": "FOFOTSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        },
+        {
+          "code": "FOFOSPOR",
+          "title": "Sportv 3 BR - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+          "drm": {
+            "kid": "902e5ec0e3d05e665daa32fc23f4f59e",
+            "key": "7b2322a273843921a43e2c61dac7cae3"
+          }
+        },
+        {
+          "code": "FOFOCANA",
+          "title": "CANAL5 FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm": {
+            "kid": "d695093ea3e66d75a4d213a3e2cbf360",
+            "key": "01be3f645e89a067d2786c295f68dde4"
+          }
+        },
+        {
+          "code": "FOFOAUVI",
+          "title": "AUVIO SPORTS - AQ",
+          "url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/939644a5.isml/.mpd?t=2026-10-31T20:48:00.000",
+          "drm": {
+            "kid": "6cf9630821f943379833e75b82c02561",
+            "key": "734821c0e5174457fd185a4f6658932d"
+          }
+        },
+        {
+          "code": "FOFOELEV",
+          "title": "ELEVEN SPORTS",
+          "url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+          "drm": {
+            "kid": "69021095220f3c0eae9bc24215fd692b",
+            "key": "eb58cfe0458ed0b48f7351fa3393ad59"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "21",
+      "event_title": "Bundesliga - 1. FSV Mainz 05 vs FC Bayern München",
+      "event_time": "07 Nov, 08:00 pm",
+      "event_time_raw": 1794061800000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "1FCSKYS",
+          "title": "SKY SPORT DE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
+          "drm": {
+            "kid": "368bd4ebe301406897324bc777650411",
+            "key": "69d27c2c2b7de927d67aacc973259901"
+          }
+        },
+        {
+          "code": "1FCSHAH",
+          "title": "SHAHID AR/EN - AQ",
+          "url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
+          "drm": {
+            "kid": "50a7f3afc00a40b38face4db639d0e4c",
+            "key": "ad7000691326064706281a700b7d6714"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "20",
       "event_title": "LaLiga 2 - Cádiz vs Real Oviedo",
       "event_time": "07 Nov, 08:45 pm",
       "event_time_raw": 1794064500000,
@@ -657,7 +619,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "LaLiga 2 - Leganés vs Albacete Balompié",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -699,6 +661,34 @@
           "drm": {
             "kid": "5318e462b9e0677487cb87837f0bbdb1",
             "key": "4fa0fb973b95738306005f2e8591bf8e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "17",
+      "event_title": "Test Series - Afghanistan vs Zimbabwe",
+      "event_time": "08 Nov, 11:30 am",
+      "event_time_raw": 1794117600000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "AFZIWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
+          "drm": {
+            "kid": "8e9af61f4a7f6d5a8f27cd3b85cc9a1d",
+            "key": "bafb7bbc65820a0d0a5f77a990db7b76"
+          }
+        },
+        {
+          "code": "AFZIWILLES",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
         }
       ]
