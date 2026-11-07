@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T20:00:36+05:30",
-  "generated_at_india": "07-11-2026 08:00:36 PM IST",
-  "total": 49,
-  "ok": 49,
+  "generated_at": "2026-11-07T20:55:22+05:30",
+  "generated_at_india": "07-11-2026 08:55:22 PM IST",
+  "total": 51,
+  "ok": 51,
   "failed": 0,
   "events": [
     {
@@ -749,6 +749,34 @@
       ]
     },
     {
+      "event_id": 50095,
+      "event_title": "Arsenal vs Hull City",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "ARHUPEAC",
+          "title": "PEACOCK TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/igr5elwsmu/out/v1/fd08479ed632421dae63f6c9d2705b3d/cenc.mpd?",
+          "drm": {
+            "kid": "f0ab82e649db67c77f045022194c3cb2",
+            "key": "5e21bae323c1278656e6c93a70928aea"
+          }
+        },
+        {
+          "code": "ARHUSKYS",
+          "title": "SKY SPORTS PL DE",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
+          "drm": {
+            "kid": "1106fb025da5b31657618344099c6c14",
+            "key": "788284538616a73b56214e90196a6e0f"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50096,
       "event_title": "Leeds United vs Tottenham Hotspur",
       "event_time": "2026-11-07 12:30",
@@ -781,6 +809,25 @@
           "drm": {
             "kid": "42f72c025dd53039244adc13b7e31dad",
             "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50097,
+      "event_title": "Fulham vs Newcastle United",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FUNESKYS",
+          "title": "SKY SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yd0huk04ob/out/v1/bc2ed690e3134c4c82a7c51b7174b5ae/cenc.mpd",
+          "drm": {
+            "kid": "09d34ac8d64803c1f8b1bddada99d638",
+            "key": "752ab3efc7eb3601c8d3c6b5a89ffa39"
           }
         }
       ]
@@ -828,8 +875,17 @@
       "event_time": "2026-11-07 15:15",
       "event_time_raw": "2026-11-07 15:15",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 2,
+      "stream_count": 4,
       "streams": [
+        {
+          "code": "ESDEDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4z7q1lwrby/out/v1/00524dd3cabf40e286e7cee4efac26a1/cenc.mpd",
+          "drm": {
+            "kid": "75bd9f8b4f59099e267457961fd3108f",
+            "key": "ec3f44beaceabcc0fc81640ceaa3407a"
+          }
+        },
         {
           "code": "ESDEBEIN",
           "title": "beIN ENGLISH FHD",
@@ -840,12 +896,21 @@
           }
         },
         {
+          "code": "ESDESPOR",
+          "title": "D Sports FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "drm": {
+            "kid": "f836853d8eac19446ed9535f5fc568b1",
+            "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+          }
+        },
+        {
           "code": "ESDECAZE",
           "title": "CAZE TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
           "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
+            "kid": "ba6aca5a550163c38d06646bb50f04e7",
+            "key": "516c3b471fce48a5b7a2e5ee7dd505f2"
           }
         }
       ]
@@ -930,12 +995,21 @@
       "event_time": "2026-11-07 14:00",
       "event_time_raw": "2026-11-07 14:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "TOLEPARA",
           "title": "PARAMOUNT+ FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lk35uqe5hp/out/v1/8e3bc19493fa48969d3632289611d484/cenc.mpd",
+          "drm": {
+            "kid": "2586c0d06d8887a499f9998f65d3654a",
+            "key": "942cd5a24bd02c1c2ab9e0986f74cf2f"
+          }
+        },
+        {
+          "code": "TOLEPEAC",
+          "title": "PEACOCK TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5uaduhh4kl/out/v1/978d2369e73e41a5ad2d88126242fe72/cenc.mpd",
           "drm": {
             "kid": "2586c0d06d8887a499f9998f65d3654a",
             "key": "942cd5a24bd02c1c2ab9e0986f74cf2f"
@@ -958,12 +1032,21 @@
       "event_time": "2026-11-07 14:00",
       "event_time_raw": "2026-11-07 14:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "CAFRPARA",
           "title": "PARAMOUNT+ FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bdcgyalvay/out/v1/c81e08a081824b08b9d9ea680e494b53/cenc.mpd",
+          "drm": {
+            "kid": "9644dcd60302e7261e76e6f4bd052782",
+            "key": "6fd8de55b1f4ff98ce540b08bea9b403"
+          }
+        },
+        {
+          "code": "CAFRPEAC",
+          "title": "PEACOCK TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jgr1ktffa3/out/v1/49844b8b8ebe4e3da711236747246598/cenc.mpd",
           "drm": {
             "kid": "9644dcd60302e7261e76e6f4bd052782",
             "key": "6fd8de55b1f4ff98ce540b08bea9b403"
@@ -986,8 +1069,17 @@
       "event_time": "2026-11-07 14:30",
       "event_time_raw": "2026-11-07 14:30",
       "category": "Bundesliga 🇩🇪",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "MABAPEAC",
+          "title": "PEACOCK TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/na2zo0qmkg/out/v1/08320d9893444121bbc1ce32de192736/cenc.mpd",
+          "drm": {
+            "kid": "68b6bf4f863f49ffad6f1c09b33544b4",
+            "key": "6d39a5c0706f657c3c57da2ef042b67f"
+          }
+        },
         {
           "code": "MABASKYS",
           "title": "SKY SPORTS DE FHD",
@@ -1005,8 +1097,17 @@
       "event_time": "2026-11-07 14:30",
       "event_time_raw": "2026-11-07 14:30",
       "category": "Bundesliga 🇩🇪",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "BOELPEAC",
+          "title": "PEACOCK TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bqvpo0dbhn/out/v1/b5045f6bffd04d5d99d6918bb2450c63/cenc.mpd",
+          "drm": {
+            "kid": "a6cb6545663a788b31097762d04d1eae",
+            "key": "913e70d7380d473e4e31e838d1ef4c6e"
+          }
+        },
         {
           "code": "BOELSKYS",
           "title": "SKY SPORT DE FHD",
@@ -1033,8 +1134,17 @@
       "event_time": "2026-11-07 14:30",
       "event_time_raw": "2026-11-07 14:30",
       "category": "Bundesliga 🇩🇪",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "RBAUPEAC",
+          "title": "PEACOCK TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kevwxr5kzz/out/v1/88f1f2d6b1aa423da350d32f29286c97/cenc.mpd",
+          "drm": {
+            "kid": "8a650b8c677114ae6c166fde76b8f7b5",
+            "key": "a6e66101e9acaa338ccc516624413359"
+          }
+        },
         {
           "code": "RBAUSKYS",
           "title": "SKY SPORTS DE FHD",
@@ -1042,6 +1152,34 @@
           "drm": {
             "kid": "5e0ee93e86d783f011561f18ff8f34e6",
             "key": "b570eceee332c7e50f87fca1f51e0966"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50108,
+      "event_title": "SC Paderborn vs Eintracht Frankfurt",
+      "event_time": "2026-11-07 14:30",
+      "event_time_raw": "2026-11-07 14:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "SCEIPEAC",
+          "title": "PEACOCK TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oqymjvhuld/out/v1/538614f3e2714dc0ad99ac7905570e97/cenc.mpd",
+          "drm": {
+            "kid": "b96213572690354511dd6dfd1401a8b2",
+            "key": "4d35d3c8323c67efd107e3c11c70ed54"
+          }
+        },
+        {
+          "code": "SCEISKYS",
+          "title": "SKY SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ubiowncrej/out/v1/def874d66d3b4dfa99c354ee7d0855c0/cenc.mpd",
+          "drm": {
+            "kid": "f38ce843871b3e5aa97b8461a093a424",
+            "key": "b51d62eeec9c136513c12ea7ec291f6f"
           }
         }
       ]
@@ -1221,8 +1359,17 @@
       "event_time": "2026-11-07 15:00",
       "event_time_raw": "2026-11-07 15:00",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "BISWPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9gvzth7hm8/out/v1/3081336e7e1942348518f9e9ed6e7335/cenc.mpd",
+          "drm": {
+            "kid": "8a43e0307d35ee998538d727c547ed89",
+            "key": "6b209a23caf17807e80c0670b573c052"
+          }
+        },
         {
           "code": "BISWBEIN",
           "title": "beIN ENGLISH FHD",
@@ -1240,8 +1387,17 @@
       "event_time": "2026-11-07 15:00",
       "event_time_raw": "2026-11-07 15:00",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "WAMIPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/skb3attrzy/out/v1/d1e636cbe85148788138f225bd6f8b83/cenc.mpd",
+          "drm": {
+            "kid": "1c2dcc968064d2493bfbd7231fcbe362",
+            "key": "f10128e1b1c65fd1039eb7ac49125d64"
+          }
+        },
         {
           "code": "WAMICBSN",
           "title": "CBS NETWORK FHD",
@@ -1249,6 +1405,63 @@
           "drm": {
             "kid": "d9623774ac5c8c351aafe97c5fe70267",
             "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50128,
+      "event_title": "Charlton Athletic vs Sheffield United",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CHSHPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/22h786togr/out/v1/fbe8d1279f774747ade3d885e30bc75a/cenc.mpd",
+          "drm": {
+            "kid": "ef80abb6ec5080512a98462c37e1d4c8",
+            "key": "a68e77e7e7a82b31cfd0a0fd4d4d1abc"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50129,
+      "event_title": "Blackburn Rovers vs West Ham United",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BLWEPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/snsskxvtx6/out/v1/d03c989306884a7fb57c464849c677f2/cenc.mpd",
+          "drm": {
+            "kid": "f398e33ebe7eda534d3bd80b041f9310",
+            "key": "497411a777d659e6d256a8989dd65f36"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50130,
+      "event_title": "West Bromwich vs Millwall",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "WEMIPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/69l2l4hgiy/out/v1/0fa831fdd02f46e7b827773416b15567/cenc.mpd",
+          "drm": {
+            "kid": "3421eae2b6fce89959fe13bf4b613f79",
+            "key": "7ce195c737344a6cb9ee6a1260ffc11a"
           }
         }
       ]
@@ -1330,72 +1543,6 @@
       ]
     },
     {
-      "event_id": 50135,
-      "event_title": "Wrexham vs Wolverhampton",
-      "event_time": "2026-11-07 12:30",
-      "event_time_raw": "2026-11-07 12:30",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "WRWOPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gwy1zsrxmm/out/v1/5298cdb40c7d4201b527a35d8139a09a/cenc.mpd",
-          "drm": {
-            "kid": "edbd40fc65cbd3cab4bc9181599a38d0",
-            "key": "e527aa01a172073a5c40680dec5a48b3"
-          }
-        },
-        {
-          "code": "WRWOBEIN",
-          "title": "beIN ENGLISH FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "drm": {
-            "kid": "7995c724a13748ed970840a8ab5bb9b3",
-            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50136,
-      "event_title": "Bristol City vs Norwich City",
-      "event_time": "2026-11-07 12:30",
-      "event_time_raw": "2026-11-07 12:30",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "BRNOPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fg4qk0uxik/out/v1/317961806c5a4618b4dd609903d95c7f/cenc.mpd",
-          "drm": {
-            "kid": "5db90f05de9d72e6fff79fba94f76c7c",
-            "key": "c0b4106d03a9f1182ccffb96b4427805"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50137,
-      "event_title": "Portsmouth vs Stoke City",
-      "event_time": "2026-11-07 12:30",
-      "event_time_raw": "2026-11-07 12:30",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "POSTPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mti4pjwnix/out/v1/993cad2eeed7415f913cdc08c5d1e1ee/cenc.mpd",
-          "drm": {
-            "kid": "3ab0bd140d441b03a5ecb8a62bf5117f",
-            "key": "d55a031a7ad0deeb0460ef6874602c7f"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50140,
       "event_title": "Bundesliga Conference",
       "event_time": "2026-11-07 14:25",
@@ -1417,8 +1564,8 @@
     {
       "event_id": 50141,
       "event_title": "Indian Super League",
-      "event_time": "2026-11-07 11:30",
-      "event_time_raw": "2026-11-07 11:30",
+      "event_time": "2026-11-07 14:00",
+      "event_time_raw": "2026-11-07 14:00",
       "category": "ISL",
       "stream_count": 1,
       "streams": [
@@ -1429,43 +1576,6 @@
           "drm": {
             "kid": "b7258d3c40420a02b5922e244d59b3c1",
             "key": "231193fb3bc8be46e4fa5ae61bb460e8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50142,
-      "event_title": "Sri Lanka Under-19 vs Bangladesh Under-19",
-      "event_time": "2026-11-07 05:00",
-      "event_time_raw": "2026-11-07 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SRBAWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dtmozm83d5/out/v1/f352036cb781432697950dff0519cec8/cenc.mpd",
-          "drm": {
-            "kid": "0fba170e6a8f0a48ce0f79ace5f8fae1",
-            "key": "153c8d4dfd85e4b19738eaf8b21494ca"
-          }
-        },
-        {
-          "code": "SRBAPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dl1fffpemp/out/v1/1614fa801f50438792fcc1c8ca3938ef/cenc.mpd",
-          "drm": {
-            "kid": "ba574d2f843814a52b478ede5f2d1801",
-            "key": "075d45773a901e56cea8f12bc4e2e7f1"
-          }
-        },
-        {
-          "code": "SRBAWILLLY",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dtmozm83d5/out/v1/f352036cb781432697950dff0519cec8/cenc.mpd",
-          "drm": {
-            "kid": "0fba170e6a8f0a48ce0f79ace5f8fae1",
-            "key": "153c8d4dfd85e4b19738eaf8b21494ca"
           }
         }
       ]

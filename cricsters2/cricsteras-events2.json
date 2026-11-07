@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T20:00:36+05:30",
-  "generated_at_india": "07-11-2026 08:00:36 PM IST",
-  "total": 49,
+  "generated_at": "2026-11-07T20:55:22+05:30",
+  "generated_at_india": "07-11-2026 08:55:22 PM IST",
+  "total": 51,
   "events": [
     {
       "event_id": 50002,
@@ -167,12 +167,28 @@
       "stream_count": 1
     },
     {
+      "event_id": 50095,
+      "event_title": "Arsenal vs Hull City",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 2
+    },
+    {
       "event_id": 50096,
       "event_title": "Leeds United vs Tottenham Hotspur",
       "event_time": "2026-11-07 12:30",
       "event_time_raw": "2026-11-07 12:30",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "stream_count": 3
+    },
+    {
+      "event_id": 50097,
+      "event_title": "Fulham vs Newcastle United",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
     },
     {
       "event_id": 50098,
@@ -188,7 +204,7 @@
       "event_time": "2026-11-07 15:15",
       "event_time_raw": "2026-11-07 15:15",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 2
+      "stream_count": 4
     },
     {
       "event_id": 50100,
@@ -212,7 +228,7 @@
       "event_time": "2026-11-07 14:00",
       "event_time_raw": "2026-11-07 14:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": 50103,
@@ -220,7 +236,7 @@
       "event_time": "2026-11-07 14:00",
       "event_time_raw": "2026-11-07 14:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": 50105,
@@ -228,7 +244,7 @@
       "event_time": "2026-11-07 14:30",
       "event_time_raw": "2026-11-07 14:30",
       "category": "Bundesliga 🇩🇪",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50106,
@@ -236,7 +252,7 @@
       "event_time": "2026-11-07 14:30",
       "event_time_raw": "2026-11-07 14:30",
       "category": "Bundesliga 🇩🇪",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": 50107,
@@ -244,7 +260,15 @@
       "event_time": "2026-11-07 14:30",
       "event_time_raw": "2026-11-07 14:30",
       "category": "Bundesliga 🇩🇪",
-      "stream_count": 1
+      "stream_count": 2
+    },
+    {
+      "event_id": 50108,
+      "event_title": "SC Paderborn vs Eintracht Frankfurt",
+      "event_time": "2026-11-07 14:30",
+      "event_time_raw": "2026-11-07 14:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 2
     },
     {
       "event_id": 50110,
@@ -308,11 +332,35 @@
       "event_time": "2026-11-07 15:00",
       "event_time_raw": "2026-11-07 15:00",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50127,
       "event_title": "Watford vs Middlesbrough",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50128,
+      "event_title": "Charlton Athletic vs Sheffield United",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50129,
+      "event_title": "Blackburn Rovers vs West Ham United",
+      "event_time": "2026-11-07 15:00",
+      "event_time_raw": "2026-11-07 15:00",
+      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50130,
+      "event_title": "West Bromwich vs Millwall",
       "event_time": "2026-11-07 15:00",
       "event_time_raw": "2026-11-07 15:00",
       "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -351,30 +399,6 @@
       "stream_count": 1
     },
     {
-      "event_id": 50135,
-      "event_title": "Wrexham vs Wolverhampton",
-      "event_time": "2026-11-07 12:30",
-      "event_time_raw": "2026-11-07 12:30",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50136,
-      "event_title": "Bristol City vs Norwich City",
-      "event_time": "2026-11-07 12:30",
-      "event_time_raw": "2026-11-07 12:30",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50137,
-      "event_title": "Portsmouth vs Stoke City",
-      "event_time": "2026-11-07 12:30",
-      "event_time_raw": "2026-11-07 12:30",
-      "category": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
-    },
-    {
       "event_id": 50140,
       "event_title": "Bundesliga Conference",
       "event_time": "2026-11-07 14:25",
@@ -385,18 +409,10 @@
     {
       "event_id": 50141,
       "event_title": "Indian Super League",
-      "event_time": "2026-11-07 11:30",
-      "event_time_raw": "2026-11-07 11:30",
+      "event_time": "2026-11-07 14:00",
+      "event_time_raw": "2026-11-07 14:00",
       "category": "ISL",
       "stream_count": 1
-    },
-    {
-      "event_id": 50142,
-      "event_title": "Sri Lanka Under-19 vs Bangladesh Under-19",
-      "event_time": "2026-11-07 05:00",
-      "event_time_raw": "2026-11-07 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3
     }
   ],
   "raw_data": ""
