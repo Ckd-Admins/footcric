@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T08:06:15+05:30",
-  "generated_at_india": "07-11-2026 08:06:15 AM IST",
-  "total": 42,
-  "ok": 42,
+  "generated_at": "2026-11-07T09:06:14+05:30",
+  "generated_at_india": "07-11-2026 09:06:14 AM IST",
+  "total": 39,
+  "ok": 39,
   "failed": 0,
   "events": [
     {
@@ -194,8 +194,8 @@
     {
       "event_id": 50006,
       "event_title": "AEW Dynamite",
-      "event_time": "2026-11-05 00:00",
-      "event_time_raw": "2026-11-05 00:00",
+      "event_time": "2026-11-12 00:00",
+      "event_time_raw": "2026-11-12 00:00",
       "category": "WWE",
       "stream_count": 2,
       "streams": [
@@ -250,20 +250,11 @@
     {
       "event_id": 50008,
       "event_title": "New Zealand vs India",
-      "event_time": "2026-11-07 02:00",
-      "event_time_raw": "2026-11-07 02:00",
+      "event_time": "2026-11-07 03:00",
+      "event_time_raw": "2026-11-07 03:00",
       "category": "Cricket",
       "stream_count": 5,
       "streams": [
-        {
-          "code": "NEINWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1xyi7lfzjb/out/v1/c2421551360249a1a4ea2ea8c8a7c1ad/cenc.mpd",
-          "drm": {
-            "kid": "d1be89e5a60d67f753be9b35a803c8b9",
-            "key": "f8e35aafae8c3f3dd92dac7be4642a8b"
-          }
-        },
         {
           "code": "NEINPRIM",
           "title": "PRIME VIDEO (ENG)",
@@ -280,6 +271,15 @@
           "drm": {
             "kid": "8e3eef73bb953c9da96600b47e2190d1",
             "key": "f1dbf72267c0bb24aa5fa2ab61987df8"
+          }
+        },
+        {
+          "code": "NEINWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1xyi7lfzjb/out/v1/c2421551360249a1a4ea2ea8c8a7c1ad/cenc.mpd",
+          "drm": {
+            "kid": "d1be89e5a60d67f753be9b35a803c8b9",
+            "key": "f8e35aafae8c3f3dd92dac7be4642a8b"
           }
         },
         {
@@ -305,8 +305,8 @@
     {
       "event_id": 50009,
       "event_title": "ONE Friday Fights",
-      "event_time": "2026-11-06 13:30",
-      "event_time_raw": "2026-11-06 13:30",
+      "event_time": "2026-11-13 13:30",
+      "event_time_raw": "2026-11-13 13:30",
       "category": "Boxing",
       "stream_count": 4,
       "streams": [
@@ -351,8 +351,8 @@
     {
       "event_id": 50011,
       "event_title": "🥊 WWE Friday Night SmackDown",
-      "event_time": "2026-11-07 00:00",
-      "event_time_raw": "2026-11-07 00:00",
+      "event_time": "2026-11-14 00:00",
+      "event_time_raw": "2026-11-14 00:00",
       "category": "WWE",
       "stream_count": 1,
       "streams": [
@@ -368,38 +368,29 @@
       ]
     },
     {
-      "event_id": 50013,
-      "event_title": "Baltimore Ravens vs Jacksonville Jaguars",
-      "event_time": "2026-11-06 01:15",
-      "event_time_raw": "2026-11-06 01:15",
-      "category": "NFL",
-      "stream_count": 3,
+      "event_id": 50012,
+      "event_title": "Pakistan vs Sri Lanka",
+      "event_time": "2026-11-09 04:30",
+      "event_time_raw": "2026-11-09 04:30",
+      "category": "Cricket",
+      "stream_count": 2,
       "streams": [
         {
-          "code": "BAJATSN4",
-          "title": "TSN4 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "code": "PASRWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
           "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
+            "kid": "a323fd2c6886dfea4831314fd63c4eb7",
+            "key": "462c6dd2b56c26e958f5981fea25aef4"
           }
         },
         {
-          "code": "BAJATSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "code": "PASRWILLU3",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
           "drm": {
-            "kid": "14eeabf30c14b7fbf3008c03099ce011",
-            "key": "17d2ac8dbc5429bd70af3433aa12158d"
-          }
-        },
-        {
-          "code": "BAJASPOR",
-          "title": "SporTV BR FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "drm": {
-            "kid": "9009b7189e3e68cc09d17811f2beb55a",
-            "key": "dd3f96a94c909da48ff40c92aabf8cf3"
+            "kid": "a323fd2c6886dfea4831314fd63c4eb7",
+            "key": "462c6dd2b56c26e958f5981fea25aef4"
           }
         }
       ]
@@ -407,8 +398,8 @@
     {
       "event_id": 50019,
       "event_title": "ATP Paris & WTA Hong Kong",
-      "event_time": "2026-11-06 06:00",
-      "event_time_raw": "2026-11-06 06:00",
+      "event_time": "2026-11-07 06:00",
+      "event_time_raw": "2026-11-07 06:00",
       "category": "Tennis",
       "stream_count": 5,
       "streams": [
@@ -488,38 +479,10 @@
       ]
     },
     {
-      "event_id": 50044,
-      "event_title": "Charlotte Hornets vs Boston Celtics",
-      "event_time": "2026-11-07 00:00",
-      "event_time_raw": "2026-11-07 00:00",
-      "category": "NBA",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "CHBOTSN4",
-          "title": "TSN4 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
-          }
-        },
-        {
-          "code": "CHBOTSN5",
-          "title": "TSN5 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
-      "event_time": "2026-11-06 06:45",
-      "event_time_raw": "2026-11-06 06:45",
+      "event_time": "2026-11-07 11:15",
+      "event_time_raw": "2026-11-07 11:15",
       "category": "NPL",
       "stream_count": 1,
       "streams": [
@@ -537,8 +500,8 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-06 08:10",
-      "event_time_raw": "2026-11-06 08:10",
+      "event_time": "2026-11-07 04:40",
+      "event_time_raw": "2026-11-07 04:40",
       "category": "WBBL",
       "stream_count": 2,
       "streams": [
@@ -586,34 +549,6 @@
           "drm": {
             "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
             "key": "a883237ef30932b731f71aa59a0805c0"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50086,
-      "event_title": "Vitória vs Fluminense",
-      "event_time": "2026-11-06 23:00",
-      "event_time_raw": "2026-11-06 23:00",
-      "category": "Brasileirão",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "VIFLPREM",
-          "title": "PREMIERER BR FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "drm": {
-            "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-            "key": "fa38aaa865a57eda7c77444697ba8ed3"
-          }
-        },
-        {
-          "code": "VIFLSPOR",
-          "title": "SporTV BR FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "drm": {
-            "kid": "51c0ef23b17297e5c01cd7f36dd0a6ce",
-            "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
           }
         }
       ]
@@ -949,25 +884,6 @@
           "drm": {
             "kid": "34475edab991ad5e92548aebd710410a",
             "key": "501b209cccd323ac00bf5ac15b406cb4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50109,
-      "event_title": "Club Necaxa vs Club Tijuana",
-      "event_time": "2026-11-07 01:00",
-      "event_time_raw": "2026-11-07 01:00",
-      "category": "Liga MX",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CLCLFOXD",
-          "title": "FOX DEPORTES",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm": {
-            "kid": "d1a163914db8ffad2c3e94f979896a0d",
-            "key": "9728800a3959aafdd5b0bcfbf3768811"
           }
         }
       ]
