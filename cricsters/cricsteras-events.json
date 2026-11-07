@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T14:11:38+05:30",
-  "generated_at_india": "07-11-2026 02:11:38 PM IST",
+  "generated_at": "2026-11-07T15:08:05+05:30",
+  "generated_at_india": "07-11-2026 03:08:05 PM IST",
   "total": 20,
   "events": [
     {
@@ -103,20 +103,12 @@
       "stream_count": 2
     },
     {
-      "event_id": "13",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "07 Nov, 12:15 pm",
-      "event_time_raw": 1794033900000,
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
       "event_id": "17",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Hobart Hurricanes Women",
       "event_time": "07 Nov, 01:40 pm",
       "event_time_raw": 1794039000000,
       "category": "Cricket",
-      "stream_count": 3
+      "stream_count": 2
     },
     {
       "event_id": "18",
@@ -125,6 +117,14 @@
       "event_time_raw": 1794042300000,
       "category": "Rugby",
       "stream_count": 1
+    },
+    {
+      "event_id": "13",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "07 Nov, 04:45 pm",
+      "event_time_raw": 1794050100000,
+      "category": "Cricket",
+      "stream_count": 2
     },
     {
       "event_id": "19",

@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T14:11:38+05:30",
-  "generated_at_india": "07-11-2026 02:11:38 PM IST",
+  "generated_at": "2026-11-07T15:08:05+05:30",
+  "generated_at_india": "07-11-2026 03:08:05 PM IST",
   "total": 20,
   "ok": 20,
   "failed": 0,
@@ -489,48 +489,20 @@
       ]
     },
     {
-      "event_id": "13",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "07 Nov, 12:15 pm",
-      "event_time_raw": 1794033900000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "NPNPNPLL",
-          "title": "NPL LIVE - AQ",
-          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "NPNPFANC",
-          "title": "FANCODE SD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "drm": {
-            "kid": "286eb7dc538143790fa9913639531920",
-            "key": "e3f5cb08d14d9e9c08438c673819540f"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "17",
       "event_title": "Women's Big Bash League - Brisbane Heat Women vs Hobart Hurricanes Women",
       "event_time": "07 Nov, 01:40 pm",
       "event_time_raw": 1794039000000,
       "category": "Cricket",
-      "stream_count": 3,
+      "stream_count": 2,
       "streams": [
         {
           "code": "BRHOWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wmf2tyed3f/out/v1/4de89ed1f9e14660a76b85a983013ff8/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ccyildnmm0/out/v1/bae85fd9be274c13a7e0c658cef09664/cenc.mpd",
           "drm": {
-            "kid": "3d676f46dd6709ea6260baa6b5b7624d",
-            "key": "ec4601cd1af441689732ebe634d008c4"
+            "kid": "c79965c6e98d75014af324695469beb1",
+            "key": "1e13d1bd23ca2b97cf02d59013dd0d08"
           }
         },
         {
@@ -540,15 +512,6 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        },
-        {
-          "code": "BRHOWILLXJ",
-          "title": "WILLOW S2",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wmf2tyed3f/out/v1/4de89ed1f9e14660a76b85a983013ff8/cenc.mpd",
-          "drm": {
-            "kid": "3d676f46dd6709ea6260baa6b5b7624d",
-            "key": "ec4601cd1af441689732ebe634d008c4"
           }
         }
       ]
@@ -568,6 +531,34 @@
           "drm": {
             "kid": "1a5df53609ebc9857898c490f4724918",
             "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "13",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "07 Nov, 04:45 pm",
+      "event_time_raw": 1794050100000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "NPNPNPLL",
+          "title": "NPL LIVE - AQ",
+          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "NPNPFANC",
+          "title": "FANCODE SD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "drm": {
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
           }
         }
       ]
