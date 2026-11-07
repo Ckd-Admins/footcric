@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T15:58:47+05:30",
-  "generated_at_india": "07-11-2026 03:58:47 PM IST",
-  "total": 41,
+  "generated_at": "2026-11-07T16:53:33+05:30",
+  "generated_at_india": "07-11-2026 04:53:33 PM IST",
+  "total": 42,
   "events": [
     {
       "event_id": 50002,
@@ -95,6 +95,14 @@
       "stream_count": 2
     },
     {
+      "event_id": 50033,
+      "event_title": "Abu Dhabi T10 League",
+      "event_time": "2026-11-07 11:30",
+      "event_time_raw": "2026-11-07 11:30",
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-07 11:15",
@@ -153,8 +161,8 @@
     {
       "event_id": 50094,
       "event_title": "Bangladesh vs West Indies",
-      "event_time": "2026-11-07 03:30",
-      "event_time_raw": "2026-11-07 03:30",
+      "event_time": "2026-11-08 03:30",
+      "event_time_raw": "2026-11-08 03:30",
       "category": "Cricket",
       "stream_count": 1
     },
@@ -319,16 +327,16 @@
       "stream_count": 1
     },
     {
-      "event_id": 50142,
-      "event_title": "Sri Lanka Under-19 vs Bangladesh Under-19",
-      "event_time": "2026-11-07 05:00",
-      "event_time_raw": "2026-11-07 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3
+      "event_id": 50141,
+      "event_title": "Indian Super League",
+      "event_time": "2026-11-07 11:30",
+      "event_time_raw": "2026-11-07 11:30",
+      "category": "ISL",
+      "stream_count": 1
     },
     {
-      "event_id": 50143,
-      "event_title": "Afghanistan Under-19 vs Malaysia Under-19",
+      "event_id": 50142,
+      "event_title": "Sri Lanka Under-19 vs Bangladesh Under-19",
       "event_time": "2026-11-07 05:00",
       "event_time_raw": "2026-11-07 05:00",
       "category": "Asia Cup",
