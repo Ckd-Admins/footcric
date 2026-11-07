@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T23:59:39+05:30",
-  "generated_at_india": "07-11-2026 11:59:39 PM IST",
-  "total": 23,
+  "generated_at": "2026-11-08T01:04:09+05:30",
+  "generated_at_india": "08-11-2026 01:04:09 AM IST",
+  "total": 28,
   "events": [
     {
       "event_id": "16",
@@ -15,7 +15,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "6",
+      "event_id": "5",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -31,7 +31,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "7",
+      "event_id": "6",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -39,7 +39,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "2",
+      "event_id": "1",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -55,7 +55,7 @@
       "stream_count": 5
     },
     {
-      "event_id": "9",
+      "event_id": "8",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "07 Nov, 04:30 pm",
       "event_time_raw": 1794049200000,
@@ -71,36 +71,12 @@
       "stream_count": 2
     },
     {
-      "event_id": "4",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "07 Nov, 05:00 pm",
-      "event_time_raw": 1794051000000,
-      "category": "Snooker",
-      "stream_count": 3
-    },
-    {
-      "event_id": "18",
-      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
-      "event_time": "07 Nov, 05:00 pm",
-      "event_time_raw": 1794051000000,
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
       "event_id": "11",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "07 Nov, 07:00 pm",
       "event_time_raw": 1794058200000,
       "category": "Tennis",
       "stream_count": 4
-    },
-    {
-      "event_id": "1",
-      "event_title": "Premier League - Nottingham Forest vs Manchester City",
-      "event_time": "07 Nov, 11:00 pm",
-      "event_time_raw": 1794072600000,
-      "category": "Football",
-      "stream_count": 5
     },
     {
       "event_id": "20",
@@ -119,6 +95,22 @@
       "stream_count": 5
     },
     {
+      "event_id": "24",
+      "event_title": "LaLiga 2 - Córdoba vs AD Ceuta",
+      "event_time": "07 Nov, 11:00 pm",
+      "event_time_raw": 1794072600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "25",
+      "event_title": "FA Cup - Altrincham FC vs Notts County",
+      "event_time": "07 Nov, 11:00 pm",
+      "event_time_raw": 1794072600000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
       "event_id": "19",
       "event_title": "Scottish Premiership - Aberdeen vs Hibernian",
       "event_time": "07 Nov, 11:15 pm",
@@ -127,12 +119,28 @@
       "stream_count": 2
     },
     {
-      "event_id": "5",
+      "event_id": "4",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "07 Nov, 11:25 pm",
       "event_time_raw": 1794074100000,
       "category": "Motorsport",
       "stream_count": 7
+    },
+    {
+      "event_id": "26",
+      "event_title": "Ligue 1 - AJ Auxerre vs Paris FC",
+      "event_time": "07 Nov, 11:30 pm",
+      "event_time_raw": 1794074400000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
+      "event_id": "10",
+      "event_title": "BKFC 96 - BKFC vs BKFC",
+      "event_time": "08 Nov, 12:30 am",
+      "event_time_raw": 1794078000000,
+      "category": "Mixed Martial Arts",
+      "stream_count": 2
     },
     {
       "event_id": "22",
@@ -151,12 +159,28 @@
       "stream_count": 4
     },
     {
-      "event_id": "3",
+      "event_id": "27",
+      "event_title": "LaLiga 2 - Granada vs CD Tenerife",
+      "event_time": "08 Nov, 01:30 am",
+      "event_time_raw": 1794081600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "2",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "08 Nov, 09:00 am",
       "event_time_raw": 1794108600000,
       "category": "Cricket",
       "stream_count": 2
+    },
+    {
+      "event_id": "3",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "08 Nov, 11:30 am",
+      "event_time_raw": 1794117600000,
+      "category": "Snooker",
+      "stream_count": 3
     },
     {
       "event_id": "17",
@@ -167,7 +191,23 @@
       "stream_count": 2
     },
     {
-      "event_id": "8",
+      "event_id": "18",
+      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
+      "event_time": "08 Nov, 05:00 pm",
+      "event_time_raw": 1794137400000,
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
+      "event_id": "28",
+      "event_title": "LaLiga 2 - FC Andorra vs Mallorca",
+      "event_time": "08 Nov, 06:30 pm",
+      "event_time_raw": 1794142800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "7",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -183,7 +223,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "10",
+      "event_id": "9",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,

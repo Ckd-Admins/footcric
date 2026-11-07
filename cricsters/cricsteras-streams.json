@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-07T23:59:39+05:30",
-  "generated_at_india": "07-11-2026 11:59:39 PM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-11-08T01:04:09+05:30",
+  "generated_at_india": "08-11-2026 01:04:09 AM IST",
+  "total": 28,
+  "ok": 28,
   "failed": 0,
   "events": [
     {
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "5",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "6",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "1",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "8",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "07 Nov, 04:30 pm",
       "event_time_raw": 1794049200000,
@@ -305,71 +305,6 @@
       ]
     },
     {
-      "event_id": "4",
-      "event_title": "International Championship - SNOOKER vs SNOOKER",
-      "event_time": "07 Nov, 05:00 pm",
-      "event_time_raw": 1794051000000,
-      "category": "Snooker",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SNSNTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm": {
-            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-            "key": "643e5474d9edd87c7d9091c8c97994ca"
-          }
-        },
-        {
-          "code": "SNSNEURO",
-          "title": "EUROSPORT EN - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
-          "drm": {
-            "kid": "8c17752768447a2ff801b87f7a390781",
-            "key": "90375b77c0f6d271caef3c8accd4f1ae"
-          }
-        },
-        {
-          "code": "SNSNEUROAU",
-          "title": "EUROSPORT CZ - AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "18",
-      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
-      "event_time": "07 Nov, 05:00 pm",
-      "event_time_raw": 1794051000000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "ABABWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
-          "drm": {
-            "kid": "c36580b91d6530ceba196d7254d67b94",
-            "key": "af9da5c72e1aa9472a3b8ef852c0f330"
-          }
-        },
-        {
-          "code": "ABABWILLJV",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ycm2ti8bd1/out/v1/a53989fee53c44df908f680d761490be/cenc.mpd",
-          "drm": {
-            "kid": "4ad9a7bf0858c28640473d693d656903",
-            "key": "37c98fc924e72a3114ef6a922c4d0e74"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "11",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "07 Nov, 07:00 pm",
@@ -411,61 +346,6 @@
           "drm": {
             "kid": "66ccc23f78fa4f73bc0cfe80b4b9ffce",
             "key": "9e6c544b791aafa3c450abcda223b81c"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "1",
-      "event_title": "Premier League - Nottingham Forest vs Manchester City",
-      "event_time": "07 Nov, 11:00 pm",
-      "event_time_raw": 1794072600000,
-      "category": "Football",
-      "stream_count": 5,
-      "streams": [
-        {
-          "code": "NOMANBCS",
-          "title": "NBC SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
-          "drm": {
-            "kid": "36a385124dcdfb2f0969935065e03afa",
-            "key": "ccecd65514dff22eae493b975ccf9a9e"
-          }
-        },
-        {
-          "code": "NOMASKYS",
-          "title": "SKY SPORT EPL - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd",
-          "drm": {
-            "kid": "1106fb025da5b31657618344099c6c14",
-            "key": "788284538616a73b56214e90196a6e0f"
-          }
-        },
-        {
-          "code": "NOMAFUBO",
-          "title": "FUBO SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-          "drm": {
-            "kid": "42f72c025dd53039244adc13b7e31dad",
-            "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
-          }
-        },
-        {
-          "code": "NOMASTAN",
-          "title": "STAN SPORTS AQ (AUS)",
-          "url": "https://live01-stan.akamaized.net/out/v1/e68f7e91e3e44d5889029ce885685794/index.mpd",
-          "drm": {
-            "kid": "5c864ff6fb614bfe8be83ade24295e75",
-            "key": "478e0216c5430399001acc455ded043a"
-          }
-        },
-        {
-          "code": "NOMASTANNV",
-          "title": "STAN SPORTS 4K (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/fd683b21c2b04955b7657da05e685509/index.mpd",
-          "drm": {
-            "kid": "fc12f7bb7a964730948f5cae49cc73a4",
-            "key": "954e1d22fcc16179284b70d432540f1a"
           }
         }
       ]
@@ -542,6 +422,53 @@
       ]
     },
     {
+      "event_id": "24",
+      "event_title": "LaLiga 2 - Córdoba vs AD Ceuta",
+      "event_time": "07 Nov, 11:00 pm",
+      "event_time_raw": 1794072600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CRADLALI",
+          "title": "LALIGA HYPEMOTION ES - AQ",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+          "drm": {
+            "kid": "5fc8da8b94c447468ffe392157f8c75e",
+            "key": "333b934fdde4c1ee87e7f1c5dac4cb8f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "25",
+      "event_title": "FA Cup - Altrincham FC vs Notts County",
+      "event_time": "07 Nov, 11:00 pm",
+      "event_time_raw": 1794072600000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "ALNOTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "ALNOSTAN",
+          "title": "STAN SPORTS AQ (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/30b57b9a5c664bc99cb3a5bff7a7b9fb/index.mpd",
+          "drm": {
+            "kid": "2a9aefbd4fc443aca646123d43784685",
+            "key": "8f4d921df096742aa04bf671d8706f0e"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "19",
       "event_title": "Scottish Premiership - Aberdeen vs Hibernian",
       "event_time": "07 Nov, 11:15 pm",
@@ -570,7 +497,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "4",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "07 Nov, 11:25 pm",
       "event_time_raw": 1794074100000,
@@ -638,6 +565,62 @@
           "drm": {
             "kid": "69021095220f3c0eae9bc24215fd692b",
             "key": "eb58cfe0458ed0b48f7351fa3393ad59"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "26",
+      "event_title": "Ligue 1 - AJ Auxerre vs Paris FC",
+      "event_time": "07 Nov, 11:30 pm",
+      "event_time_raw": 1794074400000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "AJPABEIN",
+          "title": "beIN ENGLISH - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "drm": {
+            "kid": "74cbe15488783fab07ff8c702fabafcd",
+            "key": "bb607803a49c2d6104f845e7886c971c"
+          }
+        },
+        {
+          "code": "AJPACAZT",
+          "title": "CazéTV - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "drm": {
+            "kid": "34475edab991ad5e92548aebd710410a",
+            "key": "501b209cccd323ac00bf5ac15b406cb4"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "10",
+      "event_title": "BKFC 96 - BKFC vs BKFC",
+      "event_time": "08 Nov, 12:30 am",
+      "event_time_raw": 1794078000000,
+      "category": "Mixed Martial Arts",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "BKBKFUBO",
+          "title": "FUBO SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+          "drm": {
+            "kid": "fa5e8db5359fc7d1f15207d5de2a3ac4",
+            "key": "78a6c0a41972dfdba2145ae0ad4bd681"
+          }
+        },
+        {
+          "code": "BKBKPLAY",
+          "title": "PlayZtv - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
+          "drm": {
+            "kid": "1918ddf008413696077e06138983c5f9",
+            "key": "2d66e0d80ca9ac6ad8b8c230a97f74b4"
           }
         }
       ]
@@ -717,7 +700,26 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "27",
+      "event_title": "LaLiga 2 - Granada vs CD Tenerife",
+      "event_time": "08 Nov, 01:30 am",
+      "event_time_raw": 1794081600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "GRCDLALI",
+          "title": "LALIGA HYPEMOTION ES - AQ",
+          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm": {
+            "kid": "a88617e904504ee291f49f0e60a51d49",
+            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "2",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "08 Nov, 09:00 am",
       "event_time_raw": 1794108600000,
@@ -740,6 +742,43 @@
           "drm": {
             "kid": "5318e462b9e0677487cb87837f0bbdb1",
             "key": "4fa0fb973b95738306005f2e8591bf8e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "3",
+      "event_title": "International Championship - SNOOKER vs SNOOKER",
+      "event_time": "08 Nov, 11:30 am",
+      "event_time_raw": 1794117600000,
+      "category": "Snooker",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "SNSNTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm": {
+            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+            "key": "643e5474d9edd87c7d9091c8c97994ca"
+          }
+        },
+        {
+          "code": "SNSNEURO",
+          "title": "EUROSPORT EN - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
+          "drm": {
+            "kid": "8c17752768447a2ff801b87f7a390781",
+            "key": "90375b77c0f6d271caef3c8accd4f1ae"
+          }
+        },
+        {
+          "code": "SNSNEUROAU",
+          "title": "EUROSPORT CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
           }
         }
       ]
@@ -773,7 +812,54 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "18",
+      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
+      "event_time": "08 Nov, 05:00 pm",
+      "event_time_raw": 1794137400000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "ABABWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
+          "drm": {
+            "kid": "c36580b91d6530ceba196d7254d67b94",
+            "key": "af9da5c72e1aa9472a3b8ef852c0f330"
+          }
+        },
+        {
+          "code": "ABABWILLJV",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ycm2ti8bd1/out/v1/a53989fee53c44df908f680d761490be/cenc.mpd",
+          "drm": {
+            "kid": "4ad9a7bf0858c28640473d693d656903",
+            "key": "37c98fc924e72a3114ef6a922c4d0e74"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "28",
+      "event_title": "LaLiga 2 - FC Andorra vs Mallorca",
+      "event_time": "08 Nov, 06:30 pm",
+      "event_time_raw": 1794142800000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FCMALALI",
+          "title": "LALIGA HYPEMOTION ES - AQ",
+          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm": {
+            "kid": "a88617e904504ee291f49f0e60a51d49",
+            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "7",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -856,7 +942,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "9",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
