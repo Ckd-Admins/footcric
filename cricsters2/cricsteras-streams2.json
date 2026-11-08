@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T07:21:34+05:30",
-  "generated_at_india": "08-11-2026 07:21:34 AM IST",
+  "generated_at": "2026-11-08T08:09:17+05:30",
+  "generated_at_india": "08-11-2026 08:09:17 AM IST",
   "total": 56,
   "ok": 56,
   "failed": 0,
@@ -566,10 +566,10 @@
         {
           "code": "PHHONBAL",
           "title": "NBA LeaguePass FHD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0O1PS941ZUD6O4OUY53VO99HKW.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4moa17fmto/out/v1/7ea0ace804754c73a2580b3156039598/cenc.mpd?",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0o1ps941zud6o4ouy53vo99hkw"
+            "kid": "47ba758da14a828c145c7fbb8d4608a6",
+            "key": "2d100a88b6419739a8e8535ef77a576a"
           }
         }
       ]
