@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T20:00:59+05:30",
-  "generated_at_india": "08-11-2026 08:00:59 PM IST",
-  "total": 28,
+  "generated_at": "2026-11-08T20:56:17+05:30",
+  "generated_at_india": "08-11-2026 08:56:17 PM IST",
+  "total": 29,
   "events": [
     {
       "event_id": "18",
@@ -135,14 +135,6 @@
       "stream_count": 1
     },
     {
-      "event_id": "14",
-      "event_title": "MotoGP - MotoGP vs MotoGP",
-      "event_time": "08 Nov, 05:00 pm",
-      "event_time_raw": 1794137400000,
-      "category": "Motorsport",
-      "stream_count": 5
-    },
-    {
       "event_id": "20",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "08 Nov, 05:00 pm",
@@ -168,11 +160,27 @@
     },
     {
       "event_id": "26",
+      "event_title": "Nations Cup - Hong Kong vs USA",
+      "event_time": "08 Nov, 08:15 pm",
+      "event_time_raw": 1794149100000,
+      "category": "Rugby",
+      "stream_count": 1
+    },
+    {
+      "event_id": "27",
       "event_title": "Nations Championship - England vs Australia",
       "event_time": "08 Nov, 08:40 pm",
       "event_time_raw": 1794150600000,
       "category": "Rugby",
       "stream_count": 2
+    },
+    {
+      "event_id": "14",
+      "event_title": "MotoGP - MotoGP vs MotoGP",
+      "event_time": "08 Nov, 08:45 pm",
+      "event_time_raw": 1794150900000,
+      "category": "Motorsport",
+      "stream_count": 5
     },
     {
       "event_id": "15",
@@ -199,7 +207,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "27",
+      "event_id": "28",
       "event_title": "U19 Asia Cup - Sri Lanka Under-19 vs Afghanistan Under-19",
       "event_time": "09 Nov, 10:30 am",
       "event_time_raw": 1794200400000,
@@ -207,7 +215,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "28",
+      "event_id": "29",
       "event_title": "U19 Asia Cup - Bangladesh Under-19 vs Malaysia Under-19",
       "event_time": "09 Nov, 10:30 am",
       "event_time_raw": 1794200400000,
