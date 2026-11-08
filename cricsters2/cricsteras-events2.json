@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T22:53:37+05:30",
-  "generated_at_india": "08-11-2026 10:53:37 PM IST",
-  "total": 43,
+  "generated_at": "2026-11-08T23:56:23+05:30",
+  "generated_at_india": "08-11-2026 11:56:23 PM IST",
+  "total": 51,
   "events": [
     {
       "event_id": 50002,
@@ -111,12 +111,28 @@
       "stream_count": 1
     },
     {
+      "event_id": 50069,
+      "event_title": "Washington Commanders vs Los Angeles Rams",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "NFL",
+      "stream_count": 2
+    },
+    {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
       "event_time": "2026-11-10 08:10",
       "event_time_raw": "2026-11-10 08:10",
       "category": "WBBL",
       "stream_count": 3
+    },
+    {
+      "event_id": 50075,
+      "event_title": "Boston Bruins vs Florida Panthers",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "NHL",
+      "stream_count": 1
     },
     {
       "event_id": 50090,
@@ -180,7 +196,15 @@
       "event_time": "2026-11-08 17:30",
       "event_time_raw": "2026-11-08 17:30",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 3
+      "stream_count": 4
+    },
+    {
+      "event_id": 50123,
+      "event_title": "Celta Vigo vs Levante UD",
+      "event_time": "2026-11-08 17:30",
+      "event_time_raw": "2026-11-08 17:30",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 1
     },
     {
       "event_id": 50124,
@@ -319,6 +343,14 @@
       "stream_count": 1
     },
     {
+      "event_id": 50154,
+      "event_title": "UD Las Palmas vs CD Eldense",
+      "event_time": "2026-11-08 17:30",
+      "event_time_raw": "2026-11-08 17:30",
+      "category": "LaLiga 2",
+      "stream_count": 1
+    },
+    {
       "event_id": 50155,
       "event_title": "Sporting Gijón vs Real Valladolid",
       "event_time": "2026-11-08 17:30",
@@ -327,11 +359,19 @@
       "stream_count": 1
     },
     {
-      "event_id": 50156,
-      "event_title": "Girona FC vs Almería",
-      "event_time": "2026-11-08 15:15",
-      "event_time_raw": "2026-11-08 15:15",
-      "category": "LaLiga 2",
+      "event_id": 50157,
+      "event_title": "Philadelphia Eagles vs New York Giants",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "NFL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50158,
+      "event_title": "New Orleans Saints vs Cleveland Browns",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "NFL",
       "stream_count": 1
     },
     {
@@ -340,15 +380,39 @@
       "event_time": "2026-11-08 18:00",
       "event_time_raw": "2026-11-08 18:00",
       "category": "NFL",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50160,
+      "event_title": "Kansas City Chiefs vs New York Jets",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "NFL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50161,
+      "event_title": "Indianapolis Colts vs Dallas Cowboys",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "NFL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50162,
+      "event_title": "Carolina Panthers vs Denver Broncos",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "NFL",
       "stream_count": 1
     },
     {
       "event_id": 50163,
-      "event_title": "Atlanta Falcons vs Cincinnati Bengals",
-      "event_time": "2026-11-08 14:30",
-      "event_time_raw": "2026-11-08 14:30",
-      "category": "NFL",
-      "stream_count": 3
+      "event_title": "TSG Hoffenheim vs FC Schalke 04",
+      "event_time": "2026-11-08 18:30",
+      "event_time_raw": "2026-11-08 18:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 1
     }
   ],
   "raw_data": ""
