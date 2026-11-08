@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T09:10:21+05:30",
-  "generated_at_india": "08-11-2026 09:10:21 AM IST",
-  "total": 52,
-  "ok": 52,
+  "generated_at": "2026-11-08T10:10:11+05:30",
+  "generated_at_india": "08-11-2026 10:10:11 AM IST",
+  "total": 48,
+  "ok": 48,
   "failed": 0,
   "events": [
     {
@@ -546,20 +546,20 @@
       "streams": [
         {
           "code": "WOMEWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?",
+          "title": "WILLOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fmnpybdb8n/out/v1/86b4f50e91b14fc781b444b06fabb5fa/cenc.mpd",
           "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
+            "kid": "bd35b1d5d52fa3407fe1e6730691c148",
+            "key": "21222db5e5b30d5d7c84b06df43703b9"
           }
         },
         {
-          "code": "WOMEWILLEO",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wmf2tyed3f/out/v1/4de89ed1f9e14660a76b85a983013ff8/cenc.mpd",
+          "code": "WOMEWILLXJ",
+          "title": "WILLOW ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
           "drm": {
-            "kid": "3d676f46dd6709ea6260baa6b5b7624d",
-            "key": "ec4601cd1af441689732ebe634d008c4"
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
         },
         {
@@ -597,81 +597,6 @@
           "drm": {
             "kid": "d9623774ac5c8c351aafe97c5fe70267",
             "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50074,
-      "event_title": "Tigres UANL vs Cruz Azul",
-      "event_time": "2026-11-08 01:00",
-      "event_time_raw": "2026-11-08 01:00",
-      "category": "Liga MX",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "TICRPEAC",
-          "title": "PEACOCK TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/54ps3fvvar/out/v1/002300f677694ad3a1f7f6a567093ecc/cenc.mpd?",
-          "drm": {
-            "kid": "d633faf93e3df791992d222abeea0412",
-            "key": "cd66d8828d2351e5bcf0006f97f05e52"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50076,
-      "event_title": "Seattle Kraken vs New York Rangers",
-      "event_time": "2026-11-07 22:00",
-      "event_time_raw": "2026-11-07 22:00",
-      "category": "NHL",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SENEPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        },
-        {
-          "code": "SENESKYS",
-          "title": "SKY SPORTS MIX",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "drm": {
-            "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
-            "key": "a883237ef30932b731f71aa59a0805c0"
-          }
-        },
-        {
-          "code": "SENESKYT",
-          "title": "SKY TOP EVENT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "drm": {
-            "kid": "368bd4ebe301406897324bc777650411",
-            "key": "69d27c2c2b7de927d67aacc973259901"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50079,
-      "event_title": "Toronto Maple Leafs vs Montréal Canadiens",
-      "event_time": "2026-11-08 00:00",
-      "event_time_raw": "2026-11-08 00:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "TOMOPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
           }
         }
       ]
@@ -1323,34 +1248,6 @@
           "drm": {
             "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
             "key": "ea07b87acdf2e45be824cde4a1cf3504"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50141,
-      "event_title": "CD Toluca vs Monterrey",
-      "event_time": "2026-11-08 01:00",
-      "event_time_raw": "2026-11-08 01:00",
-      "category": "Liga MX",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "CDMOCANA",
-          "title": "CANAL5 FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm": {
-            "kid": "d695093ea3e66d75a4d213a3e2cbf360",
-            "key": "01be3f645e89a067d2786c295f68dde4"
-          }
-        },
-        {
-          "code": "CDMOCBSN",
-          "title": "CBS NETWORK",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
           }
         }
       ]

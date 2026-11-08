@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T09:10:21+05:30",
-  "generated_at_india": "08-11-2026 09:10:21 AM IST",
-  "total": 52,
+  "generated_at": "2026-11-08T10:10:11+05:30",
+  "generated_at_india": "08-11-2026 10:10:11 AM IST",
+  "total": 48,
   "events": [
     {
       "event_id": 50002,
@@ -141,30 +141,6 @@
       "event_time_raw": "2026-11-08 03:10",
       "category": "Liga MX",
       "stream_count": 2
-    },
-    {
-      "event_id": 50074,
-      "event_title": "Tigres UANL vs Cruz Azul",
-      "event_time": "2026-11-08 01:00",
-      "event_time_raw": "2026-11-08 01:00",
-      "category": "Liga MX",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50076,
-      "event_title": "Seattle Kraken vs New York Rangers",
-      "event_time": "2026-11-07 22:00",
-      "event_time_raw": "2026-11-07 22:00",
-      "category": "NHL",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50079,
-      "event_title": "Toronto Maple Leafs vs Montréal Canadiens",
-      "event_time": "2026-11-08 00:00",
-      "event_time_raw": "2026-11-08 00:00",
-      "category": "NHL",
-      "stream_count": 1
     },
     {
       "event_id": 50082,
@@ -333,14 +309,6 @@
       "event_time_raw": "2026-11-08 18:00",
       "category": "Liga Portugal",
       "stream_count": 1
-    },
-    {
-      "event_id": 50141,
-      "event_title": "CD Toluca vs Monterrey",
-      "event_time": "2026-11-08 01:00",
-      "event_time_raw": "2026-11-08 01:00",
-      "category": "Liga MX",
-      "stream_count": 2
     },
     {
       "event_id": 50142,
