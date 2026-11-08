@@ -2,12 +2,12 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T14:11:49+05:30",
-  "generated_at_india": "08-11-2026 02:11:49 PM IST",
+  "generated_at": "2026-11-08T15:07:54+05:30",
+  "generated_at_india": "08-11-2026 03:07:54 PM IST",
   "total": 27,
   "events": [
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -23,7 +23,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "13",
+      "event_id": "14",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "05 Nov, 11:00 pm",
       "event_time_raw": 1793899800000,
@@ -31,7 +31,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "7",
+      "event_id": "8",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -47,7 +47,7 @@
       "stream_count": 5
     },
     {
-      "event_id": "14",
+      "event_id": "15",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "07 Nov, 03:00 pm",
       "event_time_raw": 1794043800000,
@@ -55,7 +55,7 @@
       "stream_count": 5
     },
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "07 Nov, 04:45 pm",
       "event_time_raw": 1794050100000,
@@ -63,7 +63,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -79,7 +79,7 @@
       "stream_count": 7
     },
     {
-      "event_id": "11",
+      "event_id": "12",
       "event_title": "BKFC 96 - BKFC vs BKFC",
       "event_time": "08 Nov, 12:30 am",
       "event_time_raw": 1794078000000,
@@ -87,7 +87,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "21",
+      "event_id": "22",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -111,7 +111,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "23",
+      "event_id": "24",
       "event_title": "U19 Asia Cup - United Arab Emirates Under-19 vs Nepal Under-19",
       "event_time": "08 Nov, 10:30 am",
       "event_time_raw": 1794114000000,
@@ -127,7 +127,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "08 Nov, 11:30 am",
       "event_time_raw": 1794117600000,
@@ -135,7 +135,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "22",
+      "event_id": "23",
       "event_title": "Women's Big Bash League - Perth Scorchers Women vs Melbourne Stars Women",
       "event_time": "08 Nov, 11:40 am",
       "event_time_raw": 1794118200000,
@@ -143,19 +143,19 @@
       "stream_count": 2
     },
     {
-      "event_id": "26",
-      "event_title": "World Cup, Women - Australia vs Fiji",
-      "event_time": "08 Nov, 12:15 pm",
-      "event_time_raw": 1794120300000,
-      "category": "Rugby",
-      "stream_count": 1
-    },
-    {
-      "event_id": "12",
+      "event_id": "13",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "08 Nov, 01:30 pm",
       "event_time_raw": 1794124800000,
       "category": "Tennis",
+      "stream_count": 4
+    },
+    {
+      "event_id": "7",
+      "event_title": "Tour De France - Tour De France vs Tour De France",
+      "event_time": "08 Nov, 02:30 pm",
+      "event_time_raw": 1794128400000,
+      "category": "Cycling",
       "stream_count": 4
     },
     {
@@ -167,7 +167,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "9",
+      "event_id": "10",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "08 Nov, 04:30 pm",
       "event_time_raw": 1794135600000,
@@ -175,7 +175,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "08 Nov, 05:00 pm",
       "event_time_raw": 1794137400000,
@@ -183,7 +183,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "25",
+      "event_id": "26",
       "event_title": "Nations Championship - England vs Australia",
       "event_time": "08 Nov, 08:40 pm",
       "event_time_raw": 1794150600000,
@@ -191,7 +191,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "15",
+      "event_id": "16",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "08 Nov, 11:15 pm",
       "event_time_raw": 1794159900000,
@@ -199,7 +199,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "8",
+      "event_id": "9",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -207,7 +207,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
@@ -215,7 +215,7 @@
       "stream_count": 6
     },
     {
-      "event_id": "10",
+      "event_id": "11",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
