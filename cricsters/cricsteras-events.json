@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T01:57:12+05:30",
-  "generated_at_india": "09-11-2026 01:57:12 AM IST",
-  "total": 31,
+  "generated_at": "2026-11-09T02:56:55+05:30",
+  "generated_at_india": "09-11-2026 02:56:55 AM IST",
+  "total": 32,
   "events": [
     {
       "event_id": "19",
@@ -159,7 +159,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "30",
+      "event_id": "31",
       "event_title": "NHL - Boston Bruins vs Florida Panthers",
       "event_time": "08 Nov, 11:30 pm",
       "event_time_raw": 1794160800000,
@@ -183,7 +183,15 @@
       "stream_count": 7
     },
     {
-      "event_id": "31",
+      "event_id": "30",
+      "event_title": "NBA - Chicago Bulls vs Philadelphia 76ers",
+      "event_time": "09 Nov, 02:00 am",
+      "event_time_raw": 1794169800000,
+      "category": "Basketball",
+      "stream_count": 1
+    },
+    {
+      "event_id": "32",
       "event_title": "NHL - Toronto Maple Leafs vs New Jersey Devils",
       "event_time": "09 Nov, 05:30 am",
       "event_time_raw": 1794182400000,
