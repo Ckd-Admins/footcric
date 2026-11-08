@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T12:14:24+05:30",
-  "generated_at_india": "08-11-2026 00:14:24 PM IST",
-  "total": 26,
+  "generated_at": "2026-11-08T13:21:49+05:30",
+  "generated_at_india": "08-11-2026 01:21:49 PM IST",
+  "total": 25,
   "events": [
     {
       "event_id": "18",
@@ -71,7 +71,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "26",
+      "event_id": "25",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -103,14 +103,6 @@
       "stream_count": 6
     },
     {
-      "event_id": "24",
-      "event_title": "Women's Big Bash League - Sydney Sixers Women vs Sydney Thunder Women",
-      "event_time": "08 Nov, 08:10 am",
-      "event_time_raw": 1794105600000,
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
       "event_id": "3",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "08 Nov, 09:00 am",
@@ -127,7 +119,7 @@
       "stream_count": 3
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "U19 Asia Cup - United Arab Emirates Under-19 vs Nepal Under-19",
       "event_time": "08 Nov, 10:30 am",
       "event_time_raw": 1794114000000,
