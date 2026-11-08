@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T10:10:11+05:30",
-  "generated_at_india": "08-11-2026 10:10:11 AM IST",
-  "total": 48,
-  "ok": 48,
+  "generated_at": "2026-11-08T11:07:28+05:30",
+  "generated_at_india": "08-11-2026 11:07:28 AM IST",
+  "total": 45,
+  "ok": 45,
   "failed": 0,
   "events": [
     {
@@ -137,70 +137,6 @@
       ]
     },
     {
-      "event_id": 50004,
-      "event_title": "UFC Fight Night: Bonfim vs Brady",
-      "event_time": "2026-11-07 22:00",
-      "event_time_raw": "2026-11-07 22:00",
-      "category": "UFC",
-      "stream_count": 6,
-      "streams": [
-        {
-          "code": "UFBRPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/7rqp7fjnbn/out/v1/c1a42868874346a1a47130ed7f648d4f/cenc.mpd?",
-          "drm": {
-            "kid": "cf66de6be6a50608700ceaa54a63fd00",
-            "key": "d06489a2cb71f95d2dd3398e841bcc7b"
-          }
-        },
-        {
-          "code": "UFBRTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "UFBRPARA5S",
-          "title": "PARAMOUNT+ ES",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/aghhxnng56/out/v1/748629d7884e415f8207b32fbd9f66e5/cenc.mpd?",
-          "drm": {
-            "kid": "87cedc3364a0e6abb8819aeae959a5cd",
-            "key": "d6e59f044d3d67ba0903ed840dec9609"
-          }
-        },
-        {
-          "code": "UFBRPARA0X",
-          "title": "PARAMOUNT+ PT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ziwkrv7j5h/out/v1/1f62f2870fb2499e84f125bfbbcf97f2/cenc.mpd?",
-          "drm": {
-            "kid": "d5213d08191dc6ea7ca42efa2ec7d425",
-            "key": "254b908b192412edd97c6efa32ec5f31"
-          }
-        },
-        {
-          "code": "UFBRSPOR",
-          "title": "SportsNet FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd",
-          "drm": {
-            "kid": "60de674d9db66df9ba090e06871d3554",
-            "key": "18071eac168232fc3d45549049c1de6b"
-          }
-        },
-        {
-          "code": "UFBRUFCT",
-          "title": "UFC TV FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd",
-          "drm": {
-            "kid": "a49085f8da5e65af1efff0edac830b1f",
-            "key": "4659bc58a85c062e3fe0c039a446fe47"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50006,
       "event_title": "AEW Dynamite",
       "event_time": "2026-11-12 00:00",
@@ -239,19 +175,19 @@
         {
           "code": "AFZIWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zktryikvfk/out/v1/41fed8195b54444fb83fa2f78a21ae98/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gsqrpyixaj/out/v1/0db655cab1094df59028406df55c59fa/cenc.mpd?",
           "drm": {
-            "kid": "797029dcd8fc70eadd1d6b62a1cf8b2a",
-            "key": "315a82cfbdc0b5a5a9588b786ec098aa"
+            "kid": "99674fd07c70b730f03ab2030c9c5545",
+            "key": "0f26d9265d01af9cfbd142d37afcda93"
           }
         },
         {
-          "code": "AFZIWILLQB",
+          "code": "AFZIWILLNA",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zktryikvfk/out/v1/41fed8195b54444fb83fa2f78a21ae98/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gsqrpyixaj/out/v1/0db655cab1094df59028406df55c59fa/cenc.mpd",
           "drm": {
-            "kid": "797029dcd8fc70eadd1d6b62a1cf8b2a",
-            "key": "315a82cfbdc0b5a5a9588b786ec098aa"
+            "kid": "99674fd07c70b730f03ab2030c9c5545",
+            "key": "0f26d9265d01af9cfbd142d37afcda93"
           }
         }
       ]
@@ -352,8 +288,8 @@
     {
       "event_id": 50019,
       "event_title": "ATP Paris & WTA Hong Kong",
-      "event_time": "2026-11-07 06:00",
-      "event_time_raw": "2026-11-07 06:00",
+      "event_time": "2026-11-08 06:00",
+      "event_time_raw": "2026-11-08 06:00",
       "category": "Tennis",
       "stream_count": 5,
       "streams": [
@@ -461,44 +397,6 @@
       ]
     },
     {
-      "event_id": 50055,
-      "event_title": "Golden State Warriors vs Orlando Magic",
-      "event_time": "2026-11-08 01:30",
-      "event_time_raw": "2026-11-08 01:30",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "GOORNBAL",
-          "title": "NBA LeaguePass FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/igns3nzrvy/out/v1/8bd04ead00184b15a200be28e728f032/cenc.mpd?",
-          "drm": {
-            "kid": "09b4ae1297b03d6baa29b5d595560be3",
-            "key": "b67827b313087295ac8667cc08366ea4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50056,
-      "event_title": "Phoenix Suns vs Houston Rockets",
-      "event_time": "2026-11-08 02:00",
-      "event_time_raw": "2026-11-08 02:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "PHHONBAL",
-          "title": "NBA LeaguePass FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4moa17fmto/out/v1/7ea0ace804754c73a2580b3156039598/cenc.mpd?",
-          "drm": {
-            "kid": "47ba758da14a828c145c7fbb8d4608a6",
-            "key": "2d100a88b6419739a8e8535ef77a576a"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50058,
       "event_title": "Portland Trail Blazers vs San Antonio Spurs",
       "event_time": "2026-11-08 03:00",
@@ -520,8 +418,8 @@
     {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
-      "event_time": "2026-11-07 11:15",
-      "event_time_raw": "2026-11-07 11:15",
+      "event_time": "2026-11-09 06:45",
+      "event_time_raw": "2026-11-09 06:45",
       "category": "NPL",
       "stream_count": 1,
       "streams": [
@@ -569,62 +467,6 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50073,
-      "event_title": "Pumas UNAM vs Club América",
-      "event_time": "2026-11-08 03:10",
-      "event_time_raw": "2026-11-08 03:10",
-      "category": "Liga MX",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "PUCLCANA",
-          "title": "CANAL5 FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm": {
-            "kid": "d695093ea3e66d75a4d213a3e2cbf360",
-            "key": "01be3f645e89a067d2786c295f68dde4"
-          }
-        },
-        {
-          "code": "PUCLCBSN",
-          "title": "CBS NETWORK",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50082,
-      "event_title": "Minnesota Wild vs Tampa Bay Lightning",
-      "event_time": "2026-11-08 01:00",
-      "event_time_raw": "2026-11-08 01:00",
-      "category": "NHL",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "MITAPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-          }
-        },
-        {
-          "code": "MITASKYS",
-          "title": "SKY SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd?",
-          "drm": {
-            "kid": "368bd4ebe301406897324bc777650411",
-            "key": "69d27c2c2b7de927d67aacc973259901"
           }
         }
       ]
@@ -1438,6 +1280,80 @@
           "drm": {
             "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
             "key": "643e5474d9edd87c7d9091c8c97994ca"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50164,
+      "event_title": "India Under-19 vs Pakistan Under-19",
+      "event_time": "2026-11-08 05:00",
+      "event_time_raw": "2026-11-08 05:00",
+      "category": "Asia Cup",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "INPAWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/iblrnr8axo/out/v1/1795f237d84e47b097f5dfc945a06ca1/cenc.mpd?",
+          "drm": {
+            "kid": "6d936b86f2528f7d747a662b4edf2164",
+            "key": "2e8df69c4d8c646985b73b569657612f"
+          }
+        },
+        {
+          "code": "INPAPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/aungdo94je/out/v1/7962d6bd2f904cf09661de99039e97a9/cenc.mpd?",
+          "drm": {
+            "kid": "9a41a1afa54961a0cfafd5e7b2b550ce",
+            "key": "f6d9a39542f275e5e2e73f20c6c97de9"
+          }
+        },
+        {
+          "code": "INPAWILLUP",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zjxcvjdkli/out/v1/adfe504a6e6a4cfda0234885b08f72a6/cenc.mpd?",
+          "drm": {
+            "kid": "cb402b40b2aa0cceeb399dc8a3cfb6f1",
+            "key": "8f089d69677070e893da78d9ba7c35b6"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50165,
+      "event_title": "UAE Under-19 vs Nepal Under-19",
+      "event_time": "2026-11-08 05:00",
+      "event_time_raw": "2026-11-08 05:00",
+      "category": "Asia Cup",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "UANEWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/l38qfvoify/out/v1/a22ce8600f804dee8e95161154a6812c/cenc.mpd?",
+          "drm": {
+            "kid": "75ff9094ed6f0fcb035683867d9beda6",
+            "key": "354ae56012d944b165e92c5438970f06"
+          }
+        },
+        {
+          "code": "UANEPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pklmckneea/out/v1/0f99435eda984497aa21d65b9f5410e1/cenc.mpd?",
+          "drm": {
+            "kid": "08bb45494843dfb2a89da2899fe3999f",
+            "key": "4571346ca311bca08a61fe9e76779029"
+          }
+        },
+        {
+          "code": "UANEWILLVJ",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd?",
+          "drm": {
+            "kid": "f638f10e9bee65a698926a527722e332",
+            "key": "a9f519367caf419607f6705e3d767935"
           }
         }
       ]

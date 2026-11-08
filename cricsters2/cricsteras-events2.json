@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T10:10:11+05:30",
-  "generated_at_india": "08-11-2026 10:10:11 AM IST",
-  "total": 48,
+  "generated_at": "2026-11-08T11:07:28+05:30",
+  "generated_at_india": "08-11-2026 11:07:28 AM IST",
+  "total": 45,
   "events": [
     {
       "event_id": 50002,
@@ -20,14 +20,6 @@
       "event_time": "2026-11-08 16:00",
       "event_time_raw": "2026-11-08 16:00",
       "category": "MotoGP",
-      "stream_count": 6
-    },
-    {
-      "event_id": 50004,
-      "event_title": "UFC Fight Night: Bonfim vs Brady",
-      "event_time": "2026-11-07 22:00",
-      "event_time_raw": "2026-11-07 22:00",
-      "category": "UFC",
       "stream_count": 6
     },
     {
@@ -73,8 +65,8 @@
     {
       "event_id": 50019,
       "event_title": "ATP Paris & WTA Hong Kong",
-      "event_time": "2026-11-07 06:00",
-      "event_time_raw": "2026-11-07 06:00",
+      "event_time": "2026-11-08 06:00",
+      "event_time_raw": "2026-11-08 06:00",
       "category": "Tennis",
       "stream_count": 5
     },
@@ -95,22 +87,6 @@
       "stream_count": 2
     },
     {
-      "event_id": 50055,
-      "event_title": "Golden State Warriors vs Orlando Magic",
-      "event_time": "2026-11-08 01:30",
-      "event_time_raw": "2026-11-08 01:30",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50056,
-      "event_title": "Phoenix Suns vs Houston Rockets",
-      "event_time": "2026-11-08 02:00",
-      "event_time_raw": "2026-11-08 02:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
       "event_id": 50058,
       "event_title": "Portland Trail Blazers vs San Antonio Spurs",
       "event_time": "2026-11-08 03:00",
@@ -121,8 +97,8 @@
     {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
-      "event_time": "2026-11-07 11:15",
-      "event_time_raw": "2026-11-07 11:15",
+      "event_time": "2026-11-09 06:45",
+      "event_time_raw": "2026-11-09 06:45",
       "category": "NPL",
       "stream_count": 1
     },
@@ -133,22 +109,6 @@
       "event_time_raw": "2026-11-08 02:40",
       "category": "WBBL",
       "stream_count": 3
-    },
-    {
-      "event_id": 50073,
-      "event_title": "Pumas UNAM vs Club América",
-      "event_time": "2026-11-08 03:10",
-      "event_time_raw": "2026-11-08 03:10",
-      "category": "Liga MX",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50082,
-      "event_title": "Minnesota Wild vs Tampa Bay Lightning",
-      "event_time": "2026-11-08 01:00",
-      "event_time_raw": "2026-11-08 01:00",
-      "category": "NHL",
-      "stream_count": 2
     },
     {
       "event_id": 50090,
@@ -389,6 +349,22 @@
       "event_time_raw": "2026-11-08 14:15",
       "category": "FA Cup",
       "stream_count": 1
+    },
+    {
+      "event_id": 50164,
+      "event_title": "India Under-19 vs Pakistan Under-19",
+      "event_time": "2026-11-08 05:00",
+      "event_time_raw": "2026-11-08 05:00",
+      "category": "Asia Cup",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50165,
+      "event_title": "UAE Under-19 vs Nepal Under-19",
+      "event_time": "2026-11-08 05:00",
+      "event_time_raw": "2026-11-08 05:00",
+      "category": "Asia Cup",
+      "stream_count": 3
     }
   ],
   "raw_data": ""
