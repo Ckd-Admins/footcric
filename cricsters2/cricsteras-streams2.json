@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T17:59:52+05:30",
-  "generated_at_india": "08-11-2026 05:59:52 PM IST",
-  "total": 45,
-  "ok": 45,
+  "generated_at": "2026-11-08T19:08:59+05:30",
+  "generated_at_india": "08-11-2026 07:08:59 PM IST",
+  "total": 48,
+  "ok": 48,
   "failed": 0,
   "events": [
     {
@@ -19,7 +19,7 @@
         {
           "code": "BRAZTSNS",
           "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?",
           "drm": {
             "kid": "385ceb9714b75e0cef61254f80b31002",
             "key": "18dce92a2891fee68d21ede5173230f8"
@@ -167,8 +167,8 @@
     {
       "event_id": 50007,
       "event_title": "Afghanistan vs Zimbabwe",
-      "event_time": "2026-11-08 06:00",
-      "event_time_raw": "2026-11-08 06:00",
+      "event_time": "2026-11-09 06:00",
+      "event_time_raw": "2026-11-09 06:00",
       "category": "Cricket",
       "stream_count": 2,
       "streams": [
@@ -435,6 +435,25 @@
       ]
     },
     {
+      "event_id": 50065,
+      "event_title": "San Francisco 49ers vs Las Vegas Raiders",
+      "event_time": "2026-11-08 21:25",
+      "event_time_raw": "2026-11-08 21:25",
+      "category": "NFL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SALATSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?",
+          "drm": {
+            "kid": "14eeabf30c14b7fbf3008c03099ce011",
+            "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
       "event_time": "2026-11-10 08:10",
@@ -640,8 +659,8 @@
     {
       "event_id": 50094,
       "event_title": "Bangladesh vs West Indies",
-      "event_time": "2026-11-08 03:30",
-      "event_time_raw": "2026-11-08 03:30",
+      "event_time": "2026-11-09 03:30",
+      "event_time_raw": "2026-11-09 03:30",
       "category": "Cricket",
       "stream_count": 1,
       "streams": [
@@ -823,9 +842,18 @@
       "stream_count": 3,
       "streams": [
         {
+          "code": "ELREDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mfwf32kpvx/out/v1/5a51c4015d8946f0983057a2700d845b/cenc.mpd?",
+          "drm": {
+            "kid": "379797233bced4b2f3937ddc95d3ab08",
+            "key": "e49bfb849e0ba319b034ad66ef135e73"
+          }
+        },
+        {
           "code": "ELREPREM",
           "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?",
           "drm": {
             "kid": "1444f4235529f183f0a5a486befe9cdb",
             "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
@@ -838,15 +866,6 @@
           "drm": {
             "kid": "0b42be2664d7e811d04f3e504e0924c5",
             "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "ELREFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]
@@ -1312,75 +1331,77 @@
       ]
     },
     {
-      "event_id": 50164,
-      "event_title": "India Under-19 vs Pakistan Under-19",
-      "event_time": "2026-11-08 05:00",
-      "event_time_raw": "2026-11-08 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
+      "event_id": 50159,
+      "event_title": "Miami Dolphins vs Detroit Lions",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "NFL",
+      "stream_count": 1,
       "streams": [
         {
-          "code": "INPAWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/iblrnr8axo/out/v1/1795f237d84e47b097f5dfc945a06ca1/cenc.mpd?",
+          "code": "MIDETSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?",
           "drm": {
-            "kid": "6d936b86f2528f7d747a662b4edf2164",
-            "key": "2e8df69c4d8c646985b73b569657612f"
+            "kid": "14eeabf30c14b7fbf3008c03099ce011",
+            "key": "17d2ac8dbc5429bd70af3433aa12158d"
           }
-        },
+        }
+      ]
+    },
+    {
+      "event_id": 50164,
+      "event_title": "Heidenheim vs Hannover 96",
+      "event_time": "2026-11-08 12:30",
+      "event_time_raw": "2026-11-08 12:30",
+      "category": "2. Bundesliga",
+      "stream_count": 1,
+      "streams": [
         {
-          "code": "INPAPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/aungdo94je/out/v1/7962d6bd2f904cf09661de99039e97a9/cenc.mpd?",
+          "code": "HEHASKYS",
+          "title": "SKY SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1/0e3c984eb7284664919152f18e7915b1/cenc.mpd?",
           "drm": {
-            "kid": "9a41a1afa54961a0cfafd5e7b2b550ce",
-            "key": "f6d9a39542f275e5e2e73f20c6c97de9"
-          }
-        },
-        {
-          "code": "INPAWILLUP",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zjxcvjdkli/out/v1/adfe504a6e6a4cfda0234885b08f72a6/cenc.mpd?",
-          "drm": {
-            "kid": "cb402b40b2aa0cceeb399dc8a3cfb6f1",
-            "key": "8f089d69677070e893da78d9ba7c35b6"
+            "kid": "42650c79c7a241e79d18488fef3d75da",
+            "key": "42c319fd698c3914b7bfbaa38d08e41e"
           }
         }
       ]
     },
     {
       "event_id": 50165,
-      "event_title": "UAE Under-19 vs Nepal Under-19",
-      "event_time": "2026-11-08 05:00",
-      "event_time_raw": "2026-11-08 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
+      "event_title": "Magdeburg vs St. Pauli",
+      "event_time": "2026-11-08 12:30",
+      "event_time_raw": "2026-11-08 12:30",
+      "category": "2. Bundesliga",
+      "stream_count": 1,
       "streams": [
         {
-          "code": "UANEWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/l38qfvoify/out/v1/a22ce8600f804dee8e95161154a6812c/cenc.mpd?",
+          "code": "MASTSKYB",
+          "title": "SKY BUNDESLIGA FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w1ad3vckry/out/v1/33ce68a8d21949da84e49f2695e51980/cenc.mpd?",
           "drm": {
-            "kid": "75ff9094ed6f0fcb035683867d9beda6",
-            "key": "354ae56012d944b165e92c5438970f06"
+            "kid": "5e0ee93e86d783f011561f18ff8f34e6",
+            "key": "b570eceee332c7e50f87fca1f51e0966"
           }
-        },
+        }
+      ]
+    },
+    {
+      "event_id": 50166,
+      "event_title": "Bochum vs Karlsruher SC",
+      "event_time": "2026-11-08 12:30",
+      "event_time_raw": "2026-11-08 12:30",
+      "category": "2. Bundesliga",
+      "stream_count": 1,
+      "streams": [
         {
-          "code": "UANEPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pklmckneea/out/v1/0f99435eda984497aa21d65b9f5410e1/cenc.mpd?",
+          "code": "BOKASKYB",
+          "title": "SKY BUNDESLIGA FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pq38ujseug/out/v1/84544ed7c3b04cf08fe395708cfcedc6/cenc.mpd?",
           "drm": {
-            "kid": "08bb45494843dfb2a89da2899fe3999f",
-            "key": "4571346ca311bca08a61fe9e76779029"
-          }
-        },
-        {
-          "code": "UANEWILLVJ",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd?",
-          "drm": {
-            "kid": "f638f10e9bee65a698926a527722e332",
-            "key": "a9f519367caf419607f6705e3d767935"
+            "kid": "f38ce843871b3e5aa97b8461a093a424",
+            "key": "b51d62eeec9c136513c12ea7ec291f6f"
           }
         }
       ]

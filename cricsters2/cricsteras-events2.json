@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T17:59:52+05:30",
-  "generated_at_india": "08-11-2026 05:59:52 PM IST",
-  "total": 45,
+  "generated_at": "2026-11-08T19:08:59+05:30",
+  "generated_at_india": "08-11-2026 07:08:59 PM IST",
+  "total": 48,
   "events": [
     {
       "event_id": 50002,
@@ -33,8 +33,8 @@
     {
       "event_id": 50007,
       "event_title": "Afghanistan vs Zimbabwe",
-      "event_time": "2026-11-08 06:00",
-      "event_time_raw": "2026-11-08 06:00",
+      "event_time": "2026-11-09 06:00",
+      "event_time_raw": "2026-11-09 06:00",
       "category": "Cricket",
       "stream_count": 2
     },
@@ -103,6 +103,14 @@
       "stream_count": 1
     },
     {
+      "event_id": 50065,
+      "event_title": "San Francisco 49ers vs Las Vegas Raiders",
+      "event_time": "2026-11-08 21:25",
+      "event_time_raw": "2026-11-08 21:25",
+      "category": "NFL",
+      "stream_count": 1
+    },
+    {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
       "event_time": "2026-11-10 08:10",
@@ -145,8 +153,8 @@
     {
       "event_id": 50094,
       "event_title": "Bangladesh vs West Indies",
-      "event_time": "2026-11-08 03:30",
-      "event_time_raw": "2026-11-08 03:30",
+      "event_time": "2026-11-09 03:30",
+      "event_time_raw": "2026-11-09 03:30",
       "category": "Cricket",
       "stream_count": 1
     },
@@ -351,20 +359,36 @@
       "stream_count": 1
     },
     {
+      "event_id": 50159,
+      "event_title": "Miami Dolphins vs Detroit Lions",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "NFL",
+      "stream_count": 1
+    },
+    {
       "event_id": 50164,
-      "event_title": "India Under-19 vs Pakistan Under-19",
-      "event_time": "2026-11-08 05:00",
-      "event_time_raw": "2026-11-08 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3
+      "event_title": "Heidenheim vs Hannover 96",
+      "event_time": "2026-11-08 12:30",
+      "event_time_raw": "2026-11-08 12:30",
+      "category": "2. Bundesliga",
+      "stream_count": 1
     },
     {
       "event_id": 50165,
-      "event_title": "UAE Under-19 vs Nepal Under-19",
-      "event_time": "2026-11-08 05:00",
-      "event_time_raw": "2026-11-08 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3
+      "event_title": "Magdeburg vs St. Pauli",
+      "event_time": "2026-11-08 12:30",
+      "event_time_raw": "2026-11-08 12:30",
+      "category": "2. Bundesliga",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50166,
+      "event_title": "Bochum vs Karlsruher SC",
+      "event_time": "2026-11-08 12:30",
+      "event_time_raw": "2026-11-08 12:30",
+      "category": "2. Bundesliga",
+      "stream_count": 1
     }
   ],
   "raw_data": ""
