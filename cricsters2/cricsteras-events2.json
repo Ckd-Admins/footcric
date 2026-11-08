@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T04:52:46+05:30",
-  "generated_at_india": "08-11-2026 04:52:46 AM IST",
-  "total": 27,
+  "generated_at": "2026-11-08T06:00:50+05:30",
+  "generated_at_india": "08-11-2026 06:00:50 AM IST",
+  "total": 33,
   "events": [
     {
       "event_id": 50002,
@@ -28,7 +28,7 @@
       "event_time": "2026-11-07 22:00",
       "event_time_raw": "2026-11-07 22:00",
       "category": "UFC",
-      "stream_count": 5
+      "stream_count": 6
     },
     {
       "event_id": 50006,
@@ -143,20 +143,36 @@
       "stream_count": 1
     },
     {
+      "event_id": 50090,
+      "event_title": "Manchester United vs Aston Villa",
+      "event_time": "2026-11-08 16:30",
+      "event_time_raw": "2026-11-08 16:30",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50091,
+      "event_title": "Atlético Madrid vs Barcelona",
+      "event_time": "2026-11-08 20:00",
+      "event_time_raw": "2026-11-08 20:00",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 5
+    },
+    {
       "event_id": 50092,
-      "event_title": "Paris Saint-Germain vs Troyes",
-      "event_time": "2026-11-07 20:05",
-      "event_time_raw": "2026-11-07 20:05",
+      "event_title": "RC Lens vs Olympique de Marseille",
+      "event_time": "2026-11-08 19:45",
+      "event_time_raw": "2026-11-08 19:45",
       "category": "Ligue 1 🇫🇷",
-      "stream_count": 4
+      "stream_count": 3
     },
     {
       "event_id": 50093,
-      "event_title": "AS Roma vs Sassuolo",
-      "event_time": "2026-11-07 19:45",
-      "event_time_raw": "2026-11-07 19:45",
+      "event_title": "Fiorentina vs Juventus",
+      "event_time": "2026-11-08 19:45",
+      "event_time_raw": "2026-11-08 19:45",
       "category": "Serie A 🇮🇹",
-      "stream_count": 6
+      "stream_count": 4
     },
     {
       "event_id": 50094,
@@ -167,59 +183,91 @@
       "stream_count": 1
     },
     {
-      "event_id": 50095,
-      "event_title": "Buatsi vs Hutchinson",
-      "event_time": "2026-11-07 17:30",
-      "event_time_raw": "2026-11-07 17:30",
-      "category": "Boxing",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50110,
-      "event_title": "AJ Auxerre vs Paris FC",
-      "event_time": "2026-11-07 18:00",
-      "event_time_raw": "2026-11-07 18:00",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50111,
-      "event_title": "Sporting CP vs Moreirense",
-      "event_time": "2026-11-07 20:30",
-      "event_time_raw": "2026-11-07 20:30",
-      "category": "Liga Portugal",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50113,
-      "event_title": "Peterborough United vs Reading",
-      "event_time": "2026-11-07 20:00",
-      "event_time_raw": "2026-11-07 20:00",
-      "category": "FA Cup",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50114,
-      "event_title": "St. Mirren vs Rangers",
-      "event_time": "2026-11-07 20:00",
-      "event_time_raw": "2026-11-07 20:00",
-      "category": "Scottish Premiership",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50116,
-      "event_title": "Hertha BSC vs VfL Wolfsburg",
-      "event_time": "2026-11-07 19:30",
-      "event_time_raw": "2026-11-07 19:30",
-      "category": "2. Bundesliga",
-      "stream_count": 1
-    },
-    {
       "event_id": 50118,
-      "event_title": "DC United vs New York City FC",
-      "event_time": "2026-11-07 21:00",
-      "event_time_raw": "2026-11-07 21:00",
-      "category": "MLS 🇺🇸",
+      "event_title": "Sunderland vs Chelsea",
+      "event_time": "2026-11-08 14:00",
+      "event_time_raw": "2026-11-08 14:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50119,
+      "event_title": "Crystal Palace vs Liverpool FC",
+      "event_time": "2026-11-08 14:00",
+      "event_time_raw": "2026-11-08 14:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50122,
+      "event_title": "Villarreal vs Getafe",
+      "event_time": "2026-11-08 17:30",
+      "event_time_raw": "2026-11-08 17:30",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 4
+    },
+    {
+      "event_id": 50123,
+      "event_title": "Celta Vigo vs Levante UD",
+      "event_time": "2026-11-08 17:30",
+      "event_time_raw": "2026-11-08 17:30",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50124,
+      "event_title": "Real Sociedad vs Rayo Vallecano",
+      "event_time": "2026-11-08 15:15",
+      "event_time_raw": "2026-11-08 15:15",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 4
+    },
+    {
+      "event_id": 50125,
+      "event_title": "Elche vs Real Betis",
+      "event_time": "2026-11-08 13:00",
+      "event_time_raw": "2026-11-08 13:00",
+      "category": "LaLiga 🇪🇸",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50126,
+      "event_title": "Inter vs Como",
+      "event_time": "2026-11-08 17:00",
+      "event_time_raw": "2026-11-08 17:00",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 4
+    },
+    {
+      "event_id": 50127,
+      "event_title": "Genoa vs AC Milan",
+      "event_time": "2026-11-08 14:00",
+      "event_time_raw": "2026-11-08 14:00",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50129,
+      "event_title": "SSC Napoli vs Lazio",
+      "event_time": "2026-11-08 11:30",
+      "event_time_raw": "2026-11-08 11:30",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 4
+    },
+    {
+      "event_id": 50131,
+      "event_title": "SC Freiburg vs Union Berlin",
+      "event_time": "2026-11-08 16:30",
+      "event_time_raw": "2026-11-08 16:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50132,
+      "event_title": "Le Mans vs AS Monaco",
+      "event_time": "2026-11-08 16:15",
+      "event_time_raw": "2026-11-08 16:15",
+      "category": "Ligue 1 🇫🇷",
       "stream_count": 1
     }
   ],
