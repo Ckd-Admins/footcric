@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T00:59:50+05:30",
-  "generated_at_india": "09-11-2026 00:59:50 AM IST",
-  "total": 51,
+  "generated_at": "2026-11-09T01:53:41+05:30",
+  "generated_at_india": "09-11-2026 01:53:41 AM IST",
+  "total": 33,
   "events": [
     {
       "event_id": 50002,
@@ -87,14 +87,6 @@
       "stream_count": 2
     },
     {
-      "event_id": 50058,
-      "event_title": "Portland Trail Blazers vs San Antonio Spurs",
-      "event_time": "2026-11-08 03:00",
-      "event_time_raw": "2026-11-08 03:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-09 06:45",
@@ -135,6 +127,22 @@
       "stream_count": 1
     },
     {
+      "event_id": 50079,
+      "event_title": "Toronto Maple Leafs vs New Jersey Devils",
+      "event_time": "2026-11-09 00:00",
+      "event_time_raw": "2026-11-09 00:00",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50080,
+      "event_title": "Anaheim Ducks vs Pittsburgh Penguins",
+      "event_time": "2026-11-09 01:00",
+      "event_time_raw": "2026-11-09 01:00",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
       "event_id": 50090,
       "event_title": "Manchester United vs Aston Villa",
       "event_time": "2026-11-08 16:30",
@@ -148,7 +156,7 @@
       "event_time": "2026-11-08 20:00",
       "event_time_raw": "2026-11-08 20:00",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 5
+      "stream_count": 8
     },
     {
       "event_id": 50092,
@@ -164,7 +172,7 @@
       "event_time": "2026-11-08 19:45",
       "event_time_raw": "2026-11-08 19:45",
       "category": "Serie A 🇮🇹",
-      "stream_count": 4
+      "stream_count": 8
     },
     {
       "event_id": 50094,
@@ -173,94 +181,6 @@
       "event_time_raw": "2026-11-09 03:30",
       "category": "Cricket",
       "stream_count": 1
-    },
-    {
-      "event_id": 50118,
-      "event_title": "Sunderland vs Chelsea",
-      "event_time": "2026-11-08 14:00",
-      "event_time_raw": "2026-11-08 14:00",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50119,
-      "event_title": "Crystal Palace vs Liverpool FC",
-      "event_time": "2026-11-08 14:00",
-      "event_time_raw": "2026-11-08 14:00",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 4
-    },
-    {
-      "event_id": 50122,
-      "event_title": "Villarreal vs Getafe",
-      "event_time": "2026-11-08 17:30",
-      "event_time_raw": "2026-11-08 17:30",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 4
-    },
-    {
-      "event_id": 50123,
-      "event_title": "Celta Vigo vs Levante UD",
-      "event_time": "2026-11-08 17:30",
-      "event_time_raw": "2026-11-08 17:30",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50124,
-      "event_title": "Real Sociedad vs Rayo Vallecano",
-      "event_time": "2026-11-08 15:15",
-      "event_time_raw": "2026-11-08 15:15",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 4
-    },
-    {
-      "event_id": 50126,
-      "event_title": "Inter vs Como",
-      "event_time": "2026-11-08 17:00",
-      "event_time_raw": "2026-11-08 17:00",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 8
-    },
-    {
-      "event_id": 50131,
-      "event_title": "SC Freiburg vs Union Berlin",
-      "event_time": "2026-11-08 16:30",
-      "event_time_raw": "2026-11-08 16:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 4
-    },
-    {
-      "event_id": 50132,
-      "event_title": "Le Mans vs AS Monaco",
-      "event_time": "2026-11-08 16:15",
-      "event_time_raw": "2026-11-08 16:15",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50133,
-      "event_title": "Stade Brestois vs Olympique Lyonnais",
-      "event_time": "2026-11-08 16:15",
-      "event_time_raw": "2026-11-08 16:15",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50134,
-      "event_title": "Le Havre vs Lorient",
-      "event_time": "2026-11-08 16:15",
-      "event_time_raw": "2026-11-08 16:15",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50135,
-      "event_title": "Angers vs OGC Nice",
-      "event_time": "2026-11-08 16:15",
-      "event_time_raw": "2026-11-08 16:15",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 2
     },
     {
       "event_id": 50137,
@@ -279,30 +199,6 @@
       "stream_count": 1
     },
     {
-      "event_id": 50142,
-      "event_title": "SC Cambuur vs PSV Eindhoven",
-      "event_time": "2026-11-08 15:45",
-      "event_time_raw": "2026-11-08 15:45",
-      "category": "Eredivisie",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50143,
-      "event_title": "FC Twente vs AFC Ajax",
-      "event_time": "2026-11-08 13:30",
-      "event_time_raw": "2026-11-08 13:30",
-      "category": "Eredivisie",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50144,
-      "event_title": "SC Heerenveen vs Feyenoord",
-      "event_time": "2026-11-08 11:15",
-      "event_time_raw": "2026-11-08 11:15",
-      "category": "Eredivisie",
-      "stream_count": 1
-    },
-    {
       "event_id": 50146,
       "event_title": "Beşiktaş JK vs Gençlerbirliği",
       "event_time": "2026-11-08 18:00",
@@ -311,48 +207,8 @@
       "stream_count": 1
     },
     {
-      "event_id": 50147,
-      "event_title": "Alanyaspor vs Trabzonspor",
-      "event_time": "2026-11-08 15:30",
-      "event_time_raw": "2026-11-08 15:30",
-      "category": "Super Lig",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50150,
-      "event_title": "Oldham Athletic vs Sheffield Wednesday",
-      "event_time": "2026-11-08 17:15",
-      "event_time_raw": "2026-11-08 17:15",
-      "category": "FA Cup",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50151,
-      "event_title": "Wimborne Town vs Crawley Town",
-      "event_time": "2026-11-08 15:00",
-      "event_time_raw": "2026-11-08 15:00",
-      "category": "FA Cup",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50153,
-      "event_title": "Cray Wanderers vs Stockport County",
-      "event_time": "2026-11-08 14:15",
-      "event_time_raw": "2026-11-08 14:15",
-      "category": "FA Cup",
-      "stream_count": 1
-    },
-    {
       "event_id": 50154,
       "event_title": "UD Las Palmas vs CD Eldense",
-      "event_time": "2026-11-08 17:30",
-      "event_time_raw": "2026-11-08 17:30",
-      "category": "LaLiga 2",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50155,
-      "event_title": "Sporting Gijón vs Real Valladolid",
       "event_time": "2026-11-08 17:30",
       "event_time_raw": "2026-11-08 17:30",
       "category": "LaLiga 2",
