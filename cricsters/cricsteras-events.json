@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T10:00:55+05:30",
-  "generated_at_india": "08-11-2026 10:00:55 AM IST",
-  "total": 24,
+  "generated_at": "2026-11-08T10:13:26+05:30",
+  "generated_at_india": "08-11-2026 10:13:26 AM IST",
+  "total": 25,
   "events": [
     {
       "event_id": "16",
@@ -101,6 +101,14 @@
       "event_time_raw": 1794081900000,
       "category": "Football",
       "stream_count": 4
+    },
+    {
+      "event_id": "25",
+      "event_title": "Nations Championship - France vs Fiji",
+      "event_time": "08 Nov, 01:40 am",
+      "event_time_raw": 1794082200000,
+      "category": "Rugby",
+      "stream_count": 2
     },
     {
       "event_id": "19",
