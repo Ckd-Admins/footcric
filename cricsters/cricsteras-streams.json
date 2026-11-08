@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T10:13:26+05:30",
-  "generated_at_india": "08-11-2026 10:13:26 AM IST",
+  "generated_at": "2026-11-08T11:10:37+05:30",
+  "generated_at_india": "08-11-2026 11:10:37 AM IST",
   "total": 25,
   "ok": 25,
   "failed": 0,
   "events": [
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "6",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "13",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "05 Nov, 11:00 pm",
       "event_time_raw": 1793899800000,
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "7",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "event_id": "1",
+      "event_id": "2",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "14",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "07 Nov, 03:00 pm",
       "event_time_raw": 1794043800000,
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "15",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "07 Nov, 04:45 pm",
       "event_time_raw": 1794050100000,
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "12",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "07 Nov, 07:00 pm",
       "event_time_raw": 1794058200000,
@@ -305,7 +305,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "5",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "07 Nov, 11:25 pm",
       "event_time_raw": 1794074100000,
@@ -378,7 +378,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "11",
       "event_title": "BKFC 96 - BKFC vs BKFC",
       "event_time": "08 Nov, 12:30 am",
       "event_time_raw": 1794078000000,
@@ -406,7 +406,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "24",
       "event_title": "2. Bundesliga - Hertha BSC vs VfL Wolfsburg",
       "event_time": "08 Nov, 01:00 am",
       "event_time_raw": 1794079800000,
@@ -425,7 +425,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "23",
       "event_title": "Ligue 1 - Paris Saint-Germain vs Troyes",
       "event_time": "08 Nov, 01:35 am",
       "event_time_raw": 1794081900000,
@@ -471,35 +471,7 @@
       ]
     },
     {
-      "event_id": "25",
-      "event_title": "Nations Championship - France vs Fiji",
-      "event_time": "08 Nov, 01:40 am",
-      "event_time_raw": 1794082200000,
-      "category": "Rugby",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "FRFIRUGB",
-          "title": "RUGBYPASS TV - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-          "drm": {
-            "kid": "63a084a354d126bcd099c9eabf0cbb93",
-            "key": "bd2b00bce574c33af46d0538937b3ac3"
-          }
-        },
-        {
-          "code": "FRFISTAN",
-          "title": "STAN SPORTS AQ (AUS)",
-          "url": "https://live01-stan.akamaized.net/out/v1/b8dca037fbfb4df8b0d9ed42c2872cc3/index.mpd",
-          "drm": {
-            "kid": "f001772d8a114c74a5aa9159c1b13c5b",
-            "key": "bea6ec37ddea39ade9d044904955b0c6"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "Liga Portugal Betclic - Sporting CP vs Moreirense",
       "event_time": "08 Nov, 02:00 am",
       "event_time_raw": 1794083400000,
@@ -527,7 +499,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "Canadian Premier League - Cavalry FC vs FC Supra Du Quebec",
       "event_time": "08 Nov, 02:30 am",
       "event_time_raw": 1794085200000,
@@ -546,7 +518,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -610,7 +582,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "3",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "08 Nov, 09:00 am",
       "event_time_raw": 1794108600000,
@@ -638,7 +610,44 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "1",
+      "event_title": "U19 Asia Cup - India Under-19 vs Pakistan Under-19",
+      "event_time": "08 Nov, 10:30 am",
+      "event_time_raw": 1794114000000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "INPAWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iblrnr8axo/out/v1/1795f237d84e47b097f5dfc945a06ca1/cenc.mpd?",
+          "drm": {
+            "kid": "6d936b86f2528f7d747a662b4edf2164",
+            "key": "2e8df69c4d8c646985b73b569657612f"
+          }
+        },
+        {
+          "code": "INPAPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aungdo94je/out/v1/7962d6bd2f904cf09661de99039e97a9/cenc.mpd?",
+          "drm": {
+            "kid": "9a41a1afa54961a0cfafd5e7b2b550ce",
+            "key": "f6d9a39542f275e5e2e73f20c6c97de9"
+          }
+        },
+        {
+          "code": "INPAWILLW2",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zjxcvjdkli/out/v1/adfe504a6e6a4cfda0234885b08f72a6/cenc.mpd",
+          "drm": {
+            "kid": "cb402b40b2aa0cceeb399dc8a3cfb6f1",
+            "key": "8f089d69677070e893da78d9ba7c35b6"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "4",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "08 Nov, 11:30 am",
       "event_time_raw": 1794117600000,
@@ -675,7 +684,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "08 Nov, 11:30 am",
       "event_time_raw": 1794117600000,
@@ -703,7 +712,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "9",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "08 Nov, 04:30 pm",
       "event_time_raw": 1794135600000,
@@ -749,7 +758,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "08 Nov, 05:00 pm",
       "event_time_raw": 1794137400000,
@@ -777,7 +786,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "22",
       "event_title": "LaLiga 2 - FC Andorra vs Mallorca",
       "event_time": "08 Nov, 06:30 pm",
       "event_time_raw": 1794142800000,
@@ -796,7 +805,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "8",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -815,7 +824,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "16",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
@@ -879,7 +888,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "10",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
