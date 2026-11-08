@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T16:58:03+05:30",
-  "generated_at_india": "08-11-2026 04:58:03 PM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-11-08T18:04:53+05:30",
+  "generated_at_india": "08-11-2026 06:04:53 PM IST",
+  "total": 27,
+  "ok": 27,
   "failed": 0,
   "events": [
     {
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "26",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "24",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -472,10 +472,10 @@
         {
           "code": "AFZIWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gsqrpyixaj/out/v1/0db655cab1094df59028406df55c59fa/cenc.mpd?",
           "drm": {
-            "kid": "7f6cef23a9b2d9b21e04cd96753f7d01",
-            "key": "3f260e0025a8b3273ece982cff0562e0"
+            "kid": "99674fd07c70b730f03ab2030c9c5545",
+            "key": "0f26d9265d01af9cfbd142d37afcda93"
           }
         },
         {
@@ -490,7 +490,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "25",
       "event_title": "Women's Big Bash League - Perth Scorchers Women vs Melbourne Stars Women",
       "event_time": "08 Nov, 11:40 am",
       "event_time_raw": 1794118200000,
@@ -656,6 +656,25 @@
       ]
     },
     {
+      "event_id": "22",
+      "event_title": "VriendenLoterij Eredivisie - SC Heerenveen vs Feyenoord",
+      "event_time": "08 Nov, 04:45 pm",
+      "event_time_raw": 1794136500000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SCFESPOR",
+          "title": "SportDigital Fussball",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm": {
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "15",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "08 Nov, 05:00 pm",
@@ -721,25 +740,44 @@
         {
           "code": "ABABWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd",
           "drm": {
-            "kid": "c36580b91d6530ceba196d7254d67b94",
-            "key": "af9da5c72e1aa9472a3b8ef852c0f330"
+            "kid": "bf29a35e375da99d9ee225515621294e",
+            "key": "41c2975121d22fd57ef0d436fa6d5971"
           }
         },
         {
-          "code": "ABABWILL2I",
+          "code": "ABABWILLN5",
           "title": "WILLOW S2 - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ycm2ti8bd1/out/v1/a53989fee53c44df908f680d761490be/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd",
           "drm": {
-            "kid": "4ad9a7bf0858c28640473d693d656903",
-            "key": "37c98fc924e72a3114ef6a922c4d0e74"
+            "kid": "bf29a35e375da99d9ee225515621294e",
+            "key": "41c2975121d22fd57ef0d436fa6d5971"
           }
         }
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "23",
+      "event_title": "Trendyol Süper Lig - Çorum FK vs Fenerbahçe",
+      "event_time": "08 Nov, 06:30 pm",
+      "event_time_raw": 1794142800000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ORFEBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?",
+          "drm": {
+            "kid": "4fce30c060b7b0464ab765e24fee5ecc",
+            "key": "65d612238736eec3794c7e75a6fd362c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "27",
       "event_title": "Nations Championship - England vs Australia",
       "event_time": "08 Nov, 08:40 pm",
       "event_time_raw": 1794150600000,

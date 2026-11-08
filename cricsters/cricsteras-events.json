@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T16:58:03+05:30",
-  "generated_at_india": "08-11-2026 04:58:03 PM IST",
-  "total": 25,
+  "generated_at": "2026-11-08T18:04:53+05:30",
+  "generated_at_india": "08-11-2026 06:04:53 PM IST",
+  "total": 27,
   "events": [
     {
       "event_id": "19",
@@ -55,7 +55,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "24",
+      "event_id": "26",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -79,7 +79,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "22",
+      "event_id": "24",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -111,7 +111,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "23",
+      "event_id": "25",
       "event_title": "Women's Big Bash League - Perth Scorchers Women vs Melbourne Stars Women",
       "event_time": "08 Nov, 11:40 am",
       "event_time_raw": 1794118200000,
@@ -143,6 +143,14 @@
       "stream_count": 4
     },
     {
+      "event_id": "22",
+      "event_title": "VriendenLoterij Eredivisie - SC Heerenveen vs Feyenoord",
+      "event_time": "08 Nov, 04:45 pm",
+      "event_time_raw": 1794136500000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
       "event_id": "15",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "08 Nov, 05:00 pm",
@@ -159,7 +167,15 @@
       "stream_count": 2
     },
     {
-      "event_id": "25",
+      "event_id": "23",
+      "event_title": "Trendyol Süper Lig - Çorum FK vs Fenerbahçe",
+      "event_time": "08 Nov, 06:30 pm",
+      "event_time_raw": 1794142800000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "27",
       "event_title": "Nations Championship - England vs Australia",
       "event_time": "08 Nov, 08:40 pm",
       "event_time_raw": 1794150600000,
