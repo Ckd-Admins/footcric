@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T09:13:21+05:30",
-  "generated_at_india": "08-11-2026 09:13:21 AM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-11-08T10:00:55+05:30",
+  "generated_at_india": "08-11-2026 10:00:55 AM IST",
+  "total": 24,
+  "ok": 24,
   "failed": 0,
   "events": [
     {
@@ -466,34 +466,6 @@
           "drm": {
             "kid": "34475edab991ad5e92548aebd710410a",
             "key": "501b209cccd323ac00bf5ac15b406cb4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "25",
-      "event_title": "Nations Championship - France vs Fiji",
-      "event_time": "08 Nov, 01:40 am",
-      "event_time_raw": 1794082200000,
-      "category": "Rugby",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "FRFIRUGB",
-          "title": "RUGBYPASS TV - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-          "drm": {
-            "kid": "63a084a354d126bcd099c9eabf0cbb93",
-            "key": "bd2b00bce574c33af46d0538937b3ac3"
-          }
-        },
-        {
-          "code": "FRFISTAN",
-          "title": "STAN SPORTS AQ (AUS)",
-          "url": "https://live01-stan.akamaized.net/out/v1/b8dca037fbfb4df8b0d9ed42c2872cc3/index.mpd",
-          "drm": {
-            "kid": "f001772d8a114c74a5aa9159c1b13c5b",
-            "key": "bea6ec37ddea39ade9d044904955b0c6"
           }
         }
       ]
