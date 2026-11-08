@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T16:54:35+05:30",
-  "generated_at_india": "08-11-2026 04:54:35 PM IST",
+  "generated_at": "2026-11-08T17:59:52+05:30",
+  "generated_at_india": "08-11-2026 05:59:52 PM IST",
   "total": 45,
   "events": [
     {
@@ -220,7 +220,7 @@
       "event_time": "2026-11-08 11:30",
       "event_time_raw": "2026-11-08 11:30",
       "category": "Serie A 🇮🇹",
-      "stream_count": 4
+      "stream_count": 7
     },
     {
       "event_id": 50131,

@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T16:54:35+05:30",
-  "generated_at_india": "08-11-2026 04:54:35 PM IST",
+  "generated_at": "2026-11-08T17:59:52+05:30",
+  "generated_at_india": "08-11-2026 05:59:52 PM IST",
   "total": 45,
   "ok": 45,
   "failed": 0,
@@ -303,12 +303,12 @@
           }
         },
         {
-          "code": "ATPPTSN5",
-          "title": "TSN5 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "code": "ATPPTSN3",
+          "title": "TSN3 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
           "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
+            "kid": "d3250252765347a0c2603c6cb4869f8c",
+            "key": "0c19319460da7e9ed816db46ce839b37"
           }
         },
         {
@@ -379,16 +379,16 @@
         {
           "code": "ABUDWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd",
           "drm": {
-            "kid": "c36580b91d6530ceba196d7254d67b94",
-            "key": "af9da5c72e1aa9472a3b8ef852c0f330"
+            "kid": "bf29a35e375da99d9ee225515621294e",
+            "key": "41c2975121d22fd57ef0d436fa6d5971"
           }
         },
         {
-          "code": "ABUDWILLAD",
+          "code": "ABUDWILL1H",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd",
           "drm": {
             "kid": "c36580b91d6530ceba196d7254d67b94",
             "key": "af9da5c72e1aa9472a3b8ef852c0f330"
@@ -931,8 +931,35 @@
       "event_time": "2026-11-08 11:30",
       "event_time_raw": "2026-11-08 11:30",
       "category": "Serie A 🇮🇹",
-      "stream_count": 4,
+      "stream_count": 7,
       "streams": [
+        {
+          "code": "SSLADAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3c139et4qh/out/v1/576c656ec7944cf6a7dcd38a93554c64/cenc.mpd",
+          "drm": {
+            "kid": "7a3612d07b988704b2f85e9d205d8155",
+            "key": "97ed43a6bcf98ef345f3164e3dea7242"
+          }
+        },
+        {
+          "code": "SSLAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sd0jrfrl6f/out/v1/ebfbbac143874943b3f946e8c1d303a1/cenc.mpd",
+          "drm": {
+            "kid": "da9a1f83b9894600230b08e846e6d912",
+            "key": "8d6def9b7a51d059b06b55a97d7c67e5"
+          }
+        },
+        {
+          "code": "SSLAFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd",
+          "drm": {
+            "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
+            "key": "3e7d40c4b2ca331fe48bd65acae439d7"
+          }
+        },
         {
           "code": "SSLABEIN",
           "title": "beIN ENGLISH FHD",
@@ -943,21 +970,21 @@
           }
         },
         {
-          "code": "SSLAFUBO",
-          "title": "FUBO SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-          "drm": {
-            "kid": "42f72c025dd53039244adc13b7e31dad",
-            "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
-          }
-        },
-        {
           "code": "SSLACBSS",
           "title": "CBS SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
           "drm": {
             "kid": "d9623774ac5c8c351aafe97c5fe70267",
             "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        },
+        {
+          "code": "SSLAFUBOWN",
+          "title": "FUBO SPORTS ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+          "drm": {
+            "kid": "42f72c025dd53039244adc13b7e31dad",
+            "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
           }
         },
         {
