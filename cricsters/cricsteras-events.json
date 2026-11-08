@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T22:56:36+05:30",
-  "generated_at_india": "08-11-2026 10:56:36 PM IST",
-  "total": 27,
+  "generated_at": "2026-11-08T23:59:36+05:30",
+  "generated_at_india": "08-11-2026 11:59:36 PM IST",
+  "total": 30,
   "events": [
     {
       "event_id": "18",
@@ -111,14 +111,6 @@
       "stream_count": 4
     },
     {
-      "event_id": "20",
-      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
-      "event_time": "08 Nov, 05:00 pm",
-      "event_time_raw": 1794137400000,
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
       "event_id": "12",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "08 Nov, 06:30 pm",
@@ -164,7 +156,15 @@
       "event_time": "08 Nov, 11:15 pm",
       "event_time_raw": 1794159900000,
       "category": "American football",
-      "stream_count": 2
+      "stream_count": 3
+    },
+    {
+      "event_id": "29",
+      "event_title": "NHL - Boston Bruins vs Florida Panthers",
+      "event_time": "08 Nov, 11:30 pm",
+      "event_time_raw": 1794160800000,
+      "category": "Hockey",
+      "stream_count": 1
     },
     {
       "event_id": "8",
@@ -172,6 +172,22 @@
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
       "category": "Boxing",
+      "stream_count": 1
+    },
+    {
+      "event_id": "30",
+      "event_title": "NHL - Toronto Maple Leafs vs New Jersey Devils",
+      "event_time": "09 Nov, 05:30 am",
+      "event_time_raw": 1794182400000,
+      "category": "Hockey",
+      "stream_count": 1
+    },
+    {
+      "event_id": "28",
+      "event_title": "NBA - Milwaukee Bucks vs Boston Celtics",
+      "event_time": "09 Nov, 06:30 am",
+      "event_time_raw": 1794186000000,
+      "category": "Basketball",
       "stream_count": 1
     },
     {
@@ -213,6 +229,14 @@
       "event_time_raw": 1794276000000,
       "category": "Cricket",
       "stream_count": 6
+    },
+    {
+      "event_id": "20",
+      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
+      "event_time": "10 Nov, 05:00 pm",
+      "event_time_raw": 1794310200000,
+      "category": "Cricket",
+      "stream_count": 2
     },
     {
       "event_id": "10",

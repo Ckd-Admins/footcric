@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T22:56:36+05:30",
-  "generated_at_india": "08-11-2026 10:56:36 PM IST",
-  "total": 27,
-  "ok": 27,
+  "generated_at": "2026-11-08T23:59:36+05:30",
+  "generated_at_india": "08-11-2026 11:59:36 PM IST",
+  "total": 30,
+  "ok": 30,
   "failed": 0,
   "events": [
     {
@@ -472,34 +472,6 @@
       ]
     },
     {
-      "event_id": "20",
-      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
-      "event_time": "08 Nov, 05:00 pm",
-      "event_time_raw": 1794137400000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "ABABWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/grkpugayui/out/v1/7cb0cff1780143ecb7d4a4a3982e705a/cenc.mpd",
-          "drm": {
-            "kid": "195416cacf5f56985edb79d6e04589c3",
-            "key": "cedc20717599a61a9142b393bfe146a7"
-          }
-        },
-        {
-          "code": "ABABWILLNU",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/grkpugayui/out/v1/7cb0cff1780143ecb7d4a4a3982e705a/cenc.mpd",
-          "drm": {
-            "kid": "195416cacf5f56985edb79d6e04589c3",
-            "key": "cedc20717599a61a9142b393bfe146a7"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "12",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "08 Nov, 06:30 pm",
@@ -735,7 +707,7 @@
       "event_time": "08 Nov, 11:15 pm",
       "event_time_raw": 1794159900000,
       "category": "American football",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "NFNFREDZ",
@@ -747,12 +719,40 @@
           }
         },
         {
+          "code": "NFNFREDZPV",
+          "title": "REDZONE FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ym9kbji9jh/out/v1/fddb9964cee64f9a9f5bd97bf0ad668e/cenc.mpd?",
+          "drm": {
+            "kid": "f60169a33f5c94aca22d7d93079bbfa1",
+            "key": "888e18968c39f6e3b7fcada59b87e857"
+          }
+        },
+        {
           "code": "NFNFNFLL",
           "title": "NFL LIVE TV",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lz1p95hcxk/out/v1/d5f91ece0e304a1283b28266a072ddc2/cenc.mpd",
           "drm": {
             "kid": "ff4a1e48d06619919d2d36ebdb2b67fb",
             "key": "0a6d7d953cd47b8261ac14dc13916182"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "29",
+      "event_title": "NHL - Boston Bruins vs Florida Panthers",
+      "event_time": "08 Nov, 11:30 pm",
+      "event_time_raw": 1794160800000,
+      "category": "Hockey",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BOFLSKYS",
+          "title": "SKY SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1kw2e0yi13/out/v1/575f67f6b552422dba30742c7f965bcb/cenc.mpd?",
+          "drm": {
+            "kid": "8cd50695fb14e27dfd8908637f1da467",
+            "key": "2bbe80619ec5e303ef1b79781bf3b757"
           }
         }
       ]
@@ -772,6 +772,44 @@
           "drm": {
             "kid": "df2d9b6fca9b4f3697bda9614398b991",
             "key": "d10a74b6649741bf8e2687c03f955c90"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "30",
+      "event_title": "NHL - Toronto Maple Leafs vs New Jersey Devils",
+      "event_time": "09 Nov, 05:30 am",
+      "event_time_raw": 1794182400000,
+      "category": "Hockey",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "TONETSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "drm": {
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "28",
+      "event_title": "NBA - Milwaukee Bucks vs Boston Celtics",
+      "event_time": "09 Nov, 06:30 am",
+      "event_time_raw": 1794186000000,
+      "category": "Basketball",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "MIBOTSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
           }
         }
       ]
@@ -966,6 +1004,34 @@
           "drm": {
             "kid": "7ef90352c28904be995275bc47f74c04",
             "key": "af5e36ddef7584474601c19b4ae5935a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "20",
+      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
+      "event_time": "10 Nov, 05:00 pm",
+      "event_time_raw": 1794310200000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "ABABWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/grkpugayui/out/v1/7cb0cff1780143ecb7d4a4a3982e705a/cenc.mpd",
+          "drm": {
+            "kid": "195416cacf5f56985edb79d6e04589c3",
+            "key": "cedc20717599a61a9142b393bfe146a7"
+          }
+        },
+        {
+          "code": "ABABWILLNU",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/grkpugayui/out/v1/7cb0cff1780143ecb7d4a4a3982e705a/cenc.mpd",
+          "drm": {
+            "kid": "195416cacf5f56985edb79d6e04589c3",
+            "key": "cedc20717599a61a9142b393bfe146a7"
           }
         }
       ]
