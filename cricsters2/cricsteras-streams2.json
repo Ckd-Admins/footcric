@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T01:53:41+05:30",
-  "generated_at_india": "09-11-2026 01:53:41 AM IST",
-  "total": 33,
-  "ok": 33,
+  "generated_at": "2026-11-09T02:54:18+05:30",
+  "generated_at_india": "09-11-2026 02:54:18 AM IST",
+  "total": 37,
+  "ok": 37,
   "failed": 0,
   "events": [
     {
@@ -388,6 +388,44 @@
       ]
     },
     {
+      "event_id": 50042,
+      "event_title": "Seattle Seahawks vs Arizona Cardinals",
+      "event_time": "2026-11-08 21:25",
+      "event_time_raw": "2026-11-08 21:25",
+      "category": "NFL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SEARSPOR",
+          "title": "SportzX TV+ HD",
+          "url": "https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HL4XXSQZ.mpd",
+          "drm": {
+            "kid": "https",
+            "key": "//primevideo.com.playfytvboss.online/license/dazncad/?asin=b0hl4xxsqz"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50043,
+      "event_title": "Chicago Bulls vs Philadelphia 76ers",
+      "event_time": "2026-11-08 20:30",
+      "event_time_raw": "2026-11-08 20:30",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CHPHNBAL",
+          "title": "NBA LegauePass FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oddceyeids/out/v1/8ff407c6303144d09b9f921cf8a73c4e/cenc.mpd?",
+          "drm": {
+            "kid": "42560a63e50c2a1b858adcbef8bf14df",
+            "key": "e3e0d9d77bb6a6497623dca64a3a1622"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-09 06:45",
@@ -412,7 +450,7 @@
       "event_time": "2026-11-08 21:25",
       "event_time_raw": "2026-11-08 21:25",
       "category": "NFL",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "SALATSNS",
@@ -421,6 +459,53 @@
           "drm": {
             "kid": "14eeabf30c14b7fbf3008c03099ce011",
             "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          }
+        },
+        {
+          "code": "SALASPOR",
+          "title": "SportzX TV+ FHD",
+          "url": "https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HPGDSBP2.mpd",
+          "drm": {
+            "kid": "https",
+            "key": "//primevideo.com.playfytvboss.online/license/dazncad/?asin=b0hpgdsbp2"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50067,
+      "event_title": "New England Patriots vs Green Bay Packers",
+      "event_time": "2026-11-08 21:25",
+      "event_time_raw": "2026-11-08 21:25",
+      "category": "NFL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NEGRSPOR",
+          "title": "SportzX TV+ HD",
+          "url": "https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HLS4Y2NZ.mpd",
+          "drm": {
+            "kid": "https",
+            "key": "//primevideo.com.playfytvboss.online/license/dazncad/?asin=b0hls4y2nz"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50068,
+      "event_title": "Los Angeles Chargers vs Houston Texans",
+      "event_time": "2026-11-08 21:05",
+      "event_time_raw": "2026-11-08 21:05",
+      "category": "NFL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LOHOSPOR",
+          "title": "SportzX TV+ HD",
+          "url": "https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HFDY53XT.mpd",
+          "drm": {
+            "kid": "https",
+            "key": "//primevideo.com.playfytvboss.online/license/dazncad/?asin=b0hfdy53xt"
           }
         }
       ]
