@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T13:21:49+05:30",
-  "generated_at_india": "08-11-2026 01:21:49 PM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-11-08T14:11:49+05:30",
+  "generated_at_india": "08-11-2026 02:11:49 PM IST",
+  "total": 27,
+  "ok": 27,
   "failed": 0,
   "events": [
     {
@@ -259,53 +259,7 @@
       ]
     },
     {
-      "event_id": "12",
-      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
-      "event_time": "07 Nov, 07:00 pm",
-      "event_time_raw": 1794058200000,
-      "category": "Tennis",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "WTWTBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "WTWTTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        },
-        {
-          "code": "WTWTSPOR",
-          "title": "SPORT 1 CZ - AQ",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        },
-        {
-          "code": "WTWTSTAN",
-          "title": "STAN SPORTS AQ (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/18efa9ad72de42bdb59a17e5bb8349b6/index.mpd",
-          "drm": {
-            "kid": "66ccc23f78fa4f73bc0cfe80b4b9ffce",
-            "key": "9e6c544b791aafa3c450abcda223b81c"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -425,7 +379,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -554,7 +508,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "23",
       "event_title": "U19 Asia Cup - United Arab Emirates Under-19 vs Nepal Under-19",
       "event_time": "08 Nov, 10:30 am",
       "event_time_raw": 1794114000000,
@@ -647,7 +601,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "Women's Big Bash League - Perth Scorchers Women vs Melbourne Stars Women",
       "event_time": "08 Nov, 11:40 am",
       "event_time_raw": 1794118200000,
@@ -670,6 +624,90 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "26",
+      "event_title": "World Cup, Women - Australia vs Fiji",
+      "event_time": "08 Nov, 12:15 pm",
+      "event_time_raw": 1794120300000,
+      "category": "Rugby",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "AUFIPREM",
+          "title": "PREMIER SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "12",
+      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
+      "event_time": "08 Nov, 01:30 pm",
+      "event_time_raw": 1794124800000,
+      "category": "Tennis",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "WTWTBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        },
+        {
+          "code": "WTWTTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
+          }
+        },
+        {
+          "code": "WTWTSPOR",
+          "title": "SPORT 1 CZ - AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        },
+        {
+          "code": "WTWTSTAN",
+          "title": "STAN SPORTS AQ (AUS)",
+          "url": "https://live02-stan.akamaized.net/out/v1/18efa9ad72de42bdb59a17e5bb8349b6/index.mpd",
+          "drm": {
+            "kid": "66ccc23f78fa4f73bc0cfe80b4b9ffce",
+            "key": "9e6c544b791aafa3c450abcda223b81c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "27",
+      "event_title": "World Cup - Australia vs Samoa",
+      "event_time": "08 Nov, 02:35 pm",
+      "event_time_raw": 1794128700000,
+      "category": "Rugby",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "AUSAPREM",
+          "title": "PREMIER SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
           }
         }
       ]
@@ -749,20 +787,29 @@
       ]
     },
     {
-      "event_id": "21",
-      "event_title": "LaLiga 2 - FC Andorra vs Mallorca",
-      "event_time": "08 Nov, 06:30 pm",
-      "event_time_raw": 1794142800000,
-      "category": "Football",
-      "stream_count": 1,
+      "event_id": "25",
+      "event_title": "Nations Championship - England vs Australia",
+      "event_time": "08 Nov, 08:40 pm",
+      "event_time_raw": 1794150600000,
+      "category": "Rugby",
+      "stream_count": 2,
       "streams": [
         {
-          "code": "FCMALALI",
-          "title": "LALIGA HYPEMOTION ES - AQ",
-          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "code": "ENAURUGB",
+          "title": "RUGBYPASS TV - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
           "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+            "kid": "63a084a354d126bcd099c9eabf0cbb93",
+            "key": "bd2b00bce574c33af46d0538937b3ac3"
+          }
+        },
+        {
+          "code": "ENAUSTAN",
+          "title": "STAN SPORTS AQ (AUS)",
+          "url": "https://live01-stan.akamaized.net/out/v1/e516c722d45240a081ca8ba80143f70d/index.mpd",
+          "drm": {
+            "kid": "25930faf5459448494a6138dbf6e6458",
+            "key": "b5aa188f718f5d18335085d7b5838510"
           }
         }
       ]
