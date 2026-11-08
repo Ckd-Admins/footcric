@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T06:00:50+05:30",
-  "generated_at_india": "08-11-2026 06:00:50 AM IST",
-  "total": 33,
-  "ok": 33,
+  "generated_at": "2026-11-08T07:21:34+05:30",
+  "generated_at_india": "08-11-2026 07:21:34 AM IST",
+  "total": 56,
+  "ok": 56,
   "failed": 0,
   "events": [
     {
@@ -480,6 +480,120 @@
       ]
     },
     {
+      "event_id": 50044,
+      "event_title": "Atlanta Hawks vs Brooklyn Nets",
+      "event_time": "2026-11-08 00:30",
+      "event_time_raw": "2026-11-08 00:30",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ATBRNBAL",
+          "title": "NBA LeaguePass FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jdlx6pnvbt/out/v1/f96d381622f848adb38d43cc7b858de9/cenc.mpd",
+          "drm": {
+            "kid": "3591b07dd6d19065b1345e0ce6c89509",
+            "key": "b63fe6f1f4e001725b5b503eed4b771b"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50048,
+      "event_title": "Cleveland Cavaliers vs New York Knicks",
+      "event_time": "2026-11-08 01:00",
+      "event_time_raw": "2026-11-08 01:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CLNENBAL",
+          "title": "NBA LeaguePass FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/phi8fvbnji/out/v1/f32c9f10cdd84595b0b4553684469493/cenc.mpd?",
+          "drm": {
+            "kid": "79a885155bcf99e2c1bd23c0c20edeb7",
+            "key": "43ed883ee86b947df3d3749344b661e9"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50051,
+      "event_title": "Oklahoma City Thunder vs Washington Wizards",
+      "event_time": "2026-11-08 01:00",
+      "event_time_raw": "2026-11-08 01:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "OKWANBAL",
+          "title": "NBA LeaguePass FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/piacg48shr/out/v1/a58cf7f3de7742f2ba72c7cbb296153f/cenc.mpd?",
+          "drm": {
+            "kid": "f8d0bc78297450fd970268b30709846d",
+            "key": "96f9594ae075b101fc3e23c04abf2771"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50055,
+      "event_title": "Golden State Warriors vs Orlando Magic",
+      "event_time": "2026-11-08 01:30",
+      "event_time_raw": "2026-11-08 01:30",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "GOORNBAL",
+          "title": "NBA LeaguePass FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/igns3nzrvy/out/v1/8bd04ead00184b15a200be28e728f032/cenc.mpd?",
+          "drm": {
+            "kid": "09b4ae1297b03d6baa29b5d595560be3",
+            "key": "b67827b313087295ac8667cc08366ea4"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50056,
+      "event_title": "Phoenix Suns vs Houston Rockets",
+      "event_time": "2026-11-08 02:00",
+      "event_time_raw": "2026-11-08 02:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "PHHONBAL",
+          "title": "NBA LeaguePass FHD",
+          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0O1PS941ZUD6O4OUY53VO99HKW.mpd",
+          "drm": {
+            "kid": "https",
+            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0o1ps941zud6o4ouy53vo99hkw"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50058,
+      "event_title": "Portland Trail Blazers vs San Antonio Spurs",
+      "event_time": "2026-11-08 03:00",
+      "event_time_raw": "2026-11-08 03:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "POSANBAL",
+          "title": "NBA LeaguePass FHD",
+          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0RZ1FG94BS79MXQ2KIL8HJDG2I.mpd",
+          "drm": {
+            "kid": "https",
+            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0rz1fg94bs79mxq2kil8hjdg2i"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-07 11:15",
@@ -509,10 +623,10 @@
         {
           "code": "WOMEWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wmf2tyed3f/out/v1/4de89ed1f9e14660a76b85a983013ff8/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?",
           "drm": {
-            "kid": "3d676f46dd6709ea6260baa6b5b7624d",
-            "key": "ec4601cd1af441689732ebe634d008c4"
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
         },
         {
@@ -531,6 +645,53 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50073,
+      "event_title": "Pumas UNAM vs Club América",
+      "event_time": "2026-11-08 03:10",
+      "event_time_raw": "2026-11-08 03:10",
+      "category": "Liga MX",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "PUCLCANA",
+          "title": "CANAL5 FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm": {
+            "kid": "d695093ea3e66d75a4d213a3e2cbf360",
+            "key": "01be3f645e89a067d2786c295f68dde4"
+          }
+        },
+        {
+          "code": "PUCLCBSN",
+          "title": "CBS NETWORK",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50074,
+      "event_title": "Tigres UANL vs Cruz Azul",
+      "event_time": "2026-11-08 01:00",
+      "event_time_raw": "2026-11-08 01:00",
+      "category": "Liga MX",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "TICRPEAC",
+          "title": "PEACOCK TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/54ps3fvvar/out/v1/002300f677694ad3a1f7f6a567093ecc/cenc.mpd?",
+          "drm": {
+            "kid": "d633faf93e3df791992d222abeea0412",
+            "key": "cd66d8828d2351e5bcf0006f97f05e52"
           }
         }
       ]
@@ -597,15 +758,24 @@
       "event_time": "2026-11-08 01:00",
       "event_time_raw": "2026-11-08 01:00",
       "category": "NHL",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "MITAPREM",
           "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?",
           "drm": {
             "kid": "1444f4235529f183f0a5a486befe9cdb",
             "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+          }
+        },
+        {
+          "code": "MITASKYS",
+          "title": "SKY SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd?",
+          "drm": {
+            "kid": "368bd4ebe301406897324bc777650411",
+            "key": "69d27c2c2b7de927d67aacc973259901"
           }
         }
       ]
@@ -1144,6 +1314,309 @@
           "drm": {
             "kid": "27759a440e8ad821b800b3de00cd5851",
             "key": "1b8743adee559f27845f55e8b4d639fe"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50133,
+      "event_title": "Stade Brestois vs Olympique Lyonnais",
+      "event_time": "2026-11-08 16:15",
+      "event_time_raw": "2026-11-08 16:15",
+      "category": "Ligue 1 🇫🇷",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "STOLBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "drm": {
+            "kid": "74cbe15488783fab07ff8c702fabafcd",
+            "key": "bb607803a49c2d6104f845e7886c971c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50136,
+      "event_title": "Stade Rennais vs LOSC Lille",
+      "event_time": "2026-11-08 14:00",
+      "event_time_raw": "2026-11-08 14:00",
+      "category": "Ligue 1 🇫🇷",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "STLOBEIN",
+          "title": "beIN ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "drm": {
+            "kid": "74cbe15488783fab07ff8c702fabafcd",
+            "key": "bb607803a49c2d6104f845e7886c971c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50137,
+      "event_title": "Estrela Amadora vs Benfica",
+      "event_time": "2026-11-08 20:30",
+      "event_time_raw": "2026-11-08 20:30",
+      "category": "Liga Portugal",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "ESBESPOR",
+          "title": "SportDigital Fussball",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm": {
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        },
+        {
+          "code": "ESBESPOR43",
+          "title": "D Sports FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd?",
+          "drm": {
+            "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+            "key": "ea07b87acdf2e45be824cde4a1cf3504"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50138,
+      "event_title": "Vitória SC vs FC Porto",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "Liga Portugal",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "VIFCSPOR",
+          "title": "D Sports FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd?",
+          "drm": {
+            "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+            "key": "ea07b87acdf2e45be824cde4a1cf3504"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50141,
+      "event_title": "CD Toluca vs Monterrey",
+      "event_time": "2026-11-08 01:00",
+      "event_time_raw": "2026-11-08 01:00",
+      "category": "Liga MX",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "CDMOCANA",
+          "title": "CANAL5 FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm": {
+            "kid": "d695093ea3e66d75a4d213a3e2cbf360",
+            "key": "01be3f645e89a067d2786c295f68dde4"
+          }
+        },
+        {
+          "code": "CDMOCBSN",
+          "title": "CBS NETWORK",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50142,
+      "event_title": "SC Cambuur vs PSV Eindhoven",
+      "event_time": "2026-11-08 15:45",
+      "event_time_raw": "2026-11-08 15:45",
+      "category": "Eredivisie",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SCPSSPOR",
+          "title": "SportDigital Fussball",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm": {
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50143,
+      "event_title": "FC Twente vs AFC Ajax",
+      "event_time": "2026-11-08 13:30",
+      "event_time_raw": "2026-11-08 13:30",
+      "category": "Eredivisie",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FCAFSPOR",
+          "title": "SportDigital Fussball",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm": {
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50144,
+      "event_title": "SC Heerenveen vs Feyenoord",
+      "event_time": "2026-11-08 11:15",
+      "event_time_raw": "2026-11-08 11:15",
+      "category": "Eredivisie",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SCFESPOR",
+          "title": "SportDigital Fussball",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm": {
+            "kid": "0ad4080cdff8c60b1233b22087f0b340",
+            "key": "285f129c5eca01dd08a5d5a14ad801c8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50146,
+      "event_title": "Beşiktaş JK vs Gençlerbirliği",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "Super Lig",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BEGEBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?",
+          "drm": {
+            "kid": "4fce30c060b7b0464ab765e24fee5ecc",
+            "key": "65d612238736eec3794c7e75a6fd362c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50147,
+      "event_title": "Alanyaspor vs Trabzonspor",
+      "event_time": "2026-11-08 15:30",
+      "event_time_raw": "2026-11-08 15:30",
+      "category": "Super Lig",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ALTRBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?",
+          "drm": {
+            "kid": "4fce30c060b7b0464ab765e24fee5ecc",
+            "key": "65d612238736eec3794c7e75a6fd362c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50148,
+      "event_title": "Çorum FK vs Fenerbahçe",
+      "event_time": "2026-11-08 13:00",
+      "event_time_raw": "2026-11-08 13:00",
+      "category": "Super Lig",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ORFEBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?",
+          "drm": {
+            "kid": "4fce30c060b7b0464ab765e24fee5ecc",
+            "key": "65d612238736eec3794c7e75a6fd362c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50150,
+      "event_title": "Oldham Athletic vs Sheffield Wednesday",
+      "event_time": "2026-11-08 17:15",
+      "event_time_raw": "2026-11-08 17:15",
+      "category": "FA Cup",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "OLSHTNTS",
+          "title": "TNT Sports FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50151,
+      "event_title": "Wimborne Town vs Crawley Town",
+      "event_time": "2026-11-08 15:00",
+      "event_time_raw": "2026-11-08 15:00",
+      "category": "FA Cup",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "WICRTNTS",
+          "title": "TNT Sports FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50152,
+      "event_title": "Stafford Rangers vs Grimsby Town",
+      "event_time": "2026-11-08 12:00",
+      "event_time_raw": "2026-11-08 12:00",
+      "category": "FA Cup",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "STGRTNTS",
+          "title": "TNT Sports FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50153,
+      "event_title": "Cray Wanderers vs Stockport County",
+      "event_time": "2026-11-08 14:15",
+      "event_time_raw": "2026-11-08 14:15",
+      "category": "FA Cup",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CRSTTNTS",
+          "title": "TNT Sports FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm": {
+            "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+            "key": "643e5474d9edd87c7d9091c8c97994ca"
           }
         }
       ]

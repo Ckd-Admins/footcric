@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T06:00:50+05:30",
-  "generated_at_india": "08-11-2026 06:00:50 AM IST",
-  "total": 33,
+  "generated_at": "2026-11-08T07:21:34+05:30",
+  "generated_at_india": "08-11-2026 07:21:34 AM IST",
+  "total": 56,
   "events": [
     {
       "event_id": 50002,
@@ -103,6 +103,54 @@
       "stream_count": 1
     },
     {
+      "event_id": 50044,
+      "event_title": "Atlanta Hawks vs Brooklyn Nets",
+      "event_time": "2026-11-08 00:30",
+      "event_time_raw": "2026-11-08 00:30",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50048,
+      "event_title": "Cleveland Cavaliers vs New York Knicks",
+      "event_time": "2026-11-08 01:00",
+      "event_time_raw": "2026-11-08 01:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50051,
+      "event_title": "Oklahoma City Thunder vs Washington Wizards",
+      "event_time": "2026-11-08 01:00",
+      "event_time_raw": "2026-11-08 01:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50055,
+      "event_title": "Golden State Warriors vs Orlando Magic",
+      "event_time": "2026-11-08 01:30",
+      "event_time_raw": "2026-11-08 01:30",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50056,
+      "event_title": "Phoenix Suns vs Houston Rockets",
+      "event_time": "2026-11-08 02:00",
+      "event_time_raw": "2026-11-08 02:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50058,
+      "event_title": "Portland Trail Blazers vs San Antonio Spurs",
+      "event_time": "2026-11-08 03:00",
+      "event_time_raw": "2026-11-08 03:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-07 11:15",
@@ -117,6 +165,22 @@
       "event_time_raw": "2026-11-08 02:40",
       "category": "WBBL",
       "stream_count": 3
+    },
+    {
+      "event_id": 50073,
+      "event_title": "Pumas UNAM vs Club América",
+      "event_time": "2026-11-08 03:10",
+      "event_time_raw": "2026-11-08 03:10",
+      "category": "Liga MX",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50074,
+      "event_title": "Tigres UANL vs Cruz Azul",
+      "event_time": "2026-11-08 01:00",
+      "event_time_raw": "2026-11-08 01:00",
+      "category": "Liga MX",
+      "stream_count": 1
     },
     {
       "event_id": 50076,
@@ -140,7 +204,7 @@
       "event_time": "2026-11-08 01:00",
       "event_time_raw": "2026-11-08 01:00",
       "category": "NHL",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50090,
@@ -268,6 +332,126 @@
       "event_time": "2026-11-08 16:15",
       "event_time_raw": "2026-11-08 16:15",
       "category": "Ligue 1 🇫🇷",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50133,
+      "event_title": "Stade Brestois vs Olympique Lyonnais",
+      "event_time": "2026-11-08 16:15",
+      "event_time_raw": "2026-11-08 16:15",
+      "category": "Ligue 1 🇫🇷",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50136,
+      "event_title": "Stade Rennais vs LOSC Lille",
+      "event_time": "2026-11-08 14:00",
+      "event_time_raw": "2026-11-08 14:00",
+      "category": "Ligue 1 🇫🇷",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50137,
+      "event_title": "Estrela Amadora vs Benfica",
+      "event_time": "2026-11-08 20:30",
+      "event_time_raw": "2026-11-08 20:30",
+      "category": "Liga Portugal",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50138,
+      "event_title": "Vitória SC vs FC Porto",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "Liga Portugal",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50141,
+      "event_title": "CD Toluca vs Monterrey",
+      "event_time": "2026-11-08 01:00",
+      "event_time_raw": "2026-11-08 01:00",
+      "category": "Liga MX",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50142,
+      "event_title": "SC Cambuur vs PSV Eindhoven",
+      "event_time": "2026-11-08 15:45",
+      "event_time_raw": "2026-11-08 15:45",
+      "category": "Eredivisie",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50143,
+      "event_title": "FC Twente vs AFC Ajax",
+      "event_time": "2026-11-08 13:30",
+      "event_time_raw": "2026-11-08 13:30",
+      "category": "Eredivisie",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50144,
+      "event_title": "SC Heerenveen vs Feyenoord",
+      "event_time": "2026-11-08 11:15",
+      "event_time_raw": "2026-11-08 11:15",
+      "category": "Eredivisie",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50146,
+      "event_title": "Beşiktaş JK vs Gençlerbirliği",
+      "event_time": "2026-11-08 18:00",
+      "event_time_raw": "2026-11-08 18:00",
+      "category": "Super Lig",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50147,
+      "event_title": "Alanyaspor vs Trabzonspor",
+      "event_time": "2026-11-08 15:30",
+      "event_time_raw": "2026-11-08 15:30",
+      "category": "Super Lig",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50148,
+      "event_title": "Çorum FK vs Fenerbahçe",
+      "event_time": "2026-11-08 13:00",
+      "event_time_raw": "2026-11-08 13:00",
+      "category": "Super Lig",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50150,
+      "event_title": "Oldham Athletic vs Sheffield Wednesday",
+      "event_time": "2026-11-08 17:15",
+      "event_time_raw": "2026-11-08 17:15",
+      "category": "FA Cup",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50151,
+      "event_title": "Wimborne Town vs Crawley Town",
+      "event_time": "2026-11-08 15:00",
+      "event_time_raw": "2026-11-08 15:00",
+      "category": "FA Cup",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50152,
+      "event_title": "Stafford Rangers vs Grimsby Town",
+      "event_time": "2026-11-08 12:00",
+      "event_time_raw": "2026-11-08 12:00",
+      "category": "FA Cup",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50153,
+      "event_title": "Cray Wanderers vs Stockport County",
+      "event_time": "2026-11-08 14:15",
+      "event_time_raw": "2026-11-08 14:15",
+      "category": "FA Cup",
       "stream_count": 1
     }
   ],
