@@ -2,12 +2,12 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T11:10:37+05:30",
-  "generated_at_india": "08-11-2026 11:10:37 AM IST",
-  "total": 25,
+  "generated_at": "2026-11-08T12:14:24+05:30",
+  "generated_at_india": "08-11-2026 00:14:24 PM IST",
+  "total": 26,
   "events": [
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -55,7 +55,7 @@
       "stream_count": 5
     },
     {
-      "event_id": "15",
+      "event_id": "16",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "07 Nov, 04:45 pm",
       "event_time_raw": 1794050100000,
@@ -69,6 +69,14 @@
       "event_time_raw": 1794058200000,
       "category": "Tennis",
       "stream_count": 4
+    },
+    {
+      "event_id": "26",
+      "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
+      "event_time": "07 Nov, 11:00 pm",
+      "event_time_raw": 1794072600000,
+      "category": "Boxing",
+      "stream_count": 1
     },
     {
       "event_id": "5",
@@ -87,44 +95,20 @@
       "stream_count": 2
     },
     {
-      "event_id": "24",
-      "event_title": "2. Bundesliga - Hertha BSC vs VfL Wolfsburg",
-      "event_time": "08 Nov, 01:00 am",
-      "event_time_raw": 1794079800000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "23",
-      "event_title": "Ligue 1 - Paris Saint-Germain vs Troyes",
-      "event_time": "08 Nov, 01:35 am",
-      "event_time_raw": 1794081900000,
-      "category": "Football",
-      "stream_count": 4
-    },
-    {
-      "event_id": "20",
-      "event_title": "Liga Portugal Betclic - Sporting CP vs Moreirense",
-      "event_time": "08 Nov, 02:00 am",
-      "event_time_raw": 1794083400000,
-      "category": "Football",
-      "stream_count": 2
-    },
-    {
-      "event_id": "21",
-      "event_title": "Canadian Premier League - Cavalry FC vs FC Supra Du Quebec",
-      "event_time": "08 Nov, 02:30 am",
-      "event_time_raw": 1794085200000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "25",
+      "event_id": "22",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
       "category": "Mixed Martial Arts",
       "stream_count": 6
+    },
+    {
+      "event_id": "24",
+      "event_title": "Women's Big Bash League - Sydney Sixers Women vs Sydney Thunder Women",
+      "event_time": "08 Nov, 08:10 am",
+      "event_time_raw": 1794105600000,
+      "category": "Cricket",
+      "stream_count": 2
     },
     {
       "event_id": "3",
@@ -143,6 +127,14 @@
       "stream_count": 3
     },
     {
+      "event_id": "25",
+      "event_title": "U19 Asia Cup - United Arab Emirates Under-19 vs Nepal Under-19",
+      "event_time": "08 Nov, 10:30 am",
+      "event_time_raw": 1794114000000,
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
       "event_id": "4",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "08 Nov, 11:30 am",
@@ -151,10 +143,18 @@
       "stream_count": 3
     },
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "08 Nov, 11:30 am",
       "event_time_raw": 1794117600000,
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
+      "event_id": "23",
+      "event_title": "Women's Big Bash League - Perth Scorchers Women vs Melbourne Stars Women",
+      "event_time": "08 Nov, 11:40 am",
+      "event_time_raw": 1794118200000,
       "category": "Cricket",
       "stream_count": 2
     },
@@ -167,7 +167,7 @@
       "stream_count": 4
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "08 Nov, 05:00 pm",
       "event_time_raw": 1794137400000,
@@ -175,12 +175,20 @@
       "stream_count": 2
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "LaLiga 2 - FC Andorra vs Mallorca",
       "event_time": "08 Nov, 06:30 pm",
       "event_time_raw": 1794142800000,
       "category": "Football",
       "stream_count": 1
+    },
+    {
+      "event_id": "15",
+      "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
+      "event_time": "08 Nov, 11:15 pm",
+      "event_time_raw": 1794159900000,
+      "category": "American football",
+      "stream_count": 2
     },
     {
       "event_id": "8",
@@ -191,7 +199,7 @@
       "stream_count": 1
     },
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
