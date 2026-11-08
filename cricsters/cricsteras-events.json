@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T16:03:51+05:30",
-  "generated_at_india": "08-11-2026 04:03:51 PM IST",
-  "total": 27,
+  "generated_at": "2026-11-08T16:58:03+05:30",
+  "generated_at_india": "08-11-2026 04:58:03 PM IST",
+  "total": 25,
   "events": [
     {
       "event_id": "19",
@@ -47,14 +47,6 @@
       "stream_count": 5
     },
     {
-      "event_id": "15",
-      "event_title": "MotoGP - MotoGP vs MotoGP",
-      "event_time": "07 Nov, 03:00 pm",
-      "event_time_raw": 1794043800000,
-      "category": "Motorsport",
-      "stream_count": 5
-    },
-    {
       "event_id": "17",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "07 Nov, 04:45 pm",
@@ -63,7 +55,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "25",
+      "event_id": "24",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -95,28 +87,12 @@
       "stream_count": 6
     },
     {
-      "event_id": "3",
-      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
-      "event_time": "08 Nov, 09:00 am",
-      "event_time_raw": 1794108600000,
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
       "event_id": "1",
       "event_title": "U19 Asia Cup - India Under-19 vs Pakistan Under-19",
       "event_time": "08 Nov, 10:30 am",
       "event_time_raw": 1794114000000,
       "category": "Cricket",
       "stream_count": 3
-    },
-    {
-      "event_id": "24",
-      "event_title": "U19 Asia Cup - United Arab Emirates Under-19 vs Nepal Under-19",
-      "event_time": "08 Nov, 10:30 am",
-      "event_time_raw": 1794114000000,
-      "category": "Cricket",
-      "stream_count": 2
     },
     {
       "event_id": "4",
@@ -159,20 +135,20 @@
       "stream_count": 4
     },
     {
-      "event_id": "27",
-      "event_title": "World Cup - Australia vs Samoa",
-      "event_time": "08 Nov, 02:35 pm",
-      "event_time_raw": 1794128700000,
-      "category": "Rugby",
-      "stream_count": 1
-    },
-    {
       "event_id": "10",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "08 Nov, 04:30 pm",
       "event_time_raw": 1794135600000,
       "category": "Tennis",
       "stream_count": 4
+    },
+    {
+      "event_id": "15",
+      "event_title": "MotoGP - MotoGP vs MotoGP",
+      "event_time": "08 Nov, 05:00 pm",
+      "event_time_raw": 1794137400000,
+      "category": "Motorsport",
+      "stream_count": 5
     },
     {
       "event_id": "21",
@@ -183,7 +159,7 @@
       "stream_count": 2
     },
     {
-      "event_id": "26",
+      "event_id": "25",
       "event_title": "Nations Championship - England vs Australia",
       "event_time": "08 Nov, 08:40 pm",
       "event_time_raw": 1794150600000,
@@ -205,6 +181,14 @@
       "event_time_raw": 1794162600000,
       "category": "Boxing",
       "stream_count": 1
+    },
+    {
+      "event_id": "3",
+      "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
+      "event_time": "09 Nov, 09:00 am",
+      "event_time_raw": 1794195000000,
+      "category": "Cricket",
+      "stream_count": 2
     },
     {
       "event_id": "18",
