@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T02:56:55+05:30",
-  "generated_at_india": "09-11-2026 02:56:55 AM IST",
-  "total": 32,
-  "ok": 32,
+  "generated_at": "2026-11-09T03:57:45+05:30",
+  "generated_at_india": "09-11-2026 03:57:45 AM IST",
+  "total": 33,
+  "ok": 33,
   "failed": 0,
   "events": [
     {
-      "event_id": "19",
+      "event_id": "17",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "5",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "13",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "05 Nov, 11:00 pm",
       "event_time_raw": 1793899800000,
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "7",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "1",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "07 Nov, 07:30 am",
       "event_time_raw": 1794016800000,
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "07 Nov, 04:45 pm",
       "event_time_raw": 1794050100000,
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "21",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "11",
       "event_title": "BKFC 96 - BKFC vs BKFC",
       "event_time": "08 Nov, 12:30 am",
       "event_time_raw": 1794078000000,
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "20",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -315,7 +315,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "3",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "08 Nov, 11:30 am",
       "event_time_raw": 1794117600000,
@@ -352,35 +352,7 @@
       ]
     },
     {
-      "event_id": "23",
-      "event_title": "Women's Big Bash League - Perth Scorchers Women vs Melbourne Stars Women",
-      "event_time": "08 Nov, 11:40 am",
-      "event_time_raw": 1794118200000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "PEMEWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lhdal9buc7/out/v1/8bc185a9052e4f0b911f5a26bf2e907d/cenc.mpd",
-          "drm": {
-            "kid": "41b0e855ff51711a08ab8e4ccf1d0ba1",
-            "key": "e849d0113e5fe023ff48664f3dc76b02"
-          }
-        },
-        {
-          "code": "PEMEWILLKC",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "7",
+      "event_id": "6",
       "event_title": "Tour De France - Tour De France vs Tour De France",
       "event_time": "08 Nov, 02:30 pm",
       "event_time_raw": 1794128400000,
@@ -426,7 +398,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "9",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "08 Nov, 04:30 pm",
       "event_time_raw": 1794135600000,
@@ -472,7 +444,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "12",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "08 Nov, 06:30 pm",
       "event_time_raw": 1794142800000,
@@ -518,35 +490,7 @@
       ]
     },
     {
-      "event_id": "25",
-      "event_title": "Nations Cup - Hong Kong vs USA",
-      "event_time": "08 Nov, 08:15 pm",
-      "event_time_raw": 1794149100000,
-      "category": "Rugby",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "HOUSAQX",
-          "title": "AQ",
-          "url": "https://dice-live-eu.akamaized.net/hdntl=exp=1794234037~acl=*dash/live/2019601/316597-337797/*!*dash/live/2019601-b/316597-337797-b/*~id=ef486027-9bc5-42f8-8dde-bc06f22780b5~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD01OC42NS4xOTguNzEmZXhwPTE3OTQyMzQwNjcmZWlkPTMxNjU5NyZjaWQ9ZGNlLndvcmxkcnVnYnkmb2lkPTM3OCZ0eXBlPUxJVkU~hmac=23abd2c9a0d4a8a41929c494179a116e4cbd51565768b82b9e0c424dc62105bd/dash/live/2019601/316597-337797/manifest-d.mpd",
-          "drm": {
-            "kid": "06c97e6d16f44ddab5dabfc4f7b26719",
-            "key": "572d5a52291c4e109957c0d4c2fbbb44"
-          }
-        },
-        {
-          "code": "HOUSSTAN",
-          "title": "STAN SPORTS AQ (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/ae0af2ad9dff403b9ca493d8538ac786/index.mpd",
-          "drm": {
-            "kid": "fd1a9b0ffba34b368dc6bbc97c6bfefa",
-            "key": "2644e5449190f382bba526ec825f6d2e"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "26",
+      "event_id": "22",
       "event_title": "Nations Championship - England vs Australia",
       "event_time": "08 Nov, 08:40 pm",
       "event_time_raw": 1794150600000,
@@ -574,7 +518,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "14",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "08 Nov, 08:45 pm",
       "event_time_raw": 1794150900000,
@@ -629,7 +573,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "4",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "08 Nov, 10:30 pm",
       "event_time_raw": 1794157200000,
@@ -702,7 +646,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "15",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "08 Nov, 11:15 pm",
       "event_time_raw": 1794159900000,
@@ -739,26 +683,26 @@
       ]
     },
     {
-      "event_id": "31",
-      "event_title": "NHL - Boston Bruins vs Florida Panthers",
+      "event_id": "33",
+      "event_title": "NFL - Indianapolis Colts vs Dallas Cowboys",
       "event_time": "08 Nov, 11:30 pm",
       "event_time_raw": 1794160800000,
-      "category": "Hockey",
+      "category": "American football",
       "stream_count": 1,
       "streams": [
         {
-          "code": "BOFLSKYS",
-          "title": "SKY SPORTS FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1kw2e0yi13/out/v1/575f67f6b552422dba30742c7f965bcb/cenc.mpd?",
+          "code": "INDANFLG",
+          "title": "NFL GAMEPASS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3fnzbb5b5f/out/v1/1d8ea6fed91d44789d94a59f1d75e10b/cenc.mpd",
           "drm": {
-            "kid": "8cd50695fb14e27dfd8908637f1da467",
-            "key": "2bbe80619ec5e303ef1b79781bf3b757"
+            "kid": "e8b9f85a440a23d6f8bdec8ee7c3a476",
+            "key": "74a802cc5a153ee6651e8d54edb75e8d"
           }
         }
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "8",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -777,80 +721,7 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "LaLiga - Atlético Madrid vs FC Barcelona",
-      "event_time": "09 Nov, 01:30 am",
-      "event_time_raw": 1794168000000,
-      "category": "Football",
-      "stream_count": 7,
-      "streams": [
-        {
-          "code": "ATFCDAZN",
-          "title": "DAZN SPORTS EN/ES - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2he6yoxvnk/out/v1/03bbc4458f904566867b3d9edf4562e0/cenc.mpd?",
-          "drm": {
-            "kid": "b1a43935c991dc8e6a035706a908e6f4",
-            "key": "34d67267e116671a6216be066093a3b2"
-          }
-        },
-        {
-          "code": "ATFCTSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "drm": {
-            "kid": "d3250252765347a0c2603c6cb4869f8c",
-            "key": "0c19319460da7e9ed816db46ce839b37"
-          }
-        },
-        {
-          "code": "ATFCBEIN",
-          "title": "beIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        },
-        {
-          "code": "ATFCDAZNKI",
-          "title": "DAZN SPORTS DE",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diw10svamz/out/v1/632e30dd88a84b74a430d0903b256245/cenc.mpd?",
-          "drm": {
-            "kid": "b24c292436ae84178eea604e6e3578c6",
-            "key": "6c88f1be55496b455f217372c717ac0f"
-          }
-        },
-        {
-          "code": "ATFCPREM",
-          "title": "PREMIER SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-          }
-        },
-        {
-          "code": "ATFCFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "ATFCCAZE",
-          "title": "CAZETV BR - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-          "drm": {
-            "kid": "34475edab991ad5e92548aebd710410a",
-            "key": "501b209cccd323ac00bf5ac15b406cb4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "30",
+      "event_id": "26",
       "event_title": "NBA - Chicago Bulls vs Philadelphia 76ers",
       "event_time": "09 Nov, 02:00 am",
       "event_time_raw": 1794169800000,
@@ -869,7 +740,73 @@
       ]
     },
     {
-      "event_id": "32",
+      "event_id": "29",
+      "event_title": "NFL - Seattle Seahawks vs Arizona Cardinals",
+      "event_time": "09 Nov, 02:55 am",
+      "event_time_raw": 1794173100000,
+      "category": "American football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SEARNFLG",
+          "title": "NFL GAMEPASS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xjthxdfqp5/out/v1/46956f0524cc4bc5b3ab692a5ec14735/cenc.mpd",
+          "drm": {
+            "kid": "515a79dbf47edd80d2ac526a2eaf49a7",
+            "key": "cc22f729c04d54aebbb762c43c402d53"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "30",
+      "event_title": "NFL - San Francisco 49ers vs Las Vegas Raiders",
+      "event_time": "09 Nov, 02:55 am",
+      "event_time_raw": 1794173100000,
+      "category": "American football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "SALANFLG",
+          "title": "NFL GAMEPASS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lq4p4koxcm/out/v1/4f597439967f453181b62f5a4146942b/cenc.mpd",
+          "drm": {
+            "kid": "53112509497ac11385b5721498b263e0",
+            "key": "65fa2bb5799dba18df7f39030e2f5a58"
+          }
+        },
+        {
+          "code": "SALATSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?",
+          "drm": {
+            "kid": "14eeabf30c14b7fbf3008c03099ce011",
+            "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "31",
+      "event_title": "NFL - New England Patriots vs Green Bay Packers",
+      "event_time": "09 Nov, 02:55 am",
+      "event_time_raw": 1794173100000,
+      "category": "American football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NEGRNFLG",
+          "title": "NFL GAMEPASS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vjlgwhzkyf/out/v1/5c9c6c8e9e4b444f926e776e2e9a2f19/cenc.mpd",
+          "drm": {
+            "kid": "82b24e42a1a7d3b7cb2be596c4d14930",
+            "key": "dac363fb69f6afdcc8d2d19e5211b5b4"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "28",
       "event_title": "NHL - Toronto Maple Leafs vs New Jersey Devils",
       "event_time": "09 Nov, 05:30 am",
       "event_time_raw": 1794182400000,
@@ -888,7 +825,7 @@
       ]
     },
     {
-      "event_id": "29",
+      "event_id": "25",
       "event_title": "NBA - Milwaukee Bucks vs Boston Celtics",
       "event_time": "09 Nov, 06:30 am",
       "event_time_raw": 1794186000000,
@@ -907,7 +844,72 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "27",
+      "event_title": "NHL - Anaheim Ducks vs Pittsburgh Penguins",
+      "event_time": "09 Nov, 06:30 am",
+      "event_time_raw": 1794186000000,
+      "category": "Hockey",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ANPIPREM",
+          "title": "PREMIER SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "32",
+      "event_title": "NFL - Chicago Bears vs Tampa Bay Buccaneers",
+      "event_time": "09 Nov, 06:50 am",
+      "event_time_raw": 1794187200000,
+      "category": "American football",
+      "stream_count": 4,
+      "streams": [
+        {
+          "code": "CHTATSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm": {
+            "kid": "14eeabf30c14b7fbf3008c03099ce011",
+            "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          }
+        },
+        {
+          "code": "CHTATSNSQE",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "drm": {
+            "kid": "d3250252765347a0c2603c6cb4869f8c",
+            "key": "0c19319460da7e9ed816db46ce839b37"
+          }
+        },
+        {
+          "code": "CHTATSNS83",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        },
+        {
+          "code": "CHTATSNS9X",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "drm": {
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "2",
       "event_title": "ICC World Test Championship - Bangladesh vs West Indies",
       "event_time": "09 Nov, 09:00 am",
       "event_time_raw": 1794195000000,
@@ -935,7 +937,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "23",
       "event_title": "U19 Asia Cup - Sri Lanka Under-19 vs Afghanistan Under-19",
       "event_time": "09 Nov, 10:30 am",
       "event_time_raw": 1794200400000,
@@ -972,7 +974,7 @@
       ]
     },
     {
-      "event_id": "28",
+      "event_id": "24",
       "event_title": "U19 Asia Cup - Bangladesh Under-19 vs Malaysia Under-19",
       "event_time": "09 Nov, 10:30 am",
       "event_time_raw": 1794200400000,
@@ -1009,7 +1011,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "18",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "09 Nov, 11:30 am",
       "event_time_raw": 1794204000000,
@@ -1037,71 +1039,7 @@
       ]
     },
     {
-      "event_id": "18",
-      "event_title": "One Day International - New Zealand vs India",
-      "event_time": "10 Nov, 07:30 am",
-      "event_time_raw": 1794276000000,
-      "category": "Cricket",
-      "stream_count": 6,
-      "streams": [
-        {
-          "code": "NEINWILL7C",
-          "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd",
-          "drm": {
-            "kid": "6a028d5592b0e81f9c4fd4de4df6d5c7",
-            "key": "9378d2ddd738b2d0b7a85ba65b643a7f"
-          }
-        },
-        {
-          "code": "NEINPRIM4Q",
-          "title": "PRIME HINDI - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ppmrp8tlzz/out/v1/cf829370483b4212ac7d5e3009c514b1/cenc.mpd",
-          "drm": {
-            "kid": "952fb91696308da86bee7cd24edf0b58",
-            "key": "bf359214ab3ac848738bdf014ace21b3"
-          }
-        },
-        {
-          "code": "NEINPRIM0Z",
-          "title": "PRIME VIDEO - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rtlq2she5l/out/v1/8965a8b295c4453eb5afd8706e65586a/cenc.mpd",
-          "drm": {
-            "kid": "db4b3e1da015cf0f03c2a5f4b9ee8433",
-            "key": "964bab777741f2b59adedcbbcd463374"
-          }
-        },
-        {
-          "code": "NEINTNTS5G",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm": {
-            "kid": "f3df7843080ae743bf865dc5fdf64c68",
-            "key": "567c863bc12eb74788ea74888c042e1b"
-          }
-        },
-        {
-          "code": "NEINWILLNM",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        },
-        {
-          "code": "NEINWILLPR",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd",
-          "drm": {
-            "kid": "7ef90352c28904be995275bc47f74c04",
-            "key": "af5e36ddef7584474601c19b4ae5935a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "21",
+      "event_id": "19",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "10 Nov, 05:00 pm",
       "event_time_raw": 1794310200000,
@@ -1129,7 +1067,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "10",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
