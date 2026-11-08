@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T19:08:59+05:30",
-  "generated_at_india": "08-11-2026 07:08:59 PM IST",
-  "total": 48,
-  "ok": 48,
+  "generated_at": "2026-11-08T19:58:53+05:30",
+  "generated_at_india": "08-11-2026 07:58:53 PM IST",
+  "total": 53,
+  "ok": 53,
   "failed": 0,
   "events": [
     {
@@ -371,27 +371,27 @@
     {
       "event_id": 50033,
       "event_title": "Abu Dhabi T10 League",
-      "event_time": "2026-11-08 11:30",
-      "event_time_raw": "2026-11-08 11:30",
+      "event_time": "2026-11-08 13:45",
+      "event_time_raw": "2026-11-08 13:45",
       "category": "Cricket",
       "stream_count": 2,
       "streams": [
         {
           "code": "ABUDWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fs9s0eeijs/out/v1/bc6dfe64f22e4cc0b75c0621c9ef5983/cenc.mpd",
           "drm": {
-            "kid": "bf29a35e375da99d9ee225515621294e",
-            "key": "41c2975121d22fd57ef0d436fa6d5971"
+            "kid": "f52e72f33cc289c8cc4096decfaba575",
+            "key": "b609c460b9c21b55f3e506631e64b8a5"
           }
         },
         {
-          "code": "ABUDWILL1H",
+          "code": "ABUDWILLMK",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fs9s0eeijs/out/v1/bc6dfe64f22e4cc0b75c0621c9ef5983/cenc.mpd",
           "drm": {
-            "kid": "c36580b91d6530ceba196d7254d67b94",
-            "key": "af9da5c72e1aa9472a3b8ef852c0f330"
+            "kid": "f52e72f33cc289c8cc4096decfaba575",
+            "key": "b609c460b9c21b55f3e506631e64b8a5"
           }
         }
       ]
@@ -681,8 +681,17 @@
       "event_time": "2026-11-08 14:00",
       "event_time_raw": "2026-11-08 14:00",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "SUCHFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/2m8jgddrr9/out/v1/4379e830995b4993a974c6cd682b8b54/cenc.mpd?",
+          "drm": {
+            "kid": "f53e95350f79e7cf780e4409ef996399",
+            "key": "a5cbb7650616359dbc0de252f254c472"
+          }
+        },
         {
           "code": "SUCHSKYS",
           "title": "SKY SPORTS MIX",
@@ -700,8 +709,26 @@
       "event_time": "2026-11-08 14:00",
       "event_time_raw": "2026-11-08 14:00",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "CRLIPEAC",
+          "title": "PEACOCK ENG FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tzvttna77o/out/v1/aca4a2d65fd24dcbb81e7ad1f14338d2/cenc.mpd?",
+          "drm": {
+            "kid": "48da485752c758fc5a1be1d3f49fb6ab",
+            "key": "12be8cc1e11f76b2e8875eb8c8fb4206"
+          }
+        },
+        {
+          "code": "CRLIFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bpsbblktxa/out/v1/4da9b7d2b1414cb28afd976da2c3b840/cenc.mpd?",
+          "drm": {
+            "kid": "af4fd680ddeb823a64c66659e9f52587",
+            "key": "677c3938bd5b906c462a80e727a99d41"
+          }
+        },
         {
           "code": "CRLISKYS",
           "title": "SKY SPORTS PL FHD",
@@ -709,6 +736,80 @@
           "drm": {
             "kid": "1106fb025da5b31657618344099c6c14",
             "key": "788284538616a73b56214e90196a6e0f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50120,
+      "event_title": "Brighton vs Brentford",
+      "event_time": "2026-11-08 14:00",
+      "event_time_raw": "2026-11-08 14:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "BRBRPEAC",
+          "title": "PEACOCK ENG FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hctkanzbw5/out/v1/ac0f81a504c94bcb85defaf7717cd292/cenc.mpd",
+          "drm": {
+            "kid": "adf54925862f35dc2ffbfe0695c10f42",
+            "key": "7b8779de614969add43c33532e625d32"
+          }
+        },
+        {
+          "code": "BRBRFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qxwd61llso/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd",
+          "drm": {
+            "kid": "cd26f115435d0177c6c5a9864e360b08",
+            "key": "2d0c9efb55b5c72a0644fa12a1d52ed1"
+          }
+        },
+        {
+          "code": "BRBRSKYS",
+          "title": "SKY SPORT PL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5c52hx2xgb/out/v1/bfba4ade9a4e461abced445f84834e4a/cenc.mpd",
+          "drm": {
+            "kid": "0f50911ca94963e80ce59a189d4b90aa",
+            "key": "436e241be2a8fe317e45cc7a9a3115ab"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50121,
+      "event_title": "Ipswich Town vs Bournemouth",
+      "event_time": "2026-11-08 14:00",
+      "event_time_raw": "2026-11-08 14:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "IPBOPEAC",
+          "title": "PEACOCK ENG FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/t0zwjh8duv/out/v1/152ff1e739c94c87aaa4068dd6213fe6/cenc.mpd",
+          "drm": {
+            "kid": "a744ae1196026646c33e5a96894c81eb",
+            "key": "66bf0de18f4f42ebb891bdd301be34ff"
+          }
+        },
+        {
+          "code": "IPBOFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mibl1kagx8/out/v1/38d1a6a0ee4e4ff2aa8b760d07cabb9e/cenc.mpd",
+          "drm": {
+            "kid": "e09a0900100e5ac77d4adb45a602a86b",
+            "key": "7da511a38053d3e150d38f47ac7d8298"
+          }
+        },
+        {
+          "code": "IPBOSKYS",
+          "title": "SKY SPORTS PL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yd0huk04ob/out/v1/bc2ed690e3134c4c82a7c51b7174b5ae/cenc.mpd",
+          "drm": {
+            "kid": "09d34ac8d64803c1f8b1bddada99d638",
+            "key": "752ab3efc7eb3601c8d3c6b5a89ffa39"
           }
         }
       ]
@@ -922,8 +1023,26 @@
       "event_time": "2026-11-08 14:00",
       "event_time_raw": "2026-11-08 14:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2,
+      "stream_count": 4,
       "streams": [
+        {
+          "code": "GEACPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkhi8wtlmy/out/v1/fdae499977c04957a358d7be53cdc4f0/cenc.mpd?",
+          "drm": {
+            "kid": "285eaa3bb641a11c7190877e945ebabd",
+            "key": "d253e08b2c3a3b148374814cb01b3bf0"
+          }
+        },
+        {
+          "code": "GEACFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rmcoljvkzm/out/v1/959c0e797f864fd5a2acfbf924cca5c2/cenc.mpd?",
+          "drm": {
+            "kid": "48fb7237ec9141e9190472a5480fd77f",
+            "key": "cfcb31f3872784c0c76c271295b0bd01"
+          }
+        },
         {
           "code": "GEACBEIN",
           "title": "beIN ENGLISH FHD",
@@ -940,6 +1059,34 @@
           "drm": {
             "kid": "11223344556677889900112233445566",
             "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50128,
+      "event_title": "Monza vs Atalanta",
+      "event_time": "2026-11-08 14:00",
+      "event_time_raw": "2026-11-08 14:00",
+      "category": "Serie A 🇮🇹",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "MOATPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9jpgyztduu/out/v1/457d9db334ca46b8a64757fa6954d963/cenc.mpd",
+          "drm": {
+            "kid": "68a6f73f95fa60c688adfa19a0c99eda",
+            "key": "dcb7ec022c9d3daa13f336823a4abd3d"
+          }
+        },
+        {
+          "code": "MOATFUBO",
+          "title": "FUBO SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zo5nruftvt/out/v1/b59284953fcd4c93a6977856612840ae/cenc.mpd",
+          "drm": {
+            "kid": "388f14a59253a3472efa6a23bb38f8fc",
+            "key": "c2c86c468ea03b213c7ce500b729db5d"
           }
         }
       ]
@@ -1080,8 +1227,17 @@
       "event_time": "2026-11-08 14:00",
       "event_time_raw": "2026-11-08 14:00",
       "category": "Ligue 1 🇫🇷",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "STLODAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1hlq3jbwjj/out/v1/854ccaa16ba846e2bfe783bd58a9b2b1/cenc.mpd?",
+          "drm": {
+            "kid": "8d88d98b19a395092831e8339f251d72",
+            "key": "28b12e8ecf00c3a641869adc452b69bd"
+          }
+        },
         {
           "code": "STLOBEIN",
           "title": "beIN ESPANOL FHD",
@@ -1136,6 +1292,34 @@
           "drm": {
             "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
             "key": "ea07b87acdf2e45be824cde4a1cf3504"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50141,
+      "event_title": "Premier League Goals Rush",
+      "event_time": "2026-11-08 13:55",
+      "event_time_raw": "2026-11-08 13:55",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "PREMPEAC",
+          "title": "PEACOCK TV FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/13ywhzn7pg/out/v1/79983d5e2c0e40d186b40684827ffe9c/cenc.mpd?",
+          "drm": {
+            "kid": "777a59fc87058b03c8528616e716c62e",
+            "key": "e375242a8bd1ffa44eb7f83ada3db1aa"
+          }
+        },
+        {
+          "code": "PREMSKYS",
+          "title": "SKY SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
+          "drm": {
+            "kid": "1106fb025da5b31657618344099c6c14",
+            "key": "788284538616a73b56214e90196a6e0f"
           }
         }
       ]
@@ -1345,6 +1529,25 @@
           "drm": {
             "kid": "14eeabf30c14b7fbf3008c03099ce011",
             "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50163,
+      "event_title": "Atlanta Falcons vs Cincinnati Bengals",
+      "event_time": "2026-11-08 14:30",
+      "event_time_raw": "2026-11-08 14:30",
+      "category": "NFL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ATCISPOR",
+          "title": "SporTV BR FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd?",
+          "drm": {
+            "kid": "9009b7189e3e68cc09d17811f2beb55a",
+            "key": "dd3f96a94c909da48ff40c92aabf8cf3"
           }
         }
       ]

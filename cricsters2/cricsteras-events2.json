@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T19:08:59+05:30",
-  "generated_at_india": "08-11-2026 07:08:59 PM IST",
-  "total": 48,
+  "generated_at": "2026-11-08T19:58:53+05:30",
+  "generated_at_india": "08-11-2026 07:58:53 PM IST",
+  "total": 53,
   "events": [
     {
       "event_id": 50002,
@@ -81,8 +81,8 @@
     {
       "event_id": 50033,
       "event_title": "Abu Dhabi T10 League",
-      "event_time": "2026-11-08 11:30",
-      "event_time_raw": "2026-11-08 11:30",
+      "event_time": "2026-11-08 13:45",
+      "event_time_raw": "2026-11-08 13:45",
       "category": "Cricket",
       "stream_count": 2
     },
@@ -164,7 +164,7 @@
       "event_time": "2026-11-08 14:00",
       "event_time_raw": "2026-11-08 14:00",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50119,
@@ -172,7 +172,23 @@
       "event_time": "2026-11-08 14:00",
       "event_time_raw": "2026-11-08 14:00",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 1
+      "stream_count": 3
+    },
+    {
+      "event_id": 50120,
+      "event_title": "Brighton vs Brentford",
+      "event_time": "2026-11-08 14:00",
+      "event_time_raw": "2026-11-08 14:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50121,
+      "event_title": "Ipswich Town vs Bournemouth",
+      "event_time": "2026-11-08 14:00",
+      "event_time_raw": "2026-11-08 14:00",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 3
     },
     {
       "event_id": 50122,
@@ -220,6 +236,14 @@
       "event_time": "2026-11-08 14:00",
       "event_time_raw": "2026-11-08 14:00",
       "category": "Serie A 🇮🇹",
+      "stream_count": 4
+    },
+    {
+      "event_id": 50128,
+      "event_title": "Monza vs Atalanta",
+      "event_time": "2026-11-08 14:00",
+      "event_time_raw": "2026-11-08 14:00",
+      "category": "Serie A 🇮🇹",
       "stream_count": 2
     },
     {
@@ -260,7 +284,7 @@
       "event_time": "2026-11-08 14:00",
       "event_time_raw": "2026-11-08 14:00",
       "category": "Ligue 1 🇫🇷",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50137,
@@ -277,6 +301,14 @@
       "event_time_raw": "2026-11-08 18:00",
       "category": "Liga Portugal",
       "stream_count": 1
+    },
+    {
+      "event_id": 50141,
+      "event_title": "Premier League Goals Rush",
+      "event_time": "2026-11-08 13:55",
+      "event_time_raw": "2026-11-08 13:55",
+      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "stream_count": 2
     },
     {
       "event_id": 50142,
@@ -363,6 +395,14 @@
       "event_title": "Miami Dolphins vs Detroit Lions",
       "event_time": "2026-11-08 18:00",
       "event_time_raw": "2026-11-08 18:00",
+      "category": "NFL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50163,
+      "event_title": "Atlanta Falcons vs Cincinnati Bengals",
+      "event_time": "2026-11-08 14:30",
+      "event_time_raw": "2026-11-08 14:30",
       "category": "NFL",
       "stream_count": 1
     },
