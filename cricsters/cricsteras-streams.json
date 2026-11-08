@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T19:11:24+05:30",
-  "generated_at_india": "08-11-2026 07:11:24 PM IST",
-  "total": 31,
-  "ok": 31,
+  "generated_at": "2026-11-08T20:00:59+05:30",
+  "generated_at_india": "08-11-2026 08:00:59 PM IST",
+  "total": 28,
+  "ok": 28,
   "failed": 0,
   "events": [
     {
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "event_id": "28",
+      "event_id": "25",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "23",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "24",
       "event_title": "Women's Big Bash League - Perth Scorchers Women vs Melbourne Stars Women",
       "event_time": "08 Nov, 11:40 am",
       "event_time_raw": 1794118200000,
@@ -675,63 +675,6 @@
       ]
     },
     {
-      "event_id": "23",
-      "event_title": "Women's Super League - Liverpool FC vs Arsenal",
-      "event_time": "08 Nov, 05:30 pm",
-      "event_time_raw": 1794139200000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "LIARSTAN",
-          "title": "STAN SPORTS AQ (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/08674836b8964d4984618c7697355844/index.mpd",
-          "drm": {
-            "kid": "e386834a430e46e28dab2ccb11f8be43",
-            "key": "d6dd25050460d6efd190dcd5af48385e"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "22",
-      "event_title": "2. Bundesliga - 1. FC Heidenheim vs Hannover 96",
-      "event_time": "08 Nov, 06:00 pm",
-      "event_time_raw": 1794141000000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "1HASKYB",
-          "title": "SKY BUNDESLIGA - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1/0e3c984eb7284664919152f18e7915b1/cenc.mpd",
-          "drm": {
-            "kid": "42650c79c7a241e79d18488fef3d75da",
-            "key": "42c319fd698c3914b7bfbaa38d08e41e"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "24",
-      "event_title": "2. Bundesliga - VfL Bochum 1848 vs Karlsruher SC",
-      "event_time": "08 Nov, 06:00 pm",
-      "event_time_raw": 1794141000000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "VFKASKYB",
-          "title": "SKY BUNDESLIGA - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pq38ujseug/out/v1/84544ed7c3b04cf08fe395708cfcedc6/cenc.mpd",
-          "drm": {
-            "kid": "f38ce843871b3e5aa97b8461a093a424",
-            "key": "b51d62eeec9c136513c12ea7ec291f6f"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "12",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "08 Nov, 06:30 pm",
@@ -778,7 +721,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "22",
       "event_title": "Trendyol Süper Lig - Çorum FK vs Fenerbahçe",
       "event_time": "08 Nov, 06:30 pm",
       "event_time_raw": 1794142800000,
@@ -797,7 +740,7 @@
       ]
     },
     {
-      "event_id": "29",
+      "event_id": "26",
       "event_title": "Nations Championship - England vs Australia",
       "event_time": "08 Nov, 08:40 pm",
       "event_time_raw": 1794150600000,
@@ -900,7 +843,7 @@
       ]
     },
     {
-      "event_id": "30",
+      "event_id": "27",
       "event_title": "U19 Asia Cup - Sri Lanka Under-19 vs Afghanistan Under-19",
       "event_time": "09 Nov, 10:30 am",
       "event_time_raw": 1794200400000,
@@ -937,7 +880,7 @@
       ]
     },
     {
-      "event_id": "31",
+      "event_id": "28",
       "event_title": "U19 Asia Cup - Bangladesh Under-19 vs Malaysia Under-19",
       "event_time": "09 Nov, 10:30 am",
       "event_time_raw": 1794200400000,
