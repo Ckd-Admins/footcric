@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T03:54:21+05:30",
-  "generated_at_india": "09-11-2026 03:54:21 AM IST",
-  "total": 37,
-  "ok": 37,
+  "generated_at": "2026-11-09T04:54:00+05:30",
+  "generated_at_india": "09-11-2026 04:54:00 AM IST",
+  "total": 38,
+  "ok": 38,
   "failed": 0,
   "events": [
     {
@@ -421,6 +421,25 @@
           "drm": {
             "kid": "42560a63e50c2a1b858adcbef8bf14df",
             "key": "e3e0d9d77bb6a6497623dca64a3a1622"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50044,
+      "event_title": "Detroit Pistons vs Los Angeles Lakers",
+      "event_time": "2026-11-08 23:00",
+      "event_time_raw": "2026-11-08 23:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "DELOSPOR",
+          "title": "SportzX TV+ HD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/eqqohcmbpt/out/v1/7f03fbc3ed2c454a91d91c1539648fad/cenc.mpd",
+          "drm": {
+            "kid": "4c09f63214cc4725a8a3c15b8f88d7b4",
+            "key": "c3a168b7056c17778684bc0ce2a9dbf3"
           }
         }
       ]
