@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T23:56:23+05:30",
-  "generated_at_india": "08-11-2026 11:56:23 PM IST",
+  "generated_at": "2026-11-09T00:59:50+05:30",
+  "generated_at_india": "09-11-2026 00:59:50 AM IST",
   "total": 51,
   "ok": 51,
   "failed": 0,
@@ -1513,7 +1513,7 @@
       "event_time": "2026-11-08 18:30",
       "event_time_raw": "2026-11-08 18:30",
       "category": "Bundesliga 🇩🇪",
-      "stream_count": 1,
+      "stream_count": 3,
       "streams": [
         {
           "code": "TSFCDAZN",
@@ -1522,6 +1522,24 @@
           "drm": {
             "kid": "e25d10551883acc40dcb71e47eebd489",
             "key": "892509ea654a668fd71a04f54c30efec"
+          }
+        },
+        {
+          "code": "TSFCPEAC",
+          "title": "PEACOCK ES FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/z2axvo6izi/out/v1/7865fac6859d404c9dac5c5a7c589b1e/cenc.mpd?",
+          "drm": {
+            "kid": "cb4ba2f6a3667bb086116570ed56a9fd",
+            "key": "31f36919eb3705936718c1fa18bf4998"
+          }
+        },
+        {
+          "code": "TSFCDAZNEB",
+          "title": "DAZN DE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jgsjthpk9s/out/v1/cf2461b87edc43dfa9283591ea2c9357/cenc.mpd?",
+          "drm": {
+            "kid": "43cc4d82eb9afa82c539228715687b0c",
+            "key": "ee8658a2ae68af6e6e490caa29242af3"
           }
         }
       ]
