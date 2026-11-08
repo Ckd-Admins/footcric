@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T19:58:53+05:30",
-  "generated_at_india": "08-11-2026 07:58:53 PM IST",
-  "total": 53,
+  "generated_at": "2026-11-08T20:53:44+05:30",
+  "generated_at_india": "08-11-2026 08:53:44 PM IST",
+  "total": 51,
   "events": [
     {
       "event_id": 50002,
@@ -172,7 +172,7 @@
       "event_time": "2026-11-08 14:00",
       "event_time_raw": "2026-11-08 14:00",
       "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 3
+      "stream_count": 4
     },
     {
       "event_id": 50120,
@@ -196,7 +196,7 @@
       "event_time": "2026-11-08 17:30",
       "event_time_raw": "2026-11-08 17:30",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 4
+      "stream_count": 3
     },
     {
       "event_id": 50123,
@@ -204,7 +204,7 @@
       "event_time": "2026-11-08 17:30",
       "event_time_raw": "2026-11-08 17:30",
       "category": "LaLiga 🇪🇸",
-      "stream_count": 2
+      "stream_count": 1
     },
     {
       "event_id": 50124,
@@ -213,14 +213,6 @@
       "event_time_raw": "2026-11-08 15:15",
       "category": "LaLiga 🇪🇸",
       "stream_count": 4
-    },
-    {
-      "event_id": 50125,
-      "event_title": "Elche vs Real Betis",
-      "event_time": "2026-11-08 13:00",
-      "event_time_raw": "2026-11-08 13:00",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 3
     },
     {
       "event_id": 50126,
@@ -236,7 +228,7 @@
       "event_time": "2026-11-08 14:00",
       "event_time_raw": "2026-11-08 14:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 4
+      "stream_count": 5
     },
     {
       "event_id": 50128,
@@ -244,7 +236,7 @@
       "event_time": "2026-11-08 14:00",
       "event_time_raw": "2026-11-08 14:00",
       "category": "Serie A 🇮🇹",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": 50129,
@@ -253,6 +245,14 @@
       "event_time_raw": "2026-11-08 11:30",
       "category": "Serie A 🇮🇹",
       "stream_count": 7
+    },
+    {
+      "event_id": 50130,
+      "event_title": "Köln vs Bayer Leverkusen",
+      "event_time": "2026-11-08 14:30",
+      "event_time_raw": "2026-11-08 14:30",
+      "category": "Bundesliga 🇩🇪",
+      "stream_count": 2
     },
     {
       "event_id": 50131,
@@ -351,14 +351,6 @@
       "stream_count": 1
     },
     {
-      "event_id": 50148,
-      "event_title": "Çorum FK vs Fenerbahçe",
-      "event_time": "2026-11-08 13:00",
-      "event_time_raw": "2026-11-08 13:00",
-      "category": "Super Lig",
-      "stream_count": 1
-    },
-    {
       "event_id": 50150,
       "event_title": "Oldham Athletic vs Sheffield Wednesday",
       "event_time": "2026-11-08 17:15",
@@ -391,6 +383,22 @@
       "stream_count": 1
     },
     {
+      "event_id": 50155,
+      "event_title": "Sporting Gijón vs Real Valladolid",
+      "event_time": "2026-11-08 17:30",
+      "event_time_raw": "2026-11-08 17:30",
+      "category": "LaLiga 2",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50156,
+      "event_title": "Girona FC vs Almería",
+      "event_time": "2026-11-08 15:15",
+      "event_time_raw": "2026-11-08 15:15",
+      "category": "LaLiga 2",
+      "stream_count": 1
+    },
+    {
       "event_id": 50159,
       "event_title": "Miami Dolphins vs Detroit Lions",
       "event_time": "2026-11-08 18:00",
@@ -404,31 +412,7 @@
       "event_time": "2026-11-08 14:30",
       "event_time_raw": "2026-11-08 14:30",
       "category": "NFL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50164,
-      "event_title": "Heidenheim vs Hannover 96",
-      "event_time": "2026-11-08 12:30",
-      "event_time_raw": "2026-11-08 12:30",
-      "category": "2. Bundesliga",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50165,
-      "event_title": "Magdeburg vs St. Pauli",
-      "event_time": "2026-11-08 12:30",
-      "event_time_raw": "2026-11-08 12:30",
-      "category": "2. Bundesliga",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50166,
-      "event_title": "Bochum vs Karlsruher SC",
-      "event_time": "2026-11-08 12:30",
-      "event_time_raw": "2026-11-08 12:30",
-      "category": "2. Bundesliga",
-      "stream_count": 1
+      "stream_count": 3
     }
   ],
   "raw_data": ""
