@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T02:54:18+05:30",
-  "generated_at_india": "09-11-2026 02:54:18 AM IST",
+  "generated_at": "2026-11-09T03:54:21+05:30",
+  "generated_at_india": "09-11-2026 03:54:21 AM IST",
   "total": 37,
   "ok": 37,
   "failed": 0,
@@ -396,12 +396,12 @@
       "stream_count": 1,
       "streams": [
         {
-          "code": "SEARSPOR",
-          "title": "SportzX TV+ HD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HL4XXSQZ.mpd",
+          "code": "SEARNFLG",
+          "title": "NFL Gamepass FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xjthxdfqp5/out/v1/46956f0524cc4bc5b3ab692a5ec14735/cenc.mpd",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/dazncad/?asin=b0hl4xxsqz"
+            "kid": "515a79dbf47edd80d2ac526a2eaf49a7",
+            "key": "cc22f729c04d54aebbb762c43c402d53"
           }
         }
       ]
@@ -453,21 +453,21 @@
       "stream_count": 2,
       "streams": [
         {
+          "code": "SALANFLG",
+          "title": "NFL Gamepass FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lq4p4koxcm/out/v1/4f597439967f453181b62f5a4146942b/cenc.mpd",
+          "drm": {
+            "kid": "53112509497ac11385b5721498b263e0",
+            "key": "65fa2bb5799dba18df7f39030e2f5a58"
+          }
+        },
+        {
           "code": "SALATSNS",
           "title": "TSN SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?",
           "drm": {
             "kid": "14eeabf30c14b7fbf3008c03099ce011",
             "key": "17d2ac8dbc5429bd70af3433aa12158d"
-          }
-        },
-        {
-          "code": "SALASPOR",
-          "title": "SportzX TV+ FHD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HPGDSBP2.mpd",
-          "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/dazncad/?asin=b0hpgdsbp2"
           }
         }
       ]
@@ -481,12 +481,12 @@
       "stream_count": 1,
       "streams": [
         {
-          "code": "NEGRSPOR",
-          "title": "SportzX TV+ HD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HLS4Y2NZ.mpd",
+          "code": "NEGRNFLG",
+          "title": "NFL Gamepass",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vjlgwhzkyf/out/v1/5c9c6c8e9e4b444f926e776e2e9a2f19/cenc.mpd",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/dazncad/?asin=b0hls4y2nz"
+            "kid": "82b24e42a1a7d3b7cb2be596c4d14930",
+            "key": "dac363fb69f6afdcc8d2d19e5211b5b4"
           }
         }
       ]
@@ -500,12 +500,12 @@
       "stream_count": 1,
       "streams": [
         {
-          "code": "LOHOSPOR",
-          "title": "SportzX TV+ HD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HFDY53XT.mpd",
+          "code": "LOHONFLG",
+          "title": "NFL Gamepass",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/voh0lqtdex/out/v1/1b1681ddd3c74866a88895950c5c1f2a/cenc.mpd",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/dazncad/?asin=b0hfdy53xt"
+            "kid": "cd3f075f4f3a924484a09e892f66c637",
+            "key": "633cdc8a0d7214a0f256a6fc947f4675"
           }
         }
       ]
