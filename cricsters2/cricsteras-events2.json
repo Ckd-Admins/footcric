@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T08:09:17+05:30",
-  "generated_at_india": "08-11-2026 08:09:17 AM IST",
-  "total": 56,
+  "generated_at": "2026-11-08T09:10:21+05:30",
+  "generated_at_india": "08-11-2026 09:10:21 AM IST",
+  "total": 52,
   "events": [
     {
       "event_id": 50002,
@@ -93,38 +93,6 @@
       "event_time_raw": "2026-11-08 11:30",
       "category": "Cricket",
       "stream_count": 2
-    },
-    {
-      "event_id": 50043,
-      "event_title": "Indiana Pacers vs Denver Nuggets",
-      "event_time": "2026-11-07 22:00",
-      "event_time_raw": "2026-11-07 22:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50044,
-      "event_title": "Atlanta Hawks vs Brooklyn Nets",
-      "event_time": "2026-11-08 00:30",
-      "event_time_raw": "2026-11-08 00:30",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50048,
-      "event_title": "Cleveland Cavaliers vs New York Knicks",
-      "event_time": "2026-11-08 01:00",
-      "event_time_raw": "2026-11-08 01:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50051,
-      "event_title": "Oklahoma City Thunder vs Washington Wizards",
-      "event_time": "2026-11-08 01:00",
-      "event_time_raw": "2026-11-08 01:00",
-      "category": "NBA",
-      "stream_count": 1
     },
     {
       "event_id": 50055,

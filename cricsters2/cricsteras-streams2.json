@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T08:09:17+05:30",
-  "generated_at_india": "08-11-2026 08:09:17 AM IST",
-  "total": 56,
-  "ok": 56,
+  "generated_at": "2026-11-08T09:10:21+05:30",
+  "generated_at_india": "08-11-2026 09:10:21 AM IST",
+  "total": 52,
+  "ok": 52,
   "failed": 0,
   "events": [
     {
@@ -461,82 +461,6 @@
       ]
     },
     {
-      "event_id": 50043,
-      "event_title": "Indiana Pacers vs Denver Nuggets",
-      "event_time": "2026-11-07 22:00",
-      "event_time_raw": "2026-11-07 22:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "INDENBAP",
-          "title": "NBA PASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1aagvfnsui/out/v1/57618322df494789a3bca56b1fd83c93/cenc.mpd?",
-          "drm": {
-            "kid": "a45cb8acf350bdb0c35922eb5af8de6d",
-            "key": "f2df42245409b3a47911be8b1c3d1996"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50044,
-      "event_title": "Atlanta Hawks vs Brooklyn Nets",
-      "event_time": "2026-11-08 00:30",
-      "event_time_raw": "2026-11-08 00:30",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "ATBRNBAL",
-          "title": "NBA LeaguePass FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jdlx6pnvbt/out/v1/f96d381622f848adb38d43cc7b858de9/cenc.mpd",
-          "drm": {
-            "kid": "3591b07dd6d19065b1345e0ce6c89509",
-            "key": "b63fe6f1f4e001725b5b503eed4b771b"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50048,
-      "event_title": "Cleveland Cavaliers vs New York Knicks",
-      "event_time": "2026-11-08 01:00",
-      "event_time_raw": "2026-11-08 01:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CLNENBAL",
-          "title": "NBA LeaguePass FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/phi8fvbnji/out/v1/f32c9f10cdd84595b0b4553684469493/cenc.mpd?",
-          "drm": {
-            "kid": "79a885155bcf99e2c1bd23c0c20edeb7",
-            "key": "43ed883ee86b947df3d3749344b661e9"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50051,
-      "event_title": "Oklahoma City Thunder vs Washington Wizards",
-      "event_time": "2026-11-08 01:00",
-      "event_time_raw": "2026-11-08 01:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "OKWANBAL",
-          "title": "NBA LeaguePass FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/piacg48shr/out/v1/a58cf7f3de7742f2ba72c7cbb296153f/cenc.mpd?",
-          "drm": {
-            "kid": "f8d0bc78297450fd970268b30709846d",
-            "key": "96f9594ae075b101fc3e23c04abf2771"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50055,
       "event_title": "Golden State Warriors vs Orlando Magic",
       "event_time": "2026-11-08 01:30",
@@ -585,10 +509,10 @@
         {
           "code": "POSANBAL",
           "title": "NBA LeaguePass FHD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0RZ1FG94BS79MXQ2KIL8HJDG2I.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tiyuaeh2zf/out/v1/93b7345c2b6b47cdbd3a9fe4b7f9fcbd/cenc.mpd",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0rz1fg94bs79mxq2kil8hjdg2i"
+            "kid": "622fb176ab917f9304ab039b9df53b6d",
+            "key": "445143079893fcd78fd1ce0fc907957d"
           }
         }
       ]
