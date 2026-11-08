@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T03:57:45+05:30",
-  "generated_at_india": "09-11-2026 03:57:45 AM IST",
+  "generated_at": "2026-11-09T04:57:19+05:30",
+  "generated_at_india": "09-11-2026 04:57:19 AM IST",
   "total": 33,
   "events": [
     {
@@ -257,8 +257,8 @@
     {
       "event_id": "19",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
-      "event_time": "10 Nov, 05:00 pm",
-      "event_time_raw": 1794310200000,
+      "event_time": "09 Nov, 07:15 pm",
+      "event_time_raw": 1794231900000,
       "category": "Cricket",
       "stream_count": 2
     },
