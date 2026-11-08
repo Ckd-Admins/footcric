@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-08T11:07:28+05:30",
-  "generated_at_india": "08-11-2026 11:07:28 AM IST",
+  "generated_at": "2026-11-08T12:09:03+05:30",
+  "generated_at_india": "08-11-2026 00:09:03 PM IST",
   "total": 45,
   "ok": 45,
   "failed": 0,
@@ -182,12 +182,12 @@
           }
         },
         {
-          "code": "AFZIWILLNA",
+          "code": "AFZIWILL8K",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gsqrpyixaj/out/v1/0db655cab1094df59028406df55c59fa/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd",
           "drm": {
-            "kid": "99674fd07c70b730f03ab2030c9c5545",
-            "key": "0f26d9265d01af9cfbd142d37afcda93"
+            "kid": "7f6cef23a9b2d9b21e04cd96753f7d01",
+            "key": "3f260e0025a8b3273ece982cff0562e0"
           }
         }
       ]
@@ -437,27 +437,27 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-08 02:40",
-      "event_time_raw": "2026-11-08 02:40",
+      "event_time": "2026-11-08 06:10",
+      "event_time_raw": "2026-11-08 06:10",
       "category": "WBBL",
       "stream_count": 3,
       "streams": [
         {
           "code": "WOMEWILL",
-          "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fmnpybdb8n/out/v1/86b4f50e91b14fc781b444b06fabb5fa/cenc.mpd",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lhdal9buc7/out/v1/8bc185a9052e4f0b911f5a26bf2e907d/cenc.mpd?",
           "drm": {
-            "kid": "bd35b1d5d52fa3407fe1e6730691c148",
-            "key": "21222db5e5b30d5d7c84b06df43703b9"
+            "kid": "41b0e855ff51711a08ab8e4ccf1d0ba1",
+            "key": "e849d0113e5fe023ff48664f3dc76b02"
           }
         },
         {
-          "code": "WOMEWILLXJ",
-          "title": "WILLOW ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "code": "WOMEWILLNC",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lhdal9buc7/out/v1/8bc185a9052e4f0b911f5a26bf2e907d/cenc.mpd",
           "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
+            "kid": "41b0e855ff51711a08ab8e4ccf1d0ba1",
+            "key": "e849d0113e5fe023ff48664f3dc76b02"
           }
         },
         {
