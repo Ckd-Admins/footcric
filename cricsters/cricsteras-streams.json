@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T11:25:37+05:30",
-  "generated_at_india": "09-11-2026 11:25:37 AM IST",
+  "generated_at": "2026-11-09T12:39:57+05:30",
+  "generated_at_india": "09-11-2026 00:39:57 PM IST",
   "total": 34,
   "ok": 34,
   "failed": 0,
@@ -750,7 +750,7 @@
         {
           "code": "LOHONFLG",
           "title": "NFL GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/voh0lqtdex/out/v1/1b1681ddd3c74866a88895950c5c1f2a/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/voh0lqtdex/out/v1/1b1681ddd3c74866a88895950c5c1f2a/cenc.mpd",
           "drm": {
             "kid": "cd3f075f4f3a924484a09e892f66c637",
             "key": "633cdc8a0d7214a0f256a6fc947f4675"
@@ -769,7 +769,7 @@
         {
           "code": "SEARNFLG",
           "title": "NFL GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xjthxdfqp5/out/v1/46956f0524cc4bc5b3ab692a5ec14735/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xjthxdfqp5/out/v1/46956f0524cc4bc5b3ab692a5ec14735/cenc.mpd",
           "drm": {
             "kid": "515a79dbf47edd80d2ac526a2eaf49a7",
             "key": "cc22f729c04d54aebbb762c43c402d53"
@@ -788,7 +788,7 @@
         {
           "code": "SALANFLG",
           "title": "NFL GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lq4p4koxcm/out/v1/4f597439967f453181b62f5a4146942b/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lq4p4koxcm/out/v1/4f597439967f453181b62f5a4146942b/cenc.mpd",
           "drm": {
             "kid": "53112509497ac11385b5721498b263e0",
             "key": "65fa2bb5799dba18df7f39030e2f5a58"
@@ -816,7 +816,7 @@
         {
           "code": "NEGRNFLG",
           "title": "NFL GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vjlgwhzkyf/out/v1/5c9c6c8e9e4b444f926e776e2e9a2f19/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vjlgwhzkyf/out/v1/5c9c6c8e9e4b444f926e776e2e9a2f19/cenc.mpd",
           "drm": {
             "kid": "82b24e42a1a7d3b7cb2be596c4d14930",
             "key": "dac363fb69f6afdcc8d2d19e5211b5b4"
@@ -1035,8 +1035,26 @@
       "event_time": "09 Nov, 12:15 pm",
       "event_time_raw": 1794206700000,
       "category": "Cricket",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "NPNPFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "NPNPFANCZ9",
+          "title": "FANCODE SD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "drm": {
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
+          }
+        },
         {
           "code": "NPNPNPLL",
           "title": "NPL LIVE - AQ",
@@ -1044,15 +1062,6 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "NPNPFANC",
-          "title": "FANCODE SD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "drm": {
-            "kid": "286eb7dc538143790fa9913639531920",
-            "key": "e3f5cb08d14d9e9c08438c673819540f"
           }
         }
       ]
