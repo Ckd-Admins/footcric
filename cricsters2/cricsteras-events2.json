@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T00:10:06+05:30",
-  "generated_at_india": "10-11-2026 00:10:06 AM IST",
-  "total": 16,
+  "generated_at": "2026-11-10T01:14:57+05:30",
+  "generated_at_india": "10-11-2026 01:14:57 AM IST",
+  "total": 17,
   "events": [
     {
       "event_id": 50002,
@@ -132,6 +132,14 @@
       "event_time": "2026-11-09 19:30",
       "event_time_raw": "2026-11-09 19:30",
       "category": "LaLiga 2",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50120,
+      "event_title": "Austria vs USA",
+      "event_time": "2026-11-09 18:00",
+      "event_time_raw": "2026-11-09 18:00",
+      "category": "Hockey",
       "stream_count": 1
     }
   ],

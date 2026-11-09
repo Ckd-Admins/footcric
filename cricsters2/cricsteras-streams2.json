@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T00:10:06+05:30",
-  "generated_at_india": "10-11-2026 00:10:06 AM IST",
-  "total": 16,
-  "ok": 16,
+  "generated_at": "2026-11-10T01:14:57+05:30",
+  "generated_at_india": "10-11-2026 01:14:57 AM IST",
+  "total": 17,
+  "ok": 17,
   "failed": 0,
   "events": [
     {
@@ -578,6 +578,25 @@
           "drm": {
             "kid": "a88617e904504ee291f49f0e60a51d49",
             "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50120,
+      "event_title": "Austria vs USA",
+      "event_time": "2026-11-09 18:00",
+      "event_time_raw": "2026-11-09 18:00",
+      "category": "Hockey",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "AUUSTSN5",
+          "title": "TSN5 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
           }
         }
       ]
