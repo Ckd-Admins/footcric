@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T01:14:57+05:30",
-  "generated_at_india": "10-11-2026 01:14:57 AM IST",
+  "generated_at": "2026-11-10T02:09:54+05:30",
+  "generated_at_india": "10-11-2026 02:09:54 AM IST",
   "total": 17,
   "ok": 17,
   "failed": 0,
@@ -569,11 +569,20 @@
       "event_time": "2026-11-09 19:30",
       "event_time_raw": "2026-11-09 19:30",
       "category": "LaLiga 2",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
+          "code": "CEREDAZN",
+          "title": "DAZN SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/iqzrazro8m/out/v1/82394c94cf844ff7a8fe3319bed93568/cenc.mpd",
+          "drm": {
+            "kid": "b98b17ff9c64c00a415398df3d64b394",
+            "key": "7e23e6f8bf9da5a73781dda53e4661ba"
+          }
+        },
+        {
           "code": "CERELALI",
-          "title": "Laliga Hypermotion ES",
+          "title": "LaLiga Hypermotion",
           "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
           "drm": {
             "kid": "a88617e904504ee291f49f0e60a51d49",
