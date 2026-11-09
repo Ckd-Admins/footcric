@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T19:41:15+05:30",
-  "generated_at_india": "09-11-2026 07:41:15 PM IST",
-  "total": 32,
-  "ok": 32,
+  "generated_at": "2026-11-09T21:21:04+05:30",
+  "generated_at_india": "09-11-2026 09:21:04 PM IST",
+  "total": 25,
+  "ok": 25,
   "failed": 0,
   "events": [
     {
@@ -416,7 +416,7 @@
       ]
     },
     {
-      "event_id": "32",
+      "event_id": "24",
       "event_title": "EPL | Premier League Goals Rush - EPL Goals Rush vs EPL Goals Rush",
       "event_time": "08 Nov, 07:30 pm",
       "event_time_raw": 1794146400000,
@@ -637,25 +637,6 @@
       ]
     },
     {
-      "event_id": "30",
-      "event_title": "NFL - Indianapolis Colts vs Dallas Cowboys",
-      "event_time": "08 Nov, 11:30 pm",
-      "event_time_raw": 1794160800000,
-      "category": "American football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "INDANFLG",
-          "title": "NFL GAMEPASS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3fnzbb5b5f/out/v1/1d8ea6fed91d44789d94a59f1d75e10b/cenc.mpd",
-          "drm": {
-            "kid": "e8b9f85a440a23d6f8bdec8ee7c3a476",
-            "key": "74a802cc5a153ee6651e8d54edb75e8d"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "7",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
@@ -670,175 +651,6 @@
           "drm": {
             "kid": "df2d9b6fca9b4f3697bda9614398b991",
             "key": "d10a74b6649741bf8e2687c03f955c90"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "25",
-      "event_title": "NBA - Chicago Bulls vs Philadelphia 76ers",
-      "event_time": "09 Nov, 02:00 am",
-      "event_time_raw": 1794169800000,
-      "category": "Basketball",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CHPHNBAL",
-          "title": "NBA LegauePass FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oddceyeids/out/v1/8ff407c6303144d09b9f921cf8a73c4e/cenc.mpd?",
-          "drm": {
-            "kid": "42560a63e50c2a1b858adcbef8bf14df",
-            "key": "e3e0d9d77bb6a6497623dca64a3a1622"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "31",
-      "event_title": "NFL - Los Angeles Chargers vs Houston Texans",
-      "event_time": "09 Nov, 02:35 am",
-      "event_time_raw": 1794171900000,
-      "category": "American football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "LOHONFLG",
-          "title": "NFL GAMEPASS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/voh0lqtdex/out/v1/1b1681ddd3c74866a88895950c5c1f2a/cenc.mpd",
-          "drm": {
-            "kid": "cd3f075f4f3a924484a09e892f66c637",
-            "key": "633cdc8a0d7214a0f256a6fc947f4675"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "26",
-      "event_title": "NFL - Seattle Seahawks vs Arizona Cardinals",
-      "event_time": "09 Nov, 02:55 am",
-      "event_time_raw": 1794173100000,
-      "category": "American football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "SEARNFLG",
-          "title": "NFL GAMEPASS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xjthxdfqp5/out/v1/46956f0524cc4bc5b3ab692a5ec14735/cenc.mpd",
-          "drm": {
-            "kid": "515a79dbf47edd80d2ac526a2eaf49a7",
-            "key": "cc22f729c04d54aebbb762c43c402d53"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "27",
-      "event_title": "NFL - San Francisco 49ers vs Las Vegas Raiders",
-      "event_time": "09 Nov, 02:55 am",
-      "event_time_raw": 1794173100000,
-      "category": "American football",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "SALANFLG",
-          "title": "NFL GAMEPASS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lq4p4koxcm/out/v1/4f597439967f453181b62f5a4146942b/cenc.mpd",
-          "drm": {
-            "kid": "53112509497ac11385b5721498b263e0",
-            "key": "65fa2bb5799dba18df7f39030e2f5a58"
-          }
-        },
-        {
-          "code": "SALATSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?",
-          "drm": {
-            "kid": "14eeabf30c14b7fbf3008c03099ce011",
-            "key": "17d2ac8dbc5429bd70af3433aa12158d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "28",
-      "event_title": "NFL - New England Patriots vs Green Bay Packers",
-      "event_time": "09 Nov, 02:55 am",
-      "event_time_raw": 1794173100000,
-      "category": "American football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NEGRNFLG",
-          "title": "NFL GAMEPASS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vjlgwhzkyf/out/v1/5c9c6c8e9e4b444f926e776e2e9a2f19/cenc.mpd",
-          "drm": {
-            "kid": "82b24e42a1a7d3b7cb2be596c4d14930",
-            "key": "dac363fb69f6afdcc8d2d19e5211b5b4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "24",
-      "event_title": "NBA - Milwaukee Bucks vs Boston Celtics",
-      "event_time": "09 Nov, 06:30 am",
-      "event_time_raw": 1794186000000,
-      "category": "Basketball",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "MIBOTSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "29",
-      "event_title": "NFL - Chicago Bears vs Tampa Bay Buccaneers",
-      "event_time": "09 Nov, 06:50 am",
-      "event_time_raw": 1794187200000,
-      "category": "American football",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "CHTATSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm": {
-            "kid": "14eeabf30c14b7fbf3008c03099ce011",
-            "key": "17d2ac8dbc5429bd70af3433aa12158d"
-          }
-        },
-        {
-          "code": "CHTATSNSQE",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "drm": {
-            "kid": "d3250252765347a0c2603c6cb4869f8c",
-            "key": "0c19319460da7e9ed816db46ce839b37"
-          }
-        },
-        {
-          "code": "CHTATSNS83",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        },
-        {
-          "code": "CHTATSNS9X",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
           }
         }
       ]
@@ -978,6 +790,25 @@
           "drm": {
             "kid": "2fc13592451a4ca8b509946c6f908829",
             "key": "eee1b57fd228c32939c764657b04ab65"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "25",
+      "event_title": "FA Cup - Plymouth Parkway vs Berkhamsted Town",
+      "event_time": "10 Nov, 01:00 am",
+      "event_time_raw": 1794252600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "PLBETNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
           }
         }
       ]
