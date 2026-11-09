@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T00:13:39+05:30",
-  "generated_at_india": "10-11-2026 00:13:39 AM IST",
-  "total": 27,
-  "ok": 27,
+  "generated_at": "2026-11-10T01:17:49+05:30",
+  "generated_at_india": "10-11-2026 01:17:49 AM IST",
+  "total": 25,
+  "ok": 25,
   "failed": 0,
   "events": [
     {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -416,7 +416,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "22",
       "event_title": "EPL | Premier League Goals Rush - EPL Goals Rush vs EPL Goals Rush",
       "event_time": "08 Nov, 07:30 pm",
       "event_time_raw": 1794146400000,
@@ -439,34 +439,6 @@
           "drm": {
             "kid": "1106fb025da5b31657618344099c6c14",
             "key": "788284538616a73b56214e90196a6e0f"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "23",
-      "event_title": "Nations Championship - England vs Australia",
-      "event_time": "08 Nov, 08:40 pm",
-      "event_time_raw": 1794150600000,
-      "category": "Rugby",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "ENAURUGB",
-          "title": "RUGBYPASS TV - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-          "drm": {
-            "kid": "63a084a354d126bcd099c9eabf0cbb93",
-            "key": "bd2b00bce574c33af46d0538937b3ac3"
-          }
-        },
-        {
-          "code": "ENAUSTAN",
-          "title": "STAN SPORTS AQ (AUS)",
-          "url": "https://live02-stan.akamaized.net/out/v1/2190bb2b208c4587ab46984a656c23e3/index.mpd",
-          "drm": {
-            "kid": "d31531015c064e4392ef57625140d0dd",
-            "key": "e1247da882d348ae2a75c215095ec9a0"
           }
         }
       ]
@@ -656,25 +628,6 @@
       ]
     },
     {
-      "event_id": "18",
-      "event_title": "Test Series - Afghanistan vs Zimbabwe",
-      "event_time": "09 Nov, 11:30 am",
-      "event_time_raw": 1794204000000,
-      "category": "Cricket",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "AFZIWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
-          "drm": {
-            "kid": "d006e8b41e37c259818c8d491904d3e7",
-            "key": "2f7eceaab743d906957b9958152c8972"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "8",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "09 Nov, 05:30 pm",
@@ -721,7 +674,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "23",
       "event_title": "LaLiga 2 - UD Las Palmas vs CD Eldense",
       "event_time": "10 Nov, 01:00 am",
       "event_time_raw": 1794252600000,
@@ -731,16 +684,16 @@
         {
           "code": "UDCDLALI",
           "title": "LALIGA HYPEMOTION ES - AQ",
-          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
           "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+            "kid": "5fc8da8b94c447468ffe392157f8c75e",
+            "key": "333b934fdde4c1ee87e7f1c5dac4cb8f"
           }
         }
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "24",
       "event_title": "LaLiga 2 - CE Sabadell vs Real Sociedad B",
       "event_time": "10 Nov, 01:00 am",
       "event_time_raw": 1794252600000,
@@ -759,7 +712,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "25",
       "event_title": "FA Cup - Plymouth Parkway vs Berkhamsted Town",
       "event_time": "10 Nov, 01:00 am",
       "event_time_raw": 1794252600000,
@@ -797,7 +750,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
       "event_time": "10 Nov, 10:00 am",
       "event_time_raw": 1794285000000,
@@ -807,16 +760,16 @@
         {
           "code": "PASRWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
           "drm": {
             "kid": "71de63b5c5236b41d3289458a0d3612e",
             "key": "91e5a59da86b054fef6a06ab6da82935"
           }
         },
         {
-          "code": "PASRWILL3O",
+          "code": "PASRWILLLL",
           "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
           "drm": {
             "kid": "71de63b5c5236b41d3289458a0d3612e",
             "key": "91e5a59da86b054fef6a06ab6da82935"
@@ -871,7 +824,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "10 Nov, 07:15 pm",
       "event_time_raw": 1794318300000,
