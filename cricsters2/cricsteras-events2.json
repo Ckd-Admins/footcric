@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T02:09:54+05:30",
-  "generated_at_india": "10-11-2026 02:09:54 AM IST",
-  "total": 17,
+  "generated_at": "2026-11-10T03:08:47+05:30",
+  "generated_at_india": "10-11-2026 03:08:47 AM IST",
+  "total": 19,
   "events": [
     {
       "event_id": 50002,
@@ -71,12 +71,20 @@
       "stream_count": 2
     },
     {
+      "event_id": 50013,
+      "event_title": "Minnesota Vikings vs Buffalo Bills",
+      "event_time": "2026-11-10 01:15",
+      "event_time_raw": "2026-11-10 01:15",
+      "category": "NFL",
+      "stream_count": 3
+    },
+    {
       "event_id": 50019,
       "event_title": "ATP Paris & WTA Hong Kong",
-      "event_time": "2026-11-08 06:00",
-      "event_time_raw": "2026-11-08 06:00",
+      "event_time": "2026-11-09 12:00",
+      "event_time_raw": "2026-11-09 12:00",
       "category": "Tennis",
-      "stream_count": 5
+      "stream_count": 4
     },
     {
       "event_id": 50023,
@@ -95,6 +103,14 @@
       "stream_count": 3
     },
     {
+      "event_id": 50056,
+      "event_title": "Houston Rockets vs Denver Nuggets",
+      "event_time": "2026-11-10 01:30",
+      "event_time_raw": "2026-11-10 01:30",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-09 06:45",
@@ -111,11 +127,11 @@
       "stream_count": 3
     },
     {
-      "event_id": 50094,
-      "event_title": "Bangladesh vs West Indies",
-      "event_time": "2026-11-09 03:30",
-      "event_time_raw": "2026-11-09 03:30",
-      "category": "Cricket",
+      "event_id": 50075,
+      "event_title": "Edmonton Oilers vs New York Rangers",
+      "event_time": "2026-11-10 01:00",
+      "event_time_raw": "2026-11-10 01:00",
+      "category": "NHL",
       "stream_count": 1
     },
     {
