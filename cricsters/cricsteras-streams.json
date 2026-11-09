@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T21:21:04+05:30",
-  "generated_at_india": "09-11-2026 09:21:04 PM IST",
+  "generated_at": "2026-11-09T22:25:49+05:30",
+  "generated_at_india": "09-11-2026 10:25:49 PM IST",
   "total": 25,
   "ok": 25,
   "failed": 0,
@@ -675,43 +675,6 @@
       ]
     },
     {
-      "event_id": "15",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "09 Nov, 12:15 pm",
-      "event_time_raw": 1794206700000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "NPNPFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "NPNPFANCZ9",
-          "title": "FANCODE SD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "drm": {
-            "kid": "286eb7dc538143790fa9913639531920",
-            "key": "e3f5cb08d14d9e9c08438c673819540f"
-          }
-        },
-        {
-          "code": "NPNPNPLL",
-          "title": "NPL LIVE - AQ",
-          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "8",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "09 Nov, 05:30 pm",
@@ -768,10 +731,10 @@
         {
           "code": "ABABWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nmb9bvhdpf/out/v1/c882f999012649858e1a486c778a51bc/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd",
           "drm": {
-            "kid": "2fc13592451a4ca8b509946c6f908829",
-            "key": "eee1b57fd228c32939c764657b04ab65"
+            "kid": "461e45c6a17fbe5e91fa6a6c544e6ae5",
+            "key": "ff0bce40ca704b9a4e2e3f28c6599efd"
           }
         },
         {
@@ -865,6 +828,43 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "15",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "10 Nov, 12:15 pm",
+      "event_time_raw": 1794293100000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "NPNPFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "NPNPFANCZ9",
+          "title": "FANCODE SD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "drm": {
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
+          }
+        },
+        {
+          "code": "NPNPNPLL",
+          "title": "NPL LIVE - AQ",
+          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]
