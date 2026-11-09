@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T08:20:39+05:30",
-  "generated_at_india": "09-11-2026 08:20:39 AM IST",
-  "total": 33,
-  "ok": 33,
+  "generated_at": "2026-11-09T09:16:28+05:30",
+  "generated_at_india": "09-11-2026 09:16:28 AM IST",
+  "total": 35,
+  "ok": 35,
   "failed": 0,
   "events": [
     {
@@ -490,6 +490,34 @@
       ]
     },
     {
+      "event_id": "35",
+      "event_title": "EPL | Premier League Goals Rush - EPL Goals Rush vs EPL Goals Rush",
+      "event_time": "08 Nov, 07:30 pm",
+      "event_time_raw": 1794146400000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "EPEPPLAY",
+          "title": "PlayZ TV",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/13ywhzn7pg/out/v1/79983d5e2c0e40d186b40684827ffe9c/cenc.mpd?",
+          "drm": {
+            "kid": "777a59fc87058b03c8528616e716c62e",
+            "key": "e375242a8bd1ffa44eb7f83ada3db1aa"
+          }
+        },
+        {
+          "code": "EPEPSKYS",
+          "title": "SKY SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
+          "drm": {
+            "kid": "1106fb025da5b31657618344099c6c14",
+            "key": "788284538616a73b56214e90196a6e0f"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "22",
       "event_title": "Nations Championship - England vs Australia",
       "event_time": "08 Nov, 08:40 pm",
@@ -735,6 +763,25 @@
           "drm": {
             "kid": "42560a63e50c2a1b858adcbef8bf14df",
             "key": "e3e0d9d77bb6a6497623dca64a3a1622"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "34",
+      "event_title": "NFL - Los Angeles Chargers vs Houston Texans",
+      "event_time": "09 Nov, 02:35 am",
+      "event_time_raw": 1794171900000,
+      "category": "American football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LOHONFLG",
+          "title": "NFL GAMEPASS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/voh0lqtdex/out/v1/1b1681ddd3c74866a88895950c5c1f2a/cenc.mpd",
+          "drm": {
+            "kid": "cd3f075f4f3a924484a09e892f66c637",
+            "key": "633cdc8a0d7214a0f256a6fc947f4675"
           }
         }
       ]

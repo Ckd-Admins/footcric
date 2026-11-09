@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T08:20:39+05:30",
-  "generated_at_india": "09-11-2026 08:20:39 AM IST",
-  "total": 33,
+  "generated_at": "2026-11-09T09:16:28+05:30",
+  "generated_at_india": "09-11-2026 09:16:28 AM IST",
+  "total": 35,
   "events": [
     {
       "event_id": "17",
@@ -111,6 +111,14 @@
       "stream_count": 4
     },
     {
+      "event_id": "35",
+      "event_title": "EPL | Premier League Goals Rush - EPL Goals Rush vs EPL Goals Rush",
+      "event_time": "08 Nov, 07:30 pm",
+      "event_time_raw": 1794146400000,
+      "category": "Football",
+      "stream_count": 2
+    },
+    {
       "event_id": "22",
       "event_title": "Nations Championship - England vs Australia",
       "event_time": "08 Nov, 08:40 pm",
@@ -164,6 +172,14 @@
       "event_time": "09 Nov, 02:00 am",
       "event_time_raw": 1794169800000,
       "category": "Basketball",
+      "stream_count": 1
+    },
+    {
+      "event_id": "34",
+      "event_title": "NFL - Los Angeles Chargers vs Houston Texans",
+      "event_time": "09 Nov, 02:35 am",
+      "event_time_raw": 1794171900000,
+      "category": "American football",
       "stream_count": 1
     },
     {
