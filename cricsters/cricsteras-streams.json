@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T23:20:34+05:30",
-  "generated_at_india": "09-11-2026 11:20:34 PM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-11-10T00:13:39+05:30",
+  "generated_at_india": "10-11-2026 00:13:39 AM IST",
+  "total": 27,
+  "ok": 27,
   "failed": 0,
   "events": [
     {
@@ -721,44 +721,45 @@
       ]
     },
     {
-      "event_id": "19",
-      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
-      "event_time": "09 Nov, 07:15 pm",
-      "event_time_raw": 1794231900000,
-      "category": "Cricket",
-      "stream_count": 3,
+      "event_id": "25",
+      "event_title": "LaLiga 2 - UD Las Palmas vs CD Eldense",
+      "event_time": "10 Nov, 01:00 am",
+      "event_time_raw": 1794252600000,
+      "category": "Football",
+      "stream_count": 1,
       "streams": [
         {
-          "code": "ABABWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd",
+          "code": "UDCDLALI",
+          "title": "LALIGA HYPEMOTION ES - AQ",
+          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
           "drm": {
-            "kid": "461e45c6a17fbe5e91fa6a6c544e6ae5",
-            "key": "ff0bce40ca704b9a4e2e3f28c6599efd"
-          }
-        },
-        {
-          "code": "ABABPREM",
-          "title": "PREMIERE SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        },
-        {
-          "code": "ABABWILLDL",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymnsbghnwg/out/v1/9ee55e82c17947c39d0c37c70257beab/cenc.mpd",
-          "drm": {
-            "kid": "2fc13592451a4ca8b509946c6f908829",
-            "key": "eee1b57fd228c32939c764657b04ab65"
+            "kid": "a88617e904504ee291f49f0e60a51d49",
+            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
           }
         }
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "26",
+      "event_title": "LaLiga 2 - CE Sabadell vs Real Sociedad B",
+      "event_time": "10 Nov, 01:00 am",
+      "event_time_raw": 1794252600000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CERELALI",
+          "title": "LALIGA HYPEMOTION ES - AQ",
+          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm": {
+            "kid": "a88617e904504ee291f49f0e60a51d49",
+            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "27",
       "event_title": "FA Cup - Plymouth Parkway vs Berkhamsted Town",
       "event_time": "10 Nov, 01:00 am",
       "event_time_raw": 1794252600000,
@@ -865,6 +866,43 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "19",
+      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
+      "event_time": "10 Nov, 07:15 pm",
+      "event_time_raw": 1794318300000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "ABABWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd",
+          "drm": {
+            "kid": "461e45c6a17fbe5e91fa6a6c544e6ae5",
+            "key": "ff0bce40ca704b9a4e2e3f28c6599efd"
+          }
+        },
+        {
+          "code": "ABABPREM",
+          "title": "PREMIERE SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        },
+        {
+          "code": "ABABWILLDL",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymnsbghnwg/out/v1/9ee55e82c17947c39d0c37c70257beab/cenc.mpd",
+          "drm": {
+            "kid": "2fc13592451a4ca8b509946c6f908829",
+            "key": "eee1b57fd228c32939c764657b04ab65"
           }
         }
       ]

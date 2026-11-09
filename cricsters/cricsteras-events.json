@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T23:20:34+05:30",
-  "generated_at_india": "09-11-2026 11:20:34 PM IST",
-  "total": 25,
+  "generated_at": "2026-11-10T00:13:39+05:30",
+  "generated_at_india": "10-11-2026 00:13:39 AM IST",
+  "total": 27,
   "events": [
     {
       "event_id": "17",
@@ -159,15 +159,23 @@
       "stream_count": 4
     },
     {
-      "event_id": "19",
-      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
-      "event_time": "09 Nov, 07:15 pm",
-      "event_time_raw": 1794231900000,
-      "category": "Cricket",
-      "stream_count": 3
+      "event_id": "25",
+      "event_title": "LaLiga 2 - UD Las Palmas vs CD Eldense",
+      "event_time": "10 Nov, 01:00 am",
+      "event_time_raw": 1794252600000,
+      "category": "Football",
+      "stream_count": 1
     },
     {
-      "event_id": "25",
+      "event_id": "26",
+      "event_title": "LaLiga 2 - CE Sabadell vs Real Sociedad B",
+      "event_time": "10 Nov, 01:00 am",
+      "event_time_raw": 1794252600000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "27",
       "event_title": "FA Cup - Plymouth Parkway vs Berkhamsted Town",
       "event_time": "10 Nov, 01:00 am",
       "event_time_raw": 1794252600000,
@@ -195,6 +203,14 @@
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "10 Nov, 12:15 pm",
       "event_time_raw": 1794293100000,
+      "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": "19",
+      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
+      "event_time": "10 Nov, 07:15 pm",
+      "event_time_raw": 1794318300000,
       "category": "Cricket",
       "stream_count": 3
     },
