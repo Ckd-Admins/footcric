@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T19:35:29+05:30",
-  "generated_at_india": "09-11-2026 07:35:29 PM IST",
+  "generated_at": "2026-11-09T21:16:39+05:30",
+  "generated_at_india": "09-11-2026 09:16:39 PM IST",
   "total": 16,
   "ok": 16,
   "failed": 0,
@@ -426,10 +426,10 @@
     {
       "event_id": 50033,
       "event_title": "Abu Dhabi T10 League",
-      "event_time": "2026-11-09 13:45",
-      "event_time_raw": "2026-11-09 13:45",
+      "event_time": "2026-11-09 16:00",
+      "event_time_raw": "2026-11-09 16:00",
       "category": "Cricket",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "ABUDWILL",
@@ -438,6 +438,15 @@
           "drm": {
             "kid": "2fc13592451a4ca8b509946c6f908829",
             "key": "eee1b57fd228c32939c764657b04ab65"
+          }
+        },
+        {
+          "code": "ABUDPREM",
+          "title": "PREMIER SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
           }
         },
         {
