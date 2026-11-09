@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T08:13:55+05:30",
-  "generated_at_india": "09-11-2026 08:13:55 AM IST",
-  "total": 29,
-  "ok": 29,
+  "generated_at": "2026-11-09T09:13:00+05:30",
+  "generated_at_india": "09-11-2026 09:13:00 AM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
@@ -489,101 +489,6 @@
       ]
     },
     {
-      "event_id": 50042,
-      "event_title": "Seattle Seahawks vs Arizona Cardinals",
-      "event_time": "2026-11-08 21:25",
-      "event_time_raw": "2026-11-08 21:25",
-      "category": "NFL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "SEARNFLG",
-          "title": "NFL Gamepass FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xjthxdfqp5/out/v1/46956f0524cc4bc5b3ab692a5ec14735/cenc.mpd",
-          "drm": {
-            "kid": "515a79dbf47edd80d2ac526a2eaf49a7",
-            "key": "cc22f729c04d54aebbb762c43c402d53"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50044,
-      "event_title": "Detroit Pistons vs Los Angeles Lakers",
-      "event_time": "2026-11-08 23:00",
-      "event_time_raw": "2026-11-08 23:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "DELONBAG",
-          "title": "NBA Gamepass FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/eqqohcmbpt/out/v1/7f03fbc3ed2c454a91d91c1539648fad/cenc.mpd",
-          "drm": {
-            "kid": "4c09f63214cc4725a8a3c15b8f88d7b4",
-            "key": "c3a168b7056c17778684bc0ce2a9dbf3"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50048,
-      "event_title": "Minnesota Timberwolves vs Utah Jazz",
-      "event_time": "2026-11-09 00:00",
-      "event_time_raw": "2026-11-09 00:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "MIUTNBAG",
-          "title": "NBA Gamepass FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oeaneig1ll/out/v1/70bcf654653d4dcb8305d03327cfe0ce/cenc.mpd",
-          "drm": {
-            "kid": "cca14ed73961973a0c99492258600f13",
-            "key": "af2e05bb959efa6207755698741f937d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50051,
-      "event_title": "Dallas Mavericks vs Brooklyn Nets",
-      "event_time": "2026-11-09 00:30",
-      "event_time_raw": "2026-11-09 00:30",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "DABRNBAL",
-          "title": "NBA LEAGUE PASS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/v861rwesjr/out/v1/d538b2fb92654e8784c3c8b25339933b/cenc.mpd",
-          "drm": {
-            "kid": "29daeb7af34524262babbfc763acc3bc",
-            "key": "18a11f4bdaad61b1b4327b061c75e0d2"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50055,
-      "event_title": "Milwaukee Bucks vs Boston Celtics",
-      "event_time": "2026-11-09 01:00",
-      "event_time_raw": "2026-11-09 01:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "MIBONBAG",
-          "title": "NBA GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xsqccsu6aw/out/v1/541be1df14c140f1a9dc9d5599764fe1/cenc.mpd",
-          "drm": {
-            "kid": "1fdf5bf993fbcb6fed7498be8bce3ecc",
-            "key": "b8d76457ba837d9cfbce717d283c9981"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50056,
       "event_title": "Los Angeles Clippers vs New Orleans Pelicans",
       "event_time": "2026-11-09 02:00",
@@ -641,72 +546,6 @@
       ]
     },
     {
-      "event_id": 50065,
-      "event_title": "San Francisco 49ers vs Las Vegas Raiders",
-      "event_time": "2026-11-08 21:25",
-      "event_time_raw": "2026-11-08 21:25",
-      "category": "NFL",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "SALANFLG",
-          "title": "NFL Gamepass FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lq4p4koxcm/out/v1/4f597439967f453181b62f5a4146942b/cenc.mpd",
-          "drm": {
-            "kid": "53112509497ac11385b5721498b263e0",
-            "key": "65fa2bb5799dba18df7f39030e2f5a58"
-          }
-        },
-        {
-          "code": "SALATSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?",
-          "drm": {
-            "kid": "14eeabf30c14b7fbf3008c03099ce011",
-            "key": "17d2ac8dbc5429bd70af3433aa12158d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50067,
-      "event_title": "New England Patriots vs Green Bay Packers",
-      "event_time": "2026-11-08 21:25",
-      "event_time_raw": "2026-11-08 21:25",
-      "category": "NFL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NEGRNFLG",
-          "title": "NFL Gamepass",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vjlgwhzkyf/out/v1/5c9c6c8e9e4b444f926e776e2e9a2f19/cenc.mpd",
-          "drm": {
-            "kid": "82b24e42a1a7d3b7cb2be596c4d14930",
-            "key": "dac363fb69f6afdcc8d2d19e5211b5b4"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50068,
-      "event_title": "Los Angeles Chargers vs Houston Texans",
-      "event_time": "2026-11-08 21:05",
-      "event_time_raw": "2026-11-08 21:05",
-      "category": "NFL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "LOHONFLG",
-          "title": "NFL Gamepass",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/voh0lqtdex/out/v1/1b1681ddd3c74866a88895950c5c1f2a/cenc.mpd",
-          "drm": {
-            "kid": "cd3f075f4f3a924484a09e892f66c637",
-            "key": "633cdc8a0d7214a0f256a6fc947f4675"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
       "event_time": "2026-11-10 08:10",
@@ -739,25 +578,6 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50079,
-      "event_title": "Toronto Maple Leafs vs New Jersey Devils",
-      "event_time": "2026-11-09 00:00",
-      "event_time_raw": "2026-11-09 00:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "TONEPREM",
-          "title": "PREMIER SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
           }
         }
       ]
