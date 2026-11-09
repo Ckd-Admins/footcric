@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T09:13:00+05:30",
-  "generated_at_india": "09-11-2026 09:13:00 AM IST",
-  "total": 20,
+  "generated_at": "2026-11-09T10:21:48+05:30",
+  "generated_at_india": "09-11-2026 10:21:48 AM IST",
+  "total": 19,
   "events": [
     {
       "event_id": 50002,
@@ -133,14 +133,6 @@
       "event_time_raw": "2026-11-10 08:10",
       "category": "WBBL",
       "stream_count": 3
-    },
-    {
-      "event_id": 50080,
-      "event_title": "Anaheim Ducks vs Pittsburgh Penguins",
-      "event_time": "2026-11-09 01:00",
-      "event_time_raw": "2026-11-09 01:00",
-      "category": "NHL",
-      "stream_count": 1
     },
     {
       "event_id": 50094,

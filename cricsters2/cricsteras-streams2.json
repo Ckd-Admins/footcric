@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T09:13:00+05:30",
-  "generated_at_india": "09-11-2026 09:13:00 AM IST",
-  "total": 20,
-  "ok": 20,
+  "generated_at": "2026-11-09T10:21:48+05:30",
+  "generated_at_india": "09-11-2026 10:21:48 AM IST",
+  "total": 19,
+  "ok": 19,
   "failed": 0,
   "events": [
     {
@@ -322,20 +322,20 @@
       "streams": [
         {
           "code": "PASRWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
+          "title": "WILLOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd?",
           "drm": {
-            "kid": "a323fd2c6886dfea4831314fd63c4eb7",
-            "key": "462c6dd2b56c26e958f5981fea25aef4"
+            "kid": "71de63b5c5236b41d3289458a0d3612e",
+            "key": "91e5a59da86b054fef6a06ab6da82935"
           }
         },
         {
-          "code": "PASRWILLU3",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
+          "code": "PASRWILL3O",
+          "title": "WILLOW ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
           "drm": {
-            "kid": "a323fd2c6886dfea4831314fd63c4eb7",
-            "key": "462c6dd2b56c26e958f5981fea25aef4"
+            "kid": "71de63b5c5236b41d3289458a0d3612e",
+            "key": "91e5a59da86b054fef6a06ab6da82935"
           }
         }
       ]
@@ -578,25 +578,6 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50080,
-      "event_title": "Anaheim Ducks vs Pittsburgh Penguins",
-      "event_time": "2026-11-09 01:00",
-      "event_time_raw": "2026-11-09 01:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "ANPIPREM",
-          "title": "PREMIER SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
           }
         }
       ]
