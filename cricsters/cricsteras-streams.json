@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T09:16:28+05:30",
-  "generated_at_india": "09-11-2026 09:16:28 AM IST",
-  "total": 35,
-  "ok": 35,
+  "generated_at": "2026-11-09T10:24:51+05:30",
+  "generated_at_india": "09-11-2026 10:24:51 AM IST",
+  "total": 34,
+  "ok": 34,
   "failed": 0,
   "events": [
     {
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "22",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -490,7 +490,7 @@
       ]
     },
     {
-      "event_id": "35",
+      "event_id": "34",
       "event_title": "EPL | Premier League Goals Rush - EPL Goals Rush vs EPL Goals Rush",
       "event_time": "08 Nov, 07:30 pm",
       "event_time_raw": 1794146400000,
@@ -518,7 +518,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "23",
       "event_title": "Nations Championship - England vs Australia",
       "event_time": "08 Nov, 08:40 pm",
       "event_time_raw": 1794150600000,
@@ -711,7 +711,7 @@
       ]
     },
     {
-      "event_id": "33",
+      "event_id": "32",
       "event_title": "NFL - Indianapolis Colts vs Dallas Cowboys",
       "event_time": "08 Nov, 11:30 pm",
       "event_time_raw": 1794160800000,
@@ -721,7 +721,7 @@
         {
           "code": "INDANFLG",
           "title": "NFL GAMEPASS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3fnzbb5b5f/out/v1/1d8ea6fed91d44789d94a59f1d75e10b/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3fnzbb5b5f/out/v1/1d8ea6fed91d44789d94a59f1d75e10b/cenc.mpd",
           "drm": {
             "kid": "e8b9f85a440a23d6f8bdec8ee7c3a476",
             "key": "74a802cc5a153ee6651e8d54edb75e8d"
@@ -749,7 +749,7 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "27",
       "event_title": "NBA - Chicago Bulls vs Philadelphia 76ers",
       "event_time": "09 Nov, 02:00 am",
       "event_time_raw": 1794169800000,
@@ -768,7 +768,7 @@
       ]
     },
     {
-      "event_id": "34",
+      "event_id": "33",
       "event_title": "NFL - Los Angeles Chargers vs Houston Texans",
       "event_time": "09 Nov, 02:35 am",
       "event_time_raw": 1794171900000,
@@ -787,7 +787,7 @@
       ]
     },
     {
-      "event_id": "29",
+      "event_id": "28",
       "event_title": "NFL - Seattle Seahawks vs Arizona Cardinals",
       "event_time": "09 Nov, 02:55 am",
       "event_time_raw": 1794173100000,
@@ -806,7 +806,7 @@
       ]
     },
     {
-      "event_id": "30",
+      "event_id": "29",
       "event_title": "NFL - San Francisco 49ers vs Las Vegas Raiders",
       "event_time": "09 Nov, 02:55 am",
       "event_time_raw": 1794173100000,
@@ -834,7 +834,7 @@
       ]
     },
     {
-      "event_id": "31",
+      "event_id": "30",
       "event_title": "NFL - New England Patriots vs Green Bay Packers",
       "event_time": "09 Nov, 02:55 am",
       "event_time_raw": 1794173100000,
@@ -853,26 +853,7 @@
       ]
     },
     {
-      "event_id": "28",
-      "event_title": "NHL - Toronto Maple Leafs vs New Jersey Devils",
-      "event_time": "09 Nov, 05:30 am",
-      "event_time_raw": 1794182400000,
-      "category": "Hockey",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "TONETSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "25",
+      "event_id": "26",
       "event_title": "NBA - Milwaukee Bucks vs Boston Celtics",
       "event_time": "09 Nov, 06:30 am",
       "event_time_raw": 1794186000000,
@@ -891,26 +872,7 @@
       ]
     },
     {
-      "event_id": "27",
-      "event_title": "NHL - Anaheim Ducks vs Pittsburgh Penguins",
-      "event_time": "09 Nov, 06:30 am",
-      "event_time_raw": 1794186000000,
-      "category": "Hockey",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "ANPIPREM",
-          "title": "PREMIER SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "32",
+      "event_id": "31",
       "event_title": "NFL - Chicago Bears vs Tampa Bay Buccaneers",
       "event_time": "09 Nov, 06:50 am",
       "event_time_raw": 1794187200000,
@@ -984,7 +946,26 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "20",
+      "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
+      "event_time": "09 Nov, 10:00 am",
+      "event_time_raw": 1794198600000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "PASRWILL",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "24",
       "event_title": "U19 Asia Cup - Sri Lanka Under-19 vs Afghanistan Under-19",
       "event_time": "09 Nov, 10:30 am",
       "event_time_raw": 1794200400000,
@@ -1021,7 +1002,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "U19 Asia Cup - Bangladesh Under-19 vs Malaysia Under-19",
       "event_time": "09 Nov, 10:30 am",
       "event_time_raw": 1794200400000,
