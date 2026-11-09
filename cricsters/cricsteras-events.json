@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T01:17:49+05:30",
-  "generated_at_india": "10-11-2026 01:17:49 AM IST",
+  "generated_at": "2026-11-10T02:12:34+05:30",
+  "generated_at_india": "10-11-2026 02:12:34 AM IST",
   "total": 25,
   "events": [
     {
@@ -87,14 +87,6 @@
       "stream_count": 4
     },
     {
-      "event_id": "11",
-      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
-      "event_time": "08 Nov, 06:30 pm",
-      "event_time_raw": 1794142800000,
-      "category": "Tennis",
-      "stream_count": 4
-    },
-    {
       "event_id": "22",
       "event_title": "EPL | Premier League Goals Rush - EPL Goals Rush vs EPL Goals Rush",
       "event_time": "08 Nov, 07:30 pm",
@@ -137,8 +129,8 @@
     {
       "event_id": "8",
       "event_title": "Paris OPEN - ATP vs ATP",
-      "event_time": "09 Nov, 05:30 pm",
-      "event_time_raw": 1794225600000,
+      "event_time": "09 Nov, 11:30 pm",
+      "event_time_raw": 1794247200000,
       "category": "Tennis",
       "stream_count": 4
     },
@@ -164,7 +156,15 @@
       "event_time": "10 Nov, 01:00 am",
       "event_time_raw": 1794252600000,
       "category": "Football",
-      "stream_count": 1
+      "stream_count": 2
+    },
+    {
+      "event_id": "11",
+      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
+      "event_time": "10 Nov, 01:30 am",
+      "event_time_raw": 1794254400000,
+      "category": "Tennis",
+      "stream_count": 5
     },
     {
       "event_id": "16",
