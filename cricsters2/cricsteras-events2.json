@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T06:02:47+05:30",
-  "generated_at_india": "09-11-2026 06:02:47 AM IST",
-  "total": 25,
+  "generated_at": "2026-11-09T07:26:35+05:30",
+  "generated_at_india": "09-11-2026 07:26:35 AM IST",
+  "total": 26,
   "events": [
     {
       "event_id": 50002,
@@ -123,6 +123,14 @@
       "event_title": "Dallas Mavericks vs Brooklyn Nets",
       "event_time": "2026-11-09 00:30",
       "event_time_raw": "2026-11-09 00:30",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50055,
+      "event_title": "Milwaukee Bucks vs Boston Celtics",
+      "event_time": "2026-11-09 01:00",
+      "event_time_raw": "2026-11-09 01:00",
       "category": "NBA",
       "stream_count": 1
     },

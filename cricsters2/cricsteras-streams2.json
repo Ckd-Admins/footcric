@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T06:02:47+05:30",
-  "generated_at_india": "09-11-2026 06:02:47 AM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-11-09T07:26:35+05:30",
+  "generated_at_india": "09-11-2026 07:26:35 AM IST",
+  "total": 26,
+  "ok": 26,
   "failed": 0,
   "events": [
     {
@@ -517,12 +517,31 @@
       "stream_count": 1,
       "streams": [
         {
-          "code": "DABRSPOR",
-          "title": "SportzX TV+ HD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0U3RWEQP4A9OPNFPC037WJE1GX.mpd",
+          "code": "DABRNBAL",
+          "title": "NBA LEAGUE PASS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/v861rwesjr/out/v1/d538b2fb92654e8784c3c8b25339933b/cenc.mpd",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0u3rweqp4a9opnfpc037wje1gx"
+            "kid": "29daeb7af34524262babbfc763acc3bc",
+            "key": "18a11f4bdaad61b1b4327b061c75e0d2"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50055,
+      "event_title": "Milwaukee Bucks vs Boston Celtics",
+      "event_time": "2026-11-09 01:00",
+      "event_time_raw": "2026-11-09 01:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "MIBOSPOR",
+          "title": "SportzX TV+ HD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xsqccsu6aw/out/v1/541be1df14c140f1a9dc9d5599764fe1/cenc.mpd",
+          "drm": {
+            "kid": "1fdf5bf993fbcb6fed7498be8bce3ecc",
+            "key": "b8d76457ba837d9cfbce717d283c9981"
           }
         }
       ]
