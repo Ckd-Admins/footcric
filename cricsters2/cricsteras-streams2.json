@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T17:13:07+05:30",
-  "generated_at_india": "09-11-2026 05:13:07 PM IST",
-  "total": 18,
-  "ok": 18,
+  "generated_at": "2026-11-09T18:19:26+05:30",
+  "generated_at_india": "09-11-2026 06:19:26 PM IST",
+  "total": 16,
+  "ok": 16,
   "failed": 0,
   "events": [
     {
@@ -315,8 +315,8 @@
     {
       "event_id": 50012,
       "event_title": "Pakistan vs Sri Lanka",
-      "event_time": "2026-11-09 04:30",
-      "event_time_raw": "2026-11-09 04:30",
+      "event_time": "2026-11-10 04:30",
+      "event_time_raw": "2026-11-10 04:30",
       "category": "Cricket",
       "stream_count": 2,
       "streams": [
@@ -569,80 +569,6 @@
           "drm": {
             "kid": "a88617e904504ee291f49f0e60a51d49",
             "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50120,
-      "event_title": "Sri Lanka Under-19 vs Afghanistan Under-19",
-      "event_time": "2026-11-09 05:00",
-      "event_time_raw": "2026-11-09 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "SRAFWILL",
-          "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oeuezuu9ni/out/v1/691776d1daca435596877bab1ae167e3/cenc.mpd",
-          "drm": {
-            "kid": "94c450ba03f839dd6175a412dfefde4c",
-            "key": "4a374f703bfce7300320f01e4791f432"
-          }
-        },
-        {
-          "code": "SRAFPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lmd0oo0ics/out/v1/a58b8300d49c4d28b80c38c6a1de142d/cenc.mpd?",
-          "drm": {
-            "kid": "ef8ec3d7781779ed00ee749237c093c4",
-            "key": "f6dd88b99050c805e2e84e5005169300"
-          }
-        },
-        {
-          "code": "SRAFWILLZA",
-          "title": "WILLOW ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oeuezuu9ni/out/v1/691776d1daca435596877bab1ae167e3/cenc.mpd",
-          "drm": {
-            "kid": "94c450ba03f839dd6175a412dfefde4c",
-            "key": "4a374f703bfce7300320f01e4791f432"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50121,
-      "event_title": "Bangladesh Under-19 vs Malaysia Under-19",
-      "event_time": "2026-11-09 05:00",
-      "event_time_raw": "2026-11-09 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "BAMAWILL",
-          "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/o4trsdzewu/out/v1/7aea1afda5854baaba3ddeb967f79fb6/cenc.mpd",
-          "drm": {
-            "kid": "73de12852269196bb475042be070e659",
-            "key": "2d30fe5b6f743afc0e6b0babb86ac70d"
-          }
-        },
-        {
-          "code": "BAMAPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mipdvyxmgk/out/v1/5b1fe1ff59024887a998945d1fcef329/cenc.mpd?",
-          "drm": {
-            "kid": "95903984c253e3fd47b112b72166caea",
-            "key": "1283b49097f2481707da62f95b1d02ca"
-          }
-        },
-        {
-          "code": "BAMAWILLW0",
-          "title": "WILLOW ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/o4trsdzewu/out/v1/7aea1afda5854baaba3ddeb967f79fb6/cenc.mpd",
-          "drm": {
-            "kid": "73de12852269196bb475042be070e659",
-            "key": "2d30fe5b6f743afc0e6b0babb86ac70d"
           }
         }
       ]
