@@ -2,24 +2,32 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T04:54:00+05:30",
-  "generated_at_india": "09-11-2026 04:54:00 AM IST",
-  "total": 38,
+  "generated_at": "2026-11-09T06:02:47+05:30",
+  "generated_at_india": "09-11-2026 06:02:47 AM IST",
+  "total": 25,
   "events": [
     {
       "event_id": 50002,
-      "event_title": "Formula 1 -  Brazil Grand Prix",
-      "event_time": "2026-11-08 16:55",
-      "event_time_raw": "2026-11-08 16:55",
+      "event_title": "Formula 1 -  Las Vegas Grand Prix",
+      "event_time": "2026-11-20 00:30",
+      "event_time_raw": "2026-11-20 00:30",
       "category": "F1",
       "stream_count": 5
     },
     {
       "event_id": 50003,
-      "event_title": "MotoGP - Grand Prix of Qatar",
-      "event_time": "2026-11-08 16:00",
-      "event_time_raw": "2026-11-08 16:00",
+      "event_title": "MotoGP - Grand Premio de Portugal",
+      "event_time": "2026-11-20 10:45",
+      "event_time_raw": "2026-11-20 10:45",
       "category": "MotoGP",
+      "stream_count": 6
+    },
+    {
+      "event_id": 50004,
+      "event_title": "UFC 334: Gane vs Hokit",
+      "event_time": "2026-11-14 22:00",
+      "event_time_raw": "2026-11-14 22:00",
+      "category": "UFC",
       "stream_count": 6
     },
     {
@@ -81,8 +89,8 @@
     {
       "event_id": 50033,
       "event_title": "Abu Dhabi T10 League",
-      "event_time": "2026-11-08 16:00",
-      "event_time_raw": "2026-11-08 16:00",
+      "event_time": "2026-11-09 13:45",
+      "event_time_raw": "2026-11-09 13:45",
       "category": "Cricket",
       "stream_count": 2
     },
@@ -95,18 +103,26 @@
       "stream_count": 1
     },
     {
-      "event_id": 50043,
-      "event_title": "Chicago Bulls vs Philadelphia 76ers",
-      "event_time": "2026-11-08 20:30",
-      "event_time_raw": "2026-11-08 20:30",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
       "event_id": 50044,
       "event_title": "Detroit Pistons vs Los Angeles Lakers",
       "event_time": "2026-11-08 23:00",
       "event_time_raw": "2026-11-08 23:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50048,
+      "event_title": "Minnesota Timberwolves vs Utah Jazz",
+      "event_time": "2026-11-09 00:00",
+      "event_time_raw": "2026-11-09 00:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50051,
+      "event_title": "Dallas Mavericks vs Brooklyn Nets",
+      "event_time": "2026-11-09 00:30",
+      "event_time_raw": "2026-11-09 00:30",
       "category": "NBA",
       "stream_count": 1
     },
@@ -143,28 +159,12 @@
       "stream_count": 1
     },
     {
-      "event_id": 50069,
-      "event_title": "Washington Commanders vs Los Angeles Rams",
-      "event_time": "2026-11-08 18:00",
-      "event_time_raw": "2026-11-08 18:00",
-      "category": "NFL",
-      "stream_count": 2
-    },
-    {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
       "event_time": "2026-11-10 08:10",
       "event_time_raw": "2026-11-10 08:10",
       "category": "WBBL",
       "stream_count": 3
-    },
-    {
-      "event_id": 50075,
-      "event_title": "Boston Bruins vs Florida Panthers",
-      "event_time": "2026-11-08 18:00",
-      "event_time_raw": "2026-11-08 18:00",
-      "category": "NHL",
-      "stream_count": 1
     },
     {
       "event_id": 50079,
@@ -183,38 +183,6 @@
       "stream_count": 1
     },
     {
-      "event_id": 50090,
-      "event_title": "Manchester United vs Aston Villa",
-      "event_time": "2026-11-08 16:30",
-      "event_time_raw": "2026-11-08 16:30",
-      "category": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50091,
-      "event_title": "Atlético Madrid vs Barcelona",
-      "event_time": "2026-11-08 20:00",
-      "event_time_raw": "2026-11-08 20:00",
-      "category": "LaLiga 🇪🇸",
-      "stream_count": 8
-    },
-    {
-      "event_id": 50092,
-      "event_title": "RC Lens vs Olympique de Marseille",
-      "event_time": "2026-11-08 19:45",
-      "event_time_raw": "2026-11-08 19:45",
-      "category": "Ligue 1 🇫🇷",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50093,
-      "event_title": "Fiorentina vs Juventus",
-      "event_time": "2026-11-08 19:45",
-      "event_time_raw": "2026-11-08 19:45",
-      "category": "Serie A 🇮🇹",
-      "stream_count": 8
-    },
-    {
       "event_id": 50094,
       "event_title": "Bangladesh vs West Indies",
       "event_time": "2026-11-09 03:30",
@@ -223,92 +191,20 @@
       "stream_count": 1
     },
     {
-      "event_id": 50137,
-      "event_title": "Estrela Amadora vs Benfica",
-      "event_time": "2026-11-08 20:30",
-      "event_time_raw": "2026-11-08 20:30",
-      "category": "Liga Portugal",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50138,
-      "event_title": "Vitória SC vs FC Porto",
-      "event_time": "2026-11-08 18:00",
-      "event_time_raw": "2026-11-08 18:00",
-      "category": "Liga Portugal",
+      "event_id": 50118,
+      "event_title": "Plymouth Parkway vs Berkhamsted Town",
+      "event_time": "2026-11-09 19:30",
+      "event_time_raw": "2026-11-09 19:30",
+      "category": "FA Cup",
       "stream_count": 1
     },
     {
-      "event_id": 50146,
-      "event_title": "Beşiktaş JK vs Gençlerbirliği",
-      "event_time": "2026-11-08 18:00",
-      "event_time_raw": "2026-11-08 18:00",
-      "category": "Super Lig",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50154,
-      "event_title": "UD Las Palmas vs CD Eldense",
-      "event_time": "2026-11-08 17:30",
-      "event_time_raw": "2026-11-08 17:30",
+      "event_id": 50119,
+      "event_title": "CE Sabadell vs Real Sociedad B",
+      "event_time": "2026-11-09 19:30",
+      "event_time_raw": "2026-11-09 19:30",
       "category": "LaLiga 2",
       "stream_count": 1
-    },
-    {
-      "event_id": 50157,
-      "event_title": "Philadelphia Eagles vs New York Giants",
-      "event_time": "2026-11-08 18:00",
-      "event_time_raw": "2026-11-08 18:00",
-      "category": "NFL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50158,
-      "event_title": "New Orleans Saints vs Cleveland Browns",
-      "event_time": "2026-11-08 18:00",
-      "event_time_raw": "2026-11-08 18:00",
-      "category": "NFL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50159,
-      "event_title": "Miami Dolphins vs Detroit Lions",
-      "event_time": "2026-11-08 18:00",
-      "event_time_raw": "2026-11-08 18:00",
-      "category": "NFL",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50160,
-      "event_title": "Kansas City Chiefs vs New York Jets",
-      "event_time": "2026-11-08 18:00",
-      "event_time_raw": "2026-11-08 18:00",
-      "category": "NFL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50161,
-      "event_title": "Indianapolis Colts vs Dallas Cowboys",
-      "event_time": "2026-11-08 18:00",
-      "event_time_raw": "2026-11-08 18:00",
-      "category": "NFL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50162,
-      "event_title": "Carolina Panthers vs Denver Broncos",
-      "event_time": "2026-11-08 18:00",
-      "event_time_raw": "2026-11-08 18:00",
-      "category": "NFL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50163,
-      "event_title": "TSG Hoffenheim vs FC Schalke 04",
-      "event_time": "2026-11-08 18:30",
-      "event_time_raw": "2026-11-08 18:30",
-      "category": "Bundesliga 🇩🇪",
-      "stream_count": 3
     }
   ],
   "raw_data": ""
