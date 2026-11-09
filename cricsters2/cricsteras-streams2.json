@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T10:21:48+05:30",
-  "generated_at_india": "09-11-2026 10:21:48 AM IST",
-  "total": 19,
-  "ok": 19,
+  "generated_at": "2026-11-09T11:21:55+05:30",
+  "generated_at_india": "09-11-2026 11:21:55 AM IST",
+  "total": 18,
+  "ok": 18,
   "failed": 0,
   "events": [
     {
@@ -230,19 +230,19 @@
         {
           "code": "AFZIWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gsqrpyixaj/out/v1/0db655cab1094df59028406df55c59fa/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd?",
           "drm": {
-            "kid": "99674fd07c70b730f03ab2030c9c5545",
-            "key": "0f26d9265d01af9cfbd142d37afcda93"
+            "kid": "d006e8b41e37c259818c8d491904d3e7",
+            "key": "2f7eceaab743d906957b9958152c8972"
           }
         },
         {
-          "code": "AFZIWILL8K",
+          "code": "AFZIWILL8Z",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
           "drm": {
-            "kid": "7f6cef23a9b2d9b21e04cd96753f7d01",
-            "key": "3f260e0025a8b3273ece982cff0562e0"
+            "kid": "d006e8b41e37c259818c8d491904d3e7",
+            "key": "2f7eceaab743d906957b9958152c8972"
           }
         }
       ]
@@ -336,43 +336,6 @@
           "drm": {
             "kid": "71de63b5c5236b41d3289458a0d3612e",
             "key": "91e5a59da86b054fef6a06ab6da82935"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50013,
-      "event_title": "Chicago Bears vs Tampa Bay Buccaneers",
-      "event_time": "2026-11-09 01:20",
-      "event_time_raw": "2026-11-09 01:20",
-      "category": "NFL",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "CHTATSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?",
-          "drm": {
-            "kid": "14eeabf30c14b7fbf3008c03099ce011",
-            "key": "17d2ac8dbc5429bd70af3433aa12158d"
-          }
-        },
-        {
-          "code": "CHTATSN3",
-          "title": "TSN3 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd?",
-          "drm": {
-            "kid": "d3250252765347a0c2603c6cb4869f8c",
-            "key": "0c19319460da7e9ed816db46ce839b37"
-          }
-        },
-        {
-          "code": "CHTASPOR",
-          "title": "SporTV BR FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "drm": {
-            "kid": "9009b7189e3e68cc09d17811f2beb55a",
-            "key": "dd3f96a94c909da48ff40c92aabf8cf3"
           }
         }
       ]
@@ -489,44 +452,6 @@
       ]
     },
     {
-      "event_id": 50056,
-      "event_title": "Los Angeles Clippers vs New Orleans Pelicans",
-      "event_time": "2026-11-09 02:00",
-      "event_time_raw": "2026-11-09 02:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "LONENBAG",
-          "title": "NBA GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ksmw8mogj9/out/v1/a7c27e085aa74f91800c984439ff6e74/cenc.mpd",
-          "drm": {
-            "kid": "6a721ee67af39252446ddef7083b8efb",
-            "key": "01796b5772d8642cf241168d56ca8442"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50058,
-      "event_title": "Sacramento Kings vs Miami Heat",
-      "event_time": "2026-11-09 02:00",
-      "event_time_raw": "2026-11-09 02:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "SAMINBAG",
-          "title": "NBA GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tfcdzbfkx8/out/v1/a172413261ef401eb579399df2efb812/cenc.mpd",
-          "drm": {
-            "kid": "f2531352b0d827b58c3f924a61f2815b",
-            "key": "af46855540b65a1c56f48e0dbcb8100c"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-09 06:45",
@@ -635,6 +560,80 @@
           "drm": {
             "kid": "a88617e904504ee291f49f0e60a51d49",
             "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50120,
+      "event_title": "Sri Lanka Under-19 vs Afghanistan Under-19",
+      "event_time": "2026-11-09 05:00",
+      "event_time_raw": "2026-11-09 05:00",
+      "category": "Asia Cup",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "SRAFWILL",
+          "title": "WILLOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oeuezuu9ni/out/v1/691776d1daca435596877bab1ae167e3/cenc.mpd",
+          "drm": {
+            "kid": "94c450ba03f839dd6175a412dfefde4c",
+            "key": "4a374f703bfce7300320f01e4791f432"
+          }
+        },
+        {
+          "code": "SRAFPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lmd0oo0ics/out/v1/a58b8300d49c4d28b80c38c6a1de142d/cenc.mpd?",
+          "drm": {
+            "kid": "ef8ec3d7781779ed00ee749237c093c4",
+            "key": "f6dd88b99050c805e2e84e5005169300"
+          }
+        },
+        {
+          "code": "SRAFWILLZA",
+          "title": "WILLOW ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oeuezuu9ni/out/v1/691776d1daca435596877bab1ae167e3/cenc.mpd",
+          "drm": {
+            "kid": "94c450ba03f839dd6175a412dfefde4c",
+            "key": "4a374f703bfce7300320f01e4791f432"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50121,
+      "event_title": "Bangladesh Under-19 vs Malaysia Under-19",
+      "event_time": "2026-11-09 05:00",
+      "event_time_raw": "2026-11-09 05:00",
+      "category": "Asia Cup",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "BAMAWILL",
+          "title": "WILLOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/o4trsdzewu/out/v1/7aea1afda5854baaba3ddeb967f79fb6/cenc.mpd",
+          "drm": {
+            "kid": "73de12852269196bb475042be070e659",
+            "key": "2d30fe5b6f743afc0e6b0babb86ac70d"
+          }
+        },
+        {
+          "code": "BAMAPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mipdvyxmgk/out/v1/5b1fe1ff59024887a998945d1fcef329/cenc.mpd?",
+          "drm": {
+            "kid": "95903984c253e3fd47b112b72166caea",
+            "key": "1283b49097f2481707da62f95b1d02ca"
+          }
+        },
+        {
+          "code": "BAMAWILLW0",
+          "title": "WILLOW ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/o4trsdzewu/out/v1/7aea1afda5854baaba3ddeb967f79fb6/cenc.mpd",
+          "drm": {
+            "kid": "73de12852269196bb475042be070e659",
+            "key": "2d30fe5b6f743afc0e6b0babb86ac70d"
           }
         }
       ]
