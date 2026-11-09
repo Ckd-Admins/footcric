@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T10:24:51+05:30",
-  "generated_at_india": "09-11-2026 10:24:51 AM IST",
+  "generated_at": "2026-11-09T11:25:37+05:30",
+  "generated_at_india": "09-11-2026 11:25:37 AM IST",
   "total": 34,
   "events": [
     {
@@ -45,14 +45,6 @@
       "event_time_raw": 1794016800000,
       "category": "Cricket",
       "stream_count": 5
-    },
-    {
-      "event_id": "16",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "07 Nov, 04:45 pm",
-      "event_time_raw": 1794050100000,
-      "category": "Cricket",
-      "stream_count": 2
     },
     {
       "event_id": "22",
@@ -236,7 +228,7 @@
       "event_time": "09 Nov, 10:00 am",
       "event_time_raw": 1794198600000,
       "category": "Cricket",
-      "stream_count": 1
+      "stream_count": 3
     },
     {
       "event_id": "24",
@@ -244,7 +236,7 @@
       "event_time": "09 Nov, 10:30 am",
       "event_time_raw": 1794200400000,
       "category": "Cricket",
-      "stream_count": 3
+      "stream_count": 2
     },
     {
       "event_id": "25",
@@ -252,13 +244,21 @@
       "event_time": "09 Nov, 10:30 am",
       "event_time_raw": 1794200400000,
       "category": "Cricket",
-      "stream_count": 3
+      "stream_count": 2
     },
     {
       "event_id": "18",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "09 Nov, 11:30 am",
       "event_time_raw": 1794204000000,
+      "category": "Cricket",
+      "stream_count": 1
+    },
+    {
+      "event_id": "16",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "09 Nov, 12:15 pm",
+      "event_time_raw": 1794206700000,
       "category": "Cricket",
       "stream_count": 2
     },

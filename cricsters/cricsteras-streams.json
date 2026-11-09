@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T10:24:51+05:30",
-  "generated_at_india": "09-11-2026 10:24:51 AM IST",
+  "generated_at": "2026-11-09T11:25:37+05:30",
+  "generated_at_india": "09-11-2026 11:25:37 AM IST",
   "total": 34,
   "ok": 34,
   "failed": 0,
@@ -171,34 +171,6 @@
           "drm": {
             "kid": "5718f40a4901526a597012cc242b4c4a",
             "key": "6d47e18a26287fa2a4e641901f07e50f"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "16",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "07 Nov, 04:45 pm",
-      "event_time_raw": 1794050100000,
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "NPNPNPLL",
-          "title": "NPL LIVE - AQ",
-          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "NPNPFANC",
-          "title": "FANCODE SD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "drm": {
-            "kid": "286eb7dc538143790fa9913639531920",
-            "key": "e3f5cb08d14d9e9c08438c673819540f"
           }
         }
       ]
@@ -951,10 +923,28 @@
       "event_time": "09 Nov, 10:00 am",
       "event_time_raw": 1794198600000,
       "category": "Cricket",
-      "stream_count": 1,
+      "stream_count": 3,
       "streams": [
         {
           "code": "PASRWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
+          "drm": {
+            "kid": "71de63b5c5236b41d3289458a0d3612e",
+            "key": "91e5a59da86b054fef6a06ab6da82935"
+          }
+        },
+        {
+          "code": "PASRWILL3O",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
+          "drm": {
+            "kid": "71de63b5c5236b41d3289458a0d3612e",
+            "key": "91e5a59da86b054fef6a06ab6da82935"
+          }
+        },
+        {
+          "code": "PASRWILLYV",
           "title": "WILLOW SPORTS",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "drm": {
@@ -970,33 +960,24 @@
       "event_time": "09 Nov, 10:30 am",
       "event_time_raw": 1794200400000,
       "category": "Cricket",
-      "stream_count": 3,
+      "stream_count": 2,
       "streams": [
         {
           "code": "SRAFWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iblrnr8axo/out/v1/1795f237d84e47b097f5dfc945a06ca1/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q5afcrq6oe/out/v1/ccf0ad53296643e48040812e43b2b48f/cenc.mpd",
           "drm": {
-            "kid": "6d936b86f2528f7d747a662b4edf2164",
-            "key": "2e8df69c4d8c646985b73b569657612f"
+            "kid": "94c450ba03f839dd6175a412dfefde4c",
+            "key": "4a374f703bfce7300320f01e4791f432"
           }
         },
         {
-          "code": "SRAFPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aungdo94je/out/v1/7962d6bd2f904cf09661de99039e97a9/cenc.mpd?",
+          "code": "SRAFSONY",
+          "title": "SONYLIV PRIME - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lmd0oo0ics/out/v1/a58b8300d49c4d28b80c38c6a1de142d/cenc.mpd",
           "drm": {
-            "kid": "9a41a1afa54961a0cfafd5e7b2b550ce",
-            "key": "f6d9a39542f275e5e2e73f20c6c97de9"
-          }
-        },
-        {
-          "code": "SRAFWILLLH",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zjxcvjdkli/out/v1/adfe504a6e6a4cfda0234885b08f72a6/cenc.mpd",
-          "drm": {
-            "kid": "cb402b40b2aa0cceeb399dc8a3cfb6f1",
-            "key": "8f089d69677070e893da78d9ba7c35b6"
+            "kid": "ef8ec3d7781779ed00ee749237c093c4",
+            "key": "f6dd88b99050c805e2e84e5005169300"
           }
         }
       ]
@@ -1007,33 +988,24 @@
       "event_time": "09 Nov, 10:30 am",
       "event_time_raw": 1794200400000,
       "category": "Cricket",
-      "stream_count": 3,
+      "stream_count": 2,
       "streams": [
         {
           "code": "BAMAWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iblrnr8axo/out/v1/1795f237d84e47b097f5dfc945a06ca1/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd",
           "drm": {
-            "kid": "6d936b86f2528f7d747a662b4edf2164",
-            "key": "2e8df69c4d8c646985b73b569657612f"
+            "kid": "73de12852269196bb475042be070e659",
+            "key": "2d30fe5b6f743afc0e6b0babb86ac70d"
           }
         },
         {
-          "code": "BAMAPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aungdo94je/out/v1/7962d6bd2f904cf09661de99039e97a9/cenc.mpd?",
+          "code": "BAMASONY",
+          "title": "SONYLIV PRIME - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/mipdvyxmgk/out/v1/5b1fe1ff59024887a998945d1fcef329/cenc.mpd",
           "drm": {
-            "kid": "9a41a1afa54961a0cfafd5e7b2b550ce",
-            "key": "f6d9a39542f275e5e2e73f20c6c97de9"
-          }
-        },
-        {
-          "code": "BAMAWILL8L",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zjxcvjdkli/out/v1/adfe504a6e6a4cfda0234885b08f72a6/cenc.mpd",
-          "drm": {
-            "kid": "cb402b40b2aa0cceeb399dc8a3cfb6f1",
-            "key": "8f089d69677070e893da78d9ba7c35b6"
+            "kid": "95903984c253e3fd47b112b72166caea",
+            "key": "1283b49097f2481707da62f95b1d02ca"
           }
         }
       ]
@@ -1044,24 +1016,43 @@
       "event_time": "09 Nov, 11:30 am",
       "event_time_raw": 1794204000000,
       "category": "Cricket",
-      "stream_count": 2,
+      "stream_count": 1,
       "streams": [
         {
           "code": "AFZIWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gsqrpyixaj/out/v1/0db655cab1094df59028406df55c59fa/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
           "drm": {
-            "kid": "99674fd07c70b730f03ab2030c9c5545",
-            "key": "0f26d9265d01af9cfbd142d37afcda93"
+            "kid": "d006e8b41e37c259818c8d491904d3e7",
+            "key": "2f7eceaab743d906957b9958152c8972"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "16",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "09 Nov, 12:15 pm",
+      "event_time_raw": 1794206700000,
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "NPNPNPLL",
+          "title": "NPL LIVE - AQ",
+          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         },
         {
-          "code": "AFZIWILLES",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "code": "NPNPFANC",
+          "title": "FANCODE SD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
           "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
           }
         }
       ]
