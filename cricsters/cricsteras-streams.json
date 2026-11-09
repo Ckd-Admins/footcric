@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T18:24:17+05:30",
-  "generated_at_india": "09-11-2026 06:24:17 PM IST",
-  "total": 31,
-  "ok": 31,
+  "generated_at": "2026-11-09T19:41:15+05:30",
+  "generated_at_india": "09-11-2026 07:41:15 PM IST",
+  "total": 32,
+  "ok": 32,
   "failed": 0,
   "events": [
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "22",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -416,7 +416,7 @@
       ]
     },
     {
-      "event_id": "31",
+      "event_id": "32",
       "event_title": "EPL | Premier League Goals Rush - EPL Goals Rush vs EPL Goals Rush",
       "event_time": "08 Nov, 07:30 pm",
       "event_time_raw": 1794146400000,
@@ -444,7 +444,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "23",
       "event_title": "Nations Championship - England vs Australia",
       "event_time": "08 Nov, 08:40 pm",
       "event_time_raw": 1794150600000,
@@ -637,7 +637,7 @@
       ]
     },
     {
-      "event_id": "29",
+      "event_id": "30",
       "event_title": "NFL - Indianapolis Colts vs Dallas Cowboys",
       "event_time": "08 Nov, 11:30 pm",
       "event_time_raw": 1794160800000,
@@ -675,7 +675,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "NBA - Chicago Bulls vs Philadelphia 76ers",
       "event_time": "09 Nov, 02:00 am",
       "event_time_raw": 1794169800000,
@@ -694,7 +694,7 @@
       ]
     },
     {
-      "event_id": "30",
+      "event_id": "31",
       "event_title": "NFL - Los Angeles Chargers vs Houston Texans",
       "event_time": "09 Nov, 02:35 am",
       "event_time_raw": 1794171900000,
@@ -713,7 +713,7 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "26",
       "event_title": "NFL - Seattle Seahawks vs Arizona Cardinals",
       "event_time": "09 Nov, 02:55 am",
       "event_time_raw": 1794173100000,
@@ -732,7 +732,7 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "27",
       "event_title": "NFL - San Francisco 49ers vs Las Vegas Raiders",
       "event_time": "09 Nov, 02:55 am",
       "event_time_raw": 1794173100000,
@@ -760,7 +760,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "28",
       "event_title": "NFL - New England Patriots vs Green Bay Packers",
       "event_time": "09 Nov, 02:55 am",
       "event_time_raw": 1794173100000,
@@ -779,7 +779,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "24",
       "event_title": "NBA - Milwaukee Bucks vs Boston Celtics",
       "event_time": "09 Nov, 06:30 am",
       "event_time_raw": 1794186000000,
@@ -798,7 +798,7 @@
       ]
     },
     {
-      "event_id": "28",
+      "event_id": "29",
       "event_title": "NFL - Chicago Bears vs Tampa Bay Buccaneers",
       "event_time": "09 Nov, 06:50 am",
       "event_time_raw": 1794187200000,
@@ -844,7 +844,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "Test Series - Afghanistan vs Zimbabwe",
       "event_time": "09 Nov, 11:30 am",
       "event_time_raw": 1794204000000,
@@ -946,35 +946,63 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "09 Nov, 07:15 pm",
       "event_time_raw": 1794231900000,
       "category": "Cricket",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "ABABWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/grkpugayui/out/v1/7cb0cff1780143ecb7d4a4a3982e705a/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nmb9bvhdpf/out/v1/c882f999012649858e1a486c778a51bc/cenc.mpd",
           "drm": {
-            "kid": "195416cacf5f56985edb79d6e04589c3",
-            "key": "cedc20717599a61a9142b393bfe146a7"
+            "kid": "2fc13592451a4ca8b509946c6f908829",
+            "key": "eee1b57fd228c32939c764657b04ab65"
           }
         },
         {
-          "code": "ABABWILLL3",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/grkpugayui/out/v1/7cb0cff1780143ecb7d4a4a3982e705a/cenc.mpd",
+          "code": "ABABPREM",
+          "title": "PREMIERE SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
           "drm": {
-            "kid": "195416cacf5f56985edb79d6e04589c3",
-            "key": "cedc20717599a61a9142b393bfe146a7"
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        },
+        {
+          "code": "ABABWILLDL",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymnsbghnwg/out/v1/9ee55e82c17947c39d0c37c70257beab/cenc.mpd",
+          "drm": {
+            "kid": "2fc13592451a4ca8b509946c6f908829",
+            "key": "eee1b57fd228c32939c764657b04ab65"
           }
         }
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "16",
+      "event_title": "One Day International - New Zealand vs India",
+      "event_time": "10 Nov, 07:30 am",
+      "event_time_raw": 1794276000000,
+      "category": "Cricket",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NEINTNTSI1",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "20",
       "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
       "event_time": "10 Nov, 10:00 am",
       "event_time_raw": 1794285000000,
