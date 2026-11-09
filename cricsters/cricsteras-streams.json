@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-09T06:13:08+05:30",
-  "generated_at_india": "09-11-2026 06:13:08 AM IST",
+  "generated_at": "2026-11-09T07:28:52+05:30",
+  "generated_at_india": "09-11-2026 07:28:52 AM IST",
   "total": 33,
   "ok": 33,
   "failed": 0,
@@ -1049,16 +1049,16 @@
         {
           "code": "ABABWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/grkpugayui/out/v1/7cb0cff1780143ecb7d4a4a3982e705a/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/grkpugayui/out/v1/7cb0cff1780143ecb7d4a4a3982e705a/cenc.mpd",
           "drm": {
             "kid": "195416cacf5f56985edb79d6e04589c3",
             "key": "cedc20717599a61a9142b393bfe146a7"
           }
         },
         {
-          "code": "ABABWILLNU",
+          "code": "ABABWILLL3",
           "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/grkpugayui/out/v1/7cb0cff1780143ecb7d4a4a3982e705a/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/grkpugayui/out/v1/7cb0cff1780143ecb7d4a4a3982e705a/cenc.mpd",
           "drm": {
             "kid": "195416cacf5f56985edb79d6e04589c3",
             "key": "cedc20717599a61a9142b393bfe146a7"
