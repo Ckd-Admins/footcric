@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T00:02:50+05:30",
-  "generated_at_india": "11-11-2026 00:02:50 AM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-11-11T01:10:00+05:30",
+  "generated_at_india": "11-11-2026 01:10:00 AM IST",
+  "total": 25,
+  "ok": 25,
   "failed": 0,
   "events": [
     {
@@ -509,8 +509,8 @@
     {
       "event_id": 50033,
       "event_title": "Abu Dhabi T10 League",
-      "event_time": "2026-11-10 16:00",
-      "event_time_raw": "2026-11-10 16:00",
+      "event_time": "2026-11-11 13:45",
+      "event_time_raw": "2026-11-11 13:45",
       "category": "Cricket",
       "stream_count": 3,
       "streams": [
@@ -661,6 +661,63 @@
           "drm": {
             "kid": "1444f4235529f183f0a5a486befe9cdb",
             "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50118,
+      "event_title": "Paris Saint-Germain vs Bayern München",
+      "event_time": "2026-11-10 20:00",
+      "event_time_raw": "2026-11-10 20:00",
+      "category": "UCL Womens",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "PABAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/7sdi5ribnv/out/v1/124536cfa5414911b33298c7a236243f/cenc.mpd",
+          "drm": {
+            "kid": "e8c919d45cbaa02568cbdd76e5520326",
+            "key": "f87d4bea5c630a008e267deefc8c0354"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50119,
+      "event_title": "Inter vs Manchester City",
+      "event_time": "2026-11-10 20:00",
+      "event_time_raw": "2026-11-10 20:00",
+      "category": "UCL Womens",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "INMAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6mtmbz5zsb/out/v1/3a1028ef03ab426fbad3a6ab4660d30c/cenc.mpd",
+          "drm": {
+            "kid": "3586dd615eebc5504bb9b45fc9003797",
+            "key": "8f0a760469969e5fdc0fcacf7cbe561a"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50120,
+      "event_title": "Roma vs Servette FC",
+      "event_time": "2026-11-10 20:00",
+      "event_time_raw": "2026-11-10 20:00",
+      "category": "UCL Womens",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ROSEPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/krwoklim9x/out/v1/ebf6dd7e3343462eb3f4d6a4ac38b3ff/cenc.mpd",
+          "drm": {
+            "kid": "d0a78977471b32c0e495a6d7dbe0ddaf",
+            "key": "be86ffcfa8a6cc66b46b7b26de4c7f26"
           }
         }
       ]

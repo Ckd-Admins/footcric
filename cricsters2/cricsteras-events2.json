@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T00:02:50+05:30",
-  "generated_at_india": "11-11-2026 00:02:50 AM IST",
-  "total": 22,
+  "generated_at": "2026-11-11T01:10:00+05:30",
+  "generated_at_india": "11-11-2026 01:10:00 AM IST",
+  "total": 25,
   "events": [
     {
       "event_id": 50002,
@@ -105,8 +105,8 @@
     {
       "event_id": 50033,
       "event_title": "Abu Dhabi T10 League",
-      "event_time": "2026-11-10 16:00",
-      "event_time_raw": "2026-11-10 16:00",
+      "event_time": "2026-11-11 13:45",
+      "event_time_raw": "2026-11-11 13:45",
       "category": "Cricket",
       "stream_count": 3
     },
@@ -148,6 +148,30 @@
       "event_time": "2026-11-11 03:00",
       "event_time_raw": "2026-11-11 03:00",
       "category": "NHL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50118,
+      "event_title": "Paris Saint-Germain vs Bayern München",
+      "event_time": "2026-11-10 20:00",
+      "event_time_raw": "2026-11-10 20:00",
+      "category": "UCL Womens",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50119,
+      "event_title": "Inter vs Manchester City",
+      "event_time": "2026-11-10 20:00",
+      "event_time_raw": "2026-11-10 20:00",
+      "category": "UCL Womens",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50120,
+      "event_title": "Roma vs Servette FC",
+      "event_time": "2026-11-10 20:00",
+      "event_time_raw": "2026-11-10 20:00",
+      "category": "UCL Womens",
       "stream_count": 1
     },
     {
