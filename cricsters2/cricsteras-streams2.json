@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T01:10:00+05:30",
-  "generated_at_india": "11-11-2026 01:10:00 AM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-11-11T02:02:33+05:30",
+  "generated_at_india": "11-11-2026 02:02:33 AM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -671,7 +671,7 @@
       "event_time": "2026-11-10 20:00",
       "event_time_raw": "2026-11-10 20:00",
       "category": "UCL Womens",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "PABAPARA",
@@ -680,6 +680,15 @@
           "drm": {
             "kid": "e8c919d45cbaa02568cbdd76e5520326",
             "key": "f87d4bea5c630a008e267deefc8c0354"
+          }
+        },
+        {
+          "code": "PABAFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
           }
         }
       ]
@@ -690,7 +699,7 @@
       "event_time": "2026-11-10 20:00",
       "event_time_raw": "2026-11-10 20:00",
       "category": "UCL Womens",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "INMAPARA",
@@ -699,6 +708,15 @@
           "drm": {
             "kid": "3586dd615eebc5504bb9b45fc9003797",
             "key": "8f0a760469969e5fdc0fcacf7cbe561a"
+          }
+        },
+        {
+          "code": "INMACBSN",
+          "title": "CBS NETWORK",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
           }
         }
       ]
@@ -718,62 +736,6 @@
           "drm": {
             "kid": "d0a78977471b32c0e495a6d7dbe0ddaf",
             "key": "be86ffcfa8a6cc66b46b7b26de4c7f26"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50125,
-      "event_title": "Real Madrid vs Paris FC",
-      "event_time": "2026-11-10 17:45",
-      "event_time_raw": "2026-11-10 17:45",
-      "category": "UCL Womens",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "REPAPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/v14ekwga2u/out/v1/f6095723f19549f6b84c5d9809a0f0b3/cenc.mpd",
-          "drm": {
-            "kid": "f201a6e86e8a486e2c48d796c2de78e0",
-            "key": "9dbe7adfd1776760c0e6dd67ecf92030"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50126,
-      "event_title": "BK Häcken vs Chelsea",
-      "event_time": "2026-11-10 17:45",
-      "event_time_raw": "2026-11-10 17:45",
-      "category": "UCL Womens",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "BKCHPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kczwedhkgn/out/v1/48b48cc0d1e24cb4b26fd8c23961a647/cenc.mpd",
-          "drm": {
-            "kid": "9c559d07ccfd1b2024558710893333f5",
-            "key": "d0dbaa1c429b5a01ea1d46c22368769d"
-          }
-        },
-        {
-          "code": "BKCHFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        },
-        {
-          "code": "BKCHCBSN",
-          "title": "CBS NETWORK FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
           }
         }
       ]
