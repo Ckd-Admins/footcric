@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T04:57:53+05:30",
-  "generated_at_india": "10-11-2026 04:57:53 AM IST",
-  "total": 19,
+  "generated_at": "2026-11-10T06:01:00+05:30",
+  "generated_at_india": "10-11-2026 06:01:00 AM IST",
+  "total": 20,
   "events": [
     {
       "event_id": 50002,
@@ -103,6 +103,38 @@
       "stream_count": 3
     },
     {
+      "event_id": 50043,
+      "event_title": "Atlanta Hawks vs Los Angeles Lakers",
+      "event_time": "2026-11-10 00:00",
+      "event_time_raw": "2026-11-10 00:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50044,
+      "event_title": "Charlotte Hornets vs Cleveland Cavaliers",
+      "event_time": "2026-11-10 00:00",
+      "event_time_raw": "2026-11-10 00:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50048,
+      "event_title": "Detroit Pistons vs Washington Wizards",
+      "event_time": "2026-11-10 00:00",
+      "event_time_raw": "2026-11-10 00:00",
+      "category": "NBA",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50051,
+      "event_title": "Toronto Raptors vs Memphis Grizzlies",
+      "event_time": "2026-11-10 00:30",
+      "event_time_raw": "2026-11-10 00:30",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
       "event_id": 50056,
       "event_title": "Houston Rockets vs Denver Nuggets",
       "event_time": "2026-11-10 01:30",
@@ -132,30 +164,6 @@
       "event_time": "2026-11-10 01:00",
       "event_time_raw": "2026-11-10 01:00",
       "category": "NHL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50118,
-      "event_title": "Plymouth Parkway vs Berkhamsted Town",
-      "event_time": "2026-11-09 19:30",
-      "event_time_raw": "2026-11-09 19:30",
-      "category": "FA Cup",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50119,
-      "event_title": "CE Sabadell vs Real Sociedad B",
-      "event_time": "2026-11-09 19:30",
-      "event_time_raw": "2026-11-09 19:30",
-      "category": "LaLiga 2",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50120,
-      "event_title": "Austria vs USA",
-      "event_time": "2026-11-09 18:00",
-      "event_time_raw": "2026-11-09 18:00",
-      "category": "Hockey",
       "stream_count": 1
     }
   ],

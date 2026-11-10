@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T04:57:53+05:30",
-  "generated_at_india": "10-11-2026 04:57:53 AM IST",
-  "total": 19,
-  "ok": 19,
+  "generated_at": "2026-11-10T06:01:00+05:30",
+  "generated_at_india": "10-11-2026 06:01:00 AM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
@@ -489,6 +489,91 @@
       ]
     },
     {
+      "event_id": 50043,
+      "event_title": "Atlanta Hawks vs Los Angeles Lakers",
+      "event_time": "2026-11-10 00:00",
+      "event_time_raw": "2026-11-10 00:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ATLONBAG",
+          "title": "NBA GAMEPASS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/uimi2x3j0k/out/v1/f96d381622f848adb38d43cc7b858de9/cenc.mpd",
+          "drm": {
+            "kid": "eed56ed06f7c791ad0573985b01359a5",
+            "key": "5fecbef86756acb6352bacd33bf3b811"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50044,
+      "event_title": "Charlotte Hornets vs Cleveland Cavaliers",
+      "event_time": "2026-11-10 00:00",
+      "event_time_raw": "2026-11-10 00:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CHCLNBAG",
+          "title": "NBA GAMEPASS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/c0aiuaaf38/out/v1/c439efc8c95a4dc88dcd33c418da47fb/cenc.mpd",
+          "drm": {
+            "kid": "c37b24670e3e46f9a09f3ab09f572ea5",
+            "key": "d511848653308f6f414fd8db68870985"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50048,
+      "event_title": "Detroit Pistons vs Washington Wizards",
+      "event_time": "2026-11-10 00:00",
+      "event_time_raw": "2026-11-10 00:00",
+      "category": "NBA",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "DEWANBAG",
+          "title": "NBA GAMEPASS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0pjkfjsy5k/out/v1/d465fd2ab39041e288685c485be5b42b/cenc.mpd",
+          "drm": {
+            "kid": "fcad8675710ba2e37fd340d22300b5c1",
+            "key": "d01c1af5f6ea734eab42bab06238bacc"
+          }
+        },
+        {
+          "code": "DEWASKYT",
+          "title": "SKY TOP EVENT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm": {
+            "kid": "368bd4ebe301406897324bc777650411",
+            "key": "69d27c2c2b7de927d67aacc973259901"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50051,
+      "event_title": "Toronto Raptors vs Memphis Grizzlies",
+      "event_time": "2026-11-10 00:30",
+      "event_time_raw": "2026-11-10 00:30",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "TOMESPOR",
+          "title": "SportzX TV+ HD",
+          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0G19Z6UZXF37OP3GY98XHOS6P6.mpd",
+          "drm": {
+            "kid": "https",
+            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0g19z6uzxf37op3gy98xhos6p6"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50056,
       "event_title": "Houston Rockets vs Denver Nuggets",
       "event_time": "2026-11-10 01:30",
@@ -587,72 +672,6 @@
           "drm": {
             "kid": "1a5df53609ebc9857898c490f4724918",
             "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50118,
-      "event_title": "Plymouth Parkway vs Berkhamsted Town",
-      "event_time": "2026-11-09 19:30",
-      "event_time_raw": "2026-11-09 19:30",
-      "category": "FA Cup",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "PLBETNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50119,
-      "event_title": "CE Sabadell vs Real Sociedad B",
-      "event_time": "2026-11-09 19:30",
-      "event_time_raw": "2026-11-09 19:30",
-      "category": "LaLiga 2",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "CEREDAZN",
-          "title": "DAZN SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/iqzrazro8m/out/v1/82394c94cf844ff7a8fe3319bed93568/cenc.mpd",
-          "drm": {
-            "kid": "b98b17ff9c64c00a415398df3d64b394",
-            "key": "7e23e6f8bf9da5a73781dda53e4661ba"
-          }
-        },
-        {
-          "code": "CERELALI",
-          "title": "LaLiga Hypermotion",
-          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50120,
-      "event_title": "Austria vs USA",
-      "event_time": "2026-11-09 18:00",
-      "event_time_raw": "2026-11-09 18:00",
-      "category": "Hockey",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "AUUSTSN5",
-          "title": "TSN5 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
           }
         }
       ]
