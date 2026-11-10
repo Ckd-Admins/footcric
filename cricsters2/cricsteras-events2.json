@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T08:08:56+05:30",
-  "generated_at_india": "10-11-2026 08:08:56 AM IST",
+  "generated_at": "2026-11-10T09:07:35+05:30",
+  "generated_at_india": "10-11-2026 09:07:35 AM IST",
   "total": 24,
   "events": [
     {
@@ -49,8 +49,8 @@
     {
       "event_id": 50008,
       "event_title": "New Zealand vs India",
-      "event_time": "2026-11-10 02:00",
-      "event_time_raw": "2026-11-10 02:00",
+      "event_time": "2026-11-10 03:30",
+      "event_time_raw": "2026-11-10 03:30",
       "category": "Cricket",
       "stream_count": 5
     },
@@ -105,26 +105,10 @@
     {
       "event_id": 50033,
       "event_title": "Abu Dhabi T10 League",
-      "event_time": "2026-11-09 16:00",
-      "event_time_raw": "2026-11-09 16:00",
+      "event_time": "2026-11-10 13:45",
+      "event_time_raw": "2026-11-10 13:45",
       "category": "Cricket",
       "stream_count": 3
-    },
-    {
-      "event_id": 50043,
-      "event_title": "Atlanta Hawks vs Los Angeles Lakers",
-      "event_time": "2026-11-10 00:00",
-      "event_time_raw": "2026-11-10 00:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50044,
-      "event_title": "Charlotte Hornets vs Cleveland Cavaliers",
-      "event_time": "2026-11-10 00:00",
-      "event_time_raw": "2026-11-10 00:00",
-      "category": "NBA",
-      "stream_count": 1
     },
     {
       "event_id": 50048,
@@ -167,10 +151,18 @@
       "stream_count": 1
     },
     {
+      "event_id": 50059,
+      "event_title": "Golden State Warriors vs Pelicans",
+      "event_time": "2026-11-10 03:00",
+      "event_time_raw": "2026-11-10 03:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
-      "event_time": "2026-11-09 06:45",
-      "event_time_raw": "2026-11-09 06:45",
+      "event_time": "2026-11-10 11:00",
+      "event_time_raw": "2026-11-10 11:00",
       "category": "NPL",
       "stream_count": 2
     },
@@ -195,6 +187,14 @@
       "event_title": "Vancouver Canucks vs Philadelphia Flyers",
       "event_time": "2026-11-10 02:30",
       "event_time_raw": "2026-11-10 02:30",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50077,
+      "event_title": "San Jose Sharks vs New York Islanders",
+      "event_time": "2026-11-10 03:00",
+      "event_time_raw": "2026-11-10 03:00",
       "category": "NHL",
       "stream_count": 1
     }

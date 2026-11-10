@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T08:08:56+05:30",
-  "generated_at_india": "10-11-2026 08:08:56 AM IST",
+  "generated_at": "2026-11-10T09:07:35+05:30",
+  "generated_at_india": "10-11-2026 09:07:35 AM IST",
   "total": 24,
   "ok": 24,
   "failed": 0,
@@ -250,8 +250,8 @@
     {
       "event_id": 50008,
       "event_title": "New Zealand vs India",
-      "event_time": "2026-11-10 02:00",
-      "event_time_raw": "2026-11-10 02:00",
+      "event_time": "2026-11-10 03:30",
+      "event_time_raw": "2026-11-10 03:30",
       "category": "Cricket",
       "stream_count": 5,
       "streams": [
@@ -509,8 +509,8 @@
     {
       "event_id": 50033,
       "event_title": "Abu Dhabi T10 League",
-      "event_time": "2026-11-09 16:00",
-      "event_time_raw": "2026-11-09 16:00",
+      "event_time": "2026-11-10 13:45",
+      "event_time_raw": "2026-11-10 13:45",
       "category": "Cricket",
       "stream_count": 3,
       "streams": [
@@ -539,44 +539,6 @@
           "drm": {
             "kid": "249a1aca16a6dc9b08ad07a0582f22f9",
             "key": "441fa718f92163b4907364d00170ebda"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50043,
-      "event_title": "Atlanta Hawks vs Los Angeles Lakers",
-      "event_time": "2026-11-10 00:00",
-      "event_time_raw": "2026-11-10 00:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "ATLONBAG",
-          "title": "NBA GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/uimi2x3j0k/out/v1/f96d381622f848adb38d43cc7b858de9/cenc.mpd?",
-          "drm": {
-            "kid": "eed56ed06f7c791ad0573985b01359a5",
-            "key": "5fecbef86756acb6352bacd33bf3b811"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50044,
-      "event_title": "Charlotte Hornets vs Cleveland Cavaliers",
-      "event_time": "2026-11-10 00:00",
-      "event_time_raw": "2026-11-10 00:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CHCLNBAG",
-          "title": "NBA GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/c0aiuaaf38/out/v1/c439efc8c95a4dc88dcd33c418da47fb/cenc.mpd?",
-          "drm": {
-            "kid": "c37b24670e3e46f9a09f3ab09f572ea5",
-            "key": "d511848653308f6f414fd8db68870985"
           }
         }
       ]
@@ -686,10 +648,29 @@
       ]
     },
     {
+      "event_id": 50059,
+      "event_title": "Golden State Warriors vs Pelicans",
+      "event_time": "2026-11-10 03:00",
+      "event_time_raw": "2026-11-10 03:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "GOPENBAG",
+          "title": "NBA GAMEPASS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/edqsvorrhs/out/v1/8bd04ead00184b15a200be28e728f032/cenc.mpd",
+          "drm": {
+            "kid": "7341746269117561ab3b7cdd0f459b61",
+            "key": "016e39300fa76a7873a1d5b6cbd63822"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
-      "event_time": "2026-11-09 06:45",
-      "event_time_raw": "2026-11-09 06:45",
+      "event_time": "2026-11-10 11:00",
+      "event_time_raw": "2026-11-10 11:00",
       "category": "NPL",
       "stream_count": 2,
       "streams": [
@@ -781,6 +762,25 @@
           "code": "VAPHNOVA",
           "title": "NOVA SPORTS FHD",
           "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50077,
+      "event_title": "San Jose Sharks vs New York Islanders",
+      "event_time": "2026-11-10 03:00",
+      "event_time_raw": "2026-11-10 03:00",
+      "category": "NHL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SANENOVA",
+          "title": "NOVA SPORTS FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
           "drm": {
             "kid": "11223344556677889900112233445566",
             "key": "4b80724d0ef86bcb2c21f7999d67739d"
