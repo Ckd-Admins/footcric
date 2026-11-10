@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T07:10:20+05:30",
-  "generated_at_india": "10-11-2026 07:10:20 AM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-11-10T07:21:52+05:30",
+  "generated_at_india": "10-11-2026 07:21:52 AM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -243,6 +243,61 @@
           "drm": {
             "kid": "d006e8b41e37c259818c8d491904d3e7",
             "key": "2f7eceaab743d906957b9958152c8972"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50008,
+      "event_title": "New Zealand vs India",
+      "event_time": "2026-11-10 02:00",
+      "event_time_raw": "2026-11-10 02:00",
+      "category": "Cricket",
+      "stream_count": 5,
+      "streams": [
+        {
+          "code": "NEINWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd",
+          "drm": {
+            "kid": "e2026793de4d32b74ab50d192d21e812",
+            "key": "5b019d29e099327378d606b8c29adb4f"
+          }
+        },
+        {
+          "code": "NEINTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "NEINPRIM",
+          "title": "PRIME VIDEO (ENG)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cqbd0spknz/out/v1/71f66b096687482b8139a87814657aee/cenc.mpd",
+          "drm": {
+            "kid": "d6fa7afe010c5fd6a05338599da7158f",
+            "key": "865584ea64ec125cd6524ab3fb7d0e80"
+          }
+        },
+        {
+          "code": "NEINPRIMA2",
+          "title": "PRIME VIDEO (HINDI)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kuptqxvclu/out/v1/5f434a56da684ce58ef04a955faeb1d7/cenc.mpd",
+          "drm": {
+            "kid": "8e3eef73bb953c9da96600b47e2190d1",
+            "key": "f1dbf72267c0bb24aa5fa2ab61987df8"
+          }
+        },
+        {
+          "code": "NEINWILLKN",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd",
+          "drm": {
+            "kid": "e2026793de4d32b74ab50d192d21e812",
+            "key": "5b019d29e099327378d606b8c29adb4f"
           }
         }
       ]
@@ -616,6 +671,25 @@
           "drm": {
             "kid": "85b277daf5aae05833fe43a68f587968",
             "key": "d52d7e9bc0bcd98787efd547ac91eca0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50058,
+      "event_title": "Phoenix Suns vs San Antonio Spurs",
+      "event_time": "2026-11-10 02:00",
+      "event_time_raw": "2026-11-10 02:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "PHSANBAG",
+          "title": "NBA GAMEPASS FHD",
+          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0P7PVLUBQAF9XNIRTU8QV6V7Y7.mpd",
+          "drm": {
+            "kid": "https",
+            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0p7pvlubqaf9xnirtu8qv6v7y7"
           }
         }
       ]
