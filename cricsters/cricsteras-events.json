@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T12:22:13+05:30",
-  "generated_at_india": "10-11-2026 00:22:13 PM IST",
-  "total": 21,
+  "generated_at": "2026-11-10T13:34:28+05:30",
+  "generated_at_india": "10-11-2026 01:34:28 PM IST",
+  "total": 23,
   "events": [
     {
       "event_id": "17",
@@ -165,6 +165,22 @@
       "event_time_raw": 1794318300000,
       "category": "Cricket",
       "stream_count": 3
+    },
+    {
+      "event_id": "22",
+      "event_title": "UEFA Women's Champions League - BK Häcken FF vs Chelsea FC",
+      "event_time": "10 Nov, 11:15 pm",
+      "event_time_raw": 1794332700000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "23",
+      "event_title": "UEFA Women's Champions League - Inter vs Manchester City",
+      "event_time": "11 Nov, 01:30 am",
+      "event_time_raw": 1794340800000,
+      "category": "Football",
+      "stream_count": 1
     },
     {
       "event_id": "10",
