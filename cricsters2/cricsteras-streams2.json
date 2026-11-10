@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T16:13:36+05:30",
-  "generated_at_india": "10-11-2026 04:13:36 PM IST",
+  "generated_at": "2026-11-10T17:10:49+05:30",
+  "generated_at_india": "10-11-2026 05:10:49 PM IST",
   "total": 15,
   "ok": 15,
   "failed": 0,
@@ -315,8 +315,8 @@
     {
       "event_id": 50012,
       "event_title": "Pakistan vs Sri Lanka",
-      "event_time": "2026-11-10 04:30",
-      "event_time_raw": "2026-11-10 04:30",
+      "event_time": "2026-11-11 04:30",
+      "event_time_raw": "2026-11-11 04:30",
       "category": "Cricket",
       "stream_count": 2,
       "streams": [
@@ -343,8 +343,8 @@
     {
       "event_id": 50019,
       "event_title": "ATP Paris & WTA Hong Kong",
-      "event_time": "2026-11-09 12:00",
-      "event_time_raw": "2026-11-09 12:00",
+      "event_time": "2026-11-10 12:00",
+      "event_time_raw": "2026-11-10 12:00",
       "category": "Tennis",
       "stream_count": 4,
       "streams": [
@@ -423,21 +423,21 @@
       "stream_count": 3,
       "streams": [
         {
-          "code": "ABUDWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/btoft58fvs/out/v1/665cb25d54e54ff69bf8efe449bde83d/cenc.mpd?",
-          "drm": {
-            "kid": "249a1aca16a6dc9b08ad07a0582f22f9",
-            "key": "441fa718f92163b4907364d00170ebda"
-          }
-        },
-        {
           "code": "ABUDPREM",
           "title": "PREMIER SPORTS",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
           "drm": {
             "kid": "1a5df53609ebc9857898c490f4724918",
             "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        },
+        {
+          "code": "ABUDWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/btoft58fvs/out/v1/665cb25d54e54ff69bf8efe449bde83d/cenc.mpd?",
+          "drm": {
+            "kid": "249a1aca16a6dc9b08ad07a0582f22f9",
+            "key": "441fa718f92163b4907364d00170ebda"
           }
         },
         {
@@ -469,9 +469,9 @@
           }
         },
         {
-          "code": "NEPANPLL",
-          "title": "NPL LIVE FHD",
-          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
+          "code": "NEPAFANCO3",
+          "title": "FANCODE - SD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
