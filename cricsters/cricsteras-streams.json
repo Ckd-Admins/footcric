@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T09:11:33+05:30",
-  "generated_at_india": "10-11-2026 09:11:33 AM IST",
+  "generated_at": "2026-11-10T10:13:57+05:30",
+  "generated_at_india": "10-11-2026 10:13:57 AM IST",
   "total": 21,
   "ok": 21,
   "failed": 0,
   "events": [
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "5",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "05 Nov, 05:30 am",
       "event_time_raw": 1793836800000,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "13",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "05 Nov, 11:00 pm",
       "event_time_raw": 1793899800000,
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "7",
       "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
       "event_time": "06 Nov, 07:00 pm",
       "event_time_raw": 1793971800000,
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "11",
       "event_title": "BKFC 96 - BKFC vs BKFC",
       "event_time": "08 Nov, 12:30 am",
       "event_time_raw": 1794078000000,
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "3",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "08 Nov, 11:30 am",
       "event_time_raw": 1794117600000,
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "6",
       "event_title": "Tour De France - Tour De France vs Tour De France",
       "event_time": "08 Nov, 02:30 pm",
       "event_time_raw": 1794128400000,
@@ -343,7 +343,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "14",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "08 Nov, 08:45 pm",
       "event_time_raw": 1794150900000,
@@ -398,7 +398,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "4",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "08 Nov, 10:30 pm",
       "event_time_raw": 1794157200000,
@@ -471,7 +471,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "15",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "08 Nov, 11:15 pm",
       "event_time_raw": 1794159900000,
@@ -508,7 +508,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "8",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -527,7 +527,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "9",
       "event_title": "Paris OPEN - ATP vs ATP",
       "event_time": "09 Nov, 11:30 pm",
       "event_time_raw": 1794247200000,
@@ -573,7 +573,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "12",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "10 Nov, 01:30 am",
       "event_time_raw": 1794254400000,
@@ -683,7 +683,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "2",
       "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
       "event_time": "10 Nov, 10:00 am",
       "event_time_raw": 1794285000000,
@@ -693,19 +693,19 @@
         {
           "code": "PASRWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd",
           "drm": {
-            "kid": "71de63b5c5236b41d3289458a0d3612e",
-            "key": "91e5a59da86b054fef6a06ab6da82935"
+            "kid": "5a796c5da314d0f3f0eb841277c5fc1e",
+            "key": "a33c04fb553da43641676c70cdf9a7f5"
           }
         },
         {
-          "code": "PASRWILLLL",
+          "code": "PASRWILLTV",
           "title": "WILLOW S2 - AQ",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd",
           "drm": {
-            "kid": "71de63b5c5236b41d3289458a0d3612e",
-            "key": "91e5a59da86b054fef6a06ab6da82935"
+            "kid": "5a796c5da314d0f3f0eb841277c5fc1e",
+            "key": "a33c04fb553da43641676c70cdf9a7f5"
           }
         },
         {
@@ -720,7 +720,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "16",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "10 Nov, 12:15 pm",
       "event_time_raw": 1794293100000,
@@ -757,7 +757,7 @@
       ]
     },
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "10 Nov, 07:15 pm",
       "event_time_raw": 1794318300000,
@@ -794,7 +794,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "10",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
