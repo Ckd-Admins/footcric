@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T18:15:29+05:30",
-  "generated_at_india": "10-11-2026 06:15:29 PM IST",
-  "total": 15,
+  "generated_at": "2026-11-10T19:28:39+05:30",
+  "generated_at_india": "10-11-2026 07:28:39 PM IST",
+  "total": 22,
   "events": [
     {
       "event_id": 50002,
@@ -79,8 +79,16 @@
       "stream_count": 2
     },
     {
+      "event_id": 50013,
+      "event_title": "New York Giants vs Washington Commanders",
+      "event_time": "2026-11-13 01:15",
+      "event_time_raw": "2026-11-13 01:15",
+      "category": "NFL",
+      "stream_count": 3
+    },
+    {
       "event_id": 50019,
-      "event_title": "ATP Paris & WTA Hong Kong",
+      "event_title": "ATP 250 & WTA Hong Kong",
       "event_time": "2026-11-10 12:00",
       "event_time_raw": "2026-11-10 12:00",
       "category": "Tennis",
@@ -103,6 +111,14 @@
       "stream_count": 3
     },
     {
+      "event_id": 50044,
+      "event_title": "Philadelphia 76ers vs Boston Celtics",
+      "event_time": "2026-11-11 01:00",
+      "event_time_raw": "2026-11-11 01:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-10 11:00",
@@ -119,12 +135,52 @@
       "stream_count": 3
     },
     {
+      "event_id": 50075,
+      "event_title": "Montréal Canadiens vs Minnesota Wild",
+      "event_time": "2026-11-11 00:00",
+      "event_time_raw": "2026-11-11 00:00",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50081,
+      "event_title": "Los Angeles Kings vs Nashville Predators",
+      "event_time": "2026-11-11 03:00",
+      "event_time_raw": "2026-11-11 03:00",
+      "category": "NHL",
+      "stream_count": 1
+    },
+    {
       "event_id": 50127,
-      "event_title": "India Under-19 vs UAE Under-19",
-      "event_time": "2026-11-10 05:00",
-      "event_time_raw": "2026-11-10 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3
+      "event_title": "Switzerland vs Austria",
+      "event_time": "2026-11-10 18:00",
+      "event_time_raw": "2026-11-10 18:00",
+      "category": "IIHF World",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50128,
+      "event_title": "Sweden vs Denmark",
+      "event_time": "2026-11-10 18:00",
+      "event_time_raw": "2026-11-10 18:00",
+      "category": "IIHF World",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50129,
+      "event_title": "Finland vs Japan",
+      "event_time": "2026-11-10 14:00",
+      "event_time_raw": "2026-11-10 14:00",
+      "category": "IIHF World",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50130,
+      "event_title": "Czechia vs Germany",
+      "event_time": "2026-11-10 14:00",
+      "event_time_raw": "2026-11-10 14:00",
+      "category": "IIHF World",
+      "stream_count": 1
     }
   ],
   "raw_data": ""

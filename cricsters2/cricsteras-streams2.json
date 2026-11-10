@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T18:15:29+05:30",
-  "generated_at_india": "10-11-2026 06:15:29 PM IST",
-  "total": 15,
-  "ok": 15,
+  "generated_at": "2026-11-10T19:28:39+05:30",
+  "generated_at_india": "10-11-2026 07:28:39 PM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -396,15 +396,52 @@
       ]
     },
     {
+      "event_id": 50013,
+      "event_title": "New York Giants vs Washington Commanders",
+      "event_time": "2026-11-13 01:15",
+      "event_time_raw": "2026-11-13 01:15",
+      "category": "NFL",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "NEWATSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?",
+          "drm": {
+            "kid": "14eeabf30c14b7fbf3008c03099ce011",
+            "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          }
+        },
+        {
+          "code": "NEWASKYT",
+          "title": "SKY TOP EVENT FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm": {
+            "kid": "368bd4ebe301406897324bc777650411",
+            "key": "69d27c2c2b7de927d67aacc973259901"
+          }
+        },
+        {
+          "code": "NEWATSN3",
+          "title": "TSN3 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd?",
+          "drm": {
+            "kid": "d3250252765347a0c2603c6cb4869f8c",
+            "key": "0c19319460da7e9ed816db46ce839b37"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50019,
-      "event_title": "ATP Paris & WTA Hong Kong",
+      "event_title": "ATP 250 & WTA Hong Kong",
       "event_time": "2026-11-10 12:00",
       "event_time_raw": "2026-11-10 12:00",
       "category": "Tennis",
       "stream_count": 4,
       "streams": [
         {
-          "code": "ATPPATP2",
+          "code": "ATP2ATP2",
           "title": "ATP 250 FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?",
           "drm": {
@@ -413,7 +450,7 @@
           }
         },
         {
-          "code": "ATPPWTAF",
+          "code": "ATP2WTAF",
           "title": "WTA FINALS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
           "drm": {
@@ -422,7 +459,7 @@
           }
         },
         {
-          "code": "ATPPSKYS",
+          "code": "ATP2SKYS",
           "title": "SKY SPORT TENNIS",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd",
           "drm": {
@@ -431,7 +468,7 @@
           }
         },
         {
-          "code": "ATPPTENN",
+          "code": "ATP2TENN",
           "title": "TENNIS CHANNEL 2",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
           "drm": {
@@ -478,30 +515,49 @@
       "stream_count": 3,
       "streams": [
         {
+          "code": "ABUDWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bhyqaqicbw/out/v1/0457e59239e043a6bcd4c85f1958fefd/cenc.mpd?",
+          "drm": {
+            "kid": "8b39574f571516ea69c62c6cbd61d7b0",
+            "key": "0195d6e83b8994429f212f7114806a9f"
+          }
+        },
+        {
           "code": "ABUDPREM",
           "title": "PREMIER SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?",
           "drm": {
             "kid": "1a5df53609ebc9857898c490f4724918",
             "key": "77f62980d582ec541280796acf8b2d19"
           }
         },
         {
-          "code": "ABUDWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/btoft58fvs/out/v1/665cb25d54e54ff69bf8efe449bde83d/cenc.mpd?",
-          "drm": {
-            "kid": "249a1aca16a6dc9b08ad07a0582f22f9",
-            "key": "441fa718f92163b4907364d00170ebda"
-          }
-        },
-        {
-          "code": "ABUDWILLPV",
+          "code": "ABUDWILLR1",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/btoft58fvs/out/v1/665cb25d54e54ff69bf8efe449bde83d/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u4schwb5fb/out/v1/1ab73661445f40a79e25895de38190cd/cenc.mpd",
           "drm": {
-            "kid": "249a1aca16a6dc9b08ad07a0582f22f9",
-            "key": "441fa718f92163b4907364d00170ebda"
+            "kid": "0e36b3be8845c0685c6e1a7ce8b3a3e0",
+            "key": "d0a6469a598e7159d22717e229e8c18d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50044,
+      "event_title": "Philadelphia 76ers vs Boston Celtics",
+      "event_time": "2026-11-11 01:00",
+      "event_time_raw": "2026-11-11 01:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "PHBONBCS",
+          "title": "NBC SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
+          "drm": {
+            "kid": "36a385124dcdfb2f0969935065e03afa",
+            "key": "ccecd65514dff22eae493b975ccf9a9e"
           }
         }
       ]
@@ -572,38 +628,115 @@
       ]
     },
     {
-      "event_id": 50127,
-      "event_title": "India Under-19 vs UAE Under-19",
-      "event_time": "2026-11-10 05:00",
-      "event_time_raw": "2026-11-10 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
+      "event_id": 50075,
+      "event_title": "Montréal Canadiens vs Minnesota Wild",
+      "event_time": "2026-11-11 00:00",
+      "event_time_raw": "2026-11-11 00:00",
+      "category": "NHL",
+      "stream_count": 1,
       "streams": [
         {
-          "code": "INUAWILL",
-          "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ukcvtgasgm/out/v1/e4cb351a93b14155916a5f6ef143e1c1/cenc.mpd",
+          "code": "MOMIPREM",
+          "title": "PREMIER SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
           "drm": {
-            "kid": "4c4bd1aa8c9559ae04dda485adb5a3b1",
-            "key": "ce2f7e3a60ef59cdc20a666d64f35506"
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
           }
-        },
+        }
+      ]
+    },
+    {
+      "event_id": 50081,
+      "event_title": "Los Angeles Kings vs Nashville Predators",
+      "event_time": "2026-11-11 03:00",
+      "event_time_raw": "2026-11-11 03:00",
+      "category": "NHL",
+      "stream_count": 1,
+      "streams": [
         {
-          "code": "INUASONY",
-          "title": "SonyLiv PRIME FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/urj1hvt4lw/out/v1/e1cfb1743cb24e68a07ce860e9d73c06/cenc.mpd",
+          "code": "LONAPREM",
+          "title": "PREMIER SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
           "drm": {
-            "kid": "2e79bb5f16ad590344c8b64df4965c33",
-            "key": "eb018c62af7d3e7fe1232d15be093f65"
+            "kid": "1444f4235529f183f0a5a486befe9cdb",
+            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
           }
-        },
+        }
+      ]
+    },
+    {
+      "event_id": 50127,
+      "event_title": "Switzerland vs Austria",
+      "event_time": "2026-11-10 18:00",
+      "event_time_raw": "2026-11-10 18:00",
+      "category": "IIHF World",
+      "stream_count": 1,
+      "streams": [
         {
-          "code": "INUAWILL68",
-          "title": "WILLOW ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ukcvtgasgm/out/v1/e4cb351a93b14155916a5f6ef143e1c1/cenc.mpd",
+          "code": "SWAUTSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?",
           "drm": {
-            "kid": "4c4bd1aa8c9559ae04dda485adb5a3b1",
-            "key": "ce2f7e3a60ef59cdc20a666d64f35506"
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50128,
+      "event_title": "Sweden vs Denmark",
+      "event_time": "2026-11-10 18:00",
+      "event_time_raw": "2026-11-10 18:00",
+      "category": "IIHF World",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SWDETSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?",
+          "drm": {
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50129,
+      "event_title": "Finland vs Japan",
+      "event_time": "2026-11-10 14:00",
+      "event_time_raw": "2026-11-10 14:00",
+      "category": "IIHF World",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "FIJATSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?",
+          "drm": {
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50130,
+      "event_title": "Czechia vs Germany",
+      "event_time": "2026-11-10 14:00",
+      "event_time_raw": "2026-11-10 14:00",
+      "category": "IIHF World",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CZGETSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?",
+          "drm": {
+            "kid": "385ceb9714b75e0cef61254f80b31002",
+            "key": "18dce92a2891fee68d21ede5173230f8"
           }
         }
       ]
