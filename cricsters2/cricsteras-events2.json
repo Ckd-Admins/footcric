@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T11:11:48+05:30",
-  "generated_at_india": "10-11-2026 11:11:48 AM IST",
-  "total": 22,
+  "generated_at": "2026-11-10T12:16:32+05:30",
+  "generated_at_india": "10-11-2026 00:16:32 PM IST",
+  "total": 15,
   "events": [
     {
       "event_id": 50002,
@@ -41,18 +41,10 @@
     {
       "event_id": 50007,
       "event_title": "Afghanistan vs Zimbabwe",
-      "event_time": "2026-11-09 06:00",
-      "event_time_raw": "2026-11-09 06:00",
+      "event_time": "2026-11-13 06:00",
+      "event_time_raw": "2026-11-13 06:00",
       "category": "Cricket",
       "stream_count": 2
-    },
-    {
-      "event_id": 50008,
-      "event_title": "New Zealand vs India",
-      "event_time": "2026-11-10 04:00",
-      "event_time_raw": "2026-11-10 04:00",
-      "category": "Cricket",
-      "stream_count": 5
     },
     {
       "event_id": 50009,
@@ -79,14 +71,6 @@
       "stream_count": 2
     },
     {
-      "event_id": 50013,
-      "event_title": "Minnesota Vikings vs Buffalo Bills",
-      "event_time": "2026-11-10 01:15",
-      "event_time_raw": "2026-11-10 01:15",
-      "category": "NFL",
-      "stream_count": 3
-    },
-    {
       "event_id": 50019,
       "event_title": "ATP Paris & WTA Hong Kong",
       "event_time": "2026-11-09 12:00",
@@ -111,30 +95,6 @@
       "stream_count": 3
     },
     {
-      "event_id": 50056,
-      "event_title": "Houston Rockets vs Denver Nuggets",
-      "event_time": "2026-11-10 01:30",
-      "event_time_raw": "2026-11-10 01:30",
-      "category": "NBA",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50058,
-      "event_title": "Phoenix Suns vs San Antonio Spurs",
-      "event_time": "2026-11-10 02:00",
-      "event_time_raw": "2026-11-10 02:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50059,
-      "event_title": "Golden State Warriors vs Pelicans",
-      "event_time": "2026-11-10 03:00",
-      "event_time_raw": "2026-11-10 03:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-10 11:00",
@@ -149,22 +109,6 @@
       "event_time_raw": "2026-11-10 08:10",
       "category": "WBBL",
       "stream_count": 3
-    },
-    {
-      "event_id": 50076,
-      "event_title": "Vancouver Canucks vs Philadelphia Flyers",
-      "event_time": "2026-11-10 02:30",
-      "event_time_raw": "2026-11-10 02:30",
-      "category": "NHL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50077,
-      "event_title": "San Jose Sharks vs New York Islanders",
-      "event_time": "2026-11-10 03:00",
-      "event_time_raw": "2026-11-10 03:00",
-      "category": "NHL",
-      "stream_count": 1
     },
     {
       "event_id": 50127,

@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T11:11:48+05:30",
-  "generated_at_india": "10-11-2026 11:11:48 AM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-11-10T12:16:32+05:30",
+  "generated_at_india": "10-11-2026 00:16:32 PM IST",
+  "total": 15,
+  "ok": 15,
   "failed": 0,
   "events": [
     {
@@ -222,8 +222,8 @@
     {
       "event_id": 50007,
       "event_title": "Afghanistan vs Zimbabwe",
-      "event_time": "2026-11-09 06:00",
-      "event_time_raw": "2026-11-09 06:00",
+      "event_time": "2026-11-13 06:00",
+      "event_time_raw": "2026-11-13 06:00",
       "category": "Cricket",
       "stream_count": 2,
       "streams": [
@@ -243,61 +243,6 @@
           "drm": {
             "kid": "d006e8b41e37c259818c8d491904d3e7",
             "key": "2f7eceaab743d906957b9958152c8972"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50008,
-      "event_title": "New Zealand vs India",
-      "event_time": "2026-11-10 04:00",
-      "event_time_raw": "2026-11-10 04:00",
-      "category": "Cricket",
-      "stream_count": 5,
-      "streams": [
-        {
-          "code": "NEINPRIM",
-          "title": "PRIME VIDEO (ENG)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd?",
-          "drm": {
-            "kid": "c6872a6ce0112b3ef06eafa5d6fe16a3",
-            "key": "c2285774921020dc71a7713f07a14e05"
-          }
-        },
-        {
-          "code": "NEINWILL",
-          "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd?",
-          "drm": {
-            "kid": "e2026793de4d32b74ab50d192d21e812",
-            "key": "5b019d29e099327378d606b8c29adb4f"
-          }
-        },
-        {
-          "code": "NEINPRIMUT",
-          "title": "PRIME VIDEO (HINDI)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vchrvkaifx/out/v1/5c21993871704a7b828c8960deeaa565/cenc.mpd?",
-          "drm": {
-            "kid": "c44c74a35acb645f971988649c69617a",
-            "key": "82ea35c848aafc18c7a2a8404b71edc1"
-          }
-        },
-        {
-          "code": "NEINTNTS",
-          "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "NEINWILLKN",
-          "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd",
-          "drm": {
-            "kid": "e2026793de4d32b74ab50d192d21e812",
-            "key": "5b019d29e099327378d606b8c29adb4f"
           }
         }
       ]
@@ -391,43 +336,6 @@
           "drm": {
             "kid": "cd976e47eff3942879f7d0f243bc82d0",
             "key": "b66a35dcdb61c0f0fd4b60a6c207dfbb"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50013,
-      "event_title": "Minnesota Vikings vs Buffalo Bills",
-      "event_time": "2026-11-10 01:15",
-      "event_time_raw": "2026-11-10 01:15",
-      "category": "NFL",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "MIBUTSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?",
-          "drm": {
-            "kid": "14eeabf30c14b7fbf3008c03099ce011",
-            "key": "17d2ac8dbc5429bd70af3433aa12158d"
-          }
-        },
-        {
-          "code": "MIBUSKYT",
-          "title": "SKY TOP EVENT FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "drm": {
-            "kid": "368bd4ebe301406897324bc777650411",
-            "key": "69d27c2c2b7de927d67aacc973259901"
-          }
-        },
-        {
-          "code": "MIBUTSN3",
-          "title": "TSN3 SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd?",
-          "drm": {
-            "kid": "d3250252765347a0c2603c6cb4869f8c",
-            "key": "0c19319460da7e9ed816db46ce839b37"
           }
         }
       ]
@@ -544,72 +452,6 @@
       ]
     },
     {
-      "event_id": 50056,
-      "event_title": "Houston Rockets vs Denver Nuggets",
-      "event_time": "2026-11-10 01:30",
-      "event_time_raw": "2026-11-10 01:30",
-      "category": "NBA",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "HODENBAG",
-          "title": "NBA GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jr3yv9tjd0/out/v1/2ab624521e3d4d0995d74fa7f2ecceb0/cenc.mpd",
-          "drm": {
-            "kid": "5a86fa6b97343c057c792e95cf6634ba",
-            "key": "f18cc1b708b1c2c58aad619df9527d2e"
-          }
-        },
-        {
-          "code": "HODETSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "drm": {
-            "kid": "85b277daf5aae05833fe43a68f587968",
-            "key": "d52d7e9bc0bcd98787efd547ac91eca0"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50058,
-      "event_title": "Phoenix Suns vs San Antonio Spurs",
-      "event_time": "2026-11-10 02:00",
-      "event_time_raw": "2026-11-10 02:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "PHSANBAG",
-          "title": "NBA GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oqfg5ohciz/out/v1/e24fd468c17640d5a79c1399b2cc39b9/cenc.mpd",
-          "drm": {
-            "kid": "a3c63a2c287f2dbb1c1a037738f33125",
-            "key": "17a912f774d92ea96388e7e0841d5314"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50059,
-      "event_title": "Golden State Warriors vs Pelicans",
-      "event_time": "2026-11-10 03:00",
-      "event_time_raw": "2026-11-10 03:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "GOPENBAG",
-          "title": "NBA GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/edqsvorrhs/out/v1/8bd04ead00184b15a200be28e728f032/cenc.mpd",
-          "drm": {
-            "kid": "7341746269117561ab3b7cdd0f459b61",
-            "key": "016e39300fa76a7873a1d5b6cbd63822"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-10 11:00",
@@ -670,44 +512,6 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50076,
-      "event_title": "Vancouver Canucks vs Philadelphia Flyers",
-      "event_time": "2026-11-10 02:30",
-      "event_time_raw": "2026-11-10 02:30",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "VAPHNOVA",
-          "title": "NOVA SPORTS FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50077,
-      "event_title": "San Jose Sharks vs New York Islanders",
-      "event_time": "2026-11-10 03:00",
-      "event_time_raw": "2026-11-10 03:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "SANENOVA",
-          "title": "NOVA SPORTS FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "drm": {
-            "kid": "11223344556677889900112233445566",
-            "key": "4b80724d0ef86bcb2c21f7999d67739d"
           }
         }
       ]
