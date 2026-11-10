@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T19:31:38+05:30",
-  "generated_at_india": "10-11-2026 07:31:38 PM IST",
+  "generated_at": "2026-11-10T21:08:26+05:30",
+  "generated_at_india": "10-11-2026 09:08:26 PM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -536,7 +536,7 @@
         {
           "code": "NEINWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd",
           "drm": {
             "kid": "8055527c45bf2dec00ccbbc9a219ef8b",
             "key": "7fe859adbe404501d0df3ef25f63c7a4"
@@ -576,43 +576,6 @@
           "drm": {
             "kid": "e2026793de4d32b74ab50d192d21e812",
             "key": "5b019d29e099327378d606b8c29adb4f"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "16",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "10 Nov, 04:30 pm",
-      "event_time_raw": 1794308400000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "NPNPFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "NPNPFANCZ9",
-          "title": "FANCODE SD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "drm": {
-            "kid": "286eb7dc538143790fa9913639531920",
-            "key": "e3f5cb08d14d9e9c08438c673819540f"
-          }
-        },
-        {
-          "code": "NPNPNPLL",
-          "title": "NPL LIVE FHD",
-          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]
@@ -665,10 +628,10 @@
         {
           "code": "ABABWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bhyqaqicbw/out/v1/0457e59239e043a6bcd4c85f1958fefd/cenc.mpd?",
           "drm": {
-            "kid": "4c4bd1aa8c9559ae04dda485adb5a3b1",
-            "key": "ce2f7e3a60ef59cdc20a666d64f35506"
+            "kid": "8b39574f571516ea69c62c6cbd61d7b0",
+            "key": "0195d6e83b8994429f212f7114806a9f"
           }
         },
         {
@@ -681,12 +644,12 @@
           }
         },
         {
-          "code": "ABABWILL45",
+          "code": "ABABWILLCA",
           "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u4schwb5fb/out/v1/1ab73661445f40a79e25895de38190cd/cenc.mpd",
           "drm": {
-            "kid": "4c4bd1aa8c9559ae04dda485adb5a3b1",
-            "key": "ce2f7e3a60ef59cdc20a666d64f35506"
+            "kid": "0e36b3be8845c0685c6e1a7ce8b3a3e0",
+            "key": "d0a6469a598e7159d22717e229e8c18d"
           }
         }
       ]
@@ -762,6 +725,43 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "16",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "11 Nov, 04:30 pm",
+      "event_time_raw": 1794394800000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "NPNPFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "NPNPFANCZ9",
+          "title": "FANCODE SD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "drm": {
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
+          }
+        },
+        {
+          "code": "NPNPNPLL",
+          "title": "NPL LIVE FHD",
+          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]

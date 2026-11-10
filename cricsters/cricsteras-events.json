@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T19:31:38+05:30",
-  "generated_at_india": "10-11-2026 07:31:38 PM IST",
+  "generated_at": "2026-11-10T21:08:26+05:30",
+  "generated_at_india": "10-11-2026 09:08:26 PM IST",
   "total": 23,
   "events": [
     {
@@ -119,14 +119,6 @@
       "stream_count": 5
     },
     {
-      "event_id": "16",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "10 Nov, 04:30 pm",
-      "event_time_raw": 1794308400000,
-      "category": "Cricket",
-      "stream_count": 3
-    },
-    {
       "event_id": "9",
       "event_title": "Stockholm OPEN - ATP vs ATP",
       "event_time": "10 Nov, 05:30 pm",
@@ -163,6 +155,14 @@
       "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
       "event_time": "11 Nov, 10:00 am",
       "event_time_raw": 1794371400000,
+      "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": "16",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "11 Nov, 04:30 pm",
+      "event_time_raw": 1794394800000,
       "category": "Cricket",
       "stream_count": 3
     },
