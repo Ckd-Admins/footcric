@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T07:40:24+05:30",
-  "generated_at_india": "10-11-2026 07:40:24 AM IST",
+  "generated_at": "2026-11-10T08:12:18+05:30",
+  "generated_at_india": "10-11-2026 08:12:18 AM IST",
   "total": 25,
   "ok": 25,
   "failed": 0,
@@ -754,15 +754,33 @@
       "event_time": "10 Nov, 07:30 am",
       "event_time_raw": 1794276000000,
       "category": "Cricket",
-      "stream_count": 1,
+      "stream_count": 3,
       "streams": [
         {
-          "code": "NEINTNTSI1",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "code": "NEINFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "NEINFANCL4",
+          "title": "FANCODE SD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "drm": {
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
+          }
+        },
+        {
+          "code": "NEINNPLL",
+          "title": "NPL LIVE - AQ",
+          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]
@@ -813,30 +831,30 @@
       "stream_count": 3,
       "streams": [
         {
-          "code": "NPNPFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "code": "NPNPREDZ",
+          "title": "REDZONE - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd",
           "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
+            "kid": "85f340146e46533b39d1415d90746352",
+            "key": "448aafcc613ddfd448f14d9275eda19b"
           }
         },
         {
-          "code": "NPNPFANCZ9",
-          "title": "FANCODE SD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "code": "NPNPREDZOK",
+          "title": "REDZONE FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ym9kbji9jh/out/v1/fddb9964cee64f9a9f5bd97bf0ad668e/cenc.mpd?",
           "drm": {
-            "kid": "286eb7dc538143790fa9913639531920",
-            "key": "e3f5cb08d14d9e9c08438c673819540f"
+            "kid": "f60169a33f5c94aca22d7d93079bbfa1",
+            "key": "888e18968c39f6e3b7fcada59b87e857"
           }
         },
         {
-          "code": "NPNPNPLL",
-          "title": "NPL LIVE - AQ",
-          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
+          "code": "NPNPNFLL",
+          "title": "NFL LIVE TV",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lz1p95hcxk/out/v1/d5f91ece0e304a1283b28266a072ddc2/cenc.mpd",
           "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
+            "kid": "ff4a1e48d06619919d2d36ebdb2b67fb",
+            "key": "0a6d7d953cd47b8261ac14dc13916182"
           }
         }
       ]
@@ -884,24 +902,42 @@
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
       "category": "Mixed Martial Arts",
-      "stream_count": 2,
+      "stream_count": 4,
       "streams": [
         {
-          "code": "VASEADSP",
-          "title": "AD SPORTS EN/AR - AQ",
-          "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
+          "code": "VASEBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
           "drm": {
-            "kid": "117c29396ec6fd295880013241a466e1",
-            "key": "3dfb883251884e66d784111877c44b13"
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
           }
         },
         {
-          "code": "VASEEURO",
-          "title": "EUROSPORT - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "code": "VASETSNS",
+          "title": "TSN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
           "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
+            "kid": "d3250252765347a0c2603c6cb4869f8c",
+            "key": "0c19319460da7e9ed816db46ce839b37"
+          }
+        },
+        {
+          "code": "VASESKYT",
+          "title": "SKY TENNIS AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd",
+          "drm": {
+            "kid": "e8d550a86ee5c31e6b62f5fa287db43d",
+            "key": "11184b37c42d384033b966dbea535b4f"
+          }
+        },
+        {
+          "code": "VASETENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
           }
         }
       ]
