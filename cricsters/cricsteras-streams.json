@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T21:08:26+05:30",
-  "generated_at_india": "10-11-2026 09:08:26 PM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-11-10T22:12:30+05:30",
+  "generated_at_india": "10-11-2026 10:12:30 PM IST",
+  "total": 24,
+  "ok": 24,
   "failed": 0,
   "events": [
     {
-      "event_id": "17",
+      "event_id": "18",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "14",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "05 Nov, 11:00 pm",
       "event_time_raw": 1793899800000,
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "21",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "12",
       "event_title": "BKFC 96 - BKFC vs BKFC",
       "event_time": "08 Nov, 12:30 am",
       "event_time_raw": 1794078000000,
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "20",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "22",
       "event_title": "EPL | Premier League Goals Rush - EPL Goals Rush vs EPL Goals Rush",
       "event_time": "08 Nov, 07:30 pm",
       "event_time_raw": 1794146400000,
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "15",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "08 Nov, 08:45 pm",
       "event_time_raw": 1794150900000,
@@ -415,7 +415,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "16",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "08 Nov, 11:15 pm",
       "event_time_raw": 1794159900000,
@@ -452,7 +452,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "9",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -471,7 +471,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "13",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "10 Nov, 01:30 am",
       "event_time_raw": 1794254400000,
@@ -581,7 +581,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "10",
       "event_title": "Stockholm OPEN - ATP vs ATP",
       "event_time": "10 Nov, 05:30 pm",
       "event_time_raw": 1794312000000,
@@ -618,7 +618,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "19",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "10 Nov, 07:15 pm",
       "event_time_raw": 1794318300000,
@@ -655,7 +655,26 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "8",
+      "event_title": "Europe Super League - Darts vs Darts",
+      "event_time": "10 Nov, 09:30 pm",
+      "event_time_raw": 1794326400000,
+      "category": "Darts",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "DADASPOR",
+          "title": "SPORT 1 DE - AQ",
+          "url": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
+          "drm": {
+            "kid": "98f2ab49605f0469a4b97de40277fca0",
+            "key": "7ed06b6908edc372f2cb8ef2df2615d0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "23",
       "event_title": "UEFA Women's Champions League - BK Häcken FF vs Chelsea FC",
       "event_time": "10 Nov, 11:15 pm",
       "event_time_raw": 1794332700000,
@@ -674,7 +693,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "24",
       "event_title": "UEFA Women's Champions League - Inter vs Manchester City",
       "event_time": "11 Nov, 01:30 am",
       "event_time_raw": 1794340800000,
@@ -730,7 +749,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "17",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "11 Nov, 04:30 pm",
       "event_time_raw": 1794394800000,
@@ -823,7 +842,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "11",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
