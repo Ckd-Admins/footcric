@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T17:13:58+05:30",
-  "generated_at_india": "10-11-2026 05:13:58 PM IST",
+  "generated_at": "2026-11-10T18:20:51+05:30",
+  "generated_at_india": "10-11-2026 06:20:51 PM IST",
   "total": 23,
   "events": [
     {
@@ -119,14 +119,6 @@
       "stream_count": 1
     },
     {
-      "event_id": "9",
-      "event_title": "Paris OPEN - ATP vs ATP",
-      "event_time": "09 Nov, 11:30 pm",
-      "event_time_raw": 1794247200000,
-      "category": "Tennis",
-      "stream_count": 4
-    },
-    {
       "event_id": "12",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "10 Nov, 01:30 am",
@@ -143,19 +135,19 @@
       "stream_count": 5
     },
     {
-      "event_id": "1",
-      "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
-      "event_time": "10 Nov, 10:00 am",
-      "event_time_raw": 1794285000000,
-      "category": "Cricket",
-      "stream_count": 3
-    },
-    {
       "event_id": "16",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "10 Nov, 04:30 pm",
       "event_time_raw": 1794308400000,
       "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": "9",
+      "event_title": "Stockholm OPEN - ATP vs ATP",
+      "event_time": "10 Nov, 05:30 pm",
+      "event_time_raw": 1794312000000,
+      "category": "Tennis",
       "stream_count": 3
     },
     {
@@ -181,6 +173,14 @@
       "event_time_raw": 1794340800000,
       "category": "Football",
       "stream_count": 1
+    },
+    {
+      "event_id": "1",
+      "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
+      "event_time": "11 Nov, 10:00 am",
+      "event_time_raw": 1794371400000,
+      "category": "Cricket",
+      "stream_count": 3
     },
     {
       "event_id": "10",

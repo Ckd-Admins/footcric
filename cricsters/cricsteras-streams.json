@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T17:13:58+05:30",
-  "generated_at_india": "10-11-2026 05:13:58 PM IST",
+  "generated_at": "2026-11-10T18:20:51+05:30",
+  "generated_at_india": "10-11-2026 06:20:51 PM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -527,52 +527,6 @@
       ]
     },
     {
-      "event_id": "9",
-      "event_title": "Paris OPEN - ATP vs ATP",
-      "event_time": "09 Nov, 11:30 pm",
-      "event_time_raw": 1794247200000,
-      "category": "Tennis",
-      "stream_count": 4,
-      "streams": [
-        {
-          "code": "ATATBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        },
-        {
-          "code": "ATATTSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "drm": {
-            "kid": "d3250252765347a0c2603c6cb4869f8c",
-            "key": "0c19319460da7e9ed816db46ce839b37"
-          }
-        },
-        {
-          "code": "ATATSKYT",
-          "title": "SKY TENNIS AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd",
-          "drm": {
-            "kid": "e8d550a86ee5c31e6b62f5fa287db43d",
-            "key": "11184b37c42d384033b966dbea535b4f"
-          }
-        },
-        {
-          "code": "ATATTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "12",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "10 Nov, 01:30 am",
@@ -683,43 +637,6 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
-      "event_time": "10 Nov, 10:00 am",
-      "event_time_raw": 1794285000000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "PASRWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd",
-          "drm": {
-            "kid": "5a796c5da314d0f3f0eb841277c5fc1e",
-            "key": "a33c04fb553da43641676c70cdf9a7f5"
-          }
-        },
-        {
-          "code": "PASRWILLTV",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd",
-          "drm": {
-            "kid": "5a796c5da314d0f3f0eb841277c5fc1e",
-            "key": "a33c04fb553da43641676c70cdf9a7f5"
-          }
-        },
-        {
-          "code": "PASRWILLYV",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "16",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "10 Nov, 04:30 pm",
@@ -752,6 +669,43 @@
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
             "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "9",
+      "event_title": "Stockholm OPEN - ATP vs ATP",
+      "event_time": "10 Nov, 05:30 pm",
+      "event_time_raw": 1794312000000,
+      "category": "Tennis",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "ATATBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "ATATSKYT",
+          "title": "SKY TENNIS AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd",
+          "drm": {
+            "kid": "e8d550a86ee5c31e6b62f5fa287db43d",
+            "key": "11184b37c42d384033b966dbea535b4f"
+          }
+        },
+        {
+          "code": "ATATTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
           }
         }
       ]
@@ -827,6 +781,43 @@
           "drm": {
             "kid": "d9623774ac5c8c351aafe97c5fe70267",
             "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "1",
+      "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
+      "event_time": "11 Nov, 10:00 am",
+      "event_time_raw": 1794371400000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "PASRWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd",
+          "drm": {
+            "kid": "5a796c5da314d0f3f0eb841277c5fc1e",
+            "key": "a33c04fb553da43641676c70cdf9a7f5"
+          }
+        },
+        {
+          "code": "PASRWILLTV",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd",
+          "drm": {
+            "kid": "5a796c5da314d0f3f0eb841277c5fc1e",
+            "key": "a33c04fb553da43641676c70cdf9a7f5"
+          }
+        },
+        {
+          "code": "PASRWILLYV",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
         }
       ]
