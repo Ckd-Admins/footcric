@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T07:21:52+05:30",
-  "generated_at_india": "10-11-2026 07:21:52 AM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-11-10T08:08:56+05:30",
+  "generated_at_india": "10-11-2026 08:08:56 AM IST",
+  "total": 24,
+  "ok": 24,
   "failed": 0,
   "events": [
     {
@@ -256,39 +256,39 @@
       "stream_count": 5,
       "streams": [
         {
+          "code": "NEINPRIM",
+          "title": "PRIME VIDEO (ENG)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd?",
+          "drm": {
+            "kid": "c6872a6ce0112b3ef06eafa5d6fe16a3",
+            "key": "c2285774921020dc71a7713f07a14e05"
+          }
+        },
+        {
           "code": "NEINWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd?",
           "drm": {
             "kid": "e2026793de4d32b74ab50d192d21e812",
             "key": "5b019d29e099327378d606b8c29adb4f"
           }
         },
         {
+          "code": "NEINPRIMUT",
+          "title": "PRIME VIDEO (HINDI)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vchrvkaifx/out/v1/5c21993871704a7b828c8960deeaa565/cenc.mpd?",
+          "drm": {
+            "kid": "c44c74a35acb645f971988649c69617a",
+            "key": "82ea35c848aafc18c7a2a8404b71edc1"
+          }
+        },
+        {
           "code": "NEINTNTS",
           "title": "TNT SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?",
           "drm": {
             "kid": "69a5aa835a061ce64a630d1046727e40",
             "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "NEINPRIM",
-          "title": "PRIME VIDEO (ENG)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cqbd0spknz/out/v1/71f66b096687482b8139a87814657aee/cenc.mpd",
-          "drm": {
-            "kid": "d6fa7afe010c5fd6a05338599da7158f",
-            "key": "865584ea64ec125cd6524ab3fb7d0e80"
-          }
-        },
-        {
-          "code": "NEINPRIMA2",
-          "title": "PRIME VIDEO (HINDI)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kuptqxvclu/out/v1/5f434a56da684ce58ef04a955faeb1d7/cenc.mpd",
-          "drm": {
-            "kid": "8e3eef73bb953c9da96600b47e2190d1",
-            "key": "f1dbf72267c0bb24aa5fa2ab61987df8"
           }
         },
         {
@@ -413,21 +413,21 @@
           }
         },
         {
+          "code": "MIBUSKYT",
+          "title": "SKY TOP EVENT FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm": {
+            "kid": "368bd4ebe301406897324bc777650411",
+            "key": "69d27c2c2b7de927d67aacc973259901"
+          }
+        },
+        {
           "code": "MIBUTSN3",
           "title": "TSN3 SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd?",
           "drm": {
             "kid": "d3250252765347a0c2603c6cb4869f8c",
             "key": "0c19319460da7e9ed816db46ce839b37"
-          }
-        },
-        {
-          "code": "MIBUSPOR",
-          "title": "SporTV BR FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "drm": {
-            "kid": "9009b7189e3e68cc09d17811f2beb55a",
-            "key": "dd3f96a94c909da48ff40c92aabf8cf3"
           }
         }
       ]
@@ -587,7 +587,7 @@
       "event_time": "2026-11-10 00:00",
       "event_time_raw": "2026-11-10 00:00",
       "category": "NBA",
-      "stream_count": 2,
+      "stream_count": 1,
       "streams": [
         {
           "code": "DEWANBAG",
@@ -596,15 +596,6 @@
           "drm": {
             "kid": "fcad8675710ba2e37fd340d22300b5c1",
             "key": "d01c1af5f6ea734eab42bab06238bacc"
-          }
-        },
-        {
-          "code": "DEWASKYT",
-          "title": "SKY TOP EVENT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "drm": {
-            "kid": "368bd4ebe301406897324bc777650411",
-            "key": "69d27c2c2b7de927d67aacc973259901"
           }
         }
       ]
@@ -686,10 +677,10 @@
         {
           "code": "PHSANBAG",
           "title": "NBA GAMEPASS FHD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0P7PVLUBQAF9XNIRTU8QV6V7Y7.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oqfg5ohciz/out/v1/e24fd468c17640d5a79c1399b2cc39b9/cenc.mpd",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0p7pvlubqaf9xnirtu8qv6v7y7"
+            "kid": "a3c63a2c287f2dbb1c1a037738f33125",
+            "key": "17a912f774d92ea96388e7e0841d5314"
           }
         }
       ]
@@ -774,6 +765,25 @@
           "drm": {
             "kid": "1a5df53609ebc9857898c490f4724918",
             "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50076,
+      "event_title": "Vancouver Canucks vs Philadelphia Flyers",
+      "event_time": "2026-11-10 02:30",
+      "event_time_raw": "2026-11-10 02:30",
+      "category": "NHL",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "VAPHNOVA",
+          "title": "NOVA SPORTS FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
           }
         }
       ]
