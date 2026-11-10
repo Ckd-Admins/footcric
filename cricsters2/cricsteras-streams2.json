@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T17:10:49+05:30",
-  "generated_at_india": "10-11-2026 05:10:49 PM IST",
+  "generated_at": "2026-11-10T18:15:29+05:30",
+  "generated_at_india": "10-11-2026 06:15:29 PM IST",
   "total": 15,
   "ok": 15,
   "failed": 0,
@@ -248,6 +248,61 @@
       ]
     },
     {
+      "event_id": 50008,
+      "event_title": "New Zealand vs India",
+      "event_time": "2026-11-13 02:00",
+      "event_time_raw": "2026-11-13 02:00",
+      "category": "Cricket",
+      "stream_count": 5,
+      "streams": [
+        {
+          "code": "NEINPRIM",
+          "title": "PRIME VIDEO (ENG)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd?",
+          "drm": {
+            "kid": "c6872a6ce0112b3ef06eafa5d6fe16a3",
+            "key": "c2285774921020dc71a7713f07a14e05"
+          }
+        },
+        {
+          "code": "NEINWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd?",
+          "drm": {
+            "kid": "e2026793de4d32b74ab50d192d21e812",
+            "key": "5b019d29e099327378d606b8c29adb4f"
+          }
+        },
+        {
+          "code": "NEINPRIMUT",
+          "title": "PRIME VIDEO (HINDI)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vchrvkaifx/out/v1/5c21993871704a7b828c8960deeaa565/cenc.mpd?",
+          "drm": {
+            "kid": "c44c74a35acb645f971988649c69617a",
+            "key": "82ea35c848aafc18c7a2a8404b71edc1"
+          }
+        },
+        {
+          "code": "NEINTNTS",
+          "title": "TNT SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "NEINWILLKN",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd",
+          "drm": {
+            "kid": "e2026793de4d32b74ab50d192d21e812",
+            "key": "5b019d29e099327378d606b8c29adb4f"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50009,
       "event_title": "ONE Friday Fights",
       "event_time": "2026-11-13 13:30",
@@ -482,8 +537,8 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-10 08:10",
-      "event_time_raw": "2026-11-10 08:10",
+      "event_time": "2026-11-11 08:10",
+      "event_time_raw": "2026-11-11 08:10",
       "category": "WBBL",
       "stream_count": 3,
       "streams": [
@@ -549,43 +604,6 @@
           "drm": {
             "kid": "4c4bd1aa8c9559ae04dda485adb5a3b1",
             "key": "ce2f7e3a60ef59cdc20a666d64f35506"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50128,
-      "event_title": "Pakistan Under-19 vs Nepal Under-19",
-      "event_time": "2026-11-10 05:00",
-      "event_time_raw": "2026-11-10 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "PANEWILL",
-          "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tt3fycpkbu/out/v1/63398f58da4d4c5bb99ef23b1bb43705/cenc.mpd",
-          "drm": {
-            "kid": "7fecfb5bed7cce0cdc59d2994845c550",
-            "key": "884386b71e0801635f4fa25175143ca7"
-          }
-        },
-        {
-          "code": "PANESONY",
-          "title": "SonyLiv PRIME FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wdgqopibdc/out/v1/1584c8ffcbcd410fba52973e6708881e/cenc.mpd",
-          "drm": {
-            "kid": "669809685da200703be719d5989ef338",
-            "key": "95dce664c282da723ae39db410bafc74"
-          }
-        },
-        {
-          "code": "PANEWILLRE",
-          "title": "WILLOW ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tt3fycpkbu/out/v1/63398f58da4d4c5bb99ef23b1bb43705/cenc.mpd",
-          "drm": {
-            "kid": "7fecfb5bed7cce0cdc59d2994845c550",
-            "key": "884386b71e0801635f4fa25175143ca7"
           }
         }
       ]

@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T17:10:49+05:30",
-  "generated_at_india": "10-11-2026 05:10:49 PM IST",
+  "generated_at": "2026-11-10T18:15:29+05:30",
+  "generated_at_india": "10-11-2026 06:15:29 PM IST",
   "total": 15,
   "events": [
     {
@@ -45,6 +45,14 @@
       "event_time_raw": "2026-11-13 06:00",
       "category": "Cricket",
       "stream_count": 2
+    },
+    {
+      "event_id": 50008,
+      "event_title": "New Zealand vs India",
+      "event_time": "2026-11-13 02:00",
+      "event_time_raw": "2026-11-13 02:00",
+      "category": "Cricket",
+      "stream_count": 5
     },
     {
       "event_id": 50009,
@@ -105,22 +113,14 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-10 08:10",
-      "event_time_raw": "2026-11-10 08:10",
+      "event_time": "2026-11-11 08:10",
+      "event_time_raw": "2026-11-11 08:10",
       "category": "WBBL",
       "stream_count": 3
     },
     {
       "event_id": 50127,
       "event_title": "India Under-19 vs UAE Under-19",
-      "event_time": "2026-11-10 05:00",
-      "event_time_raw": "2026-11-10 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3
-    },
-    {
-      "event_id": 50128,
-      "event_title": "Pakistan Under-19 vs Nepal Under-19",
       "event_time": "2026-11-10 05:00",
       "event_time_raw": "2026-11-10 05:00",
       "category": "Asia Cup",
