@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T10:09:59+05:30",
-  "generated_at_india": "10-11-2026 10:09:59 AM IST",
-  "total": 20,
-  "ok": 20,
+  "generated_at": "2026-11-10T11:11:48+05:30",
+  "generated_at_india": "10-11-2026 11:11:48 AM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -708,6 +708,80 @@
           "drm": {
             "kid": "11223344556677889900112233445566",
             "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50127,
+      "event_title": "India Under-19 vs UAE Under-19",
+      "event_time": "2026-11-10 05:00",
+      "event_time_raw": "2026-11-10 05:00",
+      "category": "Asia Cup",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "INUAWILL",
+          "title": "WILLOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ukcvtgasgm/out/v1/e4cb351a93b14155916a5f6ef143e1c1/cenc.mpd",
+          "drm": {
+            "kid": "4c4bd1aa8c9559ae04dda485adb5a3b1",
+            "key": "ce2f7e3a60ef59cdc20a666d64f35506"
+          }
+        },
+        {
+          "code": "INUASONY",
+          "title": "SonyLiv PRIME FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/urj1hvt4lw/out/v1/e1cfb1743cb24e68a07ce860e9d73c06/cenc.mpd",
+          "drm": {
+            "kid": "2e79bb5f16ad590344c8b64df4965c33",
+            "key": "eb018c62af7d3e7fe1232d15be093f65"
+          }
+        },
+        {
+          "code": "INUAWILL68",
+          "title": "WILLOW ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ukcvtgasgm/out/v1/e4cb351a93b14155916a5f6ef143e1c1/cenc.mpd",
+          "drm": {
+            "kid": "4c4bd1aa8c9559ae04dda485adb5a3b1",
+            "key": "ce2f7e3a60ef59cdc20a666d64f35506"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50128,
+      "event_title": "Pakistan Under-19 vs Nepal Under-19",
+      "event_time": "2026-11-10 05:00",
+      "event_time_raw": "2026-11-10 05:00",
+      "category": "Asia Cup",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "PANEWILL",
+          "title": "WILLOW FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tt3fycpkbu/out/v1/63398f58da4d4c5bb99ef23b1bb43705/cenc.mpd",
+          "drm": {
+            "kid": "7fecfb5bed7cce0cdc59d2994845c550",
+            "key": "884386b71e0801635f4fa25175143ca7"
+          }
+        },
+        {
+          "code": "PANESONY",
+          "title": "SonyLiv PRIME FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wdgqopibdc/out/v1/1584c8ffcbcd410fba52973e6708881e/cenc.mpd",
+          "drm": {
+            "kid": "669809685da200703be719d5989ef338",
+            "key": "95dce664c282da723ae39db410bafc74"
+          }
+        },
+        {
+          "code": "PANEWILLRE",
+          "title": "WILLOW ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tt3fycpkbu/out/v1/63398f58da4d4c5bb99ef23b1bb43705/cenc.mpd",
+          "drm": {
+            "kid": "7fecfb5bed7cce0cdc59d2994845c550",
+            "key": "884386b71e0801635f4fa25175143ca7"
           }
         }
       ]
