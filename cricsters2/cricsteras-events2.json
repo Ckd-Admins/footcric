@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T06:01:00+05:30",
-  "generated_at_india": "10-11-2026 06:01:00 AM IST",
-  "total": 20,
+  "generated_at": "2026-11-10T07:10:20+05:30",
+  "generated_at_india": "10-11-2026 07:10:20 AM IST",
+  "total": 21,
   "events": [
     {
       "event_id": 50002,
@@ -135,12 +135,20 @@
       "stream_count": 1
     },
     {
+      "event_id": 50055,
+      "event_title": "Dallas Mavericks vs Indiana Pacers",
+      "event_time": "2026-11-10 01:00",
+      "event_time_raw": "2026-11-10 01:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
       "event_id": 50056,
       "event_title": "Houston Rockets vs Denver Nuggets",
       "event_time": "2026-11-10 01:30",
       "event_time_raw": "2026-11-10 01:30",
       "category": "NBA",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50064,

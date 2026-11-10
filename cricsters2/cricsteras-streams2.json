@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T06:01:00+05:30",
-  "generated_at_india": "10-11-2026 06:01:00 AM IST",
-  "total": 20,
-  "ok": 20,
+  "generated_at": "2026-11-10T07:10:20+05:30",
+  "generated_at_india": "10-11-2026 07:10:20 AM IST",
+  "total": 21,
+  "ok": 21,
   "failed": 0,
   "events": [
     {
@@ -499,7 +499,7 @@
         {
           "code": "ATLONBAG",
           "title": "NBA GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/uimi2x3j0k/out/v1/f96d381622f848adb38d43cc7b858de9/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/uimi2x3j0k/out/v1/f96d381622f848adb38d43cc7b858de9/cenc.mpd?",
           "drm": {
             "kid": "eed56ed06f7c791ad0573985b01359a5",
             "key": "5fecbef86756acb6352bacd33bf3b811"
@@ -518,7 +518,7 @@
         {
           "code": "CHCLNBAG",
           "title": "NBA GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/c0aiuaaf38/out/v1/c439efc8c95a4dc88dcd33c418da47fb/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/c0aiuaaf38/out/v1/c439efc8c95a4dc88dcd33c418da47fb/cenc.mpd?",
           "drm": {
             "kid": "c37b24670e3e46f9a09f3ab09f572ea5",
             "key": "d511848653308f6f414fd8db68870985"
@@ -537,7 +537,7 @@
         {
           "code": "DEWANBAG",
           "title": "NBA GAMEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0pjkfjsy5k/out/v1/d465fd2ab39041e288685c485be5b42b/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0pjkfjsy5k/out/v1/d465fd2ab39041e288685c485be5b42b/cenc.mpd?",
           "drm": {
             "kid": "fcad8675710ba2e37fd340d22300b5c1",
             "key": "d01c1af5f6ea734eab42bab06238bacc"
@@ -563,12 +563,31 @@
       "stream_count": 1,
       "streams": [
         {
-          "code": "TOMESPOR",
-          "title": "SportzX TV+ HD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0G19Z6UZXF37OP3GY98XHOS6P6.mpd",
+          "code": "TOMENBAG",
+          "title": "NBA GAMEPASS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b8ldviviu2/out/v1/aadf368e53f9469e90519329a7abfb64/cenc.mpd?",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0g19z6uzxf37op3gy98xhos6p6"
+            "kid": "67c5e8d391a465d10128e4ff67fcd1a3",
+            "key": "e677dc7516adbfa56815f6b2b3d4ed48"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50055,
+      "event_title": "Dallas Mavericks vs Indiana Pacers",
+      "event_time": "2026-11-10 01:00",
+      "event_time_raw": "2026-11-10 01:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "DAINNBAG",
+          "title": "NBA GAMEPASS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cdscutzh4p/out/v1/d538b2fb92654e8784c3c8b25339933b/cenc.mpd",
+          "drm": {
+            "kid": "6bd291cde147442e02390ff1c98960c9",
+            "key": "0ddb6b53dbe7a158d0ac8c406d45acc6"
           }
         }
       ]
@@ -579,8 +598,17 @@
       "event_time": "2026-11-10 01:30",
       "event_time_raw": "2026-11-10 01:30",
       "category": "NBA",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "HODENBAG",
+          "title": "NBA GAMEPASS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jr3yv9tjd0/out/v1/2ab624521e3d4d0995d74fa7f2ecceb0/cenc.mpd",
+          "drm": {
+            "kid": "5a86fa6b97343c057c792e95cf6634ba",
+            "key": "f18cc1b708b1c2c58aad619df9527d2e"
+          }
+        },
         {
           "code": "HODETSNS",
           "title": "TSN SPORTS FHD",
