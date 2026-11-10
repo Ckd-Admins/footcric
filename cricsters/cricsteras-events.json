@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T22:12:30+05:30",
-  "generated_at_india": "10-11-2026 10:12:30 PM IST",
-  "total": 24,
+  "generated_at": "2026-11-10T23:10:39+05:30",
+  "generated_at_india": "10-11-2026 11:10:39 PM IST",
+  "total": 25,
   "events": [
     {
       "event_id": "18",
@@ -148,10 +148,18 @@
       "event_time": "10 Nov, 11:15 pm",
       "event_time_raw": 1794332700000,
       "category": "Football",
-      "stream_count": 1
+      "stream_count": 3
     },
     {
       "event_id": "24",
+      "event_title": "UEFA Women's Champions League - Real Madrid vs Paris FC",
+      "event_time": "10 Nov, 11:15 pm",
+      "event_time_raw": 1794332700000,
+      "category": "Football",
+      "stream_count": 1
+    },
+    {
+      "event_id": "25",
       "event_title": "UEFA Women's Champions League - Inter vs Manchester City",
       "event_time": "11 Nov, 01:30 am",
       "event_time_raw": 1794340800000,

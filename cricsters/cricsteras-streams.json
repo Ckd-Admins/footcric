@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T22:12:30+05:30",
-  "generated_at_india": "10-11-2026 10:12:30 PM IST",
-  "total": 24,
-  "ok": 24,
+  "generated_at": "2026-11-10T23:10:39+05:30",
+  "generated_at_india": "10-11-2026 11:10:39 PM IST",
+  "total": 25,
+  "ok": 25,
   "failed": 0,
   "events": [
     {
@@ -628,10 +628,10 @@
         {
           "code": "ABABWILL",
           "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bhyqaqicbw/out/v1/0457e59239e043a6bcd4c85f1958fefd/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/oulryz3rf9/out/v1/2e49170533a44b878fc6490106a04943/cenc.mpd",
           "drm": {
-            "kid": "8b39574f571516ea69c62c6cbd61d7b0",
-            "key": "0195d6e83b8994429f212f7114806a9f"
+            "kid": "c86f21d47ee98bfb22dfd0284f42c25f",
+            "key": "ed0504f6bc8dae781fcb2e4520e858a9"
           }
         },
         {
@@ -679,8 +679,17 @@
       "event_time": "10 Nov, 11:15 pm",
       "event_time_raw": 1794332700000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "BKCHPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kczwedhkgn/out/v1/48b48cc0d1e24cb4b26fd8c23961a647/cenc.mpd",
+          "drm": {
+            "kid": "9c559d07ccfd1b2024558710893333f5",
+            "key": "d0dbaa1c429b5a01ea1d46c22368769d"
+          }
+        },
         {
           "code": "BKCHCBSS",
           "title": "CBS SPORTS - AQ",
@@ -689,11 +698,39 @@
             "kid": "d9623774ac5c8c351aafe97c5fe70267",
             "key": "5164e6d05164a2d65fa8fcc962aa4861"
           }
+        },
+        {
+          "code": "BKCHFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
+          }
         }
       ]
     },
     {
       "event_id": "24",
+      "event_title": "UEFA Women's Champions League - Real Madrid vs Paris FC",
+      "event_time": "10 Nov, 11:15 pm",
+      "event_time_raw": 1794332700000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "REPAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/v14ekwga2u/out/v1/f6095723f19549f6b84c5d9809a0f0b3/cenc.mpd",
+          "drm": {
+            "kid": "f201a6e86e8a486e2c48d796c2de78e0",
+            "key": "9dbe7adfd1776760c0e6dd67ecf92030"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "25",
       "event_title": "UEFA Women's Champions League - Inter vs Manchester City",
       "event_time": "11 Nov, 01:30 am",
       "event_time_raw": 1794340800000,
