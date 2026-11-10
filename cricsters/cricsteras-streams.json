@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T06:11:16+05:30",
-  "generated_at_india": "10-11-2026 06:11:16 AM IST",
+  "generated_at": "2026-11-10T07:23:56+05:30",
+  "generated_at_india": "10-11-2026 07:23:56 AM IST",
   "total": 25,
   "ok": 25,
   "failed": 0,
@@ -852,7 +852,7 @@
         {
           "code": "ABABWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd",
           "drm": {
             "kid": "461e45c6a17fbe5e91fa6a6c544e6ae5",
             "key": "ff0bce40ca704b9a4e2e3f28c6599efd"
