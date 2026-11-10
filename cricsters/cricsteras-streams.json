@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T18:20:51+05:30",
-  "generated_at_india": "10-11-2026 06:20:51 PM IST",
+  "generated_at": "2026-11-10T19:31:38+05:30",
+  "generated_at_india": "10-11-2026 07:31:38 PM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -46,43 +46,6 @@
       ]
     },
     {
-      "event_id": "5",
-      "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
-      "event_time": "05 Nov, 05:30 am",
-      "event_time_raw": 1793836800000,
-      "category": "WWE",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "DYDYTSNS",
-          "title": "TSN SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd",
-          "drm": {
-            "kid": "66e14add60c30be992503fa9a0ae5e20",
-            "key": "8c736ae52ce3cab1e918d5f9e8ed6c62"
-          }
-        },
-        {
-          "code": "DYDYFOXS",
-          "title": "FOX SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-          "drm": {
-            "kid": "9f327d24c66fbd84e15ab5c9ead7c7a4",
-            "key": "83837185529c0c4048f81386c2d36426"
-          }
-        },
-        {
-          "code": "DYDYEURO",
-          "title": "EUROSPORT - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm": {
-            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
-            "key": "6784567890abcfebcd23aa27e4ac2814"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "13",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "05 Nov, 11:00 pm",
@@ -97,25 +60,6 @@
           "drm": {
             "kid": "d5c1a0585bc5519e61aff334810f2290",
             "key": "e6ccaf87453280fa6acd60fd1d9da0db"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "7",
-      "event_title": "ONE FRIDAY FIGHTS 177 - ONE vs ONE",
-      "event_time": "06 Nov, 07:00 pm",
-      "event_time_raw": 1793971800000,
-      "category": "Mixed Martial Arts",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "ONONONEP",
-          "title": "ONE PPV - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
-          "drm": {
-            "kid": "308006101c8fd0262c0f529319b9c127",
-            "key": "37683aadc75b1450efa82d62c647984d"
           }
         }
       ]
@@ -721,10 +665,10 @@
         {
           "code": "ABABWILL",
           "title": "WILLOW - AQ",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd",
           "drm": {
-            "kid": "461e45c6a17fbe5e91fa6a6c544e6ae5",
-            "key": "ff0bce40ca704b9a4e2e3f28c6599efd"
+            "kid": "4c4bd1aa8c9559ae04dda485adb5a3b1",
+            "key": "ce2f7e3a60ef59cdc20a666d64f35506"
           }
         },
         {
@@ -737,12 +681,12 @@
           }
         },
         {
-          "code": "ABABWILL1F",
+          "code": "ABABWILL45",
           "title": "WILLOW S2 - AQ",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ymnsbghnwg/out/v1/9ee55e82c17947c39d0c37c70257beab/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd",
           "drm": {
-            "kid": "2fc13592451a4ca8b509946c6f908829",
-            "key": "eee1b57fd228c32939c764657b04ab65"
+            "kid": "4c4bd1aa8c9559ae04dda485adb5a3b1",
+            "key": "ce2f7e3a60ef59cdc20a666d64f35506"
           }
         }
       ]
@@ -818,6 +762,62 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "5",
+      "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
+      "event_time": "12 Nov, 05:30 am",
+      "event_time_raw": 1794441600000,
+      "category": "WWE",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "DYDYTSNS",
+          "title": "TSN SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd",
+          "drm": {
+            "kid": "66e14add60c30be992503fa9a0ae5e20",
+            "key": "8c736ae52ce3cab1e918d5f9e8ed6c62"
+          }
+        },
+        {
+          "code": "DYDYFOXS",
+          "title": "FOX SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+          "drm": {
+            "kid": "9f327d24c66fbd84e15ab5c9ead7c7a4",
+            "key": "83837185529c0c4048f81386c2d36426"
+          }
+        },
+        {
+          "code": "DYDYEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm": {
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "7",
+      "event_title": "ONE FRIDAY FIGHTS 178 - ONE vs ONE",
+      "event_time": "13 Nov, 07:00 pm",
+      "event_time_raw": 1794576600000,
+      "category": "Mixed Martial Arts",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ONONONEP",
+          "title": "ONE PPV - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+          "drm": {
+            "kid": "308006101c8fd0262c0f529319b9c127",
+            "key": "37683aadc75b1450efa82d62c647984d"
           }
         }
       ]
