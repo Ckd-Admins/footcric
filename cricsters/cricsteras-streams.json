@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T08:12:18+05:30",
-  "generated_at_india": "10-11-2026 08:12:18 AM IST",
-  "total": 25,
-  "ok": 25,
+  "generated_at": "2026-11-10T09:11:33+05:30",
+  "generated_at_india": "10-11-2026 09:11:33 AM IST",
+  "total": 21,
+  "ok": 21,
   "failed": 0,
   "events": [
     {
-      "event_id": "17",
+      "event_id": "16",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -121,62 +121,7 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "One Day International - New Zealand vs India",
-      "event_time": "07 Nov, 07:30 am",
-      "event_time_raw": 1794016800000,
-      "category": "Cricket",
-      "stream_count": 5,
-      "streams": [
-        {
-          "code": "NEINWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1xyi7lfzjb/out/v1/c2421551360249a1a4ea2ea8c8a7c1ad/cenc.mpd",
-          "drm": {
-            "kid": "d1be89e5a60d67f753be9b35a803c8b9",
-            "key": "f8e35aafae8c3f3dd92dac7be4642a8b"
-          }
-        },
-        {
-          "code": "NEINPRIM",
-          "title": "PRIME HINDI - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/kuptqxvclu/out/v1/5f434a56da684ce58ef04a955faeb1d7/cenc.mpd",
-          "drm": {
-            "kid": "8e3eef73bb953c9da96600b47e2190d1",
-            "key": "f1dbf72267c0bb24aa5fa2ab61987df8"
-          }
-        },
-        {
-          "code": "NEINPRIMWQ",
-          "title": "PRIME VIDEO - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cqbd0spknz/out/v1/71f66b096687482b8139a87814657aee/cenc.mpd",
-          "drm": {
-            "kid": "d6fa7afe010c5fd6a05338599da7158f",
-            "key": "865584ea64ec125cd6524ab3fb7d0e80"
-          }
-        },
-        {
-          "code": "NEINTNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
-          "drm": {
-            "kid": "fa34fa8c90336dd528c7a23871cad1fe",
-            "key": "552a78d1aeb74f1650d68255c5749408"
-          }
-        },
-        {
-          "code": "NEINWILL4O",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
-          "drm": {
-            "kid": "5718f40a4901526a597012cc242b4c4a",
-            "key": "6d47e18a26287fa2a4e641901f07e50f"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "21",
+      "event_id": "20",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -223,7 +168,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "19",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -370,7 +315,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "21",
       "event_title": "EPL | Premier League Goals Rush - EPL Goals Rush vs EPL Goals Rush",
       "event_time": "08 Nov, 07:30 pm",
       "event_time_raw": 1794146400000,
@@ -628,72 +573,6 @@
       ]
     },
     {
-      "event_id": "23",
-      "event_title": "LaLiga 2 - UD Las Palmas vs CD Eldense",
-      "event_time": "10 Nov, 01:00 am",
-      "event_time_raw": 1794252600000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "UDCDLALI",
-          "title": "LALIGA HYPEMOTION ES - AQ",
-          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
-          "drm": {
-            "kid": "5fc8da8b94c447468ffe392157f8c75e",
-            "key": "333b934fdde4c1ee87e7f1c5dac4cb8f"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "24",
-      "event_title": "LaLiga 2 - CE Sabadell vs Real Sociedad B",
-      "event_time": "10 Nov, 01:00 am",
-      "event_time_raw": 1794252600000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CERELALI",
-          "title": "LALIGA HYPEMOTION ES - AQ",
-          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm": {
-            "kid": "a88617e904504ee291f49f0e60a51d49",
-            "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "25",
-      "event_title": "FA Cup - Plymouth Parkway vs Berkhamsted Town",
-      "event_time": "10 Nov, 01:00 am",
-      "event_time_raw": 1794252600000,
-      "category": "Football",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "PLBETNTS",
-          "title": "TNT SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm": {
-            "kid": "69a5aa835a061ce64a630d1046727e40",
-            "key": "d02feac8a999bd06bf4059bf33411749"
-          }
-        },
-        {
-          "code": "PLBESTAN",
-          "title": "STAN SPORTS AQ (AUS)",
-          "url": "https://live01-stan.akamaized.net/out/v1/782fd8f486cc4d81ade3404541d04d9c/index.mpd",
-          "drm": {
-            "kid": "a6a7ee7a5e2e49e2a6e21b77270ccfce",
-            "key": "cc7de2ff11ac7e2cc6688c29f754dff1"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "11",
       "event_title": "Hong Kong Open 2026 - WTA vs WTA",
       "event_time": "10 Nov, 01:30 am",
@@ -749,44 +628,62 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "1",
       "event_title": "One Day International - New Zealand vs India",
-      "event_time": "10 Nov, 07:30 am",
-      "event_time_raw": 1794276000000,
+      "event_time": "10 Nov, 09:30 am",
+      "event_time_raw": 1794283200000,
       "category": "Cricket",
-      "stream_count": 3,
+      "stream_count": 5,
       "streams": [
         {
-          "code": "NEINFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "code": "NEINWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd",
           "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
+            "kid": "8055527c45bf2dec00ccbbc9a219ef8b",
+            "key": "7fe859adbe404501d0df3ef25f63c7a4"
           }
         },
         {
-          "code": "NEINFANCL4",
-          "title": "FANCODE SD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "code": "NEINPRIM",
+          "title": "PRIME HINDI - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vchrvkaifx/out/v1/5c21993871704a7b828c8960deeaa565/cenc.mpd?",
           "drm": {
-            "kid": "286eb7dc538143790fa9913639531920",
-            "key": "e3f5cb08d14d9e9c08438c673819540f"
+            "kid": "c44c74a35acb645f971988649c69617a",
+            "key": "82ea35c848aafc18c7a2a8404b71edc1"
           }
         },
         {
-          "code": "NEINNPLL",
-          "title": "NPL LIVE - AQ",
-          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
+          "code": "NEINPRIM01",
+          "title": "PRIME ENG - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd",
           "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
+            "kid": "c6872a6ce0112b3ef06eafa5d6fe16a3",
+            "key": "c2285774921020dc71a7713f07a14e05"
+          }
+        },
+        {
+          "code": "NEINTNTS",
+          "title": "TNT SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm": {
+            "kid": "69a5aa835a061ce64a630d1046727e40",
+            "key": "d02feac8a999bd06bf4059bf33411749"
+          }
+        },
+        {
+          "code": "NEINWILL18",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd?",
+          "drm": {
+            "kid": "e2026793de4d32b74ab50d192d21e812",
+            "key": "5b019d29e099327378d606b8c29adb4f"
           }
         }
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "18",
       "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
       "event_time": "10 Nov, 10:00 am",
       "event_time_raw": 1794285000000,
@@ -831,36 +728,36 @@
       "stream_count": 3,
       "streams": [
         {
-          "code": "NPNPREDZ",
-          "title": "REDZONE - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd",
+          "code": "NPNPFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "drm": {
-            "kid": "85f340146e46533b39d1415d90746352",
-            "key": "448aafcc613ddfd448f14d9275eda19b"
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         },
         {
-          "code": "NPNPREDZOK",
-          "title": "REDZONE FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ym9kbji9jh/out/v1/fddb9964cee64f9a9f5bd97bf0ad668e/cenc.mpd?",
+          "code": "NPNPFANCZ9",
+          "title": "FANCODE SD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
           "drm": {
-            "kid": "f60169a33f5c94aca22d7d93079bbfa1",
-            "key": "888e18968c39f6e3b7fcada59b87e857"
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
           }
         },
         {
-          "code": "NPNPNFLL",
-          "title": "NFL LIVE TV",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lz1p95hcxk/out/v1/d5f91ece0e304a1283b28266a072ddc2/cenc.mpd",
+          "code": "NPNPNPLL",
+          "title": "NPL LIVE - AQ",
+          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
           "drm": {
-            "kid": "ff4a1e48d06619919d2d36ebdb2b67fb",
-            "key": "0a6d7d953cd47b8261ac14dc13916182"
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
           }
         }
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "17",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "10 Nov, 07:15 pm",
       "event_time_raw": 1794318300000,
@@ -902,42 +799,24 @@
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
       "category": "Mixed Martial Arts",
-      "stream_count": 4,
+      "stream_count": 2,
       "streams": [
         {
-          "code": "VASEBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "code": "VASEADSP",
+          "title": "AD SPORTS EN/AR - AQ",
+          "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
           "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
+            "kid": "117c29396ec6fd295880013241a466e1",
+            "key": "3dfb883251884e66d784111877c44b13"
           }
         },
         {
-          "code": "VASETSNS",
-          "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "code": "VASEEURO",
+          "title": "EUROSPORT - AQ",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
           "drm": {
-            "kid": "d3250252765347a0c2603c6cb4869f8c",
-            "key": "0c19319460da7e9ed816db46ce839b37"
-          }
-        },
-        {
-          "code": "VASESKYT",
-          "title": "SKY TENNIS AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd",
-          "drm": {
-            "kid": "e8d550a86ee5c31e6b62f5fa287db43d",
-            "key": "11184b37c42d384033b966dbea535b4f"
-          }
-        },
-        {
-          "code": "VASETENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
+            "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+            "key": "6784567890abcfebcd23aa27e4ac2814"
           }
         }
       ]
