@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T21:03:46+05:30",
-  "generated_at_india": "10-11-2026 09:03:46 PM IST",
+  "generated_at": "2026-11-10T22:08:08+05:30",
+  "generated_at_india": "10-11-2026 10:08:08 PM IST",
   "total": 22,
   "ok": 22,
   "failed": 0,
@@ -509,18 +509,18 @@
     {
       "event_id": 50033,
       "event_title": "Abu Dhabi T10 League",
-      "event_time": "2026-11-10 13:45",
-      "event_time_raw": "2026-11-10 13:45",
+      "event_time": "2026-11-10 16:00",
+      "event_time_raw": "2026-11-10 16:00",
       "category": "Cricket",
       "stream_count": 3,
       "streams": [
         {
           "code": "ABUDWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bhyqaqicbw/out/v1/0457e59239e043a6bcd4c85f1958fefd/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cdfjxdswmz/out/v1/1e629cb7a52f440f94cbf2758e2316f9/cenc.mpd?",
           "drm": {
-            "kid": "8b39574f571516ea69c62c6cbd61d7b0",
-            "key": "0195d6e83b8994429f212f7114806a9f"
+            "kid": "0eaeb634595bb3f64991e455815b9c45",
+            "key": "a8037691d9faa4c8ae58cc021e52cb63"
           }
         },
         {
@@ -533,12 +533,12 @@
           }
         },
         {
-          "code": "ABUDWILLR1",
+          "code": "ABUDWILL93",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u4schwb5fb/out/v1/1ab73661445f40a79e25895de38190cd/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/matrf5qsgb/out/v1/820fd242a0db4693bff1ead95eeea258/cenc.mpd?",
           "drm": {
-            "kid": "0e36b3be8845c0685c6e1a7ce8b3a3e0",
-            "key": "d0a6469a598e7159d22717e229e8c18d"
+            "kid": "c86f21d47ee98bfb22dfd0284f42c25f",
+            "key": "ed0504f6bc8dae781fcb2e4520e858a9"
           }
         }
       ]
