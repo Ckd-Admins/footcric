@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-10T22:08:08+05:30",
-  "generated_at_india": "10-11-2026 10:08:08 PM IST",
+  "generated_at": "2026-11-10T23:06:57+05:30",
+  "generated_at_india": "10-11-2026 11:06:57 PM IST",
   "total": 22,
   "ok": 22,
   "failed": 0,
@@ -666,6 +666,62 @@
       ]
     },
     {
+      "event_id": 50125,
+      "event_title": "Real Madrid vs Paris FC",
+      "event_time": "2026-11-10 17:45",
+      "event_time_raw": "2026-11-10 17:45",
+      "category": "UCL Womens",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "REPAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/v14ekwga2u/out/v1/f6095723f19549f6b84c5d9809a0f0b3/cenc.mpd",
+          "drm": {
+            "kid": "f201a6e86e8a486e2c48d796c2de78e0",
+            "key": "9dbe7adfd1776760c0e6dd67ecf92030"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50126,
+      "event_title": "BK Häcken vs Chelsea",
+      "event_time": "2026-11-10 17:45",
+      "event_time_raw": "2026-11-10 17:45",
+      "category": "UCL Womens",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "BKCHPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kczwedhkgn/out/v1/48b48cc0d1e24cb4b26fd8c23961a647/cenc.mpd",
+          "drm": {
+            "kid": "9c559d07ccfd1b2024558710893333f5",
+            "key": "d0dbaa1c429b5a01ea1d46c22368769d"
+          }
+        },
+        {
+          "code": "BKCHFANC",
+          "title": "FANCODE FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm": {
+            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+            "key": "22a1444b3da18e139191665b3d652835"
+          }
+        },
+        {
+          "code": "BKCHCBSN",
+          "title": "CBS NETWORK FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50127,
       "event_title": "Switzerland vs Austria",
       "event_time": "2026-11-10 18:00",
@@ -699,44 +755,6 @@
           "drm": {
             "kid": "abc5b2883121012850ebda05b528c5ec",
             "key": "e5250924f4b738905f7163a0134587a7"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50129,
-      "event_title": "Finland vs Japan",
-      "event_time": "2026-11-10 14:00",
-      "event_time_raw": "2026-11-10 14:00",
-      "category": "IIHF World",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "FIJATSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?",
-          "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50130,
-      "event_title": "Czechia vs Germany",
-      "event_time": "2026-11-10 14:00",
-      "event_time_raw": "2026-11-10 14:00",
-      "category": "IIHF World",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "CZGETSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
           }
         }
       ]
