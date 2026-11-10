@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T01:13:09+05:30",
-  "generated_at_india": "11-11-2026 01:13:09 AM IST",
+  "generated_at": "2026-11-11T02:06:58+05:30",
+  "generated_at_india": "11-11-2026 02:06:58 AM IST",
   "total": 25,
   "ok": 25,
   "failed": 0,
@@ -552,9 +552,9 @@
           }
         },
         {
-          "code": "NEINPRIM01",
+          "code": "NEINPRIMYC",
           "title": "PRIME ENG - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd",
           "drm": {
             "kid": "c6872a6ce0112b3ef06eafa5d6fe16a3",
             "key": "c2285774921020dc71a7713f07a14e05"
@@ -638,56 +638,47 @@
     },
     {
       "event_id": "23",
-      "event_title": "UEFA Women's Champions League - BK Häcken FF vs Chelsea FC",
-      "event_time": "10 Nov, 11:15 pm",
-      "event_time_raw": 1794332700000,
+      "event_title": "UEFA Women's Champions League - Paris Saint-Germain vs FC Bayern München",
+      "event_time": "11 Nov, 01:30 am",
+      "event_time_raw": 1794340800000,
       "category": "Football",
-      "stream_count": 3,
+      "stream_count": 2,
       "streams": [
         {
-          "code": "BKCHPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/kczwedhkgn/out/v1/48b48cc0d1e24cb4b26fd8c23961a647/cenc.mpd",
-          "drm": {
-            "kid": "9c559d07ccfd1b2024558710893333f5",
-            "key": "d0dbaa1c429b5a01ea1d46c22368769d"
-          }
-        },
-        {
-          "code": "BKCHCBSS",
-          "title": "CBS SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        },
-        {
-          "code": "BKCHFANC",
+          "code": "PAFCFANC",
           "title": "FANCODE FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
           "drm": {
             "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
             "key": "22a1444b3da18e139191665b3d652835"
           }
+        },
+        {
+          "code": "PAFCPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/7sdi5ribnv/out/v1/124536cfa5414911b33298c7a236243f/cenc.mpd",
+          "drm": {
+            "kid": "e8c919d45cbaa02568cbdd76e5520326",
+            "key": "f87d4bea5c630a008e267deefc8c0354"
+          }
         }
       ]
     },
     {
       "event_id": "24",
-      "event_title": "UEFA Women's Champions League - Real Madrid vs Paris FC",
-      "event_time": "10 Nov, 11:15 pm",
-      "event_time_raw": 1794332700000,
+      "event_title": "UEFA Women's Champions League - AS Roma vs Servette FC Chênois Féminin",
+      "event_time": "11 Nov, 01:30 am",
+      "event_time_raw": 1794340800000,
       "category": "Football",
       "stream_count": 1,
       "streams": [
         {
-          "code": "REPAPARA",
+          "code": "ASSEPARA",
           "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/v14ekwga2u/out/v1/f6095723f19549f6b84c5d9809a0f0b3/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/krwoklim9x/out/v1/ebf6dd7e3343462eb3f4d6a4ac38b3ff/cenc.mpd",
           "drm": {
-            "kid": "f201a6e86e8a486e2c48d796c2de78e0",
-            "key": "9dbe7adfd1776760c0e6dd67ecf92030"
+            "kid": "d0a78977471b32c0e495a6d7dbe0ddaf",
+            "key": "be86ffcfa8a6cc66b46b7b26de4c7f26"
           }
         }
       ]
@@ -698,7 +689,7 @@
       "event_time": "11 Nov, 01:30 am",
       "event_time_raw": 1794340800000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "INMACBSS",
@@ -707,6 +698,15 @@
           "drm": {
             "kid": "d9623774ac5c8c351aafe97c5fe70267",
             "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        },
+        {
+          "code": "INMAPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6mtmbz5zsb/out/v1/3a1028ef03ab426fbad3a6ab4660d30c/cenc.mpd",
+          "drm": {
+            "kid": "3586dd615eebc5504bb9b45fc9003797",
+            "key": "8f0a760469969e5fdc0fcacf7cbe561a"
           }
         }
       ]
