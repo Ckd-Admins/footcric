@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T00:14:16+05:30",
-  "generated_at_india": "12-11-2026 00:14:16 AM IST",
+  "generated_at": "2026-11-12T01:20:44+05:30",
+  "generated_at_india": "12-11-2026 01:20:44 AM IST",
   "total": 23,
   "events": [
     {
@@ -111,14 +111,6 @@
       "stream_count": 3
     },
     {
-      "event_id": "18",
-      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
-      "event_time": "11 Nov, 07:15 pm",
-      "event_time_raw": 1794404700000,
-      "category": "Cricket",
-      "stream_count": 3
-    },
-    {
       "event_id": "7",
       "event_title": "Europe Super League - Darts vs Darts",
       "event_time": "11 Nov, 09:30 pm",
@@ -171,6 +163,14 @@
       "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
       "event_time": "12 Nov, 10:00 pm",
       "event_time_raw": 1794501000000,
+      "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": "18",
+      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
+      "event_time": "13 Nov, 05:00 pm",
+      "event_time_raw": 1794569400000,
       "category": "Cricket",
       "stream_count": 3
     },

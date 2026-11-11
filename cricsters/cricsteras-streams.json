@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T00:14:16+05:30",
-  "generated_at_india": "12-11-2026 00:14:16 AM IST",
+  "generated_at": "2026-11-12T01:20:44+05:30",
+  "generated_at_india": "12-11-2026 01:20:44 AM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -508,43 +508,6 @@
       ]
     },
     {
-      "event_id": "18",
-      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
-      "event_time": "11 Nov, 07:15 pm",
-      "event_time_raw": 1794404700000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "ABABWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd",
-          "drm": {
-            "kid": "1e9def1e0c216818e8edc06ce10d25c9",
-            "key": "4743d779da68303948a6e7e18fc77056"
-          }
-        },
-        {
-          "code": "ABABPREM",
-          "title": "PREMIERE SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        },
-        {
-          "code": "ABABWILLGS",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lflcstppvz/out/v1/a6629c2750854c71861461f7c134f0c5/cenc.mpd",
-          "drm": {
-            "kid": "b216a3745f860134be797b632e0b8a3c",
-            "key": "05a3b678efdb24c2f54904708eae13b0"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "7",
       "event_title": "Europe Super League - Darts vs Darts",
       "event_time": "11 Nov, 09:30 pm",
@@ -763,6 +726,43 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "18",
+      "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
+      "event_time": "13 Nov, 05:00 pm",
+      "event_time_raw": 1794569400000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "ABABWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd",
+          "drm": {
+            "kid": "1e9def1e0c216818e8edc06ce10d25c9",
+            "key": "4743d779da68303948a6e7e18fc77056"
+          }
+        },
+        {
+          "code": "ABABPREM",
+          "title": "PREMIERE SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        },
+        {
+          "code": "ABABWILLGS",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lflcstppvz/out/v1/a6629c2750854c71861461f7c134f0c5/cenc.mpd",
+          "drm": {
+            "kid": "b216a3745f860134be797b632e0b8a3c",
+            "key": "05a3b678efdb24c2f54904708eae13b0"
           }
         }
       ]
