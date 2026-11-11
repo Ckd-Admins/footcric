@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T10:15:09+05:30",
-  "generated_at_india": "11-11-2026 10:15:09 AM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-11-11T11:15:51+05:30",
+  "generated_at_india": "11-11-2026 11:15:51 AM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
@@ -544,44 +544,6 @@
       ]
     },
     {
-      "event_id": 50048,
-      "event_title": "Phoenix Suns vs Los Angeles Clippers",
-      "event_time": "2026-11-11 02:00",
-      "event_time_raw": "2026-11-11 02:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "PHLONBAL",
-          "title": "NBA LEAGUEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ul63rtdkzf/out/v1/7ea0ace804754c73a2580b3156039598/cenc.mpd",
-          "drm": {
-            "kid": "192134e283f0df7a5ce5ca0ad8c1b6ee",
-            "key": "ebbb65be0a449c4aeff6d46222757436"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50051,
-      "event_title": "Utah Jazz vs Miami Heat",
-      "event_time": "2026-11-11 02:00",
-      "event_time_raw": "2026-11-11 02:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "UTMINBAL",
-          "title": "NBA LEAGUEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ylfaoxv8jf/out/v1/bc51e05df44d4a9ca5990fb2699d54da/cenc.mpd",
-          "drm": {
-            "kid": "574ddd19ae266a2459313072fd88a271",
-            "key": "6e36225ffed3834d1fb3c763b97f8d3b"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50055,
       "event_title": "Sacramento Kings vs Orlando Magic",
       "event_time": "2026-11-11 03:00",
@@ -622,8 +584,8 @@
     {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
-      "event_time": "2026-11-10 11:00",
-      "event_time_raw": "2026-11-10 11:00",
+      "event_time": "2026-11-12 06:45",
+      "event_time_raw": "2026-11-12 06:45",
       "category": "NPL",
       "stream_count": 2,
       "streams": [
@@ -680,34 +642,6 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50075,
-      "event_title": "Montréal Canadiens vs Minnesota Wild",
-      "event_time": "2026-11-11 00:00",
-      "event_time_raw": "2026-11-11 00:00",
-      "category": "NHL",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "MOMIPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm": {
-            "kid": "1a5df53609ebc9857898c490f4724918",
-            "key": "77f62980d582ec541280796acf8b2d19"
-          }
-        },
-        {
-          "code": "MOMISKYS",
-          "title": "SKY SPORTS MIX",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "drm": {
-            "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
-            "key": "a883237ef30932b731f71aa59a0805c0"
           }
         }
       ]
