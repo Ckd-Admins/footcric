@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T23:18:16+05:30",
-  "generated_at_india": "11-11-2026 11:18:16 PM IST",
+  "generated_at": "2026-11-12T00:14:16+05:30",
+  "generated_at_india": "12-11-2026 00:14:16 AM IST",
   "total": 23,
   "events": [
     {
@@ -103,14 +103,6 @@
       "stream_count": 1
     },
     {
-      "event_id": "12",
-      "event_title": "FINAL Indian Wells 2026 - WTA vs WTA",
-      "event_time": "11 Nov, 05:30 am",
-      "event_time_raw": 1794355200000,
-      "category": "Tennis",
-      "stream_count": 5
-    },
-    {
       "event_id": "9",
       "event_title": "Stockholm OPEN - ATP vs ATP",
       "event_time": "11 Nov, 05:30 pm",
@@ -141,6 +133,14 @@
       "event_time_raw": 1794419100000,
       "category": "Football",
       "stream_count": 1
+    },
+    {
+      "event_id": "12",
+      "event_title": "FINALS Indian Wells 2026 - WTA vs WTA",
+      "event_time": "12 Nov, 01:30 am",
+      "event_time_raw": 1794427200000,
+      "category": "Tennis",
+      "stream_count": 5
     },
     {
       "event_id": "23",
