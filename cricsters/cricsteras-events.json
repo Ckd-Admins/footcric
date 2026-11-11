@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T16:20:37+05:30",
-  "generated_at_india": "11-11-2026 04:20:37 PM IST",
+  "generated_at": "2026-11-11T17:16:29+05:30",
+  "generated_at_india": "11-11-2026 05:16:29 PM IST",
   "total": 22,
   "events": [
     {
@@ -135,22 +135,6 @@
       "stream_count": 5
     },
     {
-      "event_id": "1",
-      "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
-      "event_time": "11 Nov, 10:00 am",
-      "event_time_raw": 1794371400000,
-      "category": "Cricket",
-      "stream_count": 3
-    },
-    {
-      "event_id": "17",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "11 Nov, 04:30 pm",
-      "event_time_raw": 1794394800000,
-      "category": "Cricket",
-      "stream_count": 3
-    },
-    {
       "event_id": "19",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "11 Nov, 07:15 pm",
@@ -164,6 +148,22 @@
       "event_time": "12 Nov, 05:30 am",
       "event_time_raw": 1794441600000,
       "category": "WWE",
+      "stream_count": 3
+    },
+    {
+      "event_id": "17",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "12 Nov, 12:15 pm",
+      "event_time_raw": 1794465900000,
+      "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": "1",
+      "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
+      "event_time": "12 Nov, 10:00 pm",
+      "event_time_raw": 1794501000000,
+      "category": "Cricket",
       "stream_count": 3
     },
     {

@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T16:20:37+05:30",
-  "generated_at_india": "11-11-2026 04:20:37 PM IST",
+  "generated_at": "2026-11-11T17:16:29+05:30",
+  "generated_at_india": "11-11-2026 05:16:29 PM IST",
   "total": 22,
   "ok": 22,
   "failed": 0,
@@ -637,80 +637,6 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
-      "event_time": "11 Nov, 10:00 am",
-      "event_time_raw": 1794371400000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "PASRWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-          "drm": {
-            "kid": "d63d62ca6f2d1873d79971747a489b1b",
-            "key": "6c6b047893630a19cb091bde4cd660f3"
-          }
-        },
-        {
-          "code": "PASRWILLKB",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-          "drm": {
-            "kid": "d63d62ca6f2d1873d79971747a489b1b",
-            "key": "6c6b047893630a19cb091bde4cd660f3"
-          }
-        },
-        {
-          "code": "PASRWILLYV",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "17",
-      "event_title": "Nepal Premier League - NPL vs NPL",
-      "event_time": "11 Nov, 04:30 pm",
-      "event_time_raw": 1794394800000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "NPNPFANC",
-          "title": "FANCODE - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "NPNPFANCZ9",
-          "title": "FANCODE SD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "drm": {
-            "kid": "286eb7dc538143790fa9913639531920",
-            "key": "e3f5cb08d14d9e9c08438c673819540f"
-          }
-        },
-        {
-          "code": "NPNPNPLL",
-          "title": "NPL LIVE FHD",
-          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "19",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "11 Nov, 07:15 pm",
@@ -780,6 +706,80 @@
           "drm": {
             "kid": "12ed56d780abcfebcd23aa27e4ac5015",
             "key": "6784567890abcfebcd23aa27e4ac2814"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "17",
+      "event_title": "Nepal Premier League - NPL vs NPL",
+      "event_time": "12 Nov, 12:15 pm",
+      "event_time_raw": 1794465900000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "NPNPFANC",
+          "title": "FANCODE - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        },
+        {
+          "code": "NPNPFANCZ9",
+          "title": "FANCODE SD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "drm": {
+            "kid": "286eb7dc538143790fa9913639531920",
+            "key": "e3f5cb08d14d9e9c08438c673819540f"
+          }
+        },
+        {
+          "code": "NPNPNPLL",
+          "title": "NPL LIVE FHD",
+          "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
+          "drm": {
+            "kid": "82dfca238e8c4b430a3269db71965db9",
+            "key": "a00b28caf4ac628e77a553d440c0ddca"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "1",
+      "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
+      "event_time": "12 Nov, 10:00 pm",
+      "event_time_raw": 1794501000000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "PASRWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
+          "drm": {
+            "kid": "d63d62ca6f2d1873d79971747a489b1b",
+            "key": "6c6b047893630a19cb091bde4cd660f3"
+          }
+        },
+        {
+          "code": "PASRWILLKB",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
+          "drm": {
+            "kid": "d63d62ca6f2d1873d79971747a489b1b",
+            "key": "6c6b047893630a19cb091bde4cd660f3"
+          }
+        },
+        {
+          "code": "PASRWILLYV",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
           }
         }
       ]
