@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T23:15:47+05:30",
-  "generated_at_india": "11-11-2026 11:15:47 PM IST",
-  "total": 19,
+  "generated_at": "2026-11-12T00:10:03+05:30",
+  "generated_at_india": "12-11-2026 00:10:03 AM IST",
+  "total": 22,
   "events": [
     {
       "event_id": 50002,
@@ -33,8 +33,8 @@
     {
       "event_id": 50006,
       "event_title": "AEW Dynamite",
-      "event_time": "2026-11-12 00:00",
-      "event_time_raw": "2026-11-12 00:00",
+      "event_time": "2026-11-12 01:00",
+      "event_time_raw": "2026-11-12 01:00",
       "category": "WWE",
       "stream_count": 2
     },
@@ -105,10 +105,18 @@
     {
       "event_id": 50033,
       "event_title": "Abu Dhabi T10 League",
-      "event_time": "2026-11-11 13:45",
-      "event_time_raw": "2026-11-11 13:45",
+      "event_time": "2026-11-13 11:30",
+      "event_time_raw": "2026-11-13 11:30",
       "category": "Cricket",
       "stream_count": 3
+    },
+    {
+      "event_id": 50048,
+      "event_title": "Toronto Raptors vs Boston Celtics",
+      "event_time": "2026-11-12 00:00",
+      "event_time_raw": "2026-11-12 00:00",
+      "category": "NBA",
+      "stream_count": 2
     },
     {
       "event_id": 50064,
@@ -121,10 +129,26 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-11 08:10",
-      "event_time_raw": "2026-11-11 08:10",
+      "event_time": "2026-11-12 04:40",
+      "event_time_raw": "2026-11-12 04:40",
       "category": "WBBL",
       "stream_count": 3
+    },
+    {
+      "event_id": 50075,
+      "event_title": "Buffalo Sabres vs Tampa Bay Lightning",
+      "event_time": "2026-11-12 00:00",
+      "event_time_raw": "2026-11-12 00:00",
+      "category": "NHL",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50078,
+      "event_title": "Vegas Golden Knights vs Utah Mammoth",
+      "event_time": "2026-11-12 02:30",
+      "event_time_raw": "2026-11-12 02:30",
+      "category": "NHL",
+      "stream_count": 2
     },
     {
       "event_id": 50129,
@@ -143,18 +167,18 @@
       "stream_count": 1
     },
     {
-      "event_id": 50132,
-      "event_title": "Canada vs Finland",
-      "event_time": "2026-11-11 14:00",
-      "event_time_raw": "2026-11-11 14:00",
+      "event_id": 50131,
+      "event_title": "USA vs Czechia",
+      "event_time": "2026-11-11 18:00",
+      "event_time_raw": "2026-11-11 18:00",
       "category": "IIHF World",
       "stream_count": 1
     },
     {
-      "event_id": 50133,
-      "event_title": "Germany vs Switzerland",
-      "event_time": "2026-11-11 14:00",
-      "event_time_raw": "2026-11-11 14:00",
+      "event_id": 50132,
+      "event_title": "Japan vs Sweden",
+      "event_time": "2026-11-11 18:00",
+      "event_time_raw": "2026-11-11 18:00",
       "category": "IIHF World",
       "stream_count": 1
     }

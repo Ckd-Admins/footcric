@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T23:15:47+05:30",
-  "generated_at_india": "11-11-2026 11:15:47 PM IST",
-  "total": 19,
-  "ok": 19,
+  "generated_at": "2026-11-12T00:10:03+05:30",
+  "generated_at_india": "12-11-2026 00:10:03 AM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -194,8 +194,8 @@
     {
       "event_id": 50006,
       "event_title": "AEW Dynamite",
-      "event_time": "2026-11-12 00:00",
-      "event_time_raw": "2026-11-12 00:00",
+      "event_time": "2026-11-12 01:00",
+      "event_time_raw": "2026-11-12 01:00",
       "category": "WWE",
       "stream_count": 2,
       "streams": [
@@ -509,8 +509,8 @@
     {
       "event_id": 50033,
       "event_title": "Abu Dhabi T10 League",
-      "event_time": "2026-11-11 13:45",
-      "event_time_raw": "2026-11-11 13:45",
+      "event_time": "2026-11-13 11:30",
+      "event_time_raw": "2026-11-13 11:30",
       "category": "Cricket",
       "stream_count": 3,
       "streams": [
@@ -539,6 +539,34 @@
           "drm": {
             "kid": "1e9def1e0c216818e8edc06ce10d25c9",
             "key": "4743d779da68303948a6e7e18fc77056"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50048,
+      "event_title": "Toronto Raptors vs Boston Celtics",
+      "event_time": "2026-11-12 00:00",
+      "event_time_raw": "2026-11-12 00:00",
+      "category": "NBA",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "TOBOTSNS",
+          "title": "TSN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm": {
+            "kid": "14eeabf30c14b7fbf3008c03099ce011",
+            "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          }
+        },
+        {
+          "code": "TOBOTSN4",
+          "title": "TSN4 SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "drm": {
+            "kid": "abc5b2883121012850ebda05b528c5ec",
+            "key": "e5250924f4b738905f7163a0134587a7"
           }
         }
       ]
@@ -574,8 +602,8 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-11 08:10",
-      "event_time_raw": "2026-11-11 08:10",
+      "event_time": "2026-11-12 04:40",
+      "event_time_raw": "2026-11-12 04:40",
       "category": "WBBL",
       "stream_count": 3,
       "streams": [
@@ -604,6 +632,62 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50075,
+      "event_title": "Buffalo Sabres vs Tampa Bay Lightning",
+      "event_time": "2026-11-12 00:00",
+      "event_time_raw": "2026-11-12 00:00",
+      "category": "NHL",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "BUTAPREM",
+          "title": "PREMIERE SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        },
+        {
+          "code": "BUTANOVA",
+          "title": "NOVA SPORTS FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50078,
+      "event_title": "Vegas Golden Knights vs Utah Mammoth",
+      "event_time": "2026-11-12 02:30",
+      "event_time_raw": "2026-11-12 02:30",
+      "category": "NHL",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "VEUTPREM",
+          "title": "PREMIER SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        },
+        {
+          "code": "VEUTSKYS",
+          "title": "SKY SPORTS MIX",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "drm": {
+            "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
+            "key": "a883237ef30932b731f71aa59a0805c0"
           }
         }
       ]
@@ -647,17 +731,17 @@
       ]
     },
     {
-      "event_id": 50132,
-      "event_title": "Canada vs Finland",
-      "event_time": "2026-11-11 14:00",
-      "event_time_raw": "2026-11-11 14:00",
+      "event_id": 50131,
+      "event_title": "USA vs Czechia",
+      "event_time": "2026-11-11 18:00",
+      "event_time_raw": "2026-11-11 18:00",
       "category": "IIHF World",
       "stream_count": 1,
       "streams": [
         {
-          "code": "CAFITSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "code": "USCZTSNS",
+          "title": "TSN SPORTS - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?",
           "drm": {
             "kid": "abc5b2883121012850ebda05b528c5ec",
             "key": "e5250924f4b738905f7163a0134587a7"
@@ -666,20 +750,20 @@
       ]
     },
     {
-      "event_id": 50133,
-      "event_title": "Germany vs Switzerland",
-      "event_time": "2026-11-11 14:00",
-      "event_time_raw": "2026-11-11 14:00",
+      "event_id": 50132,
+      "event_title": "Japan vs Sweden",
+      "event_time": "2026-11-11 18:00",
+      "event_time_raw": "2026-11-11 18:00",
       "category": "IIHF World",
       "stream_count": 1,
       "streams": [
         {
-          "code": "GESWTSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "code": "JASWTSNS",
+          "title": "TSN SPORTS - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?",
           "drm": {
-            "kid": "85b277daf5aae05833fe43a68f587968",
-            "key": "d52d7e9bc0bcd98787efd547ac91eca0"
+            "kid": "14eeabf30c14b7fbf3008c03099ce011",
+            "key": "17d2ac8dbc5429bd70af3433aa12158d"
           }
         }
       ]
