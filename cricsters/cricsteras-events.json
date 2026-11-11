@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T06:11:54+05:30",
-  "generated_at_india": "11-11-2026 06:11:54 AM IST",
+  "generated_at": "2026-11-11T07:23:43+05:30",
+  "generated_at_india": "11-11-2026 07:23:43 AM IST",
   "total": 25,
   "events": [
     {
@@ -103,14 +103,6 @@
       "stream_count": 1
     },
     {
-      "event_id": "13",
-      "event_title": "Hong Kong Open 2026 - WTA vs WTA",
-      "event_time": "10 Nov, 01:30 am",
-      "event_time_raw": 1794254400000,
-      "category": "Tennis",
-      "stream_count": 5
-    },
-    {
       "event_id": "2",
       "event_title": "One Day International - New Zealand vs India",
       "event_time": "10 Nov, 09:30 am",
@@ -157,6 +149,14 @@
       "event_time_raw": 1794340800000,
       "category": "Football",
       "stream_count": 2
+    },
+    {
+      "event_id": "13",
+      "event_title": "FINAL Indian Wells 2026 - WTA vs WTA",
+      "event_time": "11 Nov, 05:30 am",
+      "event_time_raw": 1794355200000,
+      "category": "Tennis",
+      "stream_count": 5
     },
     {
       "event_id": "1",
