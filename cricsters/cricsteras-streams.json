@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T21:11:28+05:30",
-  "generated_at_india": "11-11-2026 09:11:28 PM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-11-11T22:19:53+05:30",
+  "generated_at_india": "11-11-2026 10:19:53 PM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -370,7 +370,7 @@
         {
           "code": "FOFOTSNS",
           "title": "TSN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
           "drm": {
             "kid": "385ceb9714b75e0cef61254f80b31002",
             "key": "18dce92a2891fee68d21ede5173230f8"
@@ -589,12 +589,12 @@
           }
         },
         {
-          "code": "ABABWILL3Q",
+          "code": "ABABWILLGS",
           "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lflcstppvz/out/v1/a6629c2750854c71861461f7c134f0c5/cenc.mpd",
           "drm": {
-            "kid": "1e9def1e0c216818e8edc06ce10d25c9",
-            "key": "4743d779da68303948a6e7e18fc77056"
+            "kid": "b216a3745f860134be797b632e0b8a3c",
+            "key": "05a3b678efdb24c2f54904708eae13b0"
           }
         }
       ]
@@ -614,6 +614,44 @@
           "drm": {
             "kid": "98f2ab49605f0469a4b97de40277fca0",
             "key": "7ed06b6908edc372f2cb8ef2df2615d0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "22",
+      "event_title": "UEFA Women's Champions League - Oud-Heverlee Leuven vs HB Køge",
+      "event_time": "11 Nov, 11:15 pm",
+      "event_time_raw": 1794419100000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "OUHBCBSS",
+          "title": "CBS SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "23",
+      "event_title": "UEFA Women's Champions League - Juventus vs OL Lyonnes",
+      "event_time": "12 Nov, 01:30 am",
+      "event_time_raw": 1794427200000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "JUOLCBSS",
+          "title": "CBS SPORTS GOLAZO",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
           }
         }
       ]
