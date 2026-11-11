@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T09:15:22+05:30",
-  "generated_at_india": "11-11-2026 09:15:22 AM IST",
+  "generated_at": "2026-11-11T10:19:25+05:30",
+  "generated_at_india": "11-11-2026 10:19:25 AM IST",
   "total": 25,
   "ok": 25,
   "failed": 0,
@@ -722,19 +722,19 @@
         {
           "code": "PASRWILL",
           "title": "WILLOW - AQ",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
           "drm": {
-            "kid": "5a796c5da314d0f3f0eb841277c5fc1e",
-            "key": "a33c04fb553da43641676c70cdf9a7f5"
+            "kid": "d63d62ca6f2d1873d79971747a489b1b",
+            "key": "6c6b047893630a19cb091bde4cd660f3"
           }
         },
         {
-          "code": "PASRWILL42",
+          "code": "PASRWILLKB",
           "title": "WILLOW S2 - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
           "drm": {
-            "kid": "5a796c5da314d0f3f0eb841277c5fc1e",
-            "key": "a33c04fb553da43641676c70cdf9a7f5"
+            "kid": "d63d62ca6f2d1873d79971747a489b1b",
+            "key": "6c6b047893630a19cb091bde4cd660f3"
           }
         },
         {
