@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T04:54:23+05:30",
-  "generated_at_india": "11-11-2026 04:54:23 AM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-11-11T06:02:25+05:30",
+  "generated_at_india": "11-11-2026 06:02:25 AM IST",
+  "total": 19,
+  "ok": 19,
   "failed": 0,
   "events": [
     {
@@ -544,6 +544,25 @@
       ]
     },
     {
+      "event_id": 50043,
+      "event_title": "New York Knicks vs Milwaukee Bucks",
+      "event_time": "2026-11-11 00:30",
+      "event_time_raw": "2026-11-11 00:30",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "NEMINBAL",
+          "title": "NBA LEAGUEPASS FHD",
+          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0JUBELES7ZDHF5DHLGQSWIYJO4.mpd",
+          "drm": {
+            "kid": "https",
+            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0jubeles7zdhf5dhlgqswiyjo4"
+          }
+        }
+      ]
+    },
+    {
       "event_id": 50044,
       "event_title": "Philadelphia 76ers vs Boston Celtics",
       "event_time": "2026-11-11 01:00",
@@ -661,119 +680,6 @@
           "drm": {
             "kid": "1444f4235529f183f0a5a486befe9cdb",
             "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50118,
-      "event_title": "Paris Saint-Germain vs Bayern München",
-      "event_time": "2026-11-10 20:00",
-      "event_time_raw": "2026-11-10 20:00",
-      "category": "UCL Womens",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "PABAPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/7sdi5ribnv/out/v1/124536cfa5414911b33298c7a236243f/cenc.mpd",
-          "drm": {
-            "kid": "e8c919d45cbaa02568cbdd76e5520326",
-            "key": "f87d4bea5c630a008e267deefc8c0354"
-          }
-        },
-        {
-          "code": "PABAFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm": {
-            "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-            "key": "22a1444b3da18e139191665b3d652835"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50119,
-      "event_title": "Inter vs Manchester City",
-      "event_time": "2026-11-10 20:00",
-      "event_time_raw": "2026-11-10 20:00",
-      "category": "UCL Womens",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "INMAPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6mtmbz5zsb/out/v1/3a1028ef03ab426fbad3a6ab4660d30c/cenc.mpd",
-          "drm": {
-            "kid": "3586dd615eebc5504bb9b45fc9003797",
-            "key": "8f0a760469969e5fdc0fcacf7cbe561a"
-          }
-        },
-        {
-          "code": "INMACBSN",
-          "title": "CBS NETWORK",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "drm": {
-            "kid": "d9623774ac5c8c351aafe97c5fe70267",
-            "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50120,
-      "event_title": "Roma vs Servette FC",
-      "event_time": "2026-11-10 20:00",
-      "event_time_raw": "2026-11-10 20:00",
-      "category": "UCL Womens",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "ROSEPARA",
-          "title": "PARAMOUNT+ FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/krwoklim9x/out/v1/ebf6dd7e3343462eb3f4d6a4ac38b3ff/cenc.mpd",
-          "drm": {
-            "kid": "d0a78977471b32c0e495a6d7dbe0ddaf",
-            "key": "be86ffcfa8a6cc66b46b7b26de4c7f26"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50127,
-      "event_title": "Switzerland vs Austria",
-      "event_time": "2026-11-10 18:00",
-      "event_time_raw": "2026-11-10 18:00",
-      "category": "IIHF World",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "SWAUTSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?",
-          "drm": {
-            "kid": "385ceb9714b75e0cef61254f80b31002",
-            "key": "18dce92a2891fee68d21ede5173230f8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50128,
-      "event_title": "Sweden vs Denmark",
-      "event_time": "2026-11-10 18:00",
-      "event_time_raw": "2026-11-10 18:00",
-      "category": "IIHF World",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "SWDETSNS",
-          "title": "TSN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?",
-          "drm": {
-            "kid": "abc5b2883121012850ebda05b528c5ec",
-            "key": "e5250924f4b738905f7163a0134587a7"
           }
         }
       ]

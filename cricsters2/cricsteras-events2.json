@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T04:54:23+05:30",
-  "generated_at_india": "11-11-2026 04:54:23 AM IST",
-  "total": 23,
+  "generated_at": "2026-11-11T06:02:25+05:30",
+  "generated_at_india": "11-11-2026 06:02:25 AM IST",
+  "total": 19,
   "events": [
     {
       "event_id": 50002,
@@ -111,6 +111,14 @@
       "stream_count": 3
     },
     {
+      "event_id": 50043,
+      "event_title": "New York Knicks vs Milwaukee Bucks",
+      "event_time": "2026-11-11 00:30",
+      "event_time_raw": "2026-11-11 00:30",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
       "event_id": 50044,
       "event_title": "Philadelphia 76ers vs Boston Celtics",
       "event_time": "2026-11-11 01:00",
@@ -148,46 +156,6 @@
       "event_time": "2026-11-11 03:00",
       "event_time_raw": "2026-11-11 03:00",
       "category": "NHL",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50118,
-      "event_title": "Paris Saint-Germain vs Bayern München",
-      "event_time": "2026-11-10 20:00",
-      "event_time_raw": "2026-11-10 20:00",
-      "category": "UCL Womens",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50119,
-      "event_title": "Inter vs Manchester City",
-      "event_time": "2026-11-10 20:00",
-      "event_time_raw": "2026-11-10 20:00",
-      "category": "UCL Womens",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50120,
-      "event_title": "Roma vs Servette FC",
-      "event_time": "2026-11-10 20:00",
-      "event_time_raw": "2026-11-10 20:00",
-      "category": "UCL Womens",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50127,
-      "event_title": "Switzerland vs Austria",
-      "event_time": "2026-11-10 18:00",
-      "event_time_raw": "2026-11-10 18:00",
-      "category": "IIHF World",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50128,
-      "event_title": "Sweden vs Denmark",
-      "event_time": "2026-11-10 18:00",
-      "event_time_raw": "2026-11-10 18:00",
-      "category": "IIHF World",
       "stream_count": 1
     }
   ],
