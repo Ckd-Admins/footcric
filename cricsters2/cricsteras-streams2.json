@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T07:20:24+05:30",
-  "generated_at_india": "11-11-2026 07:20:24 AM IST",
+  "generated_at": "2026-11-11T08:07:31+05:30",
+  "generated_at_india": "11-11-2026 08:07:31 AM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -601,10 +601,10 @@
         {
           "code": "PHLONBAL",
           "title": "NBA LEAGUEPASS FHD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0S7262L3KUWH82T0PQVD45AB0W.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ul63rtdkzf/out/v1/7ea0ace804754c73a2580b3156039598/cenc.mpd",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0s7262l3kuwh82t0pqvd45ab0w"
+            "kid": "192134e283f0df7a5ce5ca0ad8c1b6ee",
+            "key": "ebbb65be0a449c4aeff6d46222757436"
           }
         }
       ]
@@ -620,10 +620,10 @@
         {
           "code": "UTMINBAL",
           "title": "NBA LEAGUEPASS FHD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0RMNNCUEFNXG1WS8YTAWILHOFQ.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ylfaoxv8jf/out/v1/bc51e05df44d4a9ca5990fb2699d54da/cenc.mpd",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0rmnncuefnxg1ws8ytawilhofq"
+            "kid": "574ddd19ae266a2459313072fd88a271",
+            "key": "6e36225ffed3834d1fb3c763b97f8d3b"
           }
         }
       ]
