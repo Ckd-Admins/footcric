@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T17:16:29+05:30",
-  "generated_at_india": "11-11-2026 05:16:29 PM IST",
+  "generated_at": "2026-11-11T18:22:30+05:30",
+  "generated_at_india": "11-11-2026 06:22:30 PM IST",
   "total": 22,
   "events": [
     {
@@ -111,14 +111,6 @@
       "stream_count": 5
     },
     {
-      "event_id": "10",
-      "event_title": "Stockholm OPEN - ATP vs ATP",
-      "event_time": "10 Nov, 05:30 pm",
-      "event_time_raw": 1794312000000,
-      "category": "Tennis",
-      "stream_count": 3
-    },
-    {
       "event_id": "8",
       "event_title": "Europe Super League - Darts vs Darts",
       "event_time": "10 Nov, 09:30 pm",
@@ -133,6 +125,14 @@
       "event_time_raw": 1794355200000,
       "category": "Tennis",
       "stream_count": 5
+    },
+    {
+      "event_id": "10",
+      "event_title": "Stockholm OPEN - ATP vs ATP",
+      "event_time": "11 Nov, 05:30 pm",
+      "event_time_raw": 1794398400000,
+      "category": "Tennis",
+      "stream_count": 3
     },
     {
       "event_id": "19",

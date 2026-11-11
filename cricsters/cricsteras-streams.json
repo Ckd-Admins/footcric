@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T17:16:29+05:30",
-  "generated_at_india": "11-11-2026 05:16:29 PM IST",
+  "generated_at": "2026-11-11T18:22:30+05:30",
+  "generated_at_india": "11-11-2026 06:22:30 PM IST",
   "total": 22,
   "ok": 22,
   "failed": 0,
@@ -526,43 +526,6 @@
       ]
     },
     {
-      "event_id": "10",
-      "event_title": "Stockholm OPEN - ATP vs ATP",
-      "event_time": "10 Nov, 05:30 pm",
-      "event_time_raw": 1794312000000,
-      "category": "Tennis",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "ATATBEIN",
-          "title": "BEIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm": {
-            "kid": "335dad778109954503dcbb21dc92015f",
-            "key": "24bfd75d436cbf73168a2a2dccd40281"
-          }
-        },
-        {
-          "code": "ATATSKYT",
-          "title": "SKY TENNIS AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd",
-          "drm": {
-            "kid": "e8d550a86ee5c31e6b62f5fa287db43d",
-            "key": "11184b37c42d384033b966dbea535b4f"
-          }
-        },
-        {
-          "code": "ATATTENN",
-          "title": "TENNIS 2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-          "drm": {
-            "kid": "59f50679c9e60963bd0cb6640992aaaa",
-            "key": "8685817c4d31f322e08940feeae2855a"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "8",
       "event_title": "Europe Super League - Darts vs Darts",
       "event_time": "10 Nov, 09:30 pm",
@@ -632,6 +595,43 @@
           "drm": {
             "kid": "db959d5079194830807e5ef214e0e58a",
             "key": "418084d8d8391deeedf903efe1e4a132"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "10",
+      "event_title": "Stockholm OPEN - ATP vs ATP",
+      "event_time": "11 Nov, 05:30 pm",
+      "event_time_raw": 1794398400000,
+      "category": "Tennis",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "ATATBEIN",
+          "title": "BEIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm": {
+            "kid": "335dad778109954503dcbb21dc92015f",
+            "key": "24bfd75d436cbf73168a2a2dccd40281"
+          }
+        },
+        {
+          "code": "ATATSKYT",
+          "title": "SKY TENNIS AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd",
+          "drm": {
+            "kid": "e8d550a86ee5c31e6b62f5fa287db43d",
+            "key": "11184b37c42d384033b966dbea535b4f"
+          }
+        },
+        {
+          "code": "ATATTENN",
+          "title": "TENNIS 2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+          "drm": {
+            "kid": "59f50679c9e60963bd0cb6640992aaaa",
+            "key": "8685817c4d31f322e08940feeae2855a"
           }
         }
       ]
