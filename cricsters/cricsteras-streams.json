@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T22:19:53+05:30",
-  "generated_at_india": "11-11-2026 10:19:53 PM IST",
+  "generated_at": "2026-11-11T23:18:16+05:30",
+  "generated_at_india": "11-11-2026 11:18:16 PM IST",
   "total": 23,
   "ok": 23,
   "failed": 0,
@@ -370,7 +370,7 @@
         {
           "code": "FOFOTSNS",
           "title": "TSN SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
           "drm": {
             "kid": "385ceb9714b75e0cef61254f80b31002",
             "key": "18dce92a2891fee68d21ede5173230f8"
