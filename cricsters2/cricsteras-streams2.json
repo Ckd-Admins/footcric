@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T18:17:54+05:30",
-  "generated_at_india": "11-11-2026 06:17:54 PM IST",
-  "total": 20,
-  "ok": 20,
+  "generated_at": "2026-11-11T19:32:04+05:30",
+  "generated_at_india": "11-11-2026 07:32:04 PM IST",
+  "total": 17,
+  "ok": 17,
   "failed": 0,
   "events": [
     {
@@ -370,8 +370,8 @@
     {
       "event_id": 50012,
       "event_title": "Pakistan vs Sri Lanka",
-      "event_time": "2026-11-11 04:30",
-      "event_time_raw": "2026-11-11 04:30",
+      "event_time": "2026-11-12 04:30",
+      "event_time_raw": "2026-11-12 04:30",
       "category": "Cricket",
       "stream_count": 2,
       "streams": [
@@ -435,8 +435,8 @@
     {
       "event_id": 50019,
       "event_title": "ATP 250 & WTA Hong Kong",
-      "event_time": "2026-11-10 12:00",
-      "event_time_raw": "2026-11-10 12:00",
+      "event_time": "2026-11-11 12:00",
+      "event_time_raw": "2026-11-11 12:00",
       "category": "Tennis",
       "stream_count": 4,
       "streams": [
@@ -517,10 +517,10 @@
         {
           "code": "ABUDWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cdfjxdswmz/out/v1/1e629cb7a52f440f94cbf2758e2316f9/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bjfy18ndkq/out/v1/0b9194f3a90e476cb4405979637efd6d/cenc.mpd?",
           "drm": {
-            "kid": "0eaeb634595bb3f64991e455815b9c45",
-            "key": "a8037691d9faa4c8ae58cc021e52cb63"
+            "kid": "a9bcbba9c820240f561e4b0a547fc05b",
+            "key": "320c91c25417d5dd63734903cdf721a7"
           }
         },
         {
@@ -533,50 +533,12 @@
           }
         },
         {
-          "code": "ABUDWILL93",
+          "code": "ABUDWILLVV",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/matrf5qsgb/out/v1/820fd242a0db4693bff1ead95eeea258/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bjfy18ndkq/out/v1/0b9194f3a90e476cb4405979637efd6d/cenc.mpd?",
           "drm": {
-            "kid": "c86f21d47ee98bfb22dfd0284f42c25f",
-            "key": "ed0504f6bc8dae781fcb2e4520e858a9"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50055,
-      "event_title": "Sacramento Kings vs Orlando Magic",
-      "event_time": "2026-11-11 03:00",
-      "event_time_raw": "2026-11-11 03:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "SAORNBAL",
-          "title": "NBA LEAGUEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hmrjau1hzb/out/v1/cabb979a9f6c416597440ea449361d32/cenc.mpd",
-          "drm": {
-            "kid": "bebdeb3775a9c387af2b8573e17f20e6",
-            "key": "bbca2d97e65bc204121527d2492e43ed"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50056,
-      "event_title": "Portland Trail Blazers vs Oklahoma City Thunder",
-      "event_time": "2026-11-11 04:00",
-      "event_time_raw": "2026-11-11 04:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "POOKNBAL",
-          "title": "NBA LEAGUEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsm8axafg5/out/v1/02f930af80e84a9fb8040e478da6e252/cenc.mpd",
-          "drm": {
-            "kid": "493941d0e9286e1938b282b22a2aa5b5",
-            "key": "7a6efbc41dc4bf672d069cd33d4d5812"
+            "kid": "a9bcbba9c820240f561e4b0a547fc05b",
+            "key": "320c91c25417d5dd63734903cdf721a7"
           }
         }
       ]
@@ -642,25 +604,6 @@
           "drm": {
             "kid": "290e09c837da78d5cd961978d390515c",
             "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50081,
-      "event_title": "Los Angeles Kings vs Nashville Predators",
-      "event_time": "2026-11-11 03:00",
-      "event_time_raw": "2026-11-11 03:00",
-      "category": "NHL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "LONAPREM",
-          "title": "PREMIER SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm": {
-            "kid": "1444f4235529f183f0a5a486befe9cdb",
-            "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
           }
         }
       ]

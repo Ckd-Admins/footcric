@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T18:17:54+05:30",
-  "generated_at_india": "11-11-2026 06:17:54 PM IST",
-  "total": 20,
+  "generated_at": "2026-11-11T19:32:04+05:30",
+  "generated_at_india": "11-11-2026 07:32:04 PM IST",
+  "total": 17,
   "events": [
     {
       "event_id": 50002,
@@ -73,8 +73,8 @@
     {
       "event_id": 50012,
       "event_title": "Pakistan vs Sri Lanka",
-      "event_time": "2026-11-11 04:30",
-      "event_time_raw": "2026-11-11 04:30",
+      "event_time": "2026-11-12 04:30",
+      "event_time_raw": "2026-11-12 04:30",
       "category": "Cricket",
       "stream_count": 2
     },
@@ -89,8 +89,8 @@
     {
       "event_id": 50019,
       "event_title": "ATP 250 & WTA Hong Kong",
-      "event_time": "2026-11-10 12:00",
-      "event_time_raw": "2026-11-10 12:00",
+      "event_time": "2026-11-11 12:00",
+      "event_time_raw": "2026-11-11 12:00",
       "category": "Tennis",
       "stream_count": 4
     },
@@ -111,22 +111,6 @@
       "stream_count": 3
     },
     {
-      "event_id": 50055,
-      "event_title": "Sacramento Kings vs Orlando Magic",
-      "event_time": "2026-11-11 03:00",
-      "event_time_raw": "2026-11-11 03:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50056,
-      "event_title": "Portland Trail Blazers vs Oklahoma City Thunder",
-      "event_time": "2026-11-11 04:00",
-      "event_time_raw": "2026-11-11 04:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-12 06:45",
@@ -141,14 +125,6 @@
       "event_time_raw": "2026-11-11 08:10",
       "category": "WBBL",
       "stream_count": 3
-    },
-    {
-      "event_id": 50081,
-      "event_title": "Los Angeles Kings vs Nashville Predators",
-      "event_time": "2026-11-11 03:00",
-      "event_time_raw": "2026-11-11 03:00",
-      "category": "NHL",
-      "stream_count": 1
     },
     {
       "event_id": 50129,
