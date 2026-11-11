@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T09:10:59+05:30",
-  "generated_at_india": "11-11-2026 09:10:59 AM IST",
-  "total": 24,
+  "generated_at": "2026-11-11T10:15:09+05:30",
+  "generated_at_india": "11-11-2026 10:15:09 AM IST",
+  "total": 23,
   "events": [
     {
       "event_id": 50002,
@@ -111,22 +111,6 @@
       "stream_count": 3
     },
     {
-      "event_id": 50043,
-      "event_title": "New York Knicks vs Milwaukee Bucks",
-      "event_time": "2026-11-11 00:30",
-      "event_time_raw": "2026-11-11 00:30",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50044,
-      "event_title": "Philadelphia 76ers vs Boston Celtics",
-      "event_time": "2026-11-11 01:00",
-      "event_time_raw": "2026-11-11 01:00",
-      "category": "NBA",
-      "stream_count": 2
-    },
-    {
       "event_id": 50048,
       "event_title": "Phoenix Suns vs Los Angeles Clippers",
       "event_time": "2026-11-11 02:00",
@@ -147,6 +131,14 @@
       "event_title": "Sacramento Kings vs Orlando Magic",
       "event_time": "2026-11-11 03:00",
       "event_time_raw": "2026-11-11 03:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50056,
+      "event_title": "Portland Trail Blazers vs Oklahoma City Thunder",
+      "event_time": "2026-11-11 04:00",
+      "event_time_raw": "2026-11-11 04:00",
       "category": "NBA",
       "stream_count": 1
     },
