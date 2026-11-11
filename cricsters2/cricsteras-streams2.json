@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-11T06:02:25+05:30",
-  "generated_at_india": "11-11-2026 06:02:25 AM IST",
-  "total": 19,
-  "ok": 19,
+  "generated_at": "2026-11-11T07:20:24+05:30",
+  "generated_at_india": "11-11-2026 07:20:24 AM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -554,10 +554,10 @@
         {
           "code": "NEMINBAL",
           "title": "NBA LEAGUEPASS FHD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0JUBELES7ZDHF5DHLGQSWIYJO4.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hyjnsjvtkw/out/v1/0eb537a3468e4df69fd9ffd025d0272a/cenc.mpd",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0jubeles7zdhf5dhlgqswiyjo4"
+            "kid": "55c305619e62c36b074d56a10840de9c",
+            "key": "3f06c182e2bd31ae980bd374a4e11ee4"
           }
         }
       ]
@@ -568,15 +568,62 @@
       "event_time": "2026-11-11 01:00",
       "event_time_raw": "2026-11-11 01:00",
       "category": "NBA",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "PHBONBAL",
+          "title": "NBA LEAGUEPASS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/nickbti6ka/out/v1/f5df659e64ce4199b111bfe3f43cbfb7/cenc.mpd",
+          "drm": {
+            "kid": "90aecbe2b374873352c4a8437b0d5961",
+            "key": "ce7d3841dff6e694132d399cf8ee195f"
+          }
+        },
         {
           "code": "PHBONBCS",
           "title": "NBC SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd?",
           "drm": {
             "kid": "36a385124dcdfb2f0969935065e03afa",
             "key": "ccecd65514dff22eae493b975ccf9a9e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50048,
+      "event_title": "Phoenix Suns vs Los Angeles Clippers",
+      "event_time": "2026-11-11 02:00",
+      "event_time_raw": "2026-11-11 02:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "PHLONBAL",
+          "title": "NBA LEAGUEPASS FHD",
+          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0S7262L3KUWH82T0PQVD45AB0W.mpd",
+          "drm": {
+            "kid": "https",
+            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0s7262l3kuwh82t0pqvd45ab0w"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50051,
+      "event_title": "Utah Jazz vs Miami Heat",
+      "event_time": "2026-11-11 02:00",
+      "event_time_raw": "2026-11-11 02:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "UTMINBAL",
+          "title": "NBA LEAGUEPASS FHD",
+          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0RMNNCUEFNXG1WS8YTAWILHOFQ.mpd",
+          "drm": {
+            "kid": "https",
+            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0rmnncuefnxg1ws8ytawilhofq"
           }
         }
       ]
@@ -652,7 +699,7 @@
       "event_time": "2026-11-11 00:00",
       "event_time_raw": "2026-11-11 00:00",
       "category": "NHL",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "MOMIPREM",
@@ -661,6 +708,15 @@
           "drm": {
             "kid": "1a5df53609ebc9857898c490f4724918",
             "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        },
+        {
+          "code": "MOMISKYS",
+          "title": "SKY SPORTS MIX",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "drm": {
+            "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
+            "key": "a883237ef30932b731f71aa59a0805c0"
           }
         }
       ]
@@ -680,6 +736,44 @@
           "drm": {
             "kid": "1444f4235529f183f0a5a486befe9cdb",
             "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50129,
+      "event_title": "Juventus vs OL Lyonnes",
+      "event_time": "2026-11-11 20:00",
+      "event_time_raw": "2026-11-11 20:00",
+      "category": "UCL Womens",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "JUOLCBSS",
+          "title": "CBS SPORTS GOLAZO",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50130,
+      "event_title": "OH Leuven vs HB Køge",
+      "event_time": "2026-11-11 17:45",
+      "event_time_raw": "2026-11-11 17:45",
+      "category": "UCL Womens",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "OHHBCBSS",
+          "title": "CBS SPORTS GOLAZO",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
           }
         }
       ]
