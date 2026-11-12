@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T09:14:31+05:30",
-  "generated_at_india": "12-11-2026 09:14:31 AM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-11-12T10:19:43+05:30",
+  "generated_at_india": "12-11-2026 10:19:43 AM IST",
+  "total": 25,
+  "ok": 25,
   "failed": 0,
   "events": [
     {
-      "event_id": "17",
+      "event_id": "19",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "15",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "05 Nov, 11:00 pm",
       "event_time_raw": 1793899800000,
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "22",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "13",
       "event_title": "BKFC 96 - BKFC vs BKFC",
       "event_time": "08 Nov, 12:30 am",
       "event_time_raw": 1794078000000,
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "21",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "4",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "08 Nov, 11:30 am",
       "event_time_raw": 1794117600000,
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "7",
       "event_title": "Tour De France - Tour De France vs Tour De France",
       "event_time": "08 Nov, 02:30 pm",
       "event_time_raw": 1794128400000,
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "23",
       "event_title": "EPL | Premier League Goals Rush - EPL Goals Rush vs EPL Goals Rush",
       "event_time": "08 Nov, 07:30 pm",
       "event_time_raw": 1794146400000,
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "16",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "08 Nov, 08:45 pm",
       "event_time_raw": 1794150900000,
@@ -342,7 +342,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "5",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "08 Nov, 10:30 pm",
       "event_time_raw": 1794157200000,
@@ -415,7 +415,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "17",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "08 Nov, 11:15 pm",
       "event_time_raw": 1794159900000,
@@ -452,7 +452,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "10",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -471,7 +471,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "11",
       "event_title": "Stockholm OPEN - ATP vs ATP",
       "event_time": "11 Nov, 05:30 pm",
       "event_time_raw": 1794398400000,
@@ -508,7 +508,7 @@
       ]
     },
     {
-      "event_id": "7",
+      "event_id": "9",
       "event_title": "Europe Super League - Darts vs Darts",
       "event_time": "11 Nov, 09:30 pm",
       "event_time_raw": 1794412800000,
@@ -527,7 +527,7 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "24",
       "event_title": "UEFA Women's Champions League - Oud-Heverlee Leuven vs HB Køge",
       "event_time": "11 Nov, 11:15 pm",
       "event_time_raw": 1794419100000,
@@ -546,7 +546,7 @@
       ]
     },
     {
-      "event_id": "12",
+      "event_id": "14",
       "event_title": "FINALS Indian Wells 2026 - WTA vs WTA",
       "event_time": "12 Nov, 01:30 am",
       "event_time_raw": 1794427200000,
@@ -601,7 +601,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "25",
       "event_title": "UEFA Women's Champions League - Juventus vs OL Lyonnes",
       "event_time": "12 Nov, 01:30 am",
       "event_time_raw": 1794427200000,
@@ -620,7 +620,7 @@
       ]
     },
     {
-      "event_id": "4",
+      "event_id": "6",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "12 Nov, 05:30 am",
       "event_time_raw": 1794441600000,
@@ -657,7 +657,118 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "3",
+      "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
+      "event_time": "12 Nov, 10:00 am",
+      "event_time_raw": 1794457800000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "PASRWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd",
+          "drm": {
+            "kid": "e148b70d1a84524c6ef092f6d7e2c10a",
+            "key": "c1f3cc38fbff104bfdacd0dcd07d0900"
+          }
+        },
+        {
+          "code": "PASRWILLPJ",
+          "title": "WILLOW S2 - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ystkepkr8o/out/v1/883a6874df684d088e7e63c326a0aba1/cenc.mpd",
+          "drm": {
+            "kid": "8f81eb680d80404aa82ccae25a8bcfde",
+            "key": "c36943edd4b110ee953b8ccf59ab2bd2"
+          }
+        },
+        {
+          "code": "PASRWILLYV",
+          "title": "WILLOW SPORTS",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm": {
+            "kid": "290e09c837da78d5cd961978d390515c",
+            "key": "b748836c71e6a4ca68ef5b5652db6247"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "1",
+      "event_title": "U19 Asia Cup - Pakistan Under-19 vs Bangladesh Under-19",
+      "event_time": "12 Nov, 10:30 am",
+      "event_time_raw": 1794459600000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "PABAWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gzvikpbslw/out/v1/63a3205231a0489fb62c8acc96e52bc2/cenc.mpd",
+          "drm": {
+            "kid": "ae9dfc3e14f81520c96678b2818203b0",
+            "key": "890f27ce6531575d09365c95c7557cd8"
+          }
+        },
+        {
+          "code": "PABAPRIM",
+          "title": "PRIME VIDEO",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wdgqopibdc/out/v1/1584c8ffcbcd410fba52973e6708881e/cenc.mpd",
+          "drm": {
+            "kid": "669809685da200703be719d5989ef338",
+            "key": "95dce664c282da723ae39db410bafc74"
+          }
+        },
+        {
+          "code": "PABAWILLU2",
+          "title": "WILLOW ALT",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tt3fycpkbu/out/v1/63398f58da4d4c5bb99ef23b1bb43705/cenc.mpd",
+          "drm": {
+            "kid": "7fecfb5bed7cce0cdc59d2994845c550",
+            "key": "884386b71e0801635f4fa25175143ca7"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "2",
+      "event_title": "U19 Asia Cup - India Under-19 vs Afghanistan Under-19",
+      "event_time": "12 Nov, 10:30 am",
+      "event_time_raw": 1794459600000,
+      "category": "Cricket",
+      "stream_count": 3,
+      "streams": [
+        {
+          "code": "INAFWILL",
+          "title": "WILLOW - AQ",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd",
+          "drm": {
+            "kid": "4c4bd1aa8c9559ae04dda485adb5a3b1",
+            "key": "ce2f7e3a60ef59cdc20a666d64f35506"
+          }
+        },
+        {
+          "code": "INAFPRIM",
+          "title": "PRIME VIDEO",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/urj1hvt4lw/out/v1/e1cfb1743cb24e68a07ce860e9d73c06/cenc.mpd",
+          "drm": {
+            "kid": "2e79bb5f16ad590344c8b64df4965c33",
+            "key": "eb018c62af7d3e7fe1232d15be093f65"
+          }
+        },
+        {
+          "code": "INAFWILLWK",
+          "title": "WILLOW ALT",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ukcvtgasgm/out/v1/e4cb351a93b14155916a5f6ef143e1c1/cenc.mpd",
+          "drm": {
+            "kid": "4c4bd1aa8c9559ae04dda485adb5a3b1",
+            "key": "ce2f7e3a60ef59cdc20a666d64f35506"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "18",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "12 Nov, 12:15 pm",
       "event_time_raw": 1794465900000,
@@ -694,44 +805,7 @@
       ]
     },
     {
-      "event_id": "1",
-      "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
-      "event_time": "12 Nov, 10:00 pm",
-      "event_time_raw": 1794501000000,
-      "category": "Cricket",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "PASRWILL",
-          "title": "WILLOW - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-          "drm": {
-            "kid": "d63d62ca6f2d1873d79971747a489b1b",
-            "key": "6c6b047893630a19cb091bde4cd660f3"
-          }
-        },
-        {
-          "code": "PASRWILLOR",
-          "title": "WILLOW S2 - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-          "drm": {
-            "kid": "d63d62ca6f2d1873d79971747a489b1b",
-            "key": "6c6b047893630a19cb091bde4cd660f3"
-          }
-        },
-        {
-          "code": "PASRWILLYV",
-          "title": "WILLOW SPORTS",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm": {
-            "kid": "290e09c837da78d5cd961978d390515c",
-            "key": "b748836c71e6a4ca68ef5b5652db6247"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "18",
+      "event_id": "20",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "13 Nov, 05:00 pm",
       "event_time_raw": 1794569400000,
@@ -768,7 +842,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "8",
       "event_title": "ONE FRIDAY FIGHTS 178 - ONE vs ONE",
       "event_time": "13 Nov, 07:00 pm",
       "event_time_raw": 1794576600000,
@@ -787,7 +861,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "12",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
