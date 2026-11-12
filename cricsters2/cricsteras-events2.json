@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T16:19:26+05:30",
-  "generated_at_india": "12-11-2026 04:19:26 PM IST",
-  "total": 23,
+  "generated_at": "2026-11-12T17:15:33+05:30",
+  "generated_at_india": "12-11-2026 05:15:33 PM IST",
+  "total": 22,
   "events": [
     {
       "event_id": 50002,
@@ -73,8 +73,8 @@
     {
       "event_id": 50012,
       "event_title": "Pakistan vs Sri Lanka",
-      "event_time": "2026-11-12 04:30",
-      "event_time_raw": "2026-11-12 04:30",
+      "event_time": "2026-11-13 04:30",
+      "event_time_raw": "2026-11-13 04:30",
       "category": "Cricket",
       "stream_count": 2
     },
@@ -137,8 +137,8 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-12 04:40",
-      "event_time_raw": "2026-11-12 04:40",
+      "event_time": "2026-11-14 04:40",
+      "event_time_raw": "2026-11-14 04:40",
       "category": "WBBL",
       "stream_count": 3
     },
@@ -165,14 +165,6 @@
       "event_time_raw": "2026-11-12 17:45",
       "category": "UCL Womens",
       "stream_count": 1
-    },
-    {
-      "event_id": 50138,
-      "event_title": "Afghanistan Under-19 vs India Under-19",
-      "event_time": "2026-11-12 05:00",
-      "event_time_raw": "2026-11-12 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3
     },
     {
       "event_id": 50139,

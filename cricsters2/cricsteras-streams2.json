@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T16:19:26+05:30",
-  "generated_at_india": "12-11-2026 04:19:26 PM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-11-12T17:15:33+05:30",
+  "generated_at_india": "12-11-2026 05:15:33 PM IST",
+  "total": 22,
+  "ok": 22,
   "failed": 0,
   "events": [
     {
@@ -370,8 +370,8 @@
     {
       "event_id": 50012,
       "event_title": "Pakistan vs Sri Lanka",
-      "event_time": "2026-11-12 04:30",
-      "event_time_raw": "2026-11-12 04:30",
+      "event_time": "2026-11-13 04:30",
+      "event_time_raw": "2026-11-13 04:30",
       "category": "Cricket",
       "stream_count": 2,
       "streams": [
@@ -612,8 +612,8 @@
     {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
-      "event_time": "2026-11-12 04:40",
-      "event_time_raw": "2026-11-12 04:40",
+      "event_time": "2026-11-14 04:40",
+      "event_time_raw": "2026-11-14 04:40",
       "category": "WBBL",
       "stream_count": 3,
       "streams": [
@@ -708,43 +708,6 @@
           "drm": {
             "kid": "d9623774ac5c8c351aafe97c5fe70267",
             "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50138,
-      "event_title": "Afghanistan Under-19 vs India Under-19",
-      "event_time": "2026-11-12 05:00",
-      "event_time_raw": "2026-11-12 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "AFINPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vfhi45qzel/out/v1/ab0216dbe96d408ea761a7856b61e404/cenc.mpd",
-          "drm": {
-            "kid": "558ca0dbe07bf76ecee0c2570cec8f90",
-            "key": "bffef63168d2229b6fe946a65cd6e0aa"
-          }
-        },
-        {
-          "code": "AFINWILL",
-          "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ezawp6dxef/out/v1/89f7935bf21246fb971d93c016044f01/cenc.mpd",
-          "drm": {
-            "kid": "69b4f7d5d85ff47192fce27c107246f7",
-            "key": "8993f991655c84eb324bad2c1c551cc1"
-          }
-        },
-        {
-          "code": "AFINWILLFX",
-          "title": "WILLOW ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ezawp6dxef/out/v1/89f7935bf21246fb971d93c016044f01/cenc.mpd",
-          "drm": {
-            "kid": "69b4f7d5d85ff47192fce27c107246f7",
-            "key": "8993f991655c84eb324bad2c1c551cc1"
           }
         }
       ]
