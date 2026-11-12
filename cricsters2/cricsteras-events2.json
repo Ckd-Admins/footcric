@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T10:15:20+05:30",
-  "generated_at_india": "12-11-2026 10:15:20 AM IST",
-  "total": 23,
+  "generated_at": "2026-11-12T11:18:44+05:30",
+  "generated_at_india": "12-11-2026 11:18:44 AM IST",
+  "total": 24,
   "events": [
     {
       "event_id": 50002,
@@ -111,22 +111,6 @@
       "stream_count": 3
     },
     {
-      "event_id": 50059,
-      "event_title": "Utah Jazz vs Orlando Magic",
-      "event_time": "2026-11-12 02:00",
-      "event_time_raw": "2026-11-12 02:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50060,
-      "event_title": "Houston Rockets vs Golden State Warriors",
-      "event_time": "2026-11-12 02:30",
-      "event_time_raw": "2026-11-12 02:30",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
       "event_id": 50061,
       "event_title": "Portland Trail Blazers vs Oklahoma City Thunder",
       "event_time": "2026-11-12 03:00",
@@ -159,14 +143,6 @@
       "stream_count": 3
     },
     {
-      "event_id": 50078,
-      "event_title": "Vegas Golden Knights vs Utah Mammoth",
-      "event_time": "2026-11-12 02:30",
-      "event_time_raw": "2026-11-12 02:30",
-      "category": "NHL",
-      "stream_count": 2
-    },
-    {
       "event_id": 50129,
       "event_title": "Türkiye vs Belgium",
       "event_time": "2026-11-12 17:00",
@@ -189,6 +165,38 @@
       "event_time_raw": "2026-11-12 17:45",
       "category": "UCL Womens",
       "stream_count": 1
+    },
+    {
+      "event_id": 50137,
+      "event_title": "Pakistan Under-19 vs Bangladesh Under-19",
+      "event_time": "2026-11-12 05:00",
+      "event_time_raw": "2026-11-12 05:00",
+      "category": "Asia Cup",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50138,
+      "event_title": "Afghanistan Under-19 vs India Under-19",
+      "event_time": "2026-11-12 05:00",
+      "event_time_raw": "2026-11-12 05:00",
+      "category": "Asia Cup",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50141,
+      "event_title": "Sri Lanka Women vs Ireland Women",
+      "event_time": "2026-11-12 05:00",
+      "event_time_raw": "2026-11-12 05:00",
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50142,
+      "event_title": "Papua New Guinea Women vs Scotland Women",
+      "event_time": "2026-11-12 05:00",
+      "event_time_raw": "2026-11-12 05:00",
+      "category": "Cricket",
+      "stream_count": 2
     }
   ],
   "raw_data": ""
