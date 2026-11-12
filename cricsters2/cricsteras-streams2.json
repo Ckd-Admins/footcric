@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T19:34:38+05:30",
-  "generated_at_india": "12-11-2026 07:34:38 PM IST",
-  "total": 21,
-  "ok": 21,
+  "generated_at": "2026-11-12T21:16:08+05:30",
+  "generated_at_india": "12-11-2026 09:16:08 PM IST",
+  "total": 20,
+  "ok": 20,
   "failed": 0,
   "events": [
     {
@@ -517,25 +517,6 @@
       ]
     },
     {
-      "event_id": 50064,
-      "event_title": "Nepal Premier League",
-      "event_time": "2026-11-12 11:45",
-      "event_time_raw": "2026-11-12 11:45",
-      "category": "NPL",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NEPAFANC",
-          "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50070,
       "event_title": "Womens Big Bash League",
       "event_time": "2026-11-14 04:40",
@@ -634,15 +615,24 @@
       "event_time": "2026-11-12 15:00",
       "event_time_raw": "2026-11-12 15:00",
       "category": "AFCON",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "GHSOBEIN",
           "title": "beIN SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
           "drm": {
-            "kid": "\u000227759a440e8ad821b800b3de00cd5851",
+            "kid": "27759a440e8ad821b800b3de00cd5851",
             "key": "1b8743adee559f27845f55e8b4d639fe"
+          }
+        },
+        {
+          "code": "GHSOBEINKC",
+          "title": "beIN ESPNAOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "drm": {
+            "kid": "74cbe15488783fab07ff8c702fabafcd",
+            "key": "bb607803a49c2d6104f845e7886c971c"
           }
         }
       ]
