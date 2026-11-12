@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T21:20:24+05:30",
-  "generated_at_india": "12-11-2026 09:20:24 PM IST",
+  "generated_at": "2026-11-12T22:22:58+05:30",
+  "generated_at_india": "12-11-2026 10:22:58 PM IST",
   "total": 27,
   "events": [
     {
@@ -29,14 +29,6 @@
       "event_time_raw": 1794072600000,
       "category": "Boxing",
       "stream_count": 1
-    },
-    {
-      "event_id": "11",
-      "event_title": "BKFC 96 - BKFC vs BKFC",
-      "event_time": "08 Nov, 12:30 am",
-      "event_time_raw": 1794078000000,
-      "category": "Mixed Martial Arts",
-      "stream_count": 2
     },
     {
       "event_id": "19",
@@ -140,7 +132,7 @@
       "event_time": "12 Nov, 10:30 pm",
       "event_time_raw": 1794502800000,
       "category": "Football",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": "25",
@@ -148,7 +140,7 @@
       "event_time": "12 Nov, 10:30 pm",
       "event_time_raw": 1794502800000,
       "category": "Football",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": "23",
@@ -219,6 +211,14 @@
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
+      "category": "Mixed Martial Arts",
+      "stream_count": 2
+    },
+    {
+      "event_id": "11",
+      "event_title": "BKFC 97 - BKFC vs BKFC",
+      "event_time": "21 Nov, 07:30 am",
+      "event_time_raw": 1795226400000,
       "category": "Mixed Martial Arts",
       "stream_count": 2
     }

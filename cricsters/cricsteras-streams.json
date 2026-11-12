@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T21:20:24+05:30",
-  "generated_at_india": "12-11-2026 09:20:24 PM IST",
+  "generated_at": "2026-11-12T22:22:58+05:30",
+  "generated_at_india": "12-11-2026 10:22:58 PM IST",
   "total": 27,
   "ok": 27,
   "failed": 0,
@@ -79,34 +79,6 @@
           "drm": {
             "kid": "d2acec7255df9907e1578e94183ed352",
             "key": "4391cf6824b5a556a7571cee7f238649"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "11",
-      "event_title": "BKFC 96 - BKFC vs BKFC",
-      "event_time": "08 Nov, 12:30 am",
-      "event_time_raw": 1794078000000,
-      "category": "Mixed Martial Arts",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "BKBKFUBO",
-          "title": "FUBO SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
-          "drm": {
-            "kid": "fa5e8db5359fc7d1f15207d5de2a3ac4",
-            "key": "78a6c0a41972dfdba2145ae0ad4bd681"
-          }
-        },
-        {
-          "code": "BKBKPLAY",
-          "title": "PlayZtv - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
-          "drm": {
-            "kid": "1918ddf008413696077e06138983c5f9",
-            "key": "2d66e0d80ca9ac6ad8b8c230a97f74b4"
           }
         }
       ]
@@ -597,7 +569,7 @@
       "event_time": "12 Nov, 10:30 pm",
       "event_time_raw": 1794502800000,
       "category": "Football",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "TRBEBEIN",
@@ -616,6 +588,15 @@
             "kid": "5466ebd70704bdeb657f0abf3c5ca4ef",
             "key": "bdd79b72d8e48ed483aa623cc38a8a16"
           }
+        },
+        {
+          "code": "TRBESPOR",
+          "title": "SPORT 1 CZ AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
         }
       ]
     },
@@ -625,7 +606,7 @@
       "event_time": "12 Nov, 10:30 pm",
       "event_time_raw": 1794502800000,
       "category": "Football",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "ARCYBEIN",
@@ -634,6 +615,15 @@
           "drm": {
             "kid": "0b42be2664d7e811d04f3e504e0924c5",
             "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        },
+        {
+          "code": "ARCYSPOR",
+          "title": "SPORT 2 CZ AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
           }
         }
       ]
@@ -913,6 +903,34 @@
           "drm": {
             "kid": "12ed56d780abcfebcd23aa27e4ac5015",
             "key": "6784567890abcfebcd23aa27e4ac2814"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "11",
+      "event_title": "BKFC 97 - BKFC vs BKFC",
+      "event_time": "21 Nov, 07:30 am",
+      "event_time_raw": 1795226400000,
+      "category": "Mixed Martial Arts",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "BKBKFUBO",
+          "title": "FUBO SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+          "drm": {
+            "kid": "fa5e8db5359fc7d1f15207d5de2a3ac4",
+            "key": "78a6c0a41972dfdba2145ae0ad4bd681"
+          }
+        },
+        {
+          "code": "BKBKPLAY",
+          "title": "PlayZtv - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
+          "drm": {
+            "kid": "1918ddf008413696077e06138983c5f9",
+            "key": "2d66e0d80ca9ac6ad8b8c230a97f74b4"
           }
         }
       ]
