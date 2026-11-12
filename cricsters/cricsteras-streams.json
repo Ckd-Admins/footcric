@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T23:15:21+05:30",
-  "generated_at_india": "12-11-2026 11:15:21 PM IST",
-  "total": 27,
-  "ok": 27,
+  "generated_at": "2026-11-13T00:13:15+05:30",
+  "generated_at_india": "13-11-2026 00:13:15 AM IST",
+  "total": 28,
+  "ok": 28,
   "failed": 0,
   "events": [
     {
@@ -545,32 +545,22 @@
       ]
     },
     {
-      "event_id": "22",
-      "event_title": "Africa Cup of Nations Qual. - DR Congo vs Sierra Leone",
-      "event_time": "12 Nov, 09:30 pm",
-      "event_time_raw": 1794499200000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "DRSIBEIN",
-          "title": "BeIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
-          "drm": {
-            "kid": "4fce30c060b7b0464ab765e24fee5ecc",
-            "key": "65d612238736eec3794c7e75a6fd362c"
-          }
-        }
-      ]
-    },
-    {
       "event_id": "24",
       "event_title": "UEFA Nations League - Türkiye vs Belgium",
       "event_time": "12 Nov, 10:30 pm",
       "event_time_raw": 1794502800000,
       "category": "Football",
-      "stream_count": 5,
+      "stream_count": 6,
       "streams": [
+        {
+          "code": "TRBEDAZN",
+          "title": "DAZN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/af78moxwel/out/v1/412cee2767ed4c4a9bccc22f950ce86c/cenc.mpd",
+          "drm": {
+            "kid": "a59ccf4a670e13932b4bd5972b2be7d1",
+            "key": "de96de2f353e2922634e7e1b34befee0"
+          }
+        },
         {
           "code": "TRBEPRIM",
           "title": "PRIME VIDEO - AQ",
@@ -619,13 +609,22 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "26",
       "event_title": "UEFA Nations League - Armenia vs Cyprus",
       "event_time": "12 Nov, 10:30 pm",
       "event_time_raw": 1794502800000,
       "category": "Football",
-      "stream_count": 4,
+      "stream_count": 5,
       "streams": [
+        {
+          "code": "ARCYDAZN",
+          "title": "DAZN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rsmrmcmdzb/out/v1/fa673d18f36e4b999c3e8a3f79721ee9/cenc.mpd",
+          "drm": {
+            "kid": "aa030376eae4a60c422a069784a0b221",
+            "key": "f18ac2a2d72a87ffe66b62740336907a"
+          }
+        },
         {
           "code": "ARCYBEIN",
           "title": "beIN SPORTS - AQ",
@@ -645,8 +644,8 @@
           }
         },
         {
-          "code": "ARCYVIXE",
-          "title": "ViX ESPANOL FHD",
+          "code": "ARCYVIXS",
+          "title": "VIX SPANISH - AQ",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/82oqikb16e/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
           "drm": {
             "kid": "fb2f6053cd382eb138d7c8f0dfa461e2",
@@ -665,7 +664,7 @@
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "22",
       "event_title": "UEFA Nations League - Italy vs France",
       "event_time": "13 Nov, 01:15 am",
       "event_time_raw": 1794512700000,
@@ -693,7 +692,45 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "23",
+      "event_title": "UEFA Nations League - Czechia vs Spain",
+      "event_time": "13 Nov, 01:15 am",
+      "event_time_raw": 1794512700000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CZSPTVEL",
+          "title": "TVE La 1 ES - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+          "drm": {
+            "kid": "745cd6ec34a58f2f7ac2af35dc3da6d2",
+            "key": "ae008f1e47e6567fe4201a6ff8f1ae54"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "25",
+      "event_title": "UEFA Nations League - Albania vs Finland",
+      "event_time": "13 Nov, 01:15 am",
+      "event_time_raw": 1794512700000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ALFIFUBO",
+          "title": "FUBO NETWORK",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+          "drm": {
+            "kid": "fa5e8db5359fc7d1f15207d5de2a3ac4",
+            "key": "78a6c0a41972dfdba2145ae0ad4bd681"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "27",
       "event_title": "UEFA Nations League - England vs Croatia",
       "event_time": "13 Nov, 01:15 am",
       "event_time_raw": 1794512700000,
@@ -897,7 +934,7 @@
       ]
     },
     {
-      "event_id": "27",
+      "event_id": "28",
       "event_title": "UEFA Nations League - Moldova vs Kazakhstan",
       "event_time": "13 Nov, 10:30 pm",
       "event_time_raw": 1794589200000,
