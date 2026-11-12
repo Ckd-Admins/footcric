@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T17:15:33+05:30",
-  "generated_at_india": "12-11-2026 05:15:33 PM IST",
+  "generated_at": "2026-11-12T18:19:24+05:30",
+  "generated_at_india": "12-11-2026 06:19:24 PM IST",
   "total": 22,
   "events": [
     {
@@ -45,14 +45,6 @@
       "event_time_raw": "2026-11-13 06:00",
       "category": "Cricket",
       "stream_count": 2
-    },
-    {
-      "event_id": 50008,
-      "event_title": "New Zealand vs India",
-      "event_time": "2026-11-13 02:00",
-      "event_time_raw": "2026-11-13 02:00",
-      "category": "Cricket",
-      "stream_count": 5
     },
     {
       "event_id": 50009,
@@ -111,14 +103,6 @@
       "stream_count": 3
     },
     {
-      "event_id": 50061,
-      "event_title": "Portland Trail Blazers vs Oklahoma City Thunder",
-      "event_time": "2026-11-12 03:00",
-      "event_time_raw": "2026-11-12 03:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
       "event_id": 50062,
       "event_title": "Australia vs England",
       "event_time": "2026-11-13 03:30",
@@ -141,6 +125,30 @@
       "event_time_raw": "2026-11-14 04:40",
       "category": "WBBL",
       "stream_count": 3
+    },
+    {
+      "event_id": 50085,
+      "event_title": "New Zealand vs India",
+      "event_time": "2026-11-13 02:00",
+      "event_time_raw": "2026-11-13 02:00",
+      "category": "Cricket",
+      "stream_count": 3
+    },
+    {
+      "event_id": 50126,
+      "event_title": "DR Congo vs Sierra Leone",
+      "event_time": "2026-11-12 16:00",
+      "event_time_raw": "2026-11-12 16:00",
+      "category": "AFCON",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50128,
+      "event_title": "Ghana vs Somalia",
+      "event_time": "2026-11-12 15:00",
+      "event_time_raw": "2026-11-12 15:00",
+      "category": "AFCON",
+      "stream_count": 1
     },
     {
       "event_id": 50129,
@@ -167,20 +175,12 @@
       "stream_count": 1
     },
     {
-      "event_id": 50139,
-      "event_title": "Pakistan Women vs Bangladesh Women",
-      "event_time": "2026-11-12 09:15",
-      "event_time_raw": "2026-11-12 09:15",
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50140,
-      "event_title": "Netherlands Women vs Thailand Women",
-      "event_time": "2026-11-12 09:15",
-      "event_time_raw": "2026-11-12 09:15",
-      "category": "Cricket",
-      "stream_count": 2
+      "event_id": 50145,
+      "event_title": "GOLF EVENTOS vs GOLF EVENTOS",
+      "event_time": "2026-11-12 07:00",
+      "event_time_raw": "2026-11-12 07:00",
+      "category": "Golf",
+      "stream_count": 3
     }
   ],
   "raw_data": ""
