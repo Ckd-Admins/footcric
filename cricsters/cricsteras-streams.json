@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T11:22:05+05:30",
-  "generated_at_india": "12-11-2026 11:22:05 AM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-11-12T12:28:15+05:30",
+  "generated_at_india": "12-11-2026 00:28:15 PM IST",
+  "total": 28,
+  "ok": 28,
   "failed": 0,
   "events": [
     {
@@ -712,6 +712,100 @@
       ]
     },
     {
+      "event_id": "25",
+      "event_title": "UEFA Nations League - Türkiye vs Belgium",
+      "event_time": "12 Nov, 10:30 pm",
+      "event_time_raw": 1794502800000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "TRBEBEIN",
+          "title": "beIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        },
+        {
+          "code": "TRBEFOXS",
+          "title": "FOX SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm": {
+            "kid": "d1a163914db8ffad2c3e94f979896a0d",
+            "key": "9728800a3959aafdd5b0bcfbf3768811"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "26",
+      "event_title": "UEFA Nations League - Armenia vs Cyprus",
+      "event_time": "12 Nov, 10:30 pm",
+      "event_time_raw": 1794502800000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ARCYBEIN",
+          "title": "beIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "24",
+      "event_title": "UEFA Nations League - Italy vs France",
+      "event_time": "13 Nov, 01:15 am",
+      "event_time_raw": 1794512700000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "ITFRBEIN",
+          "title": "beIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        },
+        {
+          "code": "ITFRFOXS",
+          "title": "FOX SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm": {
+            "kid": "d1a163914db8ffad2c3e94f979896a0d",
+            "key": "9728800a3959aafdd5b0bcfbf3768811"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "27",
+      "event_title": "UEFA Nations League - England vs Croatia",
+      "event_time": "13 Nov, 01:15 am",
+      "event_time_raw": 1794512700000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ENCRBEIN",
+          "title": "beIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        }
+      ]
+    },
+    {
       "event_id": "14",
       "event_title": "FINALS Indian Wells 2026 - WTA vs WTA",
       "event_time": "13 Nov, 01:30 am",
@@ -818,6 +912,25 @@
           "drm": {
             "kid": "308006101c8fd0262c0f529319b9c127",
             "key": "37683aadc75b1450efa82d62c647984d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "28",
+      "event_title": "UEFA Nations League - Moldova vs Kazakhstan",
+      "event_time": "13 Nov, 10:30 pm",
+      "event_time_raw": 1794589200000,
+      "category": "Football",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "MOKABEIN",
+          "title": "beIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
           }
         }
       ]
