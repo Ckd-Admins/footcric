@@ -2,14 +2,14 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-13T00:13:15+05:30",
-  "generated_at_india": "13-11-2026 00:13:15 AM IST",
+  "generated_at": "2026-11-13T01:15:55+05:30",
+  "generated_at_india": "13-11-2026 01:15:55 AM IST",
   "total": 28,
   "ok": 28,
   "failed": 0,
   "events": [
     {
-      "event_id": "17",
+      "event_id": "20",
       "event_title": "UCL | Champions League Multicast - UCL Multicast vs UCL Multicast",
       "event_time": "05 Nov, 01:00 am",
       "event_time_raw": 1793820600000,
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "event_id": "13",
+      "event_id": "16",
       "event_title": "The - Golazo Show - Golazo Show vs Golazo Show",
       "event_time": "05 Nov, 11:00 pm",
       "event_time_raw": 1793899800000,
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "event_id": "20",
+      "event_id": "23",
       "event_title": "QUEENSBERRY - Buatsi vs Hutchinson",
       "event_time": "07 Nov, 11:00 pm",
       "event_time_raw": 1794072600000,
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "event_id": "19",
+      "event_id": "22",
       "event_title": "UFC - Waldo Cortes-Acosta vs Johnny Walker",
       "event_time": "08 Nov, 03:30 am",
       "event_time_raw": 1794088800000,
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "event_id": "2",
+      "event_id": "5",
       "event_title": "International Championship - SNOOKER vs SNOOKER",
       "event_time": "08 Nov, 11:30 am",
       "event_time_raw": 1794117600000,
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "event_id": "5",
+      "event_id": "8",
       "event_title": "Tour De France - Tour De France vs Tour De France",
       "event_time": "08 Nov, 02:30 pm",
       "event_time_raw": 1794128400000,
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "event_id": "21",
+      "event_id": "24",
       "event_title": "EPL | Premier League Goals Rush - EPL Goals Rush vs EPL Goals Rush",
       "event_time": "08 Nov, 07:30 pm",
       "event_time_raw": 1794146400000,
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "event_id": "14",
+      "event_id": "17",
       "event_title": "MotoGP - MotoGP vs MotoGP",
       "event_time": "08 Nov, 08:45 pm",
       "event_time_raw": 1794150900000,
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "event_id": "3",
+      "event_id": "6",
       "event_title": "Formula 1 - Formula 1 vs Formula 1",
       "event_time": "08 Nov, 10:30 pm",
       "event_time_raw": 1794157200000,
@@ -387,7 +387,7 @@
       ]
     },
     {
-      "event_id": "15",
+      "event_id": "18",
       "event_title": "NFL | NFL REDZONE - NFL REDZONE vs NFL REDZONE",
       "event_time": "08 Nov, 11:15 pm",
       "event_time_raw": 1794159900000,
@@ -424,7 +424,7 @@
       ]
     },
     {
-      "event_id": "8",
+      "event_id": "11",
       "event_title": "MVPW 7 - MVPW vs MVPW",
       "event_time": "09 Nov, 12:00 am",
       "event_time_raw": 1794162600000,
@@ -444,25 +444,6 @@
     },
     {
       "event_id": "7",
-      "event_title": "Europe Super League - Darts vs Darts",
-      "event_time": "11 Nov, 09:30 pm",
-      "event_time_raw": 1794412800000,
-      "category": "Darts",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "DADASPOR",
-          "title": "SPORT 1 DE - AQ",
-          "url": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
-          "drm": {
-            "kid": "98f2ab49605f0469a4b97de40277fca0",
-            "key": "7ed06b6908edc372f2cb8ef2df2615d0"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "4",
       "event_title": "AEW Dynamite - DYNAMITE vs DYNAMITE",
       "event_time": "12 Nov, 05:30 am",
       "event_time_raw": 1794441600000,
@@ -499,7 +480,7 @@
       ]
     },
     {
-      "event_id": "9",
+      "event_id": "12",
       "event_title": "Stockholm OPEN - ATP vs ATP",
       "event_time": "12 Nov, 05:30 pm",
       "event_time_raw": 1794484800000,
@@ -545,7 +526,7 @@
       ]
     },
     {
-      "event_id": "24",
+      "event_id": "25",
       "event_title": "UEFA Nations League - Türkiye vs Belgium",
       "event_time": "12 Nov, 10:30 pm",
       "event_time_raw": 1794502800000,
@@ -609,7 +590,7 @@
       ]
     },
     {
-      "event_id": "26",
+      "event_id": "27",
       "event_title": "UEFA Nations League - Armenia vs Cyprus",
       "event_time": "12 Nov, 10:30 pm",
       "event_time_raw": 1794502800000,
@@ -664,12 +645,31 @@
       ]
     },
     {
-      "event_id": "22",
+      "event_id": "10",
+      "event_title": "Europe Super League - Darts vs Darts",
+      "event_time": "13 Nov, 12:15 am",
+      "event_time_raw": 1794509100000,
+      "category": "Darts",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "DADASPOR",
+          "title": "SPORT 1 DE - AQ",
+          "url": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
+          "drm": {
+            "kid": "98f2ab49605f0469a4b97de40277fca0",
+            "key": "7ed06b6908edc372f2cb8ef2df2615d0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "1",
       "event_title": "UEFA Nations League - Italy vs France",
       "event_time": "13 Nov, 01:15 am",
       "event_time_raw": 1794512700000,
       "category": "Football",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
         {
           "code": "ITFRBEIN",
@@ -683,16 +683,25 @@
         {
           "code": "ITFRFOXS",
           "title": "FOX SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
           "drm": {
-            "kid": "d1a163914db8ffad2c3e94f979896a0d",
-            "key": "9728800a3959aafdd5b0bcfbf3768811"
+            "kid": "5466ebd70704bdeb657f0abf3c5ca4ef",
+            "key": "bdd79b72d8e48ed483aa623cc38a8a16"
+          }
+        },
+        {
+          "code": "ITFRSPOR",
+          "title": "SPORT 2 CZ AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
           }
         }
       ]
     },
     {
-      "event_id": "23",
+      "event_id": "2",
       "event_title": "UEFA Nations League - Czechia vs Spain",
       "event_time": "13 Nov, 01:15 am",
       "event_time_raw": 1794512700000,
@@ -711,7 +720,35 @@
       ]
     },
     {
-      "event_id": "25",
+      "event_id": "3",
+      "event_title": "UEFA Nations League - England vs Croatia",
+      "event_time": "13 Nov, 01:15 am",
+      "event_time_raw": 1794512700000,
+      "category": "Football",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "ENCRBEIN",
+          "title": "beIN SPORTS - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        },
+        {
+          "code": "ENCRSPOR",
+          "title": "SPORT 1 CZ AQ",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "26",
       "event_title": "UEFA Nations League - Albania vs Finland",
       "event_time": "13 Nov, 01:15 am",
       "event_time_raw": 1794512700000,
@@ -730,26 +767,7 @@
       ]
     },
     {
-      "event_id": "27",
-      "event_title": "UEFA Nations League - England vs Croatia",
-      "event_time": "13 Nov, 01:15 am",
-      "event_time_raw": 1794512700000,
-      "category": "Football",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "ENCRBEIN",
-          "title": "beIN SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm": {
-            "kid": "0b42be2664d7e811d04f3e504e0924c5",
-            "key": "ae24090123b8c72ac5404dc152847cb8"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": "12",
+      "event_id": "15",
       "event_title": "FINALS Indian Wells 2026 - WTA vs WTA",
       "event_time": "13 Nov, 01:30 am",
       "event_time_raw": 1794513600000,
@@ -804,7 +822,7 @@
       ]
     },
     {
-      "event_id": "1",
+      "event_id": "4",
       "event_title": "ICC World Test Championship - Pakistan vs Sri Lanka",
       "event_time": "13 Nov, 10:00 am",
       "event_time_raw": 1794544200000,
@@ -841,7 +859,7 @@
       ]
     },
     {
-      "event_id": "16",
+      "event_id": "19",
       "event_title": "Nepal Premier League - NPL vs NPL",
       "event_time": "13 Nov, 12:15 pm",
       "event_time_raw": 1794552300000,
@@ -878,7 +896,7 @@
       ]
     },
     {
-      "event_id": "18",
+      "event_id": "21",
       "event_title": "Abu Dhabi T10 League - Abu Dhabi T10 vs Abu Dhabi T10",
       "event_time": "13 Nov, 05:00 pm",
       "event_time_raw": 1794569400000,
@@ -915,7 +933,7 @@
       ]
     },
     {
-      "event_id": "6",
+      "event_id": "9",
       "event_title": "ONE FRIDAY FIGHTS 178 - ONE vs ONE",
       "event_time": "13 Nov, 07:00 pm",
       "event_time_raw": 1794576600000,
@@ -953,7 +971,7 @@
       ]
     },
     {
-      "event_id": "10",
+      "event_id": "13",
       "event_title": "PFL - Vadim Nemkov vs Sergei Bilostenniy",
       "event_time": "14 Nov, 07:30 pm",
       "event_time_raw": 1794664800000,
@@ -981,7 +999,7 @@
       ]
     },
     {
-      "event_id": "11",
+      "event_id": "14",
       "event_title": "BKFC 97 - BKFC vs BKFC",
       "event_time": "21 Nov, 07:30 am",
       "event_time_raw": 1795226400000,
