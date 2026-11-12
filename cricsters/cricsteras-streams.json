@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T18:23:56+05:30",
-  "generated_at_india": "12-11-2026 06:23:56 PM IST",
+  "generated_at": "2026-11-12T19:39:36+05:30",
+  "generated_at_india": "12-11-2026 07:39:36 PM IST",
   "total": 27,
   "ok": 27,
   "failed": 0,
@@ -610,11 +610,11 @@
         },
         {
           "code": "TRBEFOXS",
-          "title": "FOX SPORTS - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "title": "FOX SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
           "drm": {
-            "kid": "d1a163914db8ffad2c3e94f979896a0d",
-            "key": "9728800a3959aafdd5b0bcfbf3768811"
+            "kid": "5466ebd70704bdeb657f0abf3c5ca4ef",
+            "key": "bdd79b72d8e48ed483aa623cc38a8a16"
           }
         }
       ]
