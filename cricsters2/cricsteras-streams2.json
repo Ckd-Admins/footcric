@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T22:18:54+05:30",
-  "generated_at_india": "12-11-2026 10:18:54 PM IST",
-  "total": 20,
-  "ok": 20,
+  "generated_at": "2026-11-12T23:13:15+05:30",
+  "generated_at_india": "12-11-2026 11:13:15 PM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -380,8 +380,8 @@
     {
       "event_id": 50019,
       "event_title": "ATP 250 & WTA Hong Kong",
-      "event_time": "2026-11-12 12:00",
-      "event_time_raw": "2026-11-12 12:00",
+      "event_time": "2026-11-12 20:00",
+      "event_time_raw": "2026-11-12 20:00",
       "category": "Tennis",
       "stream_count": 4,
       "streams": [
@@ -643,8 +643,26 @@
       "event_time": "2026-11-12 17:00",
       "event_time_raw": "2026-11-12 17:00",
       "category": "UEFA Nations",
-      "stream_count": 2,
+      "stream_count": 6,
       "streams": [
+        {
+          "code": "TRBEDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/af78moxwel/out/v1/412cee2767ed4c4a9bccc22f950ce86c/cenc.mpd",
+          "drm": {
+            "kid": "a59ccf4a670e13932b4bd5972b2be7d1",
+            "key": "de96de2f353e2922634e7e1b34befee0"
+          }
+        },
+        {
+          "code": "TRBESONY",
+          "title": "SonyLiv PRIME FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/td0oga2768/out/v1/a45152e1f3204d6aa040ea44742c838e/cenc.mpd",
+          "drm": {
+            "kid": "af5adf2f9aebfbce439fd9de4d6f6111",
+            "key": "bd962ed1dc6391f707b93c9385d9b54c"
+          }
+        },
         {
           "code": "TRBEFOXS",
           "title": "FOX SPORTS FHD",
@@ -655,12 +673,30 @@
           }
         },
         {
+          "code": "TRBEVIXE",
+          "title": "VIX Espanol FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0pkxlhb5ji/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd",
+          "drm": {
+            "kid": "c4df001be8b4bf02ebb396f1ef9aba4f",
+            "key": "ab259ee18cef520f319cdea61ddfa293"
+          }
+        },
+        {
           "code": "TRBEBEIN",
           "title": "beIN ENGLISH FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "drm": {
             "kid": "7995c724a13748ed970840a8ab5bb9b3",
             "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        },
+        {
+          "code": "TRBESPOR",
+          "title": "SPORT 1 CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
           }
         }
       ]
@@ -671,8 +707,26 @@
       "event_time": "2026-11-12 17:00",
       "event_time_raw": "2026-11-12 17:00",
       "category": "UEFA Nations",
-      "stream_count": 1,
+      "stream_count": 5,
       "streams": [
+        {
+          "code": "ARCYDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rsmrmcmdzb/out/v1/fa673d18f36e4b999c3e8a3f79721ee9/cenc.mpd",
+          "drm": {
+            "kid": "aa030376eae4a60c422a069784a0b221",
+            "key": "f18ac2a2d72a87ffe66b62740336907a"
+          }
+        },
+        {
+          "code": "ARCYSONY",
+          "title": "SonyLiv PRIME FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yi7ehwmaqx/out/v1/b544273aaf66429a8892963d8fbdd086/cenc.mpd",
+          "drm": {
+            "kid": "8a8998a833ad2d041de7cacd95c3f685",
+            "key": "8256d9686b0c3dde63f205614c0772a5"
+          }
+        },
         {
           "code": "ARCYBEIN",
           "title": "beIN ENGLISH FHD",
@@ -680,6 +734,24 @@
           "drm": {
             "kid": "0b42be2664d7e811d04f3e504e0924c5",
             "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        },
+        {
+          "code": "ARCYVIXE",
+          "title": "VIX Espanol FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/82oqikb16e/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+          "drm": {
+            "kid": "fb2f6053cd382eb138d7c8f0dfa461e2",
+            "key": "94eae87ba9e0eb456dcb0a3f2debd0df"
+          }
+        },
+        {
+          "code": "ARCYSPOR",
+          "title": "SPORT 2 CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "drm": {
+            "kid": "11223344556677889900112233445566",
+            "key": "4b80724d0ef86bcb2c21f7999d67739d"
           }
         }
       ]
@@ -690,8 +762,17 @@
       "event_time": "2026-11-12 17:45",
       "event_time_raw": "2026-11-12 17:45",
       "category": "UCL Womens",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
+        {
+          "code": "BAARPARA",
+          "title": "PARAMOUNT+ FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/eat53lihtk/out/v1/bad04cf10c3540cba411b006724a8d0c/cenc.mpd?",
+          "drm": {
+            "kid": "6156ce2089ed6da0174588694057c21f",
+            "key": "4a9f4027837a4380c293f48f33583d30"
+          }
+        },
         {
           "code": "BAARCBSN",
           "title": "CBS NETWORK FHD",
@@ -699,6 +780,72 @@
           "drm": {
             "kid": "d9623774ac5c8c351aafe97c5fe70267",
             "key": "5164e6d05164a2d65fa8fcc962aa4861"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50132,
+      "event_title": "Malta vs Eswatini",
+      "event_time": "2026-11-12 17:30",
+      "event_time_raw": "2026-11-12 17:30",
+      "category": "FIFA Friendlies",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "MAESDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/g5l5tyyxyx/out/v1/6cc87968a1d5484c9beeb7041c3f9371/cenc.mpd",
+          "drm": {
+            "kid": "e433b72b04b06443f8f24794d88131e7",
+            "key": "1dd12c46939c3027d9efd66a6330e3f3"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50133,
+      "event_title": "Lithuania vs Suriname",
+      "event_time": "2026-11-12 17:00",
+      "event_time_raw": "2026-11-12 17:00",
+      "category": "FIFA Friendlies",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "LISUDAZN",
+          "title": "DAZN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/17txp12eq1/out/v1/aef4dd042384415697255059ecce4897/cenc.mpd",
+          "drm": {
+            "kid": "72fe7d3d699cc3cfa46e403efc2dbd4e",
+            "key": "a4fa5671beff9f6b1d3b66320fc23897"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50143,
+      "event_title": "Seattle Kraken vs Carolina Hurricanes",
+      "event_time": "2026-11-12 17:00",
+      "event_time_raw": "2026-11-12 17:00",
+      "category": "NHL",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "SECAPREM",
+          "title": "PREMIER SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm": {
+            "kid": "1a5df53609ebc9857898c490f4724918",
+            "key": "77f62980d582ec541280796acf8b2d19"
+          }
+        },
+        {
+          "code": "SECASKYT",
+          "title": "SKY TOP EVENT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm": {
+            "kid": "368bd4ebe301406897324bc777650411",
+            "key": "69d27c2c2b7de927d67aacc973259901"
           }
         }
       ]
