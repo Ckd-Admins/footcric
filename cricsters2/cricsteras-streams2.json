@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T09:10:11+05:30",
-  "generated_at_india": "12-11-2026 09:10:11 AM IST",
-  "total": 27,
-  "ok": 27,
+  "generated_at": "2026-11-12T10:15:20+05:30",
+  "generated_at_india": "12-11-2026 10:15:20 AM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -378,19 +378,19 @@
         {
           "code": "PASRWILL",
           "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/frzy1fab0z/out/v1/9079e314c16d47a98e69ec3cff7fb238/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ystkepkr8o/out/v1/883a6874df684d088e7e63c326a0aba1/cenc.mpd?",
           "drm": {
-            "kid": "e8e442f496281c56983daddbcbdf814d",
-            "key": "d7aeef7f7f7a375aaa4171ff7493b6a7"
+            "kid": "8f81eb680d80404aa82ccae25a8bcfde",
+            "key": "c36943edd4b110ee953b8ccf59ab2bd2"
           }
         },
         {
-          "code": "PASRWILLHM",
+          "code": "PASRWILLPJ",
           "title": "WILLOW ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/frzy1fab0z/out/v1/9079e314c16d47a98e69ec3cff7fb238/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ystkepkr8o/out/v1/883a6874df684d088e7e63c326a0aba1/cenc.mpd",
           "drm": {
-            "kid": "e8e442f496281c56983daddbcbdf814d",
-            "key": "d7aeef7f7f7a375aaa4171ff7493b6a7"
+            "kid": "8f81eb680d80404aa82ccae25a8bcfde",
+            "key": "c36943edd4b110ee953b8ccf59ab2bd2"
           }
         }
       ]
@@ -544,91 +544,6 @@
       ]
     },
     {
-      "event_id": 50051,
-      "event_title": "Chicago Bulls vs San Antonio Spurs",
-      "event_time": "2026-11-12 01:00",
-      "event_time_raw": "2026-11-12 01:00",
-      "category": "NBA",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "CHSANBAL",
-          "title": "NBA LEAGUEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/utq2uwsafd/out/v1/8ff407c6303144d09b9f921cf8a73c4e/cenc.mpd",
-          "drm": {
-            "kid": "1102da0cbaa10aa456df477b1a9af3ea",
-            "key": "39c16ec9ebfa54ef7e23e6503413be2e"
-          }
-        },
-        {
-          "code": "CHSASPOR",
-          "title": "SportzX TV+ HD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/utq2uwsafd/out/v1/8ff407c6303144d09b9f921cf8a73c4e/cenc.mpd",
-          "drm": {
-            "kid": "1102da0cbaa10aa456df477b1a9af3ea",
-            "key": "39c16ec9ebfa54ef7e23e6503413be2e"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50055,
-      "event_title": "Memphis Grizzlies vs Denver Nuggets",
-      "event_time": "2026-11-12 01:00",
-      "event_time_raw": "2026-11-12 01:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "MEDENBAL",
-          "title": "NBA LEAGUEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5k9akh3f0y/out/v1/52839b2a70154ed79d701cdf580b02b5/cenc.mpd",
-          "drm": {
-            "kid": "101118173924285029f1fb2164ab46bb",
-            "key": "fb649721eb84f26b9bdfb82ac8d53e6c"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50056,
-      "event_title": "Milwaukee Bucks vs Los Angeles Lakers",
-      "event_time": "2026-11-12 01:00",
-      "event_time_raw": "2026-11-12 01:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "MILONBAL",
-          "title": "NBA LEAGUEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/r9tnyvocsi/out/v1/541be1df14c140f1a9dc9d5599764fe1/cenc.mpd",
-          "drm": {
-            "kid": "44863f71eb6ea03099335d5e2eb7a42b",
-            "key": "34246440de81a8a7bd7872dc0417c5e6"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50058,
-      "event_title": "New Orleans Pelicans vs Brooklyn Nets",
-      "event_time": "2026-11-12 01:00",
-      "event_time_raw": "2026-11-12 01:00",
-      "category": "NBA",
-      "stream_count": 1,
-      "streams": [
-        {
-          "code": "NEBRNBAL",
-          "title": "NBA LEAGUEPASS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/o6iroxzgrx/out/v1/07e72b33027741f694a83cff227d466f/cenc.mpd",
-          "drm": {
-            "kid": "5f697a7fecd2d6013c2ce75cd5d6d2ae",
-            "key": "a135193cddc54efca49e9fbecadd11f2"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50059,
       "event_title": "Utah Jazz vs Orlando Magic",
       "event_time": "2026-11-12 02:00",
@@ -752,19 +667,19 @@
         {
           "code": "WOMEWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hhug5wl1u6/out/v1/681179ada5ae49539e7fddbb1e061a26/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/anug0owvyf/out/v1/c5ae61f47b43420a9ce245e4b6c30f2f/cenc.mpd?",
           "drm": {
-            "kid": "a4a88dfd0faa47c37f51cfb848198772",
-            "key": "0d32f4914a3469afa1d8386fa6f3d3e8"
+            "kid": "c913b1471f49e4025d8d7b9fa1aef810",
+            "key": "a3e85530de55a1f402a099b2ade8808f"
           }
         },
         {
-          "code": "WOMEWILL4R",
+          "code": "WOMEWILLQT",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/hhug5wl1u6/out/v1/681179ada5ae49539e7fddbb1e061a26/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/anug0owvyf/out/v1/c5ae61f47b43420a9ce245e4b6c30f2f/cenc.mpd",
           "drm": {
-            "kid": "a4a88dfd0faa47c37f51cfb848198772",
-            "key": "0d32f4914a3469afa1d8386fa6f3d3e8"
+            "kid": "c913b1471f49e4025d8d7b9fa1aef810",
+            "key": "a3e85530de55a1f402a099b2ade8808f"
           }
         },
         {
