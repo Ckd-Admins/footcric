@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T12:23:07+05:30",
-  "generated_at_india": "12-11-2026 00:23:07 PM IST",
+  "generated_at": "2026-11-12T13:39:30+05:30",
+  "generated_at_india": "12-11-2026 01:39:30 PM IST",
   "total": 24,
   "events": [
     {
@@ -132,7 +132,7 @@
       "event_time": "2026-11-12 06:45",
       "event_time_raw": "2026-11-12 06:45",
       "category": "NPL",
-      "stream_count": 2
+      "stream_count": 1
     },
     {
       "event_id": 50070,
@@ -180,7 +180,7 @@
       "event_time": "2026-11-12 05:00",
       "event_time_raw": "2026-11-12 05:00",
       "category": "Asia Cup",
-      "stream_count": 2
+      "stream_count": 3
     },
     {
       "event_id": 50141,

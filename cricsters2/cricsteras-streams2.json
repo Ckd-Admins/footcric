@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T12:23:07+05:30",
-  "generated_at_india": "12-11-2026 00:23:07 PM IST",
+  "generated_at": "2026-11-12T13:39:30+05:30",
+  "generated_at_india": "12-11-2026 01:39:30 PM IST",
   "total": 24,
   "ok": 24,
   "failed": 0,
@@ -596,20 +596,11 @@
       "event_time": "2026-11-12 06:45",
       "event_time_raw": "2026-11-12 06:45",
       "category": "NPL",
-      "stream_count": 2,
+      "stream_count": 1,
       "streams": [
         {
           "code": "NEPAFANC",
           "title": "FANCODE FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm": {
-            "kid": "82dfca238e8c4b430a3269db71965db9",
-            "key": "a00b28caf4ac628e77a553d440c0ddca"
-          }
-        },
-        {
-          "code": "NEPAFANCO3",
-          "title": "FANCODE - SD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "drm": {
             "kid": "82dfca238e8c4b430a3269db71965db9",
@@ -629,19 +620,19 @@
         {
           "code": "WOMEWILL",
           "title": "WILLOW - FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/anug0owvyf/out/v1/c5ae61f47b43420a9ce245e4b6c30f2f/cenc.mpd?",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd?",
           "drm": {
-            "kid": "c913b1471f49e4025d8d7b9fa1aef810",
-            "key": "a3e85530de55a1f402a099b2ade8808f"
+            "kid": "636a1180048a50dcdcb44283999a7a9b",
+            "key": "fd4f90a2703266be6aea6b6d01274a07"
           }
         },
         {
-          "code": "WOMEWILLQT",
+          "code": "WOMEWILLUU",
           "title": "WILLOW - ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/anug0owvyf/out/v1/c5ae61f47b43420a9ce245e4b6c30f2f/cenc.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd",
           "drm": {
-            "kid": "c913b1471f49e4025d8d7b9fa1aef810",
-            "key": "a3e85530de55a1f402a099b2ade8808f"
+            "kid": "636a1180048a50dcdcb44283999a7a9b",
+            "key": "fd4f90a2703266be6aea6b6d01274a07"
           }
         },
         {
@@ -764,8 +755,17 @@
       "event_time": "2026-11-12 05:00",
       "event_time_raw": "2026-11-12 05:00",
       "category": "Asia Cup",
-      "stream_count": 2,
+      "stream_count": 3,
       "streams": [
+        {
+          "code": "AFINPRIM",
+          "title": "PRIME VIDEO - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vfhi45qzel/out/v1/ab0216dbe96d408ea761a7856b61e404/cenc.mpd",
+          "drm": {
+            "kid": "558ca0dbe07bf76ecee0c2570cec8f90",
+            "key": "bffef63168d2229b6fe946a65cd6e0aa"
+          }
+        },
         {
           "code": "AFINWILL",
           "title": "WILLOW FHD",
