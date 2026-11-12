@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T18:19:24+05:30",
-  "generated_at_india": "12-11-2026 06:19:24 PM IST",
-  "total": 22,
-  "ok": 22,
+  "generated_at": "2026-11-12T19:34:38+05:30",
+  "generated_at_india": "12-11-2026 07:34:38 PM IST",
+  "total": 21,
+  "ok": 21,
   "failed": 0,
   "events": [
     {
@@ -709,43 +709,6 @@
           "drm": {
             "kid": "d9623774ac5c8c351aafe97c5fe70267",
             "key": "5164e6d05164a2d65fa8fcc962aa4861"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50145,
-      "event_title": "GOLF EVENTOS vs GOLF EVENTOS",
-      "event_time": "2026-11-12 07:00",
-      "event_time_raw": "2026-11-12 07:00",
-      "category": "Golf",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "GOGOPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/p066ohbcmo/out/v1/22ab56f53fc94074be6748f915fc2ca7/cenc.mpd",
-          "drm": {
-            "kid": "8b70ca3696e41d6a0e0b5337c8b31cab",
-            "key": "e5a1a5517af6bc7ba6e01c3941916aa2"
-          }
-        },
-        {
-          "code": "GOGOSKYG",
-          "title": "SKY GOLF FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3eyutz3sbr/out/v1/369f8b2194004b5192c0c8e6a22822bf/cenc.mpd",
-          "drm": {
-            "kid": "5583887653a2df2531c22aa784c3f5fc",
-            "key": "ab47a175b1912a7985daab1ac3ea160a"
-          }
-        },
-        {
-          "code": "GOGOPRIM9D",
-          "title": "PRIME VIDEO ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/dzwjyhyceq/out/v1/44d6b6283ad64b019848638ed808c241/cenc.mpd",
-          "drm": {
-            "kid": "97e12784c7ba93f6a1b761fef484e6ac",
-            "key": "fa56e4bc13efbfef4e45cd4d972b9f32"
           }
         }
       ]
