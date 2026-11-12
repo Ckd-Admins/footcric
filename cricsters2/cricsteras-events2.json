@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T05:09:07+05:30",
-  "generated_at_india": "12-11-2026 05:09:07 AM IST",
-  "total": 22,
+  "generated_at": "2026-11-12T06:17:22+05:30",
+  "generated_at_india": "12-11-2026 06:17:22 AM IST",
+  "total": 24,
   "events": [
     {
       "event_id": 50002,
@@ -111,12 +111,60 @@
       "stream_count": 3
     },
     {
+      "event_id": 50043,
+      "event_title": "Indiana Pacers vs Washington Wizards",
+      "event_time": "2026-11-12 00:00",
+      "event_time_raw": "2026-11-12 00:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50044,
+      "event_title": "New York Knicks vs Cleveland Cavaliers",
+      "event_time": "2026-11-12 00:00",
+      "event_time_raw": "2026-11-12 00:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
       "event_id": 50048,
       "event_title": "Toronto Raptors vs Boston Celtics",
       "event_time": "2026-11-12 00:00",
       "event_time_raw": "2026-11-12 00:00",
       "category": "NBA",
-      "stream_count": 2
+      "stream_count": 3
+    },
+    {
+      "event_id": 50051,
+      "event_title": "Chicago Bulls vs San Antonio Spurs",
+      "event_time": "2026-11-12 01:00",
+      "event_time_raw": "2026-11-12 01:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50055,
+      "event_title": "Memphis Grizzlies vs Denver Nuggets",
+      "event_time": "2026-11-12 01:00",
+      "event_time_raw": "2026-11-12 01:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50056,
+      "event_title": "Milwaukee Bucks vs Los Angeles Lakers",
+      "event_time": "2026-11-12 01:00",
+      "event_time_raw": "2026-11-12 01:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50058,
+      "event_title": "New Orleans Pelicans vs Brooklyn Nets",
+      "event_time": "2026-11-12 01:00",
+      "event_time_raw": "2026-11-12 01:00",
+      "category": "NBA",
+      "stream_count": 1
     },
     {
       "event_id": 50064,
@@ -149,38 +197,6 @@
       "event_time_raw": "2026-11-12 02:30",
       "category": "NHL",
       "stream_count": 2
-    },
-    {
-      "event_id": 50129,
-      "event_title": "Juventus vs OL Lyonnes",
-      "event_time": "2026-11-11 20:00",
-      "event_time_raw": "2026-11-11 20:00",
-      "category": "UCL Womens",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50130,
-      "event_title": "OH Leuven vs HB Køge",
-      "event_time": "2026-11-11 17:45",
-      "event_time_raw": "2026-11-11 17:45",
-      "category": "UCL Womens",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50131,
-      "event_title": "USA vs Czechia",
-      "event_time": "2026-11-11 18:00",
-      "event_time_raw": "2026-11-11 18:00",
-      "category": "IIHF World",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50132,
-      "event_title": "Japan vs Sweden",
-      "event_time": "2026-11-11 18:00",
-      "event_time_raw": "2026-11-11 18:00",
-      "category": "IIHF World",
-      "stream_count": 1
     }
   ],
   "raw_data": ""
