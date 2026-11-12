@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T06:17:22+05:30",
-  "generated_at_india": "12-11-2026 06:17:22 AM IST",
-  "total": 24,
+  "generated_at": "2026-11-12T07:34:07+05:30",
+  "generated_at_india": "12-11-2026 07:34:07 AM IST",
+  "total": 29,
   "events": [
     {
       "event_id": 50002,
@@ -167,6 +167,22 @@
       "stream_count": 1
     },
     {
+      "event_id": 50059,
+      "event_title": "Utah Jazz vs Orlando Magic",
+      "event_time": "2026-11-12 02:00",
+      "event_time_raw": "2026-11-12 02:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50062,
+      "event_title": "Australia vs England",
+      "event_time": "2026-11-13 03:30",
+      "event_time_raw": "2026-11-13 03:30",
+      "category": "Cricket",
+      "stream_count": 2
+    },
+    {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
       "event_time": "2026-11-12 06:45",
@@ -197,6 +213,30 @@
       "event_time_raw": "2026-11-12 02:30",
       "category": "NHL",
       "stream_count": 2
+    },
+    {
+      "event_id": 50129,
+      "event_title": "Türkiye vs Belgium",
+      "event_time": "2026-11-12 17:00",
+      "event_time_raw": "2026-11-12 17:00",
+      "category": "UEFA Nations",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50130,
+      "event_title": "Armenia vs Cyprus",
+      "event_time": "2026-11-12 17:00",
+      "event_time_raw": "2026-11-12 17:00",
+      "category": "UEFA Nations",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50131,
+      "event_title": "Barcelona vs Arsenal",
+      "event_time": "2026-11-12 17:45",
+      "event_time_raw": "2026-11-12 17:45",
+      "category": "UCL Womens",
+      "stream_count": 1
     }
   ],
   "raw_data": ""

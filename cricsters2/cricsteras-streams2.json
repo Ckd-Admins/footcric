@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T06:17:22+05:30",
-  "generated_at_india": "12-11-2026 06:17:22 AM IST",
-  "total": 24,
-  "ok": 24,
+  "generated_at": "2026-11-12T07:34:07+05:30",
+  "generated_at_india": "12-11-2026 07:34:07 AM IST",
+  "total": 29,
+  "ok": 29,
   "failed": 0,
   "events": [
     {
@@ -629,10 +629,10 @@
         {
           "code": "CHSANBAL",
           "title": "NBA LEAGUEPASS FHD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0KU2LDL3EPR86PNUHGMCWOC3IZ.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/utq2uwsafd/out/v1/8ff407c6303144d09b9f921cf8a73c4e/cenc.mpd",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0ku2ldl3epr86pnuhgmcwoc3iz"
+            "kid": "1102da0cbaa10aa456df477b1a9af3ea",
+            "key": "39c16ec9ebfa54ef7e23e6503413be2e"
           }
         }
       ]
@@ -648,10 +648,10 @@
         {
           "code": "MEDENBAL",
           "title": "NBA LEAGUEPASS FHD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0HXQ0PC81M0XPIDVKZJ1KMHK8N.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5k9akh3f0y/out/v1/52839b2a70154ed79d701cdf580b02b5/cenc.mpd",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0hxq0pc81m0xpidvkzj1kmhk8n"
+            "kid": "101118173924285029f1fb2164ab46bb",
+            "key": "fb649721eb84f26b9bdfb82ac8d53e6c"
           }
         }
       ]
@@ -667,10 +667,10 @@
         {
           "code": "MILONBAL",
           "title": "NBA LEAGUEPASS FHD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0I09UBR4XG5LQ5ANZAK9ZX77AW.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/r9tnyvocsi/out/v1/541be1df14c140f1a9dc9d5599764fe1/cenc.mpd",
           "drm": {
-            "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0i09ubr4xg5lq5anzak9zx77aw"
+            "kid": "44863f71eb6ea03099335d5e2eb7a42b",
+            "key": "34246440de81a8a7bd7872dc0417c5e6"
           }
         }
       ]
@@ -686,10 +686,57 @@
         {
           "code": "NEBRNBAL",
           "title": "NBA LEAGUEPASS FHD",
-          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0J65TXCK7ZRC773OCR40K03S9G.mpd",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/o6iroxzgrx/out/v1/07e72b33027741f694a83cff227d466f/cenc.mpd",
+          "drm": {
+            "kid": "5f697a7fecd2d6013c2ce75cd5d6d2ae",
+            "key": "a135193cddc54efca49e9fbecadd11f2"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50059,
+      "event_title": "Utah Jazz vs Orlando Magic",
+      "event_time": "2026-11-12 02:00",
+      "event_time_raw": "2026-11-12 02:00",
+      "category": "NBA",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "UTORNBAL",
+          "title": "NBA LEAGUEPASS FHD",
+          "url": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0FCC493LXHRCXLG1Y1KVL8PVNH.mpd",
           "drm": {
             "kid": "https",
-            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0j65txck7zrc773ocr40k03s9g"
+            "key": "//primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0fcc493lxhrcxlg1y1kvl8pvnh"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50062,
+      "event_title": "Australia vs England",
+      "event_time": "2026-11-13 03:30",
+      "event_time_raw": "2026-11-13 03:30",
+      "category": "Cricket",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "AUENWILL",
+          "title": "WILLOW - FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/muuiy51nil/out/v1/a441f3a044df462e89583d61af8fdd47/cenc.mpd",
+          "drm": {
+            "kid": "055e7d596817187feb6148156f166cd4",
+            "key": "d2f924558033464139e9367ffe346149"
+          }
+        },
+        {
+          "code": "AUENWILLAR",
+          "title": "WILLOW - ALT",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/muuiy51nil/out/v1/a441f3a044df462e89583d61af8fdd47/cenc.mpd",
+          "drm": {
+            "kid": "055e7d596817187feb6148156f166cd4",
+            "key": "d2f924558033464139e9367ffe346149"
           }
         }
       ]
@@ -811,6 +858,72 @@
           "drm": {
             "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
             "key": "a883237ef30932b731f71aa59a0805c0"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50129,
+      "event_title": "Türkiye vs Belgium",
+      "event_time": "2026-11-12 17:00",
+      "event_time_raw": "2026-11-12 17:00",
+      "category": "UEFA Nations",
+      "stream_count": 2,
+      "streams": [
+        {
+          "code": "TRBEFOXS",
+          "title": "FOX SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm": {
+            "kid": "5466ebd70704bdeb657f0abf3c5ca4ef",
+            "key": "bdd79b72d8e48ed483aa623cc38a8a16"
+          }
+        },
+        {
+          "code": "TRBEBEIN",
+          "title": "beIN ENGLISH FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50130,
+      "event_title": "Armenia vs Cyprus",
+      "event_time": "2026-11-12 17:00",
+      "event_time_raw": "2026-11-12 17:00",
+      "category": "UEFA Nations",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ARCYBEIN",
+          "title": "beIN ENGLISH FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50131,
+      "event_title": "Barcelona vs Arsenal",
+      "event_time": "2026-11-12 17:45",
+      "event_time_raw": "2026-11-12 17:45",
+      "category": "UCL Womens",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BAARCBSN",
+          "title": "CBS NETWORK FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "drm": {
+            "kid": "d9623774ac5c8c351aafe97c5fe70267",
+            "key": "5164e6d05164a2d65fa8fcc962aa4861"
           }
         }
       ]
