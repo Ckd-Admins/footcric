@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T15:15:50+05:30",
-  "generated_at_india": "12-11-2026 03:15:50 PM IST",
-  "total": 26,
+  "generated_at": "2026-11-12T16:19:26+05:30",
+  "generated_at_india": "12-11-2026 04:19:26 PM IST",
+  "total": 23,
   "events": [
     {
       "event_id": 50002,
@@ -89,8 +89,8 @@
     {
       "event_id": 50019,
       "event_title": "ATP 250 & WTA Hong Kong",
-      "event_time": "2026-11-11 12:00",
-      "event_time_raw": "2026-11-11 12:00",
+      "event_time": "2026-11-12 12:00",
+      "event_time_raw": "2026-11-12 12:00",
       "category": "Tennis",
       "stream_count": 4
     },
@@ -129,8 +129,8 @@
     {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
-      "event_time": "2026-11-12 06:45",
-      "event_time_raw": "2026-11-12 06:45",
+      "event_time": "2026-11-12 11:45",
+      "event_time_raw": "2026-11-12 11:45",
       "category": "NPL",
       "stream_count": 1
     },
@@ -167,14 +167,6 @@
       "stream_count": 1
     },
     {
-      "event_id": 50137,
-      "event_title": "Pakistan Under-19 vs Bangladesh Under-19",
-      "event_time": "2026-11-12 05:00",
-      "event_time_raw": "2026-11-12 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3
-    },
-    {
       "event_id": 50138,
       "event_title": "Afghanistan Under-19 vs India Under-19",
       "event_time": "2026-11-12 05:00",
@@ -188,29 +180,13 @@
       "event_time": "2026-11-12 09:15",
       "event_time_raw": "2026-11-12 09:15",
       "category": "Cricket",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50140,
       "event_title": "Netherlands Women vs Thailand Women",
       "event_time": "2026-11-12 09:15",
       "event_time_raw": "2026-11-12 09:15",
-      "category": "Cricket",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50141,
-      "event_title": "Sri Lanka Women vs Ireland Women",
-      "event_time": "2026-11-12 05:00",
-      "event_time_raw": "2026-11-12 05:00",
-      "category": "Cricket",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50142,
-      "event_title": "Papua New Guinea Women vs Scotland Women",
-      "event_time": "2026-11-12 05:00",
-      "event_time_raw": "2026-11-12 05:00",
       "category": "Cricket",
       "stream_count": 2
     }

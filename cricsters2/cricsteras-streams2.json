@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T15:15:50+05:30",
-  "generated_at_india": "12-11-2026 03:15:50 PM IST",
-  "total": 26,
-  "ok": 26,
+  "generated_at": "2026-11-12T16:19:26+05:30",
+  "generated_at_india": "12-11-2026 04:19:26 PM IST",
+  "total": 23,
+  "ok": 23,
   "failed": 0,
   "events": [
     {
@@ -435,8 +435,8 @@
     {
       "event_id": 50019,
       "event_title": "ATP 250 & WTA Hong Kong",
-      "event_time": "2026-11-11 12:00",
-      "event_time_raw": "2026-11-11 12:00",
+      "event_time": "2026-11-12 12:00",
+      "event_time_raw": "2026-11-12 12:00",
       "category": "Tennis",
       "stream_count": 4,
       "streams": [
@@ -593,8 +593,8 @@
     {
       "event_id": 50064,
       "event_title": "Nepal Premier League",
-      "event_time": "2026-11-12 06:45",
-      "event_time_raw": "2026-11-12 06:45",
+      "event_time": "2026-11-12 11:45",
+      "event_time_raw": "2026-11-12 11:45",
       "category": "NPL",
       "stream_count": 1,
       "streams": [
@@ -713,43 +713,6 @@
       ]
     },
     {
-      "event_id": 50137,
-      "event_title": "Pakistan Under-19 vs Bangladesh Under-19",
-      "event_time": "2026-11-12 05:00",
-      "event_time_raw": "2026-11-12 05:00",
-      "category": "Asia Cup",
-      "stream_count": 3,
-      "streams": [
-        {
-          "code": "PABAWILL",
-          "title": "WILLOW FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/x5af8ecwsh/out/v1/c37f1ecce4214502960ae5c0367154ff/cenc.mpd",
-          "drm": {
-            "kid": "ae9dfc3e14f81520c96678b2818203b0",
-            "key": "890f27ce6531575d09365c95c7557cd8"
-          }
-        },
-        {
-          "code": "PABAPRIM",
-          "title": "PRIME VIDEO FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/v9vh6sx6aa/out/v1/fa0840b9189c43a5b75029161e4f1829/cenc.mpd",
-          "drm": {
-            "kid": "2d895ee3ffc49f5334210c8ee8cccee2",
-            "key": "612a73373cbc8a0c795ef02e725ea42e"
-          }
-        },
-        {
-          "code": "PABAWILLFW",
-          "title": "WILLOW ALT",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/x5af8ecwsh/out/v1/c37f1ecce4214502960ae5c0367154ff/cenc.mpd",
-          "drm": {
-            "kid": "ae9dfc3e14f81520c96678b2818203b0",
-            "key": "890f27ce6531575d09365c95c7557cd8"
-          }
-        }
-      ]
-    },
-    {
       "event_id": 50138,
       "event_title": "Afghanistan Under-19 vs India Under-19",
       "event_time": "2026-11-12 05:00",
@@ -759,7 +722,7 @@
       "streams": [
         {
           "code": "AFINPRIM",
-          "title": "PRIME VIDEO - AQ",
+          "title": "PRIME VIDEO FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vfhi45qzel/out/v1/ab0216dbe96d408ea761a7856b61e404/cenc.mpd",
           "drm": {
             "kid": "558ca0dbe07bf76ecee0c2570cec8f90",
@@ -792,11 +755,20 @@
       "event_time": "2026-11-12 09:15",
       "event_time_raw": "2026-11-12 09:15",
       "category": "Cricket",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "PABAICCT",
           "title": "ICC TV FHD",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794503565~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=d950747e8ba809fb215c2973460e52dd97eb648dbc5fcf423944c3f4e114051d/manifest.mpd?vcfilter=e13a02d0-3ff5-486e-b84e-59739ccc679d",
+          "drm": {
+            "kid": "39bd302cdeed3710a89fb004d232ab67",
+            "key": "9869f804ba18d7e508cbff781829221c"
+          }
+        },
+        {
+          "code": "PABAICCTYS",
+          "title": "ICC TV ALT",
           "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794503565~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=d950747e8ba809fb215c2973460e52dd97eb648dbc5fcf423944c3f4e114051d/manifest.mpd?vcfilter=e13a02d0-3ff5-486e-b84e-59739ccc679d",
           "drm": {
             "kid": "39bd302cdeed3710a89fb004d232ab67",
@@ -811,7 +783,7 @@
       "event_time": "2026-11-12 09:15",
       "event_time_raw": "2026-11-12 09:15",
       "category": "Cricket",
-      "stream_count": 1,
+      "stream_count": 2,
       "streams": [
         {
           "code": "NETHICCT",
@@ -821,58 +793,11 @@
             "kid": "39bd302cdeed3710a89fb004d232ab67",
             "key": "9869f804ba18d7e508cbff781829221c"
           }
-        }
-      ]
-    },
-    {
-      "event_id": 50141,
-      "event_title": "Sri Lanka Women vs Ireland Women",
-      "event_time": "2026-11-12 05:00",
-      "event_time_raw": "2026-11-12 05:00",
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "SRIRICCT",
-          "title": "ICC TV FHD",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794489575~acl=*%2Fchannel(vcg-01-ch-hd-06)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=b4d92c1439820c0e7d585a059dd13fa67722c99394f400cf86d093456474f46c/manifest.mpd?vcfilter=361f9b12-0eb4-4932-8d7c-3a7da6afadbd&",
-          "drm": {
-            "kid": "39bd302cdeed3710a89fb004d232ab67",
-            "key": "9869f804ba18d7e508cbff781829221c"
-          }
         },
         {
-          "code": "SRIRICCT8G",
+          "code": "NETHICCT3U",
           "title": "ICC TV ALT",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794489575~acl=*%2Fchannel(vcg-01-ch-hd-06)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=b4d92c1439820c0e7d585a059dd13fa67722c99394f400cf86d093456474f46c/manifest.mpd?vcfilter=361f9b12-0eb4-4932-8d7c-3a7da6afadbd&",
-          "drm": {
-            "kid": "39bd302cdeed3710a89fb004d232ab67",
-            "key": "9869f804ba18d7e508cbff781829221c"
-          }
-        }
-      ]
-    },
-    {
-      "event_id": 50142,
-      "event_title": "Papua New Guinea Women vs Scotland Women",
-      "event_time": "2026-11-12 05:00",
-      "event_time_raw": "2026-11-12 05:00",
-      "category": "Cricket",
-      "stream_count": 2,
-      "streams": [
-        {
-          "code": "PASCICCT",
-          "title": "ICC TV FHD",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794489253~acl=*%2Fchannel(vcg-01-ch-hd-07)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=1747c231c0ce4399b35efcb096bd240f2e1de84a3a332906b41c28b70b154fd1/manifest.mpd?vcfilter=55d2c239-f499-4317-9544-036f2071abca&",
-          "drm": {
-            "kid": "39bd302cdeed3710a89fb004d232ab67",
-            "key": "9869f804ba18d7e508cbff781829221c"
-          }
-        },
-        {
-          "code": "PASCICCT64",
-          "title": "ICC TV ALT",
-          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794489253~acl=*%2Fchannel(vcg-01-ch-hd-07)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=1747c231c0ce4399b35efcb096bd240f2e1de84a3a332906b41c28b70b154fd1/manifest.mpd?vcfilter=55d2c239-f499-4317-9544-036f2071abca&",
+          "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794503704~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=5799adf55d07d176e48f65dca738ef30c39a8570bd4f4f07d0839e4f3e9d4654/manifest.mpd?vcfilter=faaa73c7-3f1f-4576-8f93-37faebfeccd1",
           "drm": {
             "kid": "39bd302cdeed3710a89fb004d232ab67",
             "key": "9869f804ba18d7e508cbff781829221c"
