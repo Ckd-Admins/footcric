@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T23:13:15+05:30",
-  "generated_at_india": "12-11-2026 11:13:15 PM IST",
-  "total": 23,
+  "generated_at": "2026-11-13T00:09:56+05:30",
+  "generated_at_india": "13-11-2026 00:09:56 AM IST",
+  "total": 28,
   "events": [
     {
       "event_id": 50002,
@@ -127,20 +127,60 @@
       "stream_count": 3
     },
     {
-      "event_id": 50126,
-      "event_title": "DR Congo vs Sierra Leone",
-      "event_time": "2026-11-12 16:00",
-      "event_time_raw": "2026-11-12 16:00",
+      "event_id": 50090,
+      "event_title": "Italy vs France",
+      "event_time": "2026-11-12 19:45",
+      "event_time_raw": "2026-11-12 19:45",
+      "category": "UEFA Nations",
+      "stream_count": 2
+    },
+    {
+      "event_id": 50091,
+      "event_title": "England vs Croatia",
+      "event_time": "2026-11-12 19:45",
+      "event_time_raw": "2026-11-12 19:45",
+      "category": "UEFA Nations",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50092,
+      "event_title": "Czechia vs Spain",
+      "event_time": "2026-11-12 19:45",
+      "event_time_raw": "2026-11-12 19:45",
+      "category": "UEFA Nations",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50093,
+      "event_title": "Albania vs Finland",
+      "event_time": "2026-11-12 19:45",
+      "event_time_raw": "2026-11-12 19:45",
+      "category": "UEFA Nations",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50120,
+      "event_title": "Senegal vs Sudan",
+      "event_time": "2026-11-12 19:00",
+      "event_time_raw": "2026-11-12 19:00",
       "category": "AFCON",
       "stream_count": 1
     },
     {
-      "event_id": 50128,
-      "event_title": "Ghana vs Somalia",
-      "event_time": "2026-11-12 15:00",
-      "event_time_raw": "2026-11-12 15:00",
+      "event_id": 50122,
+      "event_title": "Côte d'Ivoire vs Gambia",
+      "event_time": "2026-11-12 19:00",
+      "event_time_raw": "2026-11-12 19:00",
       "category": "AFCON",
-      "stream_count": 2
+      "stream_count": 1
+    },
+    {
+      "event_id": 50123,
+      "event_title": "Benin vs Central African Republic",
+      "event_time": "2026-11-12 19:00",
+      "event_time_raw": "2026-11-12 19:00",
+      "category": "AFCON",
+      "stream_count": 1
     },
     {
       "event_id": 50129,

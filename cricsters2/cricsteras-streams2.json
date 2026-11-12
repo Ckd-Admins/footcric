@@ -2,10 +2,10 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T23:13:15+05:30",
-  "generated_at_india": "12-11-2026 11:13:15 PM IST",
-  "total": 23,
-  "ok": 23,
+  "generated_at": "2026-11-13T00:09:56+05:30",
+  "generated_at_india": "13-11-2026 00:09:56 AM IST",
+  "total": 28,
+  "ok": 28,
   "failed": 0,
   "events": [
     {
@@ -591,48 +591,143 @@
       ]
     },
     {
-      "event_id": 50126,
-      "event_title": "DR Congo vs Sierra Leone",
-      "event_time": "2026-11-12 16:00",
-      "event_time_raw": "2026-11-12 16:00",
-      "category": "AFCON",
-      "stream_count": 1,
+      "event_id": 50090,
+      "event_title": "Italy vs France",
+      "event_time": "2026-11-12 19:45",
+      "event_time_raw": "2026-11-12 19:45",
+      "category": "UEFA Nations",
+      "stream_count": 2,
       "streams": [
         {
-          "code": "DRSIBEIN",
-          "title": "beIN SPORTS FHD",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "code": "ITFRFOXS",
+          "title": "FOX SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
           "drm": {
-            "kid": "4fce30c060b7b0464ab765e24fee5ecc",
-            "key": "65d612238736eec3794c7e75a6fd362c"
+            "kid": "5466ebd70704bdeb657f0abf3c5ca4ef",
+            "key": "bdd79b72d8e48ed483aa623cc38a8a16"
+          }
+        },
+        {
+          "code": "ITFRBEIN",
+          "title": "beIN ENGLISH FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm": {
+            "kid": "7995c724a13748ed970840a8ab5bb9b3",
+            "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
           }
         }
       ]
     },
     {
-      "event_id": 50128,
-      "event_title": "Ghana vs Somalia",
-      "event_time": "2026-11-12 15:00",
-      "event_time_raw": "2026-11-12 15:00",
-      "category": "AFCON",
-      "stream_count": 2,
+      "event_id": 50091,
+      "event_title": "England vs Croatia",
+      "event_time": "2026-11-12 19:45",
+      "event_time_raw": "2026-11-12 19:45",
+      "category": "UEFA Nations",
+      "stream_count": 1,
       "streams": [
         {
-          "code": "GHSOBEIN",
+          "code": "ENCRBEIN",
+          "title": "beIN ENGLISH FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "drm": {
+            "kid": "0b42be2664d7e811d04f3e504e0924c5",
+            "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50092,
+      "event_title": "Czechia vs Spain",
+      "event_time": "2026-11-12 19:45",
+      "event_time_raw": "2026-11-12 19:45",
+      "category": "UEFA Nations",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "CZSPTVEL",
+          "title": "TVE La 1 FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+          "drm": {
+            "kid": "745cd6ec34a58f2f7ac2af35dc3da6d2",
+            "key": "ae008f1e47e6567fe4201a6ff8f1ae54"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50093,
+      "event_title": "Albania vs Finland",
+      "event_time": "2026-11-12 19:45",
+      "event_time_raw": "2026-11-12 19:45",
+      "category": "UEFA Nations",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "ALFIFUBO",
+          "title": "FUBO NETWORK FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+          "drm": {
+            "kid": "fa5e8db5359fc7d1f15207d5de2a3ac4",
+            "key": "78a6c0a41972dfdba2145ae0ad4bd681"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50120,
+      "event_title": "Senegal vs Sudan",
+      "event_time": "2026-11-12 19:00",
+      "event_time_raw": "2026-11-12 19:00",
+      "category": "AFCON",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "SESUBEIN",
           "title": "beIN SPORTS FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
           "drm": {
             "kid": "27759a440e8ad821b800b3de00cd5851",
             "key": "1b8743adee559f27845f55e8b4d639fe"
           }
-        },
+        }
+      ]
+    },
+    {
+      "event_id": 50122,
+      "event_title": "Côte d'Ivoire vs Gambia",
+      "event_time": "2026-11-12 19:00",
+      "event_time_raw": "2026-11-12 19:00",
+      "category": "AFCON",
+      "stream_count": 1,
+      "streams": [
         {
-          "code": "GHSOBEINKC",
+          "code": "CTGABEIN",
           "title": "beIN ESPNAOL FHD",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
           "drm": {
             "kid": "74cbe15488783fab07ff8c702fabafcd",
             "key": "bb607803a49c2d6104f845e7886c971c"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": 50123,
+      "event_title": "Benin vs Central African Republic",
+      "event_time": "2026-11-12 19:00",
+      "event_time_raw": "2026-11-12 19:00",
+      "category": "AFCON",
+      "stream_count": 1,
+      "streams": [
+        {
+          "code": "BECEBEIN",
+          "title": "beIN SPORTS FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "drm": {
+            "kid": "4fce30c060b7b0464ab765e24fee5ecc",
+            "key": "65d612238736eec3794c7e75a6fd362c"
           }
         }
       ]
