@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T07:34:07+05:30",
-  "generated_at_india": "12-11-2026 07:34:07 AM IST",
-  "total": 29,
+  "generated_at": "2026-11-12T09:10:11+05:30",
+  "generated_at_india": "12-11-2026 09:10:11 AM IST",
+  "total": 27,
   "events": [
     {
       "event_id": 50002,
@@ -111,36 +111,12 @@
       "stream_count": 3
     },
     {
-      "event_id": 50043,
-      "event_title": "Indiana Pacers vs Washington Wizards",
-      "event_time": "2026-11-12 00:00",
-      "event_time_raw": "2026-11-12 00:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50044,
-      "event_title": "New York Knicks vs Cleveland Cavaliers",
-      "event_time": "2026-11-12 00:00",
-      "event_time_raw": "2026-11-12 00:00",
-      "category": "NBA",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50048,
-      "event_title": "Toronto Raptors vs Boston Celtics",
-      "event_time": "2026-11-12 00:00",
-      "event_time_raw": "2026-11-12 00:00",
-      "category": "NBA",
-      "stream_count": 3
-    },
-    {
       "event_id": 50051,
       "event_title": "Chicago Bulls vs San Antonio Spurs",
       "event_time": "2026-11-12 01:00",
       "event_time_raw": "2026-11-12 01:00",
       "category": "NBA",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50055,
@@ -175,6 +151,22 @@
       "stream_count": 1
     },
     {
+      "event_id": 50060,
+      "event_title": "Houston Rockets vs Golden State Warriors",
+      "event_time": "2026-11-12 02:30",
+      "event_time_raw": "2026-11-12 02:30",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
+      "event_id": 50061,
+      "event_title": "Portland Trail Blazers vs Oklahoma City Thunder",
+      "event_time": "2026-11-12 03:00",
+      "event_time_raw": "2026-11-12 03:00",
+      "category": "NBA",
+      "stream_count": 1
+    },
+    {
       "event_id": 50062,
       "event_title": "Australia vs England",
       "event_time": "2026-11-13 03:30",
@@ -197,14 +189,6 @@
       "event_time_raw": "2026-11-12 04:40",
       "category": "WBBL",
       "stream_count": 3
-    },
-    {
-      "event_id": 50075,
-      "event_title": "Buffalo Sabres vs Tampa Bay Lightning",
-      "event_time": "2026-11-12 00:00",
-      "event_time_raw": "2026-11-12 00:00",
-      "category": "NHL",
-      "stream_count": 2
     },
     {
       "event_id": 50078,
