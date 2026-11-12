@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-13T01:13:00+05:30",
-  "generated_at_india": "13-11-2026 01:13:00 AM IST",
-  "total": 25,
+  "generated_at": "2026-11-13T02:07:35+05:30",
+  "generated_at_india": "13-11-2026 02:07:35 AM IST",
+  "total": 22,
   "events": [
     {
       "event_id": 50002,
@@ -140,7 +140,7 @@
       "event_time": "2026-11-12 19:45",
       "event_time_raw": "2026-11-12 19:45",
       "category": "UEFA Nations",
-      "stream_count": 1
+      "stream_count": 2
     },
     {
       "event_id": 50092,
@@ -181,30 +181,6 @@
       "event_time_raw": "2026-11-12 19:00",
       "category": "AFCON",
       "stream_count": 1
-    },
-    {
-      "event_id": 50131,
-      "event_title": "Barcelona vs Arsenal",
-      "event_time": "2026-11-12 17:45",
-      "event_time_raw": "2026-11-12 17:45",
-      "category": "UCL Womens",
-      "stream_count": 2
-    },
-    {
-      "event_id": 50132,
-      "event_title": "Malta vs Eswatini",
-      "event_time": "2026-11-12 17:30",
-      "event_time_raw": "2026-11-12 17:30",
-      "category": "FIFA Friendlies",
-      "stream_count": 1
-    },
-    {
-      "event_id": 50143,
-      "event_title": "Seattle Kraken vs Carolina Hurricanes",
-      "event_time": "2026-11-12 17:00",
-      "event_time_raw": "2026-11-12 17:00",
-      "category": "NHL",
-      "stream_count": 2
     }
   ],
   "raw_data": ""
