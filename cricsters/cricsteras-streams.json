@@ -2,8 +2,8 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T22:22:58+05:30",
-  "generated_at_india": "12-11-2026 10:22:58 PM IST",
+  "generated_at": "2026-11-12T23:15:21+05:30",
+  "generated_at_india": "12-11-2026 11:15:21 PM IST",
   "total": 27,
   "ok": 27,
   "failed": 0,
@@ -569,8 +569,17 @@
       "event_time": "12 Nov, 10:30 pm",
       "event_time_raw": 1794502800000,
       "category": "Football",
-      "stream_count": 3,
+      "stream_count": 5,
       "streams": [
+        {
+          "code": "TRBEPRIM",
+          "title": "PRIME VIDEO - AQ",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/td0oga2768/out/v1/a45152e1f3204d6aa040ea44742c838e/cenc.mpd",
+          "drm": {
+            "kid": "af5adf2f9aebfbce439fd9de4d6f6111",
+            "key": "bd962ed1dc6391f707b93c9385d9b54c"
+          }
+        },
         {
           "code": "TRBEBEIN",
           "title": "beIN SPORTS - AQ",
@@ -590,6 +599,15 @@
           }
         },
         {
+          "code": "TRBEVIXE",
+          "title": "VIX ESPAÑOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0pkxlhb5ji/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd",
+          "drm": {
+            "kid": "c4df001be8b4bf02ebb396f1ef9aba4f",
+            "key": "ab259ee18cef520f319cdea61ddfa293"
+          }
+        },
+        {
           "code": "TRBESPOR",
           "title": "SPORT 1 CZ AQ",
           "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
@@ -606,7 +624,7 @@
       "event_time": "12 Nov, 10:30 pm",
       "event_time_raw": 1794502800000,
       "category": "Football",
-      "stream_count": 2,
+      "stream_count": 4,
       "streams": [
         {
           "code": "ARCYBEIN",
@@ -615,6 +633,24 @@
           "drm": {
             "kid": "0b42be2664d7e811d04f3e504e0924c5",
             "key": "ae24090123b8c72ac5404dc152847cb8"
+          }
+        },
+        {
+          "code": "ARCYPRIM",
+          "title": "PRIME VIDEO FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/yi7ehwmaqx/out/v1/b544273aaf66429a8892963d8fbdd086/cenc.mpd",
+          "drm": {
+            "kid": "8a8998a833ad2d041de7cacd95c3f685",
+            "key": "8256d9686b0c3dde63f205614c0772a5"
+          }
+        },
+        {
+          "code": "ARCYVIXE",
+          "title": "ViX ESPANOL FHD",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/82oqikb16e/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+          "drm": {
+            "kid": "fb2f6053cd382eb138d7c8f0dfa461e2",
+            "key": "94eae87ba9e0eb456dcb0a3f2debd0df"
           }
         },
         {
@@ -741,16 +777,16 @@
         {
           "code": "PASRWILL",
           "title": "WILLOW - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd",
           "drm": {
             "kid": "e148b70d1a84524c6ef092f6d7e2c10a",
             "key": "c1f3cc38fbff104bfdacd0dcd07d0900"
           }
         },
         {
-          "code": "PASRWILLPJ",
+          "code": "PASRWILL8K",
           "title": "WILLOW S2 - AQ",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ystkepkr8o/out/v1/883a6874df684d088e7e63c326a0aba1/cenc.mpd",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ystkepkr8o/out/v1/883a6874df684d088e7e63c326a0aba1/cenc.mpd",
           "drm": {
             "kid": "8f81eb680d80404aa82ccae25a8bcfde",
             "key": "c36943edd4b110ee953b8ccf59ab2bd2"
