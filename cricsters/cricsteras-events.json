@@ -2,9 +2,9 @@
   "success": true,
   "author": "Shiva Chaudhary",
   "timezone": "Asia/Kolkata",
-  "generated_at": "2026-11-12T10:19:43+05:30",
-  "generated_at_india": "12-11-2026 10:19:43 AM IST",
-  "total": 25,
+  "generated_at": "2026-11-12T11:22:05+05:30",
+  "generated_at_india": "12-11-2026 11:22:05 AM IST",
+  "total": 23,
   "events": [
     {
       "event_id": "19",
@@ -103,43 +103,11 @@
       "stream_count": 1
     },
     {
-      "event_id": "11",
-      "event_title": "Stockholm OPEN - ATP vs ATP",
-      "event_time": "11 Nov, 05:30 pm",
-      "event_time_raw": 1794398400000,
-      "category": "Tennis",
-      "stream_count": 3
-    },
-    {
       "event_id": "9",
       "event_title": "Europe Super League - Darts vs Darts",
       "event_time": "11 Nov, 09:30 pm",
       "event_time_raw": 1794412800000,
       "category": "Darts",
-      "stream_count": 1
-    },
-    {
-      "event_id": "24",
-      "event_title": "UEFA Women's Champions League - Oud-Heverlee Leuven vs HB Køge",
-      "event_time": "11 Nov, 11:15 pm",
-      "event_time_raw": 1794419100000,
-      "category": "Football",
-      "stream_count": 1
-    },
-    {
-      "event_id": "14",
-      "event_title": "FINALS Indian Wells 2026 - WTA vs WTA",
-      "event_time": "12 Nov, 01:30 am",
-      "event_time_raw": 1794427200000,
-      "category": "Tennis",
-      "stream_count": 5
-    },
-    {
-      "event_id": "25",
-      "event_title": "UEFA Women's Champions League - Juventus vs OL Lyonnes",
-      "event_time": "12 Nov, 01:30 am",
-      "event_time_raw": 1794427200000,
-      "category": "Football",
       "stream_count": 1
     },
     {
@@ -181,6 +149,22 @@
       "event_time_raw": 1794465900000,
       "category": "Cricket",
       "stream_count": 3
+    },
+    {
+      "event_id": "11",
+      "event_title": "Stockholm OPEN - ATP vs ATP",
+      "event_time": "12 Nov, 05:30 pm",
+      "event_time_raw": 1794484800000,
+      "category": "Tennis",
+      "stream_count": 3
+    },
+    {
+      "event_id": "14",
+      "event_title": "FINALS Indian Wells 2026 - WTA vs WTA",
+      "event_time": "13 Nov, 01:30 am",
+      "event_time_raw": 1794513600000,
+      "category": "Tennis",
+      "stream_count": 5
     },
     {
       "event_id": "20",
