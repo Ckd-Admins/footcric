@@ -766,5 +766,13 @@
         "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
         "k1": "12ed56d780abcfebcd23aa27e4ac5015",
         "k2": "6784567890abcfebcd23aa27e4ac2814"
+    },
+    {
+        "id": "pl1",
+        "name": "Premier League ",
+        "Bearer": null,
+        "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+        "k1": "42f72c025dd53039244adc13b7e31dad",
+        "k2": "a7bd941a19f6dd14f3004a623a6ad3a1"
     }
 ]
