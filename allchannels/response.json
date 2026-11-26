@@ -627,9 +627,9 @@
         "id": "willow_n",
         "name": "Willow",
         "Bearer": null,
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd",
-        "k1": "437b26c171c8c2b7d3da296992ec0498",
-        "k2": "76e472aecda315ee5649fabf54b6a905"
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed.cenc.mpd",
+        "k1": "b84dc7acdbb36852e3c2f308621ef492",
+        "k2": "749e3c330bfd249d934532075081f432"
     },
     {
         "id": "hls",
@@ -667,7 +667,7 @@
         "id": "ten1ios",
         "name": "Sony Ten 1 English iOS",
         "Bearer": null,
-        "url": "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://sliv.tgaadi.workers.dev/ten3hd.m3u8",
+        "url": "https://jute-chappal.lovable.app/api/public/hls?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011747%2FTEN1HD%2Fhdntl%3Dexp%3D1795766286~acl%3D%252f*~id%3Dd8cf1f3e-7f63-43e3-a5f8-e44d89c8afb2~data%3Dhdntl~hmac%3Dd59c19f6cb7825cd5ecda1cda659e25ca0efc336b0abcf03edb243087b4ff828%2Fmaster_3500.m3u8%3Faka_me_session_id%3DAAAAAAAAAAAOOAlrAAAAAOtDLqDyuDGZW5sfr3twrQq3ll88H9tLonkFBkUs4bOzy%252fTxQJYIfLMMIdJrpDg4AV1LDORgmH1m%26aka_media_format_type%3Dhls",
         "k1": null,
         "k2": null
     },
@@ -691,7 +691,7 @@
         "id": "ten3ios",
         "name": "Sony Ten 3 Hindi iOS",
         "Bearer": null,
-        "url": "https://dash-manifest-bridge.lovable.app/m3u8/proxy?url=https://wild-hat-3217.valverdeae7.workers.dev/ten3hd.m3u8",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795730238~acl=/*~id=27624583139607373247078417379324~hmac=3227cf0902b3ae075c53dd825b6c4bb1ac980de572f9b0dd29f57d37893d7457",
         "k1": null,
         "k2": null
     },
@@ -774,5 +774,13 @@
         "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
         "k1": "42f72c025dd53039244adc13b7e31dad",
         "k2": "a7bd941a19f6dd14f3004a623a6ad3a1"
+    },
+    {
+        "id": "starzcric2",
+        "name": "Starzplay Cricbuzz 2",
+        "Bearer": null,
+        "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+        "k1": "0ae4f162eec3e6f2b580a5bf0f4a64d4",
+        "k2": "03483335db81cba5bbcf51b6d31196d9"
     }
 ]
