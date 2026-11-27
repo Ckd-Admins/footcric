@@ -131,7 +131,7 @@
         "id": "foxy",
         "name": "Fox Cricket",
         "Bearer": null,
-        "url": "https://epidd.hundxvision.co.uk/main/secure/2fedbf95141b92aad08417592c1ced2f3d59c6c403ea869fe202959914cf3b5d/1789315562/fox-sports-501.m3u8",
+        "url": "https://tims-001.servehttp.com/main/secure/e48d664f7a5e4ac494ae5b35687bbd3208ee5f7713bafb2a179286290c9463b4/1795775236/fox-sports-501.m3u8",
         "k1": null,
         "k2": null
     },
@@ -782,5 +782,13 @@
         "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
         "k1": "0ae4f162eec3e6f2b580a5bf0f4a64d4",
         "k2": "03483335db81cba5bbcf51b6d31196d9"
+    },
+    {
+        "id": "autv",
+        "name": "AUS TV",
+        "Bearer": null,
+        "url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2VWJmyhJkUhTKsnZxVfS461SzFk36ooDMQvb6WPDD3hAckbcAbQrCVKDf8fw6p9JRNSQ4AhMDk5q/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=333FC2FEA484",
+        "k1": null,
+        "k2": null
     }
 ]
