@@ -443,9 +443,9 @@
         "id": "f1_atv",
         "name": "F1 AppleTV+",
         "Bearer": null,
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/suih7n0nxe/out/v1/1cebab9348e14518a24dd407559d61ea/cenc.mpd",
-        "k1": "cb28f4ecfb8d245badf426c4460ee29b",
-        "k2": "c18fda1709871210d9a65914b48b5d1b"
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xiebw3gtlq/out/v1/5e83e7c6558b4b82bf39d85bf227a33b/cenc.mpd",
+        "k1": "c3922e485e534df420f2281b08e8cd0a",
+        "k2": "5d917c71305e32c78ad904bf076ac398"
     },
     {
         "id": "f1_ios1",
@@ -515,9 +515,9 @@
         "id": "f1_sky",
         "name": "F1 Sky Sports Feed",
         "Bearer": null,
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ydej7yrj3y/out/v1/100ee853b76a41f1ba6d329bc65a2711/cenc.mpd",
-        "k1": "5f7132d386a8e28c87e26e7c359ce61e",
-        "k2": "75c6cd5fb14d015cd04832a0be1b203a"
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/nfcoppwuuo/out/v1/03b7e384f2154d2782f8f84befda4b26/cenc.mpd",
+        "k1": "1d790c0f3921ff4896f51d732da0d04d",
+        "k2": "5c7704f6f331853038308bcdc3efd474"
     },
     {
         "id": "appletv",
